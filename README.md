@@ -1,5 +1,3 @@
-# FAIRView-VideoSummaryExplanations
-
 # FAIRView Corpus: Visual Explanations for Video Summaries
 
 [![DOI](https://zenodo.org/badge/.svg)](https://zenodo.org/badge/latestdoi/)
