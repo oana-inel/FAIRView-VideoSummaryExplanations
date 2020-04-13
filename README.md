@@ -42,9 +42,14 @@ The following online user studies have been conducted in order to evaluate the u
 
 
 
-## Video Machine Enrichment
+## Machine Annotation of Videos and Video summaries
 
-To regenerate the results of the machine enrichment tools, namely the video transcription, named entity extraction and video labeling, you need to register for the following Google Cloud APIs and follow their instructions. A schelethon notebook for running each of the APIs below is provided in the notebooks/machine_processing folder.
+We used three enrichment tools for machine the annotations:
+* [video transcription](https://cloud.google.com/video-intelligence/docs/transcription)
+* [named entity extraction](https://cloud.google.com/natural-language/docs/analyzing-entities)
+* [video labeling](https://cloud.google.com/video-intelligence/docs/analyze-labels)
+
+If you want to regenerate the results of the machine enrichment tools used for the machine annotation of both original videos and video summaries you need to register for the following Google Cloud APIs and follow their instructions. A schelethon notebook for running each of the APIs below is provided in the notebooks/machine_processing folder.
  * [Cloud Storage](https://cloud.google.com/storage) - Google Cloud Storage
  * [Speech-to-Text](https://cloud.google.com/video-intelligence/docs/transcription) - part of Google Cloud Video Intelligence API to transcribe the videos (extraction captions or subtitles)
  * [Label Detection](https://cloud.google.com/video-intelligence/docs/analyze-labels) - part of Google Cloud Video Intelligence API to detect and extract information about entities shown in video and video summaries
