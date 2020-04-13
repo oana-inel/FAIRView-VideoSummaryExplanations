@@ -10,8 +10,8 @@ This repository contains:
    * semantic prominence
    * quantity coverage
    * distance
- * human validated utility of each visual explanation type (mTurk crowdsourcing study_1 with 20 videos and single summary)
- * human validated representativeness of video summaries with regard to their original videos (mTurk crowdsourcing study_2 with 18 videos with 2 summaries per video). In total 36 video-summary pairs
+ * human validated **utility** of each visual explanation type (mTurk crowdsourcing study_1 with 20 videos and single summary)
+ * human validated **representativeness** of video summaries with regard to their original videos (mTurk crowdsourcing study_2 with 18 videos with 2 summaries per video). In total 36 video-summary pairs
 
 
 All results are published in the following paper:
