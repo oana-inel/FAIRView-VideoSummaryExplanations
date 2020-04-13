@@ -16,7 +16,7 @@ referenced in the following paper:
 If you find the paper and the data useful in your research, please consider citing:
 
 ```
-@inproceedings{inel2018eliciting,
+@inproceedings{inel2020eliciting,
   title={Eliciting User Preferences for Personalized Explanations for Video Summaries},
   author={Inel, Oana and Tintarev, Nava and Aroyo, Lora},
   booktitle={To Appear in the Proceedings of the 28th Conference on User Modeling, Adaptation and Personalization (UMAP)},
@@ -25,20 +25,22 @@ If you find the paper and the data useful in your research, please consider citi
 }
 ```
 
-## Running the notebooks
+## User Studies
 
-To run and regenerate the results, you need to install the libraries included in requirements.txt. Furthermore, to re-run the video enrichment pipeline, it is necessary to register for the Google Cloud APIs, namely:
+The following online user studies have been conducted in order to evaluate the utility of four types of visual explanations:
+ - [User Study 1](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/user_study1/user_study1_template.md): identify which type of visual explanation is preffered when assessing the representativeness of video summaries
+ - [User Study 2](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/user_study2/user_study2_template.md): understand how one type of visual explanation is used by participants when asked to compare two summaries of the same video for their representativeness 
+ 
+ 
+## Files structure
+
+
+
+## Video Machine Enrichment
+
+To regenerate the results of the machine enrichment tools, namely the video transcription, named entity extraction and video labeling, you need to register for the following Google Cloud APIs and follow their instructions. A schelethon notebook for running each of the APIs below is provided in the notebooks/machine_processing folder.
  * [Cloud Storage](https://cloud.google.com/storage) - Google Cloud Storage
  * [Speech-to-Text](https://cloud.google.com/video-intelligence/docs/transcription) - part of Google Cloud Video Intelligence API to transcribe the videos (extraction captions or subtitles)
  * [Label Detection](https://cloud.google.com/video-intelligence/docs/analyze-labels) - part of Google Cloud Video Intelligence API to detect and extract information about entities shown in video and video summaries
  * [Entity Extraction](https://cloud.google.com/natural-language/docs/analyzing-entities) - part of Google Cloud Natural Language to extract entities from the video subtitles
  
-
-## User Studies
-
-The following online user studies have been conducted in order to evaluate the utility of four types of visual explanations:
- - [User Study 1](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/user_study1_template.md): identify which type of visual explanation is preffered when assessing the representativeness of video summaries
- - [User Study 2](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/user_study2_template.md): understand how one type of visual explanation is used by participants when asked to compare two summaries of the same video for their representativeness 
- 
- 
-## Files structure
