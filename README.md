@@ -6,10 +6,10 @@ This repository contains:
  * 200 videos machine annotated with key concepts extracted from video subtitles and video frames;
  * 800 video summaries (four summaries per video) machine annotated with concepts extracted from video subtitles and frames;
  * 3200 visual explanations (four explanations per video summary with different levels of *transparency*):
-  * * semantic coverage,
-  * * semantic prominence
-  * * quantity coverage
-  * * distance
+  * semantic coverage,
+  * semantic prominence
+  * quantity coverage
+  * distance
  * human validated utility of each four types of visual explanations (mTurk crowdsourcing study 1)
  * human validated representativeness of video summaries with regard to original video (mTurk crowdsourcing study 2)
 
