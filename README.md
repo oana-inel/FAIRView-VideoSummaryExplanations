@@ -3,12 +3,18 @@
 [![DOI](https://zenodo.org/badge/.svg)](https://zenodo.org/badge/latestdoi/)
 
 This repository contains:
- * an annotated corpus of 200 videos with key concepts extracted from video subtitles and video frames;
- * an annotated corpus of 800 video summaries (four summaries per video) with concepts extracted from video subtitles and frames;
- * a corpus of 3200 visual explanations (four explanations per video summary, with different levels of *transparency*);
- * results from *two user studies* evaluating the utility of four types of visual explanations which are modeled based on *user preferences* and along *four dimensions of transparency* (*i.e.*, *semantic coverage*, *semantic prominence*, *quantity coverage* and *distance*) to understand the representativeness of video summaries;
+ * 200 videos machine annotated with key concepts extracted from video subtitles and video frames;
+ * 800 video summaries (four summaries per video) machine annotated with concepts extracted from video subtitles and frames;
+ * 3200 visual explanations (four explanations per video summary with different levels of *transparency*):
+  * * semantic coverage,
+  * * semantic prominence
+  * * quantity coverage
+  * * distance
+ * human validated utility of each four types of visual explanations (mTurk crowdsourcing study 1)
+ * human validated representativeness of video summaries with regard to original video (mTurk crowdsourcing study 2)
 
-referenced in the following paper:
+
+All results are published in the following paper:
 
 > Oana Inel, Nava Tintarev and Lora Aroyo: **[Eliciting User Preferences for Personalized Explanations for Video Summaries](https:...)**. [UMAP 2020](https://um.org/umap2020/).
 
