@@ -10,8 +10,8 @@ This repository contains:
    * semantic prominence
    * quantity coverage
    * distance
- * human validated utility of each four types of visual explanations (mTurk crowdsourcing study 1)
- * human validated representativeness of video summaries with regard to original video (mTurk crowdsourcing study 2)
+ * human validated utility of each visual explanation type (mTurk crowdsourcing study 1)
+ * human validated representativeness of video summaries with regard to their original videos (mTurk crowdsourcing study 2)
 
 
 All results are published in the following paper:
