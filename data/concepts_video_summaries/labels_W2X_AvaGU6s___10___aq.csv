@@ -1,0 +1,187 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+W2X_AvaGU6s,square,1.0,0.4729789197444916,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,square,5.0,0.4094124138355255,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,square,6.0,0.4317323267459869,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,newscaster,6.0,0.7526959180831909,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+W2X_AvaGU6s,signage,1.0,0.4517168700695038,OTHER,/m/0bkqqh,,signage,signage,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,signage,2.0,0.5017072558403015,OTHER,/m/0bkqqh,,signage,signage,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,signage,3.0,0.4880817830562592,OTHER,/m/0bkqqh,,signage,signage,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,signage,4.0,0.5088806748390198,OTHER,/m/0bkqqh,,signage,signage,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,flat panel display,6.0,0.6364245414733887,technology,/m/01qwsw,/m/07c1v,flat panel display,flat panel display,OTHER,,,,,technology,technology,technology,technology,OTHER
+W2X_AvaGU6s,point,0.0,0.4242290556430817,shape,/m/02tfk1,/m/016nqd,point,point,OTHER,,,,LOCATION,LOCATION,shape,shape,shape,LOCATION
+W2X_AvaGU6s,point,1.0,0.40713322162628174,shape,/m/02tfk1,/m/016nqd,point,point,OTHER,,,,LOCATION,LOCATION,shape,shape,shape,LOCATION
+W2X_AvaGU6s,atmosphere of earth,5.0,0.7838271856307983,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+W2X_AvaGU6s,lighting,6.0,0.7200868129730225,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+W2X_AvaGU6s,medical equipment,5.0,0.5613059401512146,medical,/m/01xgg_,/m/02xht4g,medical equipment,medical equipment,OTHER,,,,,medical,medical,medical,medical,OTHER
+W2X_AvaGU6s,celestial event,0.0,0.5055540204048157,event,/m/02rhkz,/m/081pkj,celestial event,celestial event,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+W2X_AvaGU6s,graphics,0.0,0.5567559003829956,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,graphics,1.0,0.6303082108497621,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,graphics,2.0,0.6351919770240784,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,graphics,3.0,0.6348587870597839,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,graphics,4.0,0.6357117891311646,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,line,0.0,0.7096166610717773,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,line,1.0,0.6939576268196106,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,line,2.0,0.6744039058685303,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,line,3.0,0.6944725513458252,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,line,4.0,0.7145099043846129,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,display device,5.0,0.7411956191062927,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+W2X_AvaGU6s,display device,6.0,0.9074538350105286,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+W2X_AvaGU6s,gadget,6.0,0.5784963965415955,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+W2X_AvaGU6s,computer wallpaper,0.0,0.7068182229995728,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,computer wallpaper,1.0,0.7692148685455322,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,computer wallpaper,2.0,0.7854368090629578,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,computer wallpaper,3.0,0.7210609912872314,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,computer wallpaper,4.0,0.7342246770858765,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,computer wallpaper,5.0,0.6374018788337708,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,advertising,6.0,0.4901988804340362,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+W2X_AvaGU6s,computer program,6.0,0.4197830557823181,"computer, software",/m/01r9v,"/m/01m3v, /m/01mf0",computer program,computer program,OTHER,,http://dbpedia.org/ontology/Book,,,"computer, software","computer, software","computer, software","computer, software",OTHER
+W2X_AvaGU6s,organ,6.0,0.6759341359138489,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+W2X_AvaGU6s,head,6.0,0.8610996603965759,OTHER,/m/04hgtk,,head,head,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, ORGANIZATION, LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,multimedia,1.0,0.4933118224143982,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,multimedia,2.0,0.6010209321975708,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,multimedia,3.0,0.5429947376251221,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,multimedia,4.0,0.5750331282615662,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,multimedia,6.0,0.6504461765289307,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,muscle,6.0,0.7677844762802124,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,light,5.0,0.852535605430603,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,light,6.0,0.8425477743148804,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,chest,5.0,0.4642896056175232,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+W2X_AvaGU6s,logo,1.0,0.7815683484077454,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+W2X_AvaGU6s,logo,2.0,0.8406690359115601,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+W2X_AvaGU6s,logo,3.0,0.8689194917678833,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+W2X_AvaGU6s,logo,4.0,0.877355694770813,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+W2X_AvaGU6s,trademark,1.0,0.4421039819717407,OTHER,/m/07d0f,,trademark,trademark,OTHER,,http://dbpedia.org/ontology/Broadcaster,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,trademark,2.0,0.4518417418003082,OTHER,/m/07d0f,,trademark,trademark,OTHER,,http://dbpedia.org/ontology/Broadcaster,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,trademark,3.0,0.4484170973300934,OTHER,/m/07d0f,,trademark,trademark,OTHER,,http://dbpedia.org/ontology/Broadcaster,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,trademark,4.0,0.4567009508609772,OTHER,/m/07d0f,,trademark,trademark,OTHER,,http://dbpedia.org/ontology/Broadcaster,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,facial expression,6.0,0.942348301410675,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+W2X_AvaGU6s,white,5.0,0.9576458930969238,OTHER,/m/083jv,,white,white,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,jaw,5.0,0.6922857165336609,OTHER,/m/01k9lj,,jaw,jaw,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,jaw,6.0,0.7092148065567017,OTHER,/m/01k9lj,,jaw,jaw,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,number,1.0,0.4476387202739716,symbol,/m/05fwb,/m/09ddf,number,number,OTHER,,,,ORGANIZATION,symbol,symbol,symbol,symbol,OTHER
+W2X_AvaGU6s,lens flare,5.0,0.451689600944519,OTHER,/m/017bm6,,lens flare,lens flare,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,electronics,6.0,0.4915222227573395,technology,/m/02mrp,/m/07c1v,electronics,electronics,OTHER,,http://dbpedia.org/ontology/Work,,,technology,technology,technology,technology,OTHER
+W2X_AvaGU6s,black and white,0.0,0.9321886897087096,style,/m/01g6gs,/m/012yh1,black and white,black and white,OTHER,,,,,style,style,style,style,OTHER
+W2X_AvaGU6s,darkness,0.0,0.8452452421188354,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,darkness,1.0,0.5769356489181519,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,darkness,2.0,0.589178204536438,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,darkness,3.0,0.4174357652664185,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,darkness,4.0,0.4521462619304657,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,darkness,5.0,0.5515230298042297,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,mouth,5.0,0.7797675132751465,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,mouth,6.0,0.7517443299293518,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,medical,5.0,0.7969121336936951,service,/m/02xht4g,/m/018tkd,medical,medical,OTHER,,,,,service,service,service,service,OTHER
+W2X_AvaGU6s,medical supply,5.0,0.6758702397346497,medical,/m/0h8lrv0,/m/02xht4g,medical supply,medical supply,OTHER,,,,,medical,medical,medical,medical,OTHER
+W2X_AvaGU6s,photograph,5.0,0.9476987719535828,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,professional,6.0,0.5745989084243774,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+W2X_AvaGU6s,official,6.0,0.7343912720680237,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+W2X_AvaGU6s,snapshot,5.0,0.8176745176315308,"photography, photograph",/m/06pg22,"/m/05wkw, /m/068jd",snapshot,snapshot,OTHER,,,,,"photography, photograph","photography, photograph","photography, photograph","photography, photograph",OTHER
+W2X_AvaGU6s,snapshot,6.0,0.8176745176315308,"photography, photograph",/m/06pg22,"/m/05wkw, /m/068jd",snapshot,snapshot,OTHER,,,,,"photography, photograph","photography, photograph","photography, photograph","photography, photograph",OTHER
+W2X_AvaGU6s,smile,6.0,0.6402440667152405,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+W2X_AvaGU6s,arm,5.0,0.6945544481277466,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+W2X_AvaGU6s,phenomenon,0.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,phenomenon,1.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,phenomenon,2.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,phenomenon,3.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,phenomenon,4.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,phenomenon,5.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,phenomenon,6.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,graphic design,1.0,0.5440523624420166,artwork,/m/03c31,/m/0dgsmq8,graphic design,graphic design,OTHER,,http://dbpedia.org/ontology/Election,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,graphic design,2.0,0.6345340013504028,artwork,/m/03c31,/m/0dgsmq8,graphic design,graphic design,OTHER,,http://dbpedia.org/ontology/Election,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,graphic design,3.0,0.5555216073989868,artwork,/m/03c31,/m/0dgsmq8,graphic design,graphic design,OTHER,,http://dbpedia.org/ontology/Election,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,graphic design,4.0,0.5757580399513245,artwork,/m/03c31,/m/0dgsmq8,graphic design,graphic design,OTHER,,http://dbpedia.org/ontology/Election,,,artwork,artwork,artwork,artwork,OTHER
+W2X_AvaGU6s,facial hair,6.0,0.9340428709983826,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+W2X_AvaGU6s,monochrome,0.0,0.7769986987113953,style,/m/01mwkf,/m/012yh1,monochrome,monochrome,OTHER,,,,,style,style,style,style,OTHER
+W2X_AvaGU6s,rectangle,1.0,0.4278038442134857,shape,/m/0j62f,/m/016nqd,rectangle,rectangle,OTHER,,http://dbpedia.org/ontology/Bone,,,shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,sky,0.0,0.8717748522758484,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+W2X_AvaGU6s,sky,1.0,0.4778589308261871,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+W2X_AvaGU6s,product,1.0,0.7625270485877991,person,/m/02n3pb,/m/01g317,product,product,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+W2X_AvaGU6s,product,2.0,0.7770057916641235,person,/m/02n3pb,/m/01g317,product,product,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+W2X_AvaGU6s,product,3.0,0.7801050543785095,person,/m/02n3pb,/m/01g317,product,product,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+W2X_AvaGU6s,product,4.0,0.7694292068481445,person,/m/02n3pb,/m/01g317,product,product,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+W2X_AvaGU6s,brand,1.0,0.6367996335029602,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,brand,2.0,0.6762866973876953,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,brand,3.0,0.6769729852676392,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,brand,4.0,0.6848852038383484,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,brand,5.0,0.4211978912353516,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,brand,6.0,0.4807150363922119,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,electronic device,6.0,0.905046284198761,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+W2X_AvaGU6s,night,0.0,0.5877162218093872,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,media,6.0,0.5398306250572205,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,atmosphere,0.0,0.8602339029312134,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,atmosphere,1.0,0.7063788175582886,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,atmosphere,2.0,0.7194461822509766,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,atmosphere,4.0,0.7287582755088806,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,atmosphere,5.0,0.9130454659461976,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,x ray,5.0,0.8515799045562744,medical,/m/087gx,/m/02xht4g,x ray,x ray,OTHER,,,,,medical,medical,medical,medical,OTHER
+W2X_AvaGU6s,monochrome photography,0.0,0.8406914472579956,photography,/m/03d49p1,/m/05wkw,monochrome photography,monochrome photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+W2X_AvaGU6s,radiology,5.0,0.6952633857727051,person,/m/013x4m,/m/01g317,radiology,radiology,OTHER,,http://dbpedia.org/ontology/Food,,,person,person,person,person,OTHER
+W2X_AvaGU6s,speech,6.0,0.5952512621879578,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+W2X_AvaGU6s,glass,6.0,0.4675538837909698,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+W2X_AvaGU6s,artwork,2.0,0.4741387367248535,OTHER,/m/0dgsmq8,,artwork,artwork,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,artwork,3.0,0.477071762084961,OTHER,/m/0dgsmq8,,artwork,artwork,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,artwork,4.0,0.4930498003959656,OTHER,/m/0dgsmq8,,artwork,artwork,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,photography,6.0,0.7991570830345154,OTHER,/m/05wkw,,photography,photography,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,black,0.0,0.962160348892212,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,black,1.0,0.9606459140777588,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,black,2.0,0.959343194961548,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,black,3.0,0.9554414749145508,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,black,4.0,0.9570964574813844,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,technology,5.0,0.7877506017684937,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,technology,6.0,0.9303879141807556,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,medical imaging,5.0,0.925618052482605,medical,/m/01j3br,/m/02xht4g,medical imaging,medical imaging,OTHER,,http://dbpedia.org/ontology/TopicalConcept,,,medical,medical,medical,medical,OTHER
+W2X_AvaGU6s,medical imaging,6.0,0.5874160528182983,medical,/m/01j3br,/m/02xht4g,medical imaging,medical imaging,OTHER,,http://dbpedia.org/ontology/TopicalConcept,,,medical,medical,medical,medical,OTHER
+W2X_AvaGU6s,screenshot,1.0,0.5481431484222412,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,screenshot,2.0,0.4802714884281158,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,screenshot,3.0,0.4949561655521393,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,screenshot,4.0,0.5441659688949585,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,screenshot,5.0,0.5797188878059387,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,screenshot,6.0,0.6636813282966614,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,abdomen,5.0,0.4378533363342285,trunk,/m/08y7p8,/m/031vtq,abdomen,abdomen,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,trunk,OTHER,trunk,trunk,OTHER
+W2X_AvaGU6s,ice hotel,5.0,0.5131226778030396,building,/m/04nf8d,/m/0cgh4,ice hotel,ice hotel,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+W2X_AvaGU6s,chin,6.0,0.9217591881752014,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/AnatomicalStructure",,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,text,0.0,0.8892790079116821,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,text,1.0,0.9451470971107484,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,text,2.0,0.949247658252716,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,text,3.0,0.952049434185028,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,text,4.0,0.9601508378982544,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,text,5.0,0.8753368258476257,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,text,6.0,0.8331971168518066,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,selfie,6.0,0.6684250831604004,photography,/m/0sgh53y,/m/05wkw,selfie,selfie,OTHER,,http://dbpedia.org/ontology/Artwork,,,photography,photography,photography,photography,OTHER
+W2X_AvaGU6s,service,5.0,0.7327140569686891,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,visual effects,5.0,0.4587699174880981,person,/m/01vx2h,/m/01g317,visual effect,visual effect,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,person,person,person,person,OTHER
+W2X_AvaGU6s,pattern,0.0,0.4220980107784271,design,/m/0hwky,/m/02cwm,pattern,pattern,OTHER,,,,LOCATION,design,design,design,design,OTHER
+W2X_AvaGU6s,television,6.0,0.4848444163799286,media,/m/07c52,/m/03qh03g,television,television,OTHER,,,,,media,media,media,media,OTHER
+W2X_AvaGU6s,symbol,1.0,0.4723739326000214,information,/m/09ddf,/m/03y39,symbol,symbol,PERSON,,http://dbpedia.org/ontology/Person,,,information,information,information,information,OTHER
+W2X_AvaGU6s,symbol,2.0,0.4406367242336273,information,/m/09ddf,/m/03y39,symbol,symbol,PERSON,,http://dbpedia.org/ontology/Person,,,information,information,information,information,OTHER
+W2X_AvaGU6s,symbol,3.0,0.4186854958534241,information,/m/09ddf,/m/03y39,symbol,symbol,PERSON,,http://dbpedia.org/ontology/Person,,,information,information,information,information,OTHER
+W2X_AvaGU6s,symbol,4.0,0.4111326932907105,information,/m/09ddf,/m/03y39,symbol,symbol,PERSON,,http://dbpedia.org/ontology/Person,,,information,information,information,information,OTHER
+W2X_AvaGU6s,font,0.0,0.7639588117599487,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,font,1.0,0.8699232339859009,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,font,2.0,0.8716961741447449,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,font,3.0,0.8716185092926025,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,font,4.0,0.8921082019805908,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,font,5.0,0.6099112629890442,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+W2X_AvaGU6s,eye,5.0,0.8187758326530457,organ,/m/014sv8,/m/013y0j,eye,eye,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,organ,OTHER,organ,organ,OTHER
+W2X_AvaGU6s,eye,6.0,0.7833157777786255,organ,/m/014sv8,/m/013y0j,eye,eye,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,organ,OTHER,organ,organ,OTHER
+W2X_AvaGU6s,circle,0.0,0.4104500710964203,shape,/m/01vkl,/m/016nqd,circle,circle,OTHER,,http://dbpedia.org/ontology/Album,,ORGANIZATION,shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,circle,1.0,0.5434250831604004,shape,/m/01vkl,/m/016nqd,circle,circle,OTHER,,http://dbpedia.org/ontology/Album,,ORGANIZATION,shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,circle,2.0,0.5188397169113159,shape,/m/01vkl,/m/016nqd,circle,circle,OTHER,,http://dbpedia.org/ontology/Album,,ORGANIZATION,shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,circle,3.0,0.4002634286880493,shape,/m/01vkl,/m/016nqd,circle,circle,OTHER,,http://dbpedia.org/ontology/Album,,ORGANIZATION,shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,circle,4.0,0.4447987079620361,shape,/m/01vkl,/m/016nqd,circle,circle,OTHER,,http://dbpedia.org/ontology/Album,,ORGANIZATION,shape,shape,shape,shape,OTHER
+W2X_AvaGU6s,energy,5.0,0.4864724576473236,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,energy,6.0,0.4401903450489044,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,mode of transport,5.0,0.8752564191818237,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,mode of transport,6.0,0.8752564787864685,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,forehead,6.0,0.8818507194519043,OTHER,/m/025kyy,,forehead,forehead,LOCATION,,"http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/AnatomicalStructure",,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,eyebrow,6.0,0.8376164436340332,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/AnatomicalStructure",,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,nose,6.0,0.9341402053833008,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,space,0.0,0.4712831676006317,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,space,5.0,0.4522878527641296,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,space,6.0,0.5026215314865112,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,iris,5.0,0.4106975793838501,eye,/m/0lxkm,/m/014sv8,iris,iris,OTHER,,,,,eye,OTHER,eye,eye,OTHER
+W2X_AvaGU6s,midnight,0.0,0.5931546092033386,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,midnight,1.0,0.547676146030426,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,midnight,2.0,0.5594819188117981,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,midnight,3.0,0.4604322910308838,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+W2X_AvaGU6s,midnight,4.0,0.4830932915210724,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER

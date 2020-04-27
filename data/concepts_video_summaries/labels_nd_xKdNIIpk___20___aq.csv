@@ -1,0 +1,374 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,WordNet Type Type,WordNet Type,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,type_v1,type_v2,type_v3,type_v4,type_v5
+nd_xKdNIIpk,jungle,1.0,0.4286929070949553,geographical feature,/m/01y3fy,/m/043rvww,OTHER,"LOCATION, ORGANIZATION",jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,jungle,2.0,0.4352774918079376,geographical feature,/m/01y3fy,/m/043rvww,OTHER,"LOCATION, ORGANIZATION",jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,trail,0.0,0.7314811944961548,none,/m/0hm03,none,OTHER,,trail,trail,OTHER,,,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,trail,1.0,0.701493501663208,none,/m/0hm03,none,OTHER,,trail,trail,OTHER,,,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,trail,2.0,0.6976694464683533,none,/m/0hm03,none,OTHER,,trail,trail,OTHER,,,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,path,0.0,0.7708393931388855,none,/m/02zh30,none,OTHER,LOCATION,path,path,OTHER,,,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,path,1.0,0.7452180981636047,none,/m/02zh30,none,OTHER,LOCATION,path,path,OTHER,,,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,path,2.0,0.7329522967338562,none,/m/02zh30,none,OTHER,LOCATION,path,path,OTHER,,,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,soil,0.0,0.6730303168296814,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,soil,1.0,0.6299471855163574,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,soil,2.0,0.67003333568573,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,0.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,1.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,2.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,1.0,0.4071559906005859,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,2.0,0.4640556275844574,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,forest,0.0,0.444263368844986,geographical feature,/m/02zr8,/m/043rvww,OTHER,ORGANIZATION,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,forest,1.0,0.484780877828598,geographical feature,/m/02zr8,/m/043rvww,OTHER,ORGANIZATION,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,forest,2.0,0.4943760335445404,geographical feature,/m/02zr8,/m/043rvww,OTHER,ORGANIZATION,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,plant community,0.0,0.7649360299110413,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,plant community,1.0,0.7625494003295898,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,plant community,2.0,0.7586495280265808,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,biome,1.0,0.6762377619743347,geographical feature,/m/01jb4,/m/043rvww,OTHER,ORGANIZATION,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,biome,2.0,0.6756348609924316,geographical feature,/m/01jb4,/m/043rvww,OTHER,ORGANIZATION,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecosystem,0.0,0.9462121725082396,geographical feature,/m/02mhj,/m/043rvww,OTHER,ORGANIZATION,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecosystem,1.0,0.9487395882606506,geographical feature,/m/02mhj,/m/043rvww,OTHER,ORGANIZATION,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecosystem,2.0,0.9455471038818359,geographical feature,/m/02mhj,/m/043rvww,OTHER,ORGANIZATION,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,grass,0.0,0.7085391283035278,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass,1.0,0.7375448346138,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass,2.0,0.7429454922676086,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,prairie,0.0,0.5201538801193237,geographical feature,/m/0hkvx,/m/043rvww,OTHER,LOCATION,prairie,prairie,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,prairie,1.0,0.5297041535377502,geographical feature,/m/0hkvx,/m/043rvww,OTHER,LOCATION,prairie,prairie,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,prairie,2.0,0.5779023170471191,geographical feature,/m/0hkvx,/m/043rvww,OTHER,LOCATION,prairie,prairie,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,grassland,0.0,0.573078453540802,geographical feature,/m/01c7cq,/m/043rvww,OTHER,LOCATION,grassland,grassland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,grassland,1.0,0.5929433107376099,geographical feature,/m/01c7cq,/m/043rvww,OTHER,LOCATION,grassland,grassland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,grassland,2.0,0.6399247050285339,geographical feature,/m/01c7cq,/m/043rvww,OTHER,LOCATION,grassland,grassland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,landscape,0.0,0.599786102771759,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,landscape,1.0,0.583033561706543,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,landscape,2.0,0.5776079297065735,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,shrubland,0.0,0.8672404885292053,geographical feature,/m/06w1j5,/m/043rvww,OTHER,,shrubland,shrubland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,shrubland,1.0,0.8736045956611633,geographical feature,/m/06w1j5,/m/043rvww,OTHER,,shrubland,shrubland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,shrubland,2.0,0.8752853274345398,geographical feature,/m/06w1j5,/m/043rvww,OTHER,,shrubland,shrubland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecoregion,0.0,0.6663504838943481,geographical feature,/m/0cblv,/m/043rvww,OTHER,,ecoregion,ecoregion,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecoregion,1.0,0.6725032329559326,geographical feature,/m/0cblv,/m/043rvww,OTHER,,ecoregion,ecoregion,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecoregion,2.0,0.6616395115852356,geographical feature,/m/0cblv,/m/043rvww,OTHER,,ecoregion,ecoregion,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,land lot,0.0,0.6823619604110718,building,/m/0gs32y,/m/0cgh4,ORGANIZATION,,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,land lot,1.0,0.6907171607017517,building,/m/0gs32y,/m/0cgh4,ORGANIZATION,,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,land lot,2.0,0.6769856810569763,building,/m/0gs32y,/m/0cgh4,ORGANIZATION,,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,tree,0.0,0.6016582250595093,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,tree,1.0,0.6342397928237915,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,tree,2.0,0.5993970036506653,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass family,0.0,0.5103603005409241,plant,/m/0fkrk,/m/05s2s,PERSON,,grass family,grass family,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass family,1.0,0.5458043813705444,plant,/m/0fkrk,/m/05s2s,PERSON,,grass family,grass family,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass family,2.0,0.5953197479248047,plant,/m/0fkrk,/m/05s2s,PERSON,,grass family,grass family,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,steppe,0.0,0.5100464224815369,geographical feature,/m/0f45l,/m/043rvww,OTHER,,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,steppe,1.0,0.5254573822021484,geographical feature,/m/0f45l,/m/043rvww,OTHER,,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,steppe,2.0,0.5206349492073059,geographical feature,/m/0f45l,/m/043rvww,OTHER,,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,adventure,0.0,0.4179186820983887,none,/m/0h_m,none,OTHER,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,none,none,EVENT,none,EVENT
+nd_xKdNIIpk,adventure,1.0,0.4128546416759491,none,/m/0h_m,none,OTHER,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,none,none,EVENT,none,EVENT
+nd_xKdNIIpk,adventure,2.0,0.4194727838039398,none,/m/0h_m,none,OTHER,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,none,none,EVENT,none,EVENT
+nd_xKdNIIpk,area,0.0,0.6720095872879028,none,/m/0n0j,none,OTHER,LOCATION,area,area,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,area,1.0,0.6720095872879028,none,/m/0n0j,none,OTHER,LOCATION,area,area,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,area,2.0,0.6720095872879028,none,/m/0n0j,none,OTHER,LOCATION,area,area,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,plant,0.0,0.5214912891387941,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,plant,1.0,0.5641391277313232,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,plant,2.0,0.6017937064170837,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,road,0.0,0.5326767563819885,none,/m/06gfj,none,OTHER,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,road,1.0,0.4928905069828034,none,/m/06gfj,none,OTHER,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,road,2.0,0.4785692393779754,none,/m/06gfj,none,OTHER,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,farm,8.0,0.4212859570980072,building,/m/0g8p9,/m/0cgh4,ORGANIZATION,,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,adaptation,8.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,8.0,0.6526421904563904,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,product,9.0,0.5496665239334106,none,/m/01jwgf,none,OTHER,ORGANIZATION,product,product,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,product,10.0,0.4834637641906738,none,/m/01jwgf,none,OTHER,ORGANIZATION,product,product,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,product,11.0,0.595511794090271,none,/m/01jwgf,none,OTHER,ORGANIZATION,product,product,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,job,8.0,0.4120691418647766,person,/m/04115t2,/m/01g317,OTHER,PERSON,job,job,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,senior citizen,8.0,0.4368855059146881,person,/m/04n7gmg,/m/01g317,OTHER,PERSON,senior citizen,senior citizen,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,expert,8.0,0.4435529112815857,person,/m/02pkl,/m/01g317,OTHER,PERSON,expert,expert,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,world,8.0,0.4117471873760224,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,ear,11.0,0.484547108411789,organ,/m/039xj_,/m/013y0j,ORGANIZATION,,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,organ,OTHER,organ,organ,OTHER
+nd_xKdNIIpk,crop,8.0,0.4634721577167511,plant,/m/0263lr1,/m/05s2s,PERSON,ORGANIZATION,crop,crop,OTHER,,,,plant,OTHER,plant,plant,OTHER
+nd_xKdNIIpk,eating,9.0,0.7650343775749207,person,/m/01f5gx,/m/01g317,OTHER,,eat,eat,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,eating,10.0,0.5913176536560059,person,/m/01f5gx,/m/01g317,OTHER,,eat,eat,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,eating,11.0,0.7230328321456909,person,/m/01f5gx,/m/01g317,OTHER,,eat,eat,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,human,11.0,0.695456326007843,none,/m/0dgw9r,none,OTHER,,human,human,OTHER,,,,none,PERSON,none,none,PERSON
+nd_xKdNIIpk,grass,8.0,0.5422468781471252,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,text,8.0,0.6572726368904114,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,text,9.0,0.6735851168632507,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,text,10.0,0.6410388350486755,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,photo caption,8.0,0.6830368041992188,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,photo caption,9.0,0.694882333278656,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,photo caption,10.0,0.5603046417236328,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,photo caption,11.0,0.7230449914932251,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,happiness,11.0,0.5441251993179321,person,/m/016pp7,/m/01g317,OTHER,,happiness,happiness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,person,person,person,person,OTHER
+nd_xKdNIIpk,tree,8.0,0.5621492862701416,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,taste,9.0,0.4207791686058045,none,/m/0cp_p,none,OTHER,EVENT,taste,taste,OTHER,,http://dbpedia.org/ontology/Fashion,,none,none,none,none,OTHER
+nd_xKdNIIpk,human behavior,9.0,0.6145839095115662,person,/m/02qd0r,/m/01g317,OTHER,,human behavior,human behavior,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,human behavior,10.0,0.498191773891449,person,/m/02qd0r,/m/01g317,OTHER,,human behavior,human behavior,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,human behavior,11.0,0.6833374500274658,person,/m/02qd0r,/m/01g317,OTHER,,human behavior,human behavior,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,junk food,9.0,0.5430662631988525,food,/m/0h55b,/m/02wbm,OTHER,,junk food,junk food,OTHER,,,,food,food,food,food,OTHER
+nd_xKdNIIpk,nose,11.0,0.8811287879943848,none,/m/0k0pj,none,OTHER,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,OTHER,none,none,OTHER
+nd_xKdNIIpk,soil,21.0,0.74227374792099,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,soil,22.0,0.7881882786750793,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,soil,23.0,0.8402068018913269,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,fauna,21.0,0.9369025230407716,animal,/m/035qhg,/m/0jbk,OTHER,ORGANIZATION,fauna,fauna,OTHER,,,,animal,animal,animal,animal,OTHER
+nd_xKdNIIpk,plantation,23.0,0.4277932643890381,building,/m/011yvr,/m/0cgh4,ORGANIZATION,ORGANIZATION,plantation,plantation,OTHER,,http://dbpedia.org/ontology/MusicalWork,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,adaptation,21.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,22.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,23.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,22.0,0.5316808223724365,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,23.0,0.6502008438110352,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,farmworker,22.0,0.4512330293655396,person,/m/02qn83t,/m/01g317,OTHER,,farmworker,farmworker,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,farmworker,23.0,0.4738839566707611,person,/m/02qn83t,/m/01g317,OTHER,,farmworker,farmworker,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,wildlife,21.0,0.6331691145896912,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+nd_xKdNIIpk,crop,22.0,0.4811391234397888,plant,/m/0263lr1,/m/05s2s,PERSON,ORGANIZATION,crop,crop,OTHER,,,,plant,OTHER,plant,plant,OTHER
+nd_xKdNIIpk,crop,23.0,0.4795382022857666,plant,/m/0263lr1,/m/05s2s,PERSON,ORGANIZATION,crop,crop,OTHER,,,,plant,OTHER,plant,plant,OTHER
+nd_xKdNIIpk,plant community,21.0,0.5085812211036682,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,plant community,22.0,0.5235855579376221,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,plant community,23.0,0.4957307279109955,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,laborer,23.0,0.4400341510772705,person,/m/02vk771,/m/01g317,OTHER,PERSON,laborer,laborer,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,animal,21.0,0.6271165013313293,none,/m/0jbk,none,OTHER,,animal,animal,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,beak,21.0,0.4784951210021973,bird,/m/01c4rd,/m/015p6,PERSON,,beak,beak,OTHER,,http://dbpedia.org/ontology/Building,,bird,bird,bird,bird,OTHER
+nd_xKdNIIpk,sand,22.0,0.6310785412788391,material,/m/099fz,/m/01l0y0,PERSON,PERSON,sand,sand,OTHER,,,,material,material,material,material,OTHER
+nd_xKdNIIpk,sand,23.0,0.5805911421775818,material,/m/099fz,/m/01l0y0,PERSON,PERSON,sand,sand,OTHER,,,,material,material,material,material,OTHER
+nd_xKdNIIpk,grass,21.0,0.5324090719223022,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,bird,21.0,0.6740201115608215,animal,/m/015p6,/m/0jbk,OTHER,PERSON,bird,bird,OTHER,,http://dbpedia.org/ontology/Band,,animal,animal,animal,animal,OTHER
+nd_xKdNIIpk,landscape,22.0,0.5865738391876221,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,landscape,23.0,0.5970949530601501,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,tree,21.0,0.4229291081428528,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass family,22.0,0.5052550435066223,plant,/m/0fkrk,/m/05s2s,PERSON,,grass family,grass family,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass family,23.0,0.4832037091255188,plant,/m/0fkrk,/m/05s2s,PERSON,,grass family,grass family,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,plant,22.0,0.602835476398468,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,plant,23.0,0.5046808123588562,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,flower,34.0,0.8151130080223083,plant,/m/0c9ph5,/m/05s2s,PERSON,,flower,flower,OTHER,,"http://dbpedia.org/ontology/Building, http://dbpedia.org/ontology/Species",,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,flower,35.0,0.8398551344871521,plant,/m/0c9ph5,/m/05s2s,PERSON,,flower,flower,OTHER,,"http://dbpedia.org/ontology/Building, http://dbpedia.org/ontology/Species",,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,fun,33.0,0.504233717918396,none,/m/0ds99lh,none,OTHER,,fun,fun,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,34.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,33.0,0.4082813560962677,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,sky,33.0,0.664120614528656,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,job,33.0,0.4876318871974945,person,/m/04115t2,/m/01g317,OTHER,PERSON,job,job,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,energy,33.0,0.5477943420410156,none,/m/02mm_,none,OTHER,ORGANIZATION,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+nd_xKdNIIpk,world,33.0,0.4688674509525299,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,competition,33.0,0.4108433425426483,none,/m/018tl7,none,OTHER,"EVENT, PERSON",competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,none,none,none,none,OTHER
+nd_xKdNIIpk,shrub,34.0,0.4379507899284363,plant,/m/0gqbt,/m/05s2s,PERSON,,shrub,shrub,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,shrub,35.0,0.4199671745300293,plant,/m/0gqbt,/m/05s2s,PERSON,,shrub,shrub,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,recreation,33.0,0.6042333841323853,none,/m/06bm2,none,OTHER,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,none,none,none,none,OTHER
+nd_xKdNIIpk,spring,34.0,0.5904297828674316,season,/m/01txr2,/m/0754v,OTHER,LOCATION,spring,spring,OTHER,,,,LOCATION,season,season,season,LOCATION
+nd_xKdNIIpk,spring,35.0,0.6354720592498779,season,/m/01txr2,/m/0754v,OTHER,LOCATION,spring,spring,OTHER,,,,LOCATION,season,season,season,LOCATION
+nd_xKdNIIpk,grass,33.0,0.6573311686515808,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,plant stem,34.0,0.618384599685669,plant,/m/01ttd6,/m/05s2s,PERSON,,plant stem,plant stem,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,plant stem,35.0,0.5979800224304199,plant,/m/01ttd6,/m/05s2s,PERSON,,plant stem,plant stem,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,bud,34.0,0.4110633730888367,plant,/m/0by2r,/m/05s2s,PERSON,,bud,bud,OTHER,,http://dbpedia.org/ontology/VideoGame,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,twig,34.0,0.5028958320617676,branch,/m/016nqt,/m/0b5gs,ORGANIZATION,,twig,twig,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,branch,branch,branch,branch,OTHER
+nd_xKdNIIpk,twig,35.0,0.4786299765110016,branch,/m/016nqt,/m/0b5gs,ORGANIZATION,,twig,twig,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,branch,branch,branch,branch,OTHER
+nd_xKdNIIpk,fumaria,34.0,0.5042261481285095,flower,/m/061zz4,/m/0c9ph5,OTHER,,fumaria,fumaria,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Plant, http://dbpedia.org/ontology/Species",,flower,flower,flower,flower,OTHER
+nd_xKdNIIpk,fumaria,35.0,0.4708309471607208,flower,/m/061zz4,/m/0c9ph5,OTHER,,fumaria,fumaria,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Plant, http://dbpedia.org/ontology/Species",,flower,flower,flower,flower,OTHER
+nd_xKdNIIpk,competition event,33.0,0.4021656215190888,event,/m/04stdlw,/m/081pkj,OTHER,,competition event,competition event,OTHER,,,,event,event,event,event,OTHER
+nd_xKdNIIpk,herb,34.0,0.5461024641990662,plant,/m/03gq1,/m/05s2s,PERSON,,herb,herb,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,herb,35.0,0.5214412808418274,plant,/m/03gq1,/m/05s2s,PERSON,,herb,herb,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,flowering plant,34.0,0.6503843665122986,plant,/m/04sjm,/m/05s2s,PERSON,,flowering plant,flowering plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Plant, http://dbpedia.org/ontology/Species",,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,flowering plant,35.0,0.6530448198318481,plant,/m/04sjm,/m/05s2s,PERSON,,flowering plant,flowering plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Plant, http://dbpedia.org/ontology/Species",,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,tree,33.0,0.4574104845523834,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,wind,33.0,0.4351438283920288,none,/m/03m9d0z,none,OTHER,,wind,wind,OTHER,,http://dbpedia.org/ontology/Album,,none,none,none,none,OTHER
+nd_xKdNIIpk,subshrub,34.0,0.5789802074432373,plant,/m/03j2zx,/m/05s2s,PERSON,,subshrub,subshrub,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,subshrub,35.0,0.5622618198394775,plant,/m/03j2zx,/m/05s2s,PERSON,,subshrub,subshrub,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,flora,34.0,0.9424357414245604,plant,/m/03bmqb,/m/05s2s,PERSON,ORGANIZATION,flora,flora,PERSON,,http://dbpedia.org/ontology/Person,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,flora,35.0,0.9258469939231871,plant,/m/03bmqb,/m/05s2s,PERSON,ORGANIZATION,flora,flora,PERSON,,http://dbpedia.org/ontology/Person,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,plant,34.0,0.9521872997283936,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,plant,35.0,0.9475736618041992,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,vacation,33.0,0.4129447042942047,event,/m/02jwqh,/m/081pkj,OTHER,,vacation,vacation,OTHER,,,,event,event,EVENT,event,EVENT
+nd_xKdNIIpk,flower,35.0,0.8398551344871521,plant,/m/0c9ph5,/m/05s2s,PERSON,,flower,flower,OTHER,,"http://dbpedia.org/ontology/Building, http://dbpedia.org/ontology/Species",,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,soil,36.0,0.6541382074356079,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,soil,37.0,0.6635740399360657,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,soil,38.0,0.7707697749137878,none,/m/09dv7,none,OTHER,LOCATION,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,none,none,none,none,OTHER
+nd_xKdNIIpk,farm,36.0,0.5005093812942505,building,/m/0g8p9,/m/0cgh4,ORGANIZATION,,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,farm,38.0,0.4484186768531799,building,/m/0g8p9,/m/0cgh4,ORGANIZATION,,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,adaptation,36.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,37.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,38.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,36.0,0.6274484992027283,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,37.0,0.530806839466095,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,agriculture,38.0,0.6608193516731262,none,/m/0hkf,none,OTHER,ORGANIZATION,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+nd_xKdNIIpk,sky,36.0,0.5212497115135193,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,sky,37.0,0.4897321462631226,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,job,37.0,0.4122204482555389,person,/m/04115t2,/m/01g317,OTHER,PERSON,job,job,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,job,38.0,0.4030968248844147,person,/m/04115t2,/m/01g317,OTHER,PERSON,job,job,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,energy,36.0,0.5162431597709656,none,/m/02mm_,none,OTHER,ORGANIZATION,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+nd_xKdNIIpk,energy,37.0,0.4539811909198761,none,/m/02mm_,none,OTHER,ORGANIZATION,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+nd_xKdNIIpk,crop,36.0,0.4241654574871063,plant,/m/0263lr1,/m/05s2s,PERSON,ORGANIZATION,crop,crop,OTHER,,,,plant,OTHER,plant,plant,OTHER
+nd_xKdNIIpk,phenomenon,36.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,phenomenon,37.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,laborer,38.0,0.5445442199707031,person,/m/02vk771,/m/01g317,OTHER,PERSON,laborer,laborer,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,shrub,35.0,0.4199671745300293,plant,/m/0gqbt,/m/05s2s,PERSON,,shrub,shrub,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,spring,35.0,0.6354720592498779,season,/m/01txr2,/m/0754v,OTHER,LOCATION,spring,spring,OTHER,,,,LOCATION,season,season,season,LOCATION
+nd_xKdNIIpk,plant stem,35.0,0.5979800224304199,plant,/m/01ttd6,/m/05s2s,PERSON,,plant stem,plant stem,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,twig,35.0,0.4786299765110016,branch,/m/016nqt,/m/0b5gs,ORGANIZATION,,twig,twig,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,branch,branch,branch,branch,OTHER
+nd_xKdNIIpk,fumaria,35.0,0.4708309471607208,flower,/m/061zz4,/m/0c9ph5,OTHER,,fumaria,fumaria,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Plant, http://dbpedia.org/ontology/Species",,flower,flower,flower,flower,OTHER
+nd_xKdNIIpk,landscape,36.0,0.4528901278972626,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,landscape,37.0,0.4888612329959869,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,landscape,38.0,0.4731466770172119,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,herb,35.0,0.5214412808418274,plant,/m/03gq1,/m/05s2s,PERSON,,herb,herb,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,flowering plant,35.0,0.6530448198318481,plant,/m/04sjm,/m/05s2s,PERSON,,flowering plant,flowering plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Plant, http://dbpedia.org/ontology/Species",,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,tree,36.0,0.6791032552719116,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,tree,37.0,0.6058738827705383,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,tree,38.0,0.6028630137443542,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,subshrub,35.0,0.5622618198394775,plant,/m/03j2zx,/m/05s2s,PERSON,,subshrub,subshrub,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,flora,35.0,0.9258469939231871,plant,/m/03bmqb,/m/05s2s,PERSON,ORGANIZATION,flora,flora,PERSON,,http://dbpedia.org/ontology/Person,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,plant,35.0,0.9475736618041992,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,plant,36.0,0.4526788294315338,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,plant,37.0,0.4380312263965607,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,tourism,48.0,0.5479045510292053,none,/m/07bxq,none,OTHER,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,none,none,EVENT,none,EVENT
+nd_xKdNIIpk,city,48.0,0.668806254863739,geographical feature,/m/01n32,/m/043rvww,OTHER,"LOCATION, ORGANIZATION",city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,statue,48.0,0.41855451464653015,"monument, artwork",/m/013_1c,"/m/02ljgl, /m/0dgsmq8",OTHER,,statue,statue,OTHER,,http://dbpedia.org/ontology/Artwork,,"monument, artwork","monument, artwork","monument, artwork","monument, artwork",OTHER
+nd_xKdNIIpk,adaptation,49.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,50.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,public space,48.0,0.8829195499420166,city,/m/01lqfm,/m/01n32,"LOCATION, ORGANIZATION",,public space,public space,OTHER,,,,LOCATION,city,city,city,LOCATION
+nd_xKdNIIpk,savanna,49.0,0.5760653614997864,geographical feature,/m/01c7d3,/m/043rvww,OTHER,LOCATION,savanna,savanna,OTHER,,http://dbpedia.org/ontology/Software,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,savanna,50.0,0.593194305896759,geographical feature,/m/01c7d3,/m/043rvww,OTHER,LOCATION,savanna,savanna,OTHER,,http://dbpedia.org/ontology/Software,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,sky,49.0,0.7448221445083618,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,sky,50.0,0.6660667657852173,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,aisle,48.0,0.6820011734962463,building,/m/01rd5z,/m/0cgh4,ORGANIZATION,,aisle,aisle,OTHER,,,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,ceremony,48.0,0.6466535329818726,event,/m/016c4t,/m/081pkj,OTHER,EVENT,ceremony,ceremony,EVENT,,http://dbpedia.org/ontology/SportsEvent,,event,event,EVENT,event,EVENT
+nd_xKdNIIpk,wildlife,49.0,0.5584701299667358,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+nd_xKdNIIpk,wildlife,50.0,0.5640034675598145,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+nd_xKdNIIpk,monument,48.0,0.5604824423789978,none,/m/02ljgl,none,OTHER,LOCATION,monument,monument,OTHER,,http://dbpedia.org/ontology/Building,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,safari,49.0,0.4690847396850586,adventure,/m/0199b0,/m/0h_m,OTHER,,safari,safari,OTHER,,http://dbpedia.org/ontology/Work,,adventure,adventure,EVENT,adventure,EVENT
+nd_xKdNIIpk,safari,50.0,0.4322637915611267,adventure,/m/0199b0,/m/0h_m,OTHER,,safari,safari,OTHER,,http://dbpedia.org/ontology/Work,,adventure,adventure,EVENT,adventure,EVENT
+nd_xKdNIIpk,garden,48.0,0.5083692669868469,none,/m/0bl0l,none,OTHER,ORGANIZATION,garden,garden,OTHER,,,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,sidewalk,48.0,0.4905270636081696,city,/m/0dnhy,/m/01n32,"LOCATION, ORGANIZATION",,sidewalk,sidewalk,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,city,city,city,LOCATION
+nd_xKdNIIpk,plant community,49.0,0.610965371131897,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,plant community,50.0,0.6051828265190125,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecosystem,49.0,0.9414926171302797,geographical feature,/m/02mhj,/m/043rvww,OTHER,ORGANIZATION,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecosystem,50.0,0.9405857920646667,geographical feature,/m/02mhj,/m/043rvww,OTHER,ORGANIZATION,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,winter,49.0,0.43064314126968384,season,/m/086mh,/m/0754v,OTHER,,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,season,season,season,season,OTHER
+nd_xKdNIIpk,recreation,48.0,0.5752743482589722,none,/m/06bm2,none,OTHER,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,none,none,none,none,OTHER
+nd_xKdNIIpk,sand,49.0,0.5700570940971375,material,/m/099fz,/m/01l0y0,PERSON,PERSON,sand,sand,OTHER,,,,material,material,material,material,OTHER
+nd_xKdNIIpk,sand,50.0,0.5645371079444885,material,/m/099fz,/m/01l0y0,PERSON,PERSON,sand,sand,OTHER,,,,material,material,material,material,OTHER
+nd_xKdNIIpk,grass,49.0,0.4675663411617279,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass,50.0,0.4949247241020202,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,prairie,50.0,0.4146479666233063,geographical feature,/m/0hkvx,/m/043rvww,OTHER,LOCATION,prairie,prairie,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,branch,49.0,0.7867528200149536,none,/m/0b5gs,none,OTHER,ORGANIZATION,branch,branch,PERSON,,http://dbpedia.org/ontology/Person,,none,none,none,none,OTHER
+nd_xKdNIIpk,branch,50.0,0.7517549991607666,none,/m/0b5gs,none,OTHER,ORGANIZATION,branch,branch,PERSON,,http://dbpedia.org/ontology/Person,,none,none,none,none,OTHER
+nd_xKdNIIpk,landscape,49.0,0.5827323198318481,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,landscape,50.0,0.5800299048423767,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,shrubland,49.0,0.7725253701210022,geographical feature,/m/06w1j5,/m/043rvww,OTHER,,shrubland,shrubland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,shrubland,50.0,0.7830839157104492,geographical feature,/m/06w1j5,/m/043rvww,OTHER,,shrubland,shrubland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,event,48.0,0.4510378241539002,none,/m/081pkj,none,OTHER,,event,event,OTHER,,,,none,none,EVENT,none,EVENT
+nd_xKdNIIpk,ecoregion,49.0,0.6890110373497009,geographical feature,/m/0cblv,/m/043rvww,OTHER,,ecoregion,ecoregion,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecoregion,50.0,0.6996381282806396,geographical feature,/m/0cblv,/m/043rvww,OTHER,,ecoregion,ecoregion,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,land lot,49.0,0.6079159379005432,building,/m/0gs32y,/m/0cgh4,ORGANIZATION,,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,land lot,50.0,0.5540381669998169,building,/m/0gs32y,/m/0cgh4,ORGANIZATION,,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,leisure,48.0,0.4184558987617493,none,/m/04g3r,none,OTHER,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,none,none,none,none,OTHER
+nd_xKdNIIpk,tree,48.0,0.8322402238845825,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,tree,49.0,0.8498603105545044,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,tree,50.0,0.8101190328598022,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass family,49.0,0.5098265409469604,plant,/m/0fkrk,/m/05s2s,PERSON,,grass family,grass family,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass family,50.0,0.5365307331085205,plant,/m/0fkrk,/m/05s2s,PERSON,,grass family,grass family,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,steppe,49.0,0.4695054292678833,geographical feature,/m/0f45l,/m/043rvww,OTHER,,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,steppe,50.0,0.5025085210800171,geographical feature,/m/0f45l,/m/043rvww,OTHER,,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,photograph,48.0,0.9559174180030824,none,/m/068jd,none,OTHER,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+nd_xKdNIIpk,street,48.0,0.4446382820606232,road,/m/01c8br,/m/06gfj,OTHER,ORGANIZATION,street,street,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,road,road,road,LOCATION
+nd_xKdNIIpk,walkway,48.0,0.6300191283226013,none,/m/01jm2n,none,OTHER,,walkway,walkway,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,walking,48.0,0.7042974233627319,sports,/m/083mg,/m/06ntj,PERSON,,walk,walk,OTHER,,,,sports,sports,EVENT,sports,EVENT
+nd_xKdNIIpk,campus,48.0,0.6278787851333618,location,/m/01_x9,/m/078x4m,OTHER,LOCATION,campus,campus,OTHER,,,,LOCATION,location,location,location,LOCATION
+nd_xKdNIIpk,plaza,48.0,0.4774018228054047,city,/m/01klb9,/m/01n32,"LOCATION, ORGANIZATION",LOCATION,plaza,plaza,OTHER,,,,LOCATION,city,city,city,LOCATION
+nd_xKdNIIpk,pedestrian,48.0,0.7040420770645142,person,/m/017r8p,/m/01g317,OTHER,PERSON,pedestrian,pedestrian,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,plant,48.0,0.5337792038917542,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,plant,49.0,0.4291599988937378,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+nd_xKdNIIpk,park,48.0,0.5859094262123108,none,/m/0166ls,none,OTHER,"LOCATION, PERSON",park,park,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,none,EVENT,none,LOCATION
+nd_xKdNIIpk,college,48.0,0.5421854257583618,school,/m/02p0qmm,/m/06zdj,ORGANIZATION,ORGANIZATION,college,college,OTHER,,http://dbpedia.org/ontology/University,,LOCATION,school,school,school,LOCATION
+nd_xKdNIIpk,memorial,48.0,0.6949445009231567,none,/m/02q3d5,none,OTHER,,memorial,memorial,OTHER,,,,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,fun,52.0,0.5521149039268494,none,/m/0ds99lh,none,OTHER,,fun,fun,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,50.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,51.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,savanna,50.0,0.593194305896759,geographical feature,/m/01c7d3,/m/043rvww,OTHER,LOCATION,savanna,savanna,OTHER,,http://dbpedia.org/ontology/Software,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,sky,50.0,0.6660667657852173,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+nd_xKdNIIpk,senior citizen,52.0,0.5148278474807739,person,/m/04n7gmg,/m/01g317,OTHER,PERSON,senior citizen,senior citizen,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,wildlife,50.0,0.5640034675598145,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+nd_xKdNIIpk,safari,50.0,0.4322637915611267,adventure,/m/0199b0,/m/0h_m,OTHER,,safari,safari,OTHER,,http://dbpedia.org/ontology/Work,,adventure,adventure,EVENT,adventure,EVENT
+nd_xKdNIIpk,world,51.0,0.463405191898346,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,world,52.0,0.4762974381446838,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,plant community,50.0,0.6051828265190125,geographical feature,/m/06600f2,/m/043rvww,OTHER,,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecosystem,50.0,0.9405857920646667,geographical feature,/m/02mhj,/m/043rvww,OTHER,ORGANIZATION,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,human,52.0,0.7145105004310608,none,/m/0dgw9r,none,OTHER,,human,human,OTHER,,,,none,PERSON,none,none,PERSON
+nd_xKdNIIpk,sand,50.0,0.5645371079444885,material,/m/099fz,/m/01l0y0,PERSON,PERSON,sand,sand,OTHER,,,,material,material,material,material,OTHER
+nd_xKdNIIpk,grass,50.0,0.4949247241020202,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,prairie,50.0,0.4146479666233063,geographical feature,/m/0hkvx,/m/043rvww,OTHER,LOCATION,prairie,prairie,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,branch,50.0,0.7517549991607666,none,/m/0b5gs,none,OTHER,ORGANIZATION,branch,branch,PERSON,,http://dbpedia.org/ontology/Person,,none,none,none,none,OTHER
+nd_xKdNIIpk,photo caption,51.0,0.6699707508087158,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,photo caption,52.0,0.5567870140075684,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,conversation,52.0,0.40332165360450745,communication,/m/01h8n0,/m/01lhf,OTHER,,conversation,conversation,OTHER,,,,communication,communication,EVENT,communication,EVENT
+nd_xKdNIIpk,landscape,50.0,0.5800299048423767,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,shrubland,50.0,0.7830839157104492,geographical feature,/m/06w1j5,/m/043rvww,OTHER,,shrubland,shrubland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,ecoregion,50.0,0.6996381282806396,geographical feature,/m/0cblv,/m/043rvww,OTHER,,ecoregion,ecoregion,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,land lot,50.0,0.5540381669998169,building,/m/0gs32y,/m/0cgh4,ORGANIZATION,,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+nd_xKdNIIpk,tree,50.0,0.8101190328598022,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,grass family,50.0,0.5365307331085205,plant,/m/0fkrk,/m/05s2s,PERSON,,grass family,grass family,OTHER,,,,plant,plant,plant,plant,OTHER
+nd_xKdNIIpk,steppe,50.0,0.5025085210800171,geographical feature,/m/0f45l,/m/043rvww,OTHER,,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+nd_xKdNIIpk,screenshot,51.0,0.4297582507133484,none,/m/01zbnw,none,OTHER,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+nd_xKdNIIpk,professional,51.0,0.4154886901378632,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,professional,52.0,0.4668325483798981,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,hand,52.0,0.6296226978302002,none,/m/0k65p,none,OTHER,"PERSON, LOCATION, ORGANIZATION",hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+nd_xKdNIIpk,public relations,53.0,0.4331992864608765,person,/m/062zr,/m/01g317,OTHER,,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,person,ORGANIZATION,person,person,ORGANIZATION
+nd_xKdNIIpk,fun,52.0,0.5521149039268494,none,/m/0ds99lh,none,OTHER,,fun,fun,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,fun,53.0,0.4991658627986908,none,/m/0ds99lh,none,OTHER,,fun,fun,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,fun,54.0,0.4929269552230835,none,/m/0ds99lh,none,OTHER,,fun,fun,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,fun,55.0,0.4688349962234497,none,/m/0ds99lh,none,OTHER,,fun,fun,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,fun,56.0,0.5706969499588013,none,/m/0ds99lh,none,OTHER,,fun,fun,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,product,53.0,0.5072169899940491,none,/m/01jwgf,none,OTHER,ORGANIZATION,product,product,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,product,54.0,0.48532888293266296,none,/m/01jwgf,none,OTHER,ORGANIZATION,product,product,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,product,55.0,0.4683102071285248,none,/m/01jwgf,none,OTHER,ORGANIZATION,product,product,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,product,56.0,0.5314456820487976,none,/m/01jwgf,none,OTHER,ORGANIZATION,product,product,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,profession,54.0,0.541831374168396,person,/m/063km,/m/01g317,OTHER,ORGANIZATION,profession,profession,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,profession,55.0,0.6946631073951721,person,/m/063km,/m/01g317,OTHER,ORGANIZATION,profession,profession,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,job,53.0,0.4747693240642548,person,/m/04115t2,/m/01g317,OTHER,PERSON,job,job,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,job,54.0,0.4413028955459595,person,/m/04115t2,/m/01g317,OTHER,PERSON,job,job,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,job,55.0,0.4789734184741974,person,/m/04115t2,/m/01g317,OTHER,PERSON,job,job,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,senior citizen,52.0,0.5148278474807739,person,/m/04n7gmg,/m/01g317,OTHER,PERSON,senior citizen,senior citizen,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,senior citizen,53.0,0.7970126271247864,person,/m/04n7gmg,/m/01g317,OTHER,PERSON,senior citizen,senior citizen,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,senior citizen,54.0,0.835041880607605,person,/m/04n7gmg,/m/01g317,OTHER,PERSON,senior citizen,senior citizen,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,senior citizen,55.0,0.8037840127944946,person,/m/04n7gmg,/m/01g317,OTHER,PERSON,senior citizen,senior citizen,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,senior citizen,56.0,0.8188778162002563,person,/m/04n7gmg,/m/01g317,OTHER,PERSON,senior citizen,senior citizen,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,expert,53.0,0.4819051325321198,person,/m/02pkl,/m/01g317,OTHER,PERSON,expert,expert,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,expert,54.0,0.4637559950351715,person,/m/02pkl,/m/01g317,OTHER,PERSON,expert,expert,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,expert,55.0,0.4686969220638275,person,/m/02pkl,/m/01g317,OTHER,PERSON,expert,expert,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,expert,56.0,0.44515982270240784,person,/m/02pkl,/m/01g317,OTHER,PERSON,expert,expert,OTHER,,,,person,person,person,person,OTHER
+nd_xKdNIIpk,world,52.0,0.4762974381446838,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,world,53.0,0.4225626885890961,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,world,54.0,0.4322876334190369,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,world,55.0,0.4356092214584351,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,world,56.0,0.4485113024711609,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,human,52.0,0.7145105004310608,none,/m/0dgw9r,none,OTHER,,human,human,OTHER,,,,none,PERSON,none,none,PERSON
+nd_xKdNIIpk,human,53.0,0.7193716168403625,none,/m/0dgw9r,none,OTHER,,human,human,OTHER,,,,none,PERSON,none,none,PERSON
+nd_xKdNIIpk,human,54.0,0.7170840501785278,none,/m/0dgw9r,none,OTHER,,human,human,OTHER,,,,none,PERSON,none,none,PERSON
+nd_xKdNIIpk,human,55.0,0.7081370353698729,none,/m/0dgw9r,none,OTHER,,human,human,OTHER,,,,none,PERSON,none,none,PERSON
+nd_xKdNIIpk,human,56.0,0.7142009139060974,none,/m/0dgw9r,none,OTHER,,human,human,OTHER,,,,none,PERSON,none,none,PERSON
+nd_xKdNIIpk,photo caption,52.0,0.5567870140075684,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,photo caption,53.0,0.4832122027873993,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,photo caption,55.0,0.4174630641937256,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,photo caption,56.0,0.5016287565231323,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,conversation,52.0,0.40332165360450745,communication,/m/01h8n0,/m/01lhf,OTHER,,conversation,conversation,OTHER,,,,communication,communication,EVENT,communication,EVENT
+nd_xKdNIIpk,conversation,53.0,0.6741337776184082,communication,/m/01h8n0,/m/01lhf,OTHER,,conversation,conversation,OTHER,,,,communication,communication,EVENT,communication,EVENT
+nd_xKdNIIpk,conversation,54.0,0.5661876797676086,communication,/m/01h8n0,/m/01lhf,OTHER,,conversation,conversation,OTHER,,,,communication,communication,EVENT,communication,EVENT
+nd_xKdNIIpk,conversation,55.0,0.5220346450805664,communication,/m/01h8n0,/m/01lhf,OTHER,,conversation,conversation,OTHER,,,,communication,communication,EVENT,communication,EVENT
+nd_xKdNIIpk,conversation,56.0,0.5733019113540649,communication,/m/01h8n0,/m/01lhf,OTHER,,conversation,conversation,OTHER,,,,communication,communication,EVENT,communication,EVENT
+nd_xKdNIIpk,smile,53.0,0.4610485434532166,person,/m/019nj4,/m/01g317,OTHER,,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,person,ORGANIZATION,person,person,ORGANIZATION
+nd_xKdNIIpk,smile,54.0,0.40680739283561707,person,/m/019nj4,/m/01g317,OTHER,,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,person,ORGANIZATION,person,person,ORGANIZATION
+nd_xKdNIIpk,smile,55.0,0.4254178702831268,person,/m/019nj4,/m/01g317,OTHER,,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,person,ORGANIZATION,person,person,ORGANIZATION
+nd_xKdNIIpk,smile,56.0,0.4478564262390137,person,/m/019nj4,/m/01g317,OTHER,,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,person,ORGANIZATION,person,person,ORGANIZATION
+nd_xKdNIIpk,competition event,53.0,0.4194140732288361,event,/m/04stdlw,/m/081pkj,OTHER,,competition event,competition event,OTHER,,,,event,event,event,event,OTHER
+nd_xKdNIIpk,competition event,54.0,0.5166781544685364,event,/m/04stdlw,/m/081pkj,OTHER,,competition event,competition event,OTHER,,,,event,event,event,event,OTHER
+nd_xKdNIIpk,competition event,55.0,0.5054230093955994,event,/m/04stdlw,/m/081pkj,OTHER,,competition event,competition event,OTHER,,,,event,event,event,event,OTHER
+nd_xKdNIIpk,competition event,56.0,0.5599918365478516,event,/m/04stdlw,/m/081pkj,OTHER,,competition event,competition event,OTHER,,,,event,event,event,event,OTHER
+nd_xKdNIIpk,professional,52.0,0.4668325483798981,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,professional,53.0,0.7177974581718445,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,professional,54.0,0.7604533433914185,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,professional,55.0,0.786464512348175,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,professional,56.0,0.662634551525116,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+nd_xKdNIIpk,uniform,55.0,0.4794311225414276,clothing,/m/09jfs,/m/09j2d,OTHER,,uniform,uniform,OTHER,,http://dbpedia.org/ontology/Company,,clothing,clothing,clothing,clothing,OTHER
+nd_xKdNIIpk,hand,52.0,0.6296226978302002,none,/m/0k65p,none,OTHER,"PERSON, LOCATION, ORGANIZATION",hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+nd_xKdNIIpk,vision care,59.0,0.4920975565910339,none,/m/0h8jxfl,none,OTHER,,vision care,vision care,OTHER,,,,none,none,none,none,OTHER
+nd_xKdNIIpk,shoe,61.0,0.6225279569625854,none,/m/06rrc,none,OTHER,,shoe,shoe,OTHER,,http://dbpedia.org/ontology/Food,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,60.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,adaptation,61.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+nd_xKdNIIpk,concrete,60.0,0.4159713685512543,material,/m/01mxf,/m/01l0y0,PERSON,,concrete,concrete,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,material,material,material,material,OTHER
+nd_xKdNIIpk,concrete,61.0,0.5372812151908875,material,/m/01mxf,/m/01l0y0,PERSON,,concrete,concrete,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,material,material,material,material,OTHER
+nd_xKdNIIpk,water,61.0,0.4865839183330536,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+nd_xKdNIIpk,recreation,60.0,0.4445264637470245,none,/m/06bm2,none,OTHER,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,none,none,none,none,OTHER
+nd_xKdNIIpk,recreation,61.0,0.4871088862419128,none,/m/06bm2,none,OTHER,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,none,none,none,none,OTHER
+nd_xKdNIIpk,human,59.0,0.7007111310958862,none,/m/0dgw9r,none,OTHER,,human,human,OTHER,,,,none,PERSON,none,none,PERSON
+nd_xKdNIIpk,photo caption,59.0,0.5937811732292175,photography,/m/0b75wg4,/m/05wkw,OTHER,,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,photography,photography,photography,photography,OTHER
+nd_xKdNIIpk,outdoor shoe,61.0,0.6321417093276978,shoe,/m/0hgrj75,/m/06rrc,OTHER,,outdoor shoe,outdoor shoe,OTHER,,,,shoe,shoe,shoe,shoe,OTHER
+nd_xKdNIIpk,eyewear,59.0,0.6632874011993408,none,/m/0j272k5,none,OTHER,,eyewear,eyewear,OTHER,,"http://dbpedia.org/ontology/TopicalConcept, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept, http://dbpedia.org/ontology/Fashion",,none,none,none,none,OTHER

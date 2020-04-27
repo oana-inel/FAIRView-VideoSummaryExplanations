@@ -1,0 +1,9 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+JDONAxl-9h4,Pacific Ocean,LOCATION,/m/05rgl,https://en.wikipedia.org/wiki/Pacific_Ocean,West Pacific,442,0.10000000149011612,-0.10000000149011612,PROPER,0.03370663896203041,2.0,-0.10000000149011612,Pacific Ocean,pacific ocean,,,,,,LOCATION,LOCATION,LOCATION
+JDONAxl-9h4,winds,OTHER,,,winds,429,0.30000001192092896,-0.30000001192092896,COMMON,0.008843052200973034,0.30000001192092896,-0.30000001192092896,wind,wind,,,,,,OTHER,OTHER,OTHER
+JDONAxl-9h4,degree,OTHER,,,degree,346,0.20000000298023224,-0.20000000298023224,COMMON,0.007809070870280266,0.20000000298023224,-0.20000000298023224,degree,degree,,,,,,OTHER,OTHER,OTHER
+JDONAxl-9h4,burst,EVENT,,,burst,411,0.5,-0.5,COMMON,0.007770315743982792,0.5,-0.5,burst,burst,,,,,EVENT,EVENT,EVENT,EVENT
+JDONAxl-9h4,Westerly,LOCATION,,,Westerly,420,0.20000000298023224,-0.20000000298023224,PROPER,0.005736717488616705,0.20000000298023224,-0.20000000298023224,Westerly,westerly,,,,,,LOCATION,LOCATION,LOCATION
+JDONAxl-9h4,El Nino,EVENT,/m/02vw4,https://en.wikipedia.org/wiki/El_Niño,El Nino,628,0.0,0.0,PROPER,0.3369303345680237,1.2999999523162842,0.0,El Nino,el nino,,,,,PERSON,EVENT,EVENT,EVENT
+JDONAxl-9h4,ocean,LOCATION,,,ocean,650,0.0,0.0,COMMON,0.007070764433592558,0.0,0.0,ocean,ocean,,,,,,LOCATION,LOCATION,LOCATION
+JDONAxl-9h4,sea surface temperatures,OTHER,,,sea surface temperatures,597,0.10000000149011612,-0.10000000149011612,COMMON,0.005949800834059715,0.10000000149011612,-0.10000000149011612,sea surface temperature,sea surface temperature,,,,,,OTHER,OTHER,OTHER

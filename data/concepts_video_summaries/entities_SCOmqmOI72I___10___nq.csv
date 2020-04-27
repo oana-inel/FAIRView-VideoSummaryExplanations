@@ -1,0 +1,7 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+SCOmqmOI72I,Kenya,LOCATION,/m/019rg5,https://en.wikipedia.org/wiki/Kenya,Kenya,0,0.0,0.0,PROPER,0.10483849793672564,0.30000001192092896,0.10000000149011612,Kenya,kenya,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+SCOmqmOI72I,ngos,OTHER,,,ngos,361,0.0,0.0,COMMON,0.011308949440717695,0.0,0.0,ngo,ngo,,,,,ORGANIZATION,OTHER,OTHER,OTHER
+SCOmqmOI72I,more,OTHER,,,more,418,0.10000000149011612,0.10000000149011612,COMMON,0.008645113557577133,0.10000000149011612,0.10000000149011612,more,more,,,,,PERSON,OTHER,OTHER,OTHER
+SCOmqmOI72I,sentiment,OTHER,,,sentiment,1185,0.0,0.0,COMMON,0.002786115976050496,0.0,0.0,sentiment,sentiment,,,,,,OTHER,OTHER,OTHER
+SCOmqmOI72I,law,OTHER,,,law,1236,0.6000000238418579,-0.6000000238418579,COMMON,0.0024939402937889103,0.6000000238418579,-0.6000000238418579,law,law,,,,,ORGANIZATION,OTHER,OTHER,OTHER
+SCOmqmOI72I,country,LOCATION,,,country,1205,0.0,0.0,COMMON,0.0023163738660514355,0.0,0.0,country,country,,,,,"ORGANIZATION, LOCATION",LOCATION,LOCATION,LOCATION

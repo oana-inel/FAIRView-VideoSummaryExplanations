@@ -1,0 +1,437 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+gEqiHYTTCQA,finger,0.0,0.7064233422279358,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+gEqiHYTTCQA,performance,0.0,0.8707095384597778,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+gEqiHYTTCQA,performance,1.0,0.8397220969200134,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+gEqiHYTTCQA,performance,2.0,0.8142994046211243,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+gEqiHYTTCQA,darkness,0.0,0.6938372254371643,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,darkness,1.0,0.6681023240089417,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,darkness,2.0,0.7065811753273009,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,music venue,0.0,0.4380600452423096,location,/m/07b2m8,/m/078x4m,music venue,music venue,OTHER,,,,,LOCATION,location,location,location,LOCATION
+gEqiHYTTCQA,music venue,2.0,0.41394391655921936,location,/m/07b2m8,/m/078x4m,music venue,music venue,OTHER,,,,,LOCATION,location,location,location,LOCATION
+gEqiHYTTCQA,hand,0.0,0.8134411573410034,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,hand,1.0,0.6727380156517029,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,hand,2.0,0.7067368030548096,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,event,0.0,0.5840235352516174,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,event,1.0,0.428098201751709,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,event,2.0,0.4124019145965576,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,mouth,0.0,0.6719450950622559,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,song,0.0,0.44922807812690735,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+gEqiHYTTCQA,performance art,0.0,0.515339732170105,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+gEqiHYTTCQA,performance art,1.0,0.4029103815555573,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+gEqiHYTTCQA,performance art,2.0,0.4312654137611389,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+gEqiHYTTCQA,midnight,0.0,0.4544251263141632,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,performing arts,0.0,0.5580607652664185,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+gEqiHYTTCQA,performing arts,1.0,0.5090301036834717,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+gEqiHYTTCQA,performing arts,2.0,0.5027675628662109,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+gEqiHYTTCQA,singing,0.0,0.4242519438266754,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+gEqiHYTTCQA,computer wallpaper,0.0,0.624626874923706,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,computer wallpaper,1.0,0.453871101140976,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,computer wallpaper,2.0,0.464867502450943,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,muscle,0.0,0.6883800029754639,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,magenta,0.0,0.4263922274112701,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,magenta,1.0,0.4335059821605681,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,magenta,2.0,0.43285316228866577,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,stage,0.0,0.8909450769424438,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+gEqiHYTTCQA,stage,1.0,0.7152318358421326,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+gEqiHYTTCQA,stage,2.0,0.7569404244422913,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+gEqiHYTTCQA,scene,0.0,0.4313567876815796,OTHER,/m/09cvst,,scene,scene,OTHER,,,,"LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,tundra,14.0,0.6287710070610046,geographical feature,/m/07k3c,/m/043rvww,tundra,tundra,OTHER,,http://dbpedia.org/ontology/WorldHeritageSite,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,tundra,15.0,0.6988621950149536,geographical feature,/m/07k3c,/m/043rvww,tundra,tundra,OTHER,,http://dbpedia.org/ontology/WorldHeritageSite,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,mist,11.0,0.8404589295387268,OTHER,/m/01bqwh,,mist,mist,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,mist,12.0,0.6131243109703064,OTHER,/m/01bqwh,,mist,mist,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,wave,13.0,0.4512363374233246,OTHER,/m/02p0sll,,wave,wave,OTHER,,,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,performance,9.0,0.9325874447822572,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+gEqiHYTTCQA,tarento,9.0,0.4558672904968262,person,/m/04sckr,/m/01g317,tarento,tarento,OTHER,,http://dbpedia.org/ontology/Work,,,person,person,person,person,OTHER
+gEqiHYTTCQA,ice cap,13.0,0.4368655681610107,geographical feature,/m/04b966,/m/043rvww,ice cap,ice cap,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,ice cap,14.0,0.8108301162719727,geographical feature,/m/04b966,/m/043rvww,ice cap,ice cap,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,ice cap,15.0,0.8206841945648193,geographical feature,/m/04b966,/m/043rvww,ice cap,ice cap,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,screenshot,13.0,0.4768759310245514,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,polar ice cap,14.0,0.7809712290763855,geographical feature,/m/048nfp,/m/043rvww,polar ice cap,polar ice cap,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,polar ice cap,15.0,0.7534525394439697,geographical feature,/m/048nfp,/m/043rvww,polar ice cap,polar ice cap,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacier,14.0,0.6317465305328369,geographical feature,/m/038jz,/m/043rvww,glacier,glacier,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacier,15.0,0.7636486291885376,geographical feature,/m/038jz,/m/043rvww,glacier,glacier,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacial landform,13.0,0.6245874166488647,geographical feature,/m/055s40,/m/043rvww,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacial landform,14.0,0.7913192510604858,geographical feature,/m/055s40,/m/043rvww,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacial landform,15.0,0.8333685398101807,geographical feature,/m/055s40,/m/043rvww,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,winter,13.0,0.4765348136425018,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+gEqiHYTTCQA,winter,14.0,0.7225768566131592,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+gEqiHYTTCQA,winter,15.0,0.7573485374450684,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+gEqiHYTTCQA,darkness,9.0,0.850726842880249,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,darkness,10.0,0.8569470047950745,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,darkness,11.0,0.8461605310440063,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,darkness,12.0,0.824845552444458,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,darkness,13.0,0.5604839920997621,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,macro photography,10.0,0.7029174566268921,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+gEqiHYTTCQA,macro photography,12.0,0.42251691222190857,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+gEqiHYTTCQA,melting,14.0,0.4325907826423645,OTHER,/m/055_l,,melt,melt,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,snow,13.0,0.4358014166355133,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,snow,14.0,0.6872535347938538,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,snow,15.0,0.7677463889122009,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,phenomenon,10.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,phenomenon,11.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,phenomenon,12.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,phenomenon,13.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,phenomenon,15.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,black,10.0,0.955793797969818,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,black,11.0,0.9591318368911744,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,black,12.0,0.9613335132598876,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,sea,13.0,0.7416759729385376,OTHER,/m/06npx,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sea,14.0,0.6469414830207825,OTHER,/m/06npx,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sea,15.0,0.5466319918632507,OTHER,/m/06npx,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,morning,11.0,0.746817409992218,OTHER,/m/02_ktj,,morning,morning,OTHER,,http://dbpedia.org/ontology/Country,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,morning,12.0,0.749812662601471,OTHER,/m/02_ktj,,morning,morning,OTHER,,http://dbpedia.org/ontology/Country,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,morning,13.0,0.7667636275291443,OTHER,/m/02_ktj,,morning,morning,OTHER,,http://dbpedia.org/ontology/Country,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,music venue,9.0,0.4370422065258026,location,/m/07b2m8,/m/078x4m,music venue,music venue,OTHER,,,,,LOCATION,location,location,location,LOCATION
+gEqiHYTTCQA,event,9.0,0.6363504528999329,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,texture,10.0,0.4175103604793549,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,texture,11.0,0.6190194487571716,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,texture,12.0,0.6146103739738464,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,texture,13.0,0.4670754671096802,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,smoke,11.0,0.5652705430984497,OTHER,/m/06q40,,smoke,smoke,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,concert,9.0,0.6912778615951538,performance,/m/01jddz,/m/01gq53,concert,concert,OTHER,,http://dbpedia.org/ontology/Album,,,performance,performance,EVENT,performance,EVENT
+gEqiHYTTCQA,night,9.0,0.4225017726421356,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,night,10.0,0.6298443078994751,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,night,11.0,0.4028766155242921,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,audio,9.0,0.7345796823501587,technology,/m/0h91fqv,/m/07c1v,audio,audio,OTHER,,,,,technology,technology,technology,technology,OTHER
+gEqiHYTTCQA,sunlight,11.0,0.6116986870765686,light,/m/06z0n,/m/04k84,sunlight,sunlight,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,light,light,light,light,OTHER
+gEqiHYTTCQA,sunlight,12.0,0.7012607455253601,light,/m/06z0n,/m/04k84,sunlight,sunlight,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,light,light,light,light,OTHER
+gEqiHYTTCQA,sunlight,13.0,0.6137341260910034,light,/m/06z0n,/m/04k84,sunlight,sunlight,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,light,light,light,light,OTHER
+gEqiHYTTCQA,song,9.0,0.5360878705978394,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+gEqiHYTTCQA,calm,14.0,0.4621040523052216,weather,/m/026fm63,/m/0866r,calm,calm,OTHER,,,,,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,piste,15.0,0.4303445518016815,geographical feature,/m/06z4ng,/m/043rvww,piste,piste,OTHER,,http://dbpedia.org/ontology/HorseRace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,square,12.0,0.44148895144462585,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+gEqiHYTTCQA,text,12.0,0.6845331192016602,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,musical theatre,9.0,0.4720402657985687,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+gEqiHYTTCQA,meteorological phenomenon,11.0,0.4926937818527222,OTHER,/g/11k2xz7mr,,meteorological phenomenon,meteorological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,meteorological phenomenon,12.0,0.4725256860256195,OTHER,/g/11k2xz7mr,,meteorological phenomenon,meteorological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,microphone,9.0,0.4921125769615173,audio,/m/0hg7b,/m/0h91fqv,microphone,microphone,OTHER,,,,,audio,audio,audio,audio,OTHER
+gEqiHYTTCQA,fell,14.0,0.4997891783714294,landscape,/m/0280nh,/m/025s3q0,fall,fall,OTHER,,http://dbpedia.org/ontology/Work,,,LOCATION,landscape,landscape,landscape,LOCATION
+gEqiHYTTCQA,fell,15.0,0.6303643584251404,landscape,/m/0280nh,/m/025s3q0,fall,fall,OTHER,,http://dbpedia.org/ontology/Work,,,LOCATION,landscape,landscape,landscape,LOCATION
+gEqiHYTTCQA,performance art,9.0,0.6792999505996704,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+gEqiHYTTCQA,wind wave,13.0,0.6629680991172789,OTHER,/m/034srq,,wind wave,wind wave,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,freezing,13.0,0.8347402215003967,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,freezing,14.0,0.7867676019668579,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,freezing,15.0,0.7880216240882874,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,ocean,14.0,0.5770036578178406,OTHER,/m/05kq4,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,ocean,15.0,0.4794191718101502,OTHER,/m/05kq4,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,nunatak,14.0,0.5152655243873596,geographical feature,/m/02z47m,/m/043rvww,nunatak,nunatak,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,nunatak,15.0,0.4855416715145111,geographical feature,/m/02z47m,/m/043rvww,nunatak,nunatak,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,line,12.0,0.6894047260284424,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+gEqiHYTTCQA,fog,11.0,0.4206604063510895,weather,/m/0g2z8,/m/0866r,fog,fog,OTHER,,http://dbpedia.org/ontology/Disease,,,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,atmosphere,10.0,0.9386172890663148,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,atmosphere,11.0,0.9637474417686462,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,atmosphere,12.0,0.9633331894874572,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,atmosphere,13.0,0.9580832123756408,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,atmosphere,15.0,0.8210120797157288,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,singer songwriter,9.0,0.7194303274154663,person,/m/016z4k,/m/01g317,singer songwriter,singer songwriter,OTHER,,,,,person,person,person,person,OTHER
+gEqiHYTTCQA,dawn,13.0,0.5352745056152344,OTHER,/m/01b3kg,,dawn,dawn,EVENT,,http://dbpedia.org/ontology/SportsEvent,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,acting,9.0,0.4447968900203705,person,/m/0w7c,/m/01g317,act,act,OTHER,,http://dbpedia.org/ontology/Book,,,person,person,person,person,OTHER
+gEqiHYTTCQA,light,10.0,0.8176705241203308,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,light,11.0,0.8390471339225769,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,light,12.0,0.8699748516082764,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,space,9.0,0.40328603982925415,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,space,10.0,0.4392228126525879,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,space,11.0,0.4161565601825714,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,space,12.0,0.4059341549873352,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,space,13.0,0.4383273124694824,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,iceberg,13.0,0.4651748538017273,ice,/m/012mqx,/m/03vtj,iceberg,iceberg,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,ice,ice,ice,ice,OTHER
+gEqiHYTTCQA,iceberg,14.0,0.7336510419845581,ice,/m/012mqx,/m/03vtj,iceberg,iceberg,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,ice,ice,ice,ice,OTHER
+gEqiHYTTCQA,iceberg,15.0,0.6581997275352478,ice,/m/012mqx,/m/03vtj,iceberg,iceberg,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,ice,ice,ice,ice,OTHER
+gEqiHYTTCQA,midnight,9.0,0.5309955477714539,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,midnight,10.0,0.58846515417099,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,midnight,11.0,0.5947605967521667,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,midnight,12.0,0.5773391127586365,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,white,12.0,0.963625967502594,OTHER,/m/083jv,,white,white,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,mountain range,14.0,0.4232637882232666,geographical feature,/m/04wxr,/m/043rvww,mountain range,mountain range,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,mountain range,15.0,0.7428411841392517,geographical feature,/m/04wxr,/m/043rvww,mountain range,mountain range,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,summit,15.0,0.4404891729354857,mountain,/m/0388sn,/m/09d_r,summit,summit,LOCATION,,http://dbpedia.org/ontology/Place,,"LOCATION, ORGANIZATION",LOCATION,mountain,mountain,mountain,LOCATION
+gEqiHYTTCQA,performing arts,9.0,0.6865837574005127,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+gEqiHYTTCQA,arctic,13.0,0.7849918603897095,geographical feature,/m/09738,/m/043rvww,arctic,arctic,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,arctic,14.0,0.8773713707923889,geographical feature,/m/09738,/m/043rvww,arctic,arctic,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,arctic,15.0,0.8825149536132812,geographical feature,/m/09738,/m/043rvww,arctic,arctic,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,horizon,12.0,0.4503395259380341,geographical feature,/m/0d1n2,/m/043rvww,horizon,horizon,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,horizon,13.0,0.9422574043273926,geographical feature,/m/0d1n2,/m/043rvww,horizon,horizon,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,horizon,14.0,0.6956605911254883,geographical feature,/m/0d1n2,/m/043rvww,horizon,horizon,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,horizon,15.0,0.863327145576477,geographical feature,/m/0d1n2,/m/043rvww,horizon,horizon,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,inlet,14.0,0.4658092856407166,geographical feature,/m/02hdxc,/m/043rvww,inlet,inlet,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,inlet,15.0,0.4826026856899262,geographical feature,/m/02hdxc,/m/043rvww,inlet,inlet,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,singing,9.0,0.8473457098007202,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+gEqiHYTTCQA,songwriter,9.0,0.5005139112472534,person,/m/0nbcg,/m/01g317,songwriter,songwriter,OTHER,,,,PERSON,person,person,person,person,OTHER
+gEqiHYTTCQA,ice,13.0,0.7991616129875183,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,ice,14.0,0.8414158821105957,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,ice,15.0,0.8452045321464539,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,musical instrument accessory,9.0,0.4815784990787506,OTHER,/m/0h8npf5,,musical instrument accessory,musical instrument accessory,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,lens flare,10.0,0.4518913328647614,OTHER,/m/017bm6,,lens flare,lens flare,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,lens flare,11.0,0.4819661974906922,OTHER,/m/017bm6,,lens flare,lens flare,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,lens flare,12.0,0.5458514690399171,OTHER,/m/017bm6,,lens flare,lens flare,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,sky,10.0,0.7733027338981628,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sky,11.0,0.9265173077583312,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sky,12.0,0.9495099186897278,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sky,13.0,0.961414098739624,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sky,14.0,0.8207545876502991,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sky,15.0,0.9217904806137084,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,daylighting,13.0,0.4079097211360931,window,/m/0k2n5,/m/0d4v4,daylighting,daylighting,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,window,window,window,LOCATION
+gEqiHYTTCQA,computer wallpaper,10.0,0.6666279435157776,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,computer wallpaper,11.0,0.6526318192481995,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,computer wallpaper,12.0,0.6949576735496521,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,singer,9.0,0.4592140316963196,person,/m/09l65,/m/01g317,singer,singer,OTHER,,,,PERSON,person,person,person,person,OTHER
+gEqiHYTTCQA,aurora,10.0,0.5618951916694641,OTHER,/m/0d61m,,aurora,aurora,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,geological phenomenon,13.0,0.8572559356689453,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,landscape,13.0,0.4939115941524506,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,landscape,15.0,0.4171540439128876,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,elevation,15.0,0.43041080236434937,OTHER,/m/05v3nz,,elevation,elevation,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,magenta,12.0,0.6291835904121399,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,cloud,11.0,0.40819478034973145,OTHER,/m/0csby,,cloud,cloud,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,cloud,12.0,0.4307376444339752,OTHER,/m/0csby,,cloud,cloud,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,cloud,13.0,0.4190912544727325,OTHER,/m/0csby,,cloud,cloud,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,cloud,15.0,0.5050364732742311,OTHER,/m/0csby,,cloud,cloud,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,arctic ocean,13.0,0.5711095929145813,ocean,/m/0j85,/m/05kq4,arctic ocean,arctic ocean,OTHER,,,,,LOCATION,ocean,ocean,ocean,LOCATION
+gEqiHYTTCQA,arctic ocean,14.0,0.9356778264045716,ocean,/m/0j85,/m/05kq4,arctic ocean,arctic ocean,OTHER,,,,,LOCATION,ocean,ocean,ocean,LOCATION
+gEqiHYTTCQA,arctic ocean,15.0,0.9299176931381226,ocean,/m/0j85,/m/05kq4,arctic ocean,arctic ocean,OTHER,,,,,LOCATION,ocean,ocean,ocean,LOCATION
+gEqiHYTTCQA,sea ice,13.0,0.4561665952205658,ice,/m/01ycvc,/m/03vtj,sea ice,sea ice,OTHER,,,,,ice,ice,ice,ice,OTHER
+gEqiHYTTCQA,sea ice,14.0,0.7474642395973206,ice,/m/01ycvc,/m/03vtj,sea ice,sea ice,OTHER,,,,,ice,ice,ice,ice,OTHER
+gEqiHYTTCQA,sea ice,15.0,0.6473504304885864,ice,/m/01ycvc,/m/03vtj,sea ice,sea ice,OTHER,,,,,ice,ice,ice,ice,OTHER
+gEqiHYTTCQA,water,14.0,0.4136507213115692,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,stage,9.0,0.7422725558280945,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+gEqiHYTTCQA,haze,11.0,0.4380866289138794,OTHER,/m/03xxq7,,haze,haze,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,mountain,15.0,0.492555171251297,geographical feature,/m/09d_r,/m/043rvww,mountain,mountain,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,scene,9.0,0.6907011866569519,OTHER,/m/09cvst,,scene,scene,OTHER,,,,"LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,loch,14.0,0.4068634808063507,lake,/m/04p25,/m/04h4w,loch,loch,OTHER,,,,,LOCATION,lake,lake,lake,LOCATION
+gEqiHYTTCQA,atmosphere of earth,10.0,0.8150808811187744,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,atmosphere of earth,11.0,0.8219630122184753,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,atmosphere of earth,12.0,0.8221816420555115,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,atmosphere of earth,13.0,0.8215062022209167,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,atmosphere of earth,15.0,0.8043233752250671,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,tundra,16.0,0.6560103297233582,geographical feature,/m/07k3c,/m/043rvww,tundra,tundra,OTHER,,http://dbpedia.org/ontology/WorldHeritageSite,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,ice cap,16.0,0.799627423286438,geographical feature,/m/04b966,/m/043rvww,ice cap,ice cap,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,polar ice cap,16.0,0.6941524744033813,geographical feature,/m/048nfp,/m/043rvww,polar ice cap,polar ice cap,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacier,16.0,0.7659995555877686,geographical feature,/m/038jz,/m/043rvww,glacier,glacier,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacial landform,16.0,0.8407700061798096,geographical feature,/m/055s40,/m/043rvww,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacial landform,17.0,0.4831930994987488,geographical feature,/m/055s40,/m/043rvww,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,glacial landform,18.0,0.4288738369941712,geographical feature,/m/055s40,/m/043rvww,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,winter,16.0,0.7680606842041016,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+gEqiHYTTCQA,winter,17.0,0.4487646222114563,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+gEqiHYTTCQA,winter,18.0,0.43688148260116577,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+gEqiHYTTCQA,air travel,16.0,0.5952779054641724,OTHER,/m/025t3bg,,air travel,air travel,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,snow,16.0,0.8281747102737427,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,snow,17.0,0.7305407524108887,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,snow,18.0,0.7267382144927979,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,snow,19.0,0.4141797125339508,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+gEqiHYTTCQA,flooring,17.0,0.4613750278949738,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,flooring,18.0,0.4207683801651001,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,flooring,19.0,0.4653339385986328,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,phenomenon,16.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,texture,17.0,0.5585125684738159,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,texture,18.0,0.566512405872345,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,texture,19.0,0.5233731865882874,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,floor,17.0,0.5588371753692627,OTHER,/m/0l7_8,,floor,floor,OTHER,,http://dbpedia.org/ontology/Bone,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,floor,18.0,0.5255856513977051,OTHER,/m/0l7_8,,floor,floor,OTHER,,http://dbpedia.org/ontology/Bone,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,floor,19.0,0.5596988797187805,OTHER,/m/0l7_8,,floor,floor,OTHER,,http://dbpedia.org/ontology/Bone,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,piste,16.0,0.5962794423103333,geographical feature,/m/06z4ng,/m/043rvww,piste,piste,OTHER,,http://dbpedia.org/ontology/HorseRace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,flight,16.0,0.6337230205535889,OTHER,/m/01515d,,flight,flight,OTHER,,http://dbpedia.org/ontology/Election,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,alps,16.0,0.42034393548965454,geographical feature,/m/0lcd,/m/043rvww,alp,alp,LOCATION,,"http://dbpedia.org/ontology/NaturalPlace, http://dbpedia.org/ontology/MountainRange, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Location",,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,text,17.0,0.6386022567749023,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,text,18.0,0.7217008471488953,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,text,19.0,0.6747678518295288,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,fell,16.0,0.6792986989021301,landscape,/m/0280nh,/m/025s3q0,fall,fall,OTHER,,http://dbpedia.org/ontology/Work,,,LOCATION,landscape,landscape,landscape,LOCATION
+gEqiHYTTCQA,freezing,16.0,0.7200121879577637,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,freezing,17.0,0.6404653787612915,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,freezing,18.0,0.6412991881370544,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,nunatak,16.0,0.5127648115158081,geographical feature,/m/02z47m,/m/043rvww,nunatak,nunatak,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,line,17.0,0.6875660419464111,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+gEqiHYTTCQA,line,18.0,0.7061840295791626,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+gEqiHYTTCQA,line,19.0,0.6863377690315247,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+gEqiHYTTCQA,atmosphere,16.0,0.8105023503303528,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,cobblestone,17.0,0.678891122341156,OTHER,/m/02t2zd,,cobblestone,cobblestone,OTHER,,http://dbpedia.org/ontology/Album,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,cobblestone,18.0,0.6385657787322998,OTHER,/m/02t2zd,,cobblestone,cobblestone,OTHER,,http://dbpedia.org/ontology/Album,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,cobblestone,19.0,0.7019118070602417,OTHER,/m/02t2zd,,cobblestone,cobblestone,OTHER,,http://dbpedia.org/ontology/Album,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,iceberg,16.0,0.4979738593101502,ice,/m/012mqx,/m/03vtj,iceberg,iceberg,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,ice,ice,ice,ice,OTHER
+gEqiHYTTCQA,mountain range,16.0,0.882546603679657,geographical feature,/m/04wxr,/m/043rvww,mountain range,mountain range,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,summit,16.0,0.5722426772117615,mountain,/m/0388sn,/m/09d_r,summit,summit,LOCATION,,http://dbpedia.org/ontology/Place,,"LOCATION, ORGANIZATION",LOCATION,mountain,mountain,mountain,LOCATION
+gEqiHYTTCQA,hill,16.0,0.4129342436790466,geographical feature,/m/04_5sg,/m/043rvww,hill,hill,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,PERSON,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,arctic,16.0,0.8791772723197937,geographical feature,/m/09738,/m/043rvww,arctic,arctic,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,arctic,17.0,0.5864946246147156,geographical feature,/m/09738,/m/043rvww,arctic,arctic,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,arctic,18.0,0.4734422564506531,geographical feature,/m/09738,/m/043rvww,arctic,arctic,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,horizon,16.0,0.7047037482261658,geographical feature,/m/0d1n2,/m/043rvww,horizon,horizon,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,massif,16.0,0.5213646292686462,mountain,/m/01pbgp,/m/09d_r,massif,massif,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,mountain,mountain,mountain,LOCATION
+gEqiHYTTCQA,pattern,17.0,0.6291666626930237,design,/m/0hwky,/m/02cwm,pattern,pattern,OTHER,,,,LOCATION,design,design,design,design,OTHER
+gEqiHYTTCQA,pattern,18.0,0.6390195488929749,design,/m/0hwky,/m/02cwm,pattern,pattern,OTHER,,,,LOCATION,design,design,design,design,OTHER
+gEqiHYTTCQA,pattern,19.0,0.5847855806350708,design,/m/0hwky,/m/02cwm,pattern,pattern,OTHER,,,,LOCATION,design,design,design,design,OTHER
+gEqiHYTTCQA,ice,16.0,0.8253015875816345,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,ice,17.0,0.8097080588340759,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,ice,18.0,0.7827221751213074,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,ice,19.0,0.6925809979438782,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,black and white,17.0,0.4154197871685028,style,/m/01g6gs,/m/012yh1,black and white,black and white,OTHER,,,,,style,style,style,style,OTHER
+gEqiHYTTCQA,black and white,18.0,0.4491982758045197,style,/m/01g6gs,/m/012yh1,black and white,black and white,OTHER,,,,,style,style,style,style,OTHER
+gEqiHYTTCQA,road surface,17.0,0.6777337193489075,OTHER,/m/01k0mv,,road surface,road surface,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,road surface,18.0,0.6850568652153015,OTHER,/m/01k0mv,,road surface,road surface,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,road surface,19.0,0.6738423109054565,OTHER,/m/01k0mv,,road surface,road surface,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,sky,16.0,0.9281740188598632,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sky,17.0,0.7340835332870483,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sky,18.0,0.7222455739974976,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,sky,19.0,0.6615771651268005,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,daylighting,17.0,0.5115139484405518,window,/m/0k2n5,/m/0d4v4,daylighting,daylighting,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,window,window,window,LOCATION
+gEqiHYTTCQA,daylighting,18.0,0.4810948967933655,window,/m/0k2n5,/m/0d4v4,daylighting,daylighting,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,window,window,window,LOCATION
+gEqiHYTTCQA,daylighting,19.0,0.4557341039180756,window,/m/0k2n5,/m/0d4v4,daylighting,daylighting,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,window,window,window,LOCATION
+gEqiHYTTCQA,geological phenomenon,16.0,0.7726732492446899,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,landscape,16.0,0.4201457500457764,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,elevation,16.0,0.4518926739692688,OTHER,/m/05v3nz,,elevation,elevation,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,material,17.0,0.6737988591194153,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,material,18.0,0.6922567486763,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,material,19.0,0.6520999670028687,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,cloud,16.0,0.6141999959945679,OTHER,/m/0csby,,cloud,cloud,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,arctic ocean,16.0,0.8585266470909119,ocean,/m/0j85,/m/05kq4,arctic ocean,arctic ocean,OTHER,,,,,LOCATION,ocean,ocean,ocean,LOCATION
+gEqiHYTTCQA,sea ice,16.0,0.44326689839363104,ice,/m/01ycvc,/m/03vtj,sea ice,sea ice,OTHER,,,,,ice,ice,ice,ice,OTHER
+gEqiHYTTCQA,font,17.0,0.4881786704063416,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,font,18.0,0.561514139175415,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,font,19.0,0.480293333530426,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+gEqiHYTTCQA,water,17.0,0.6349547505378723,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,water,18.0,0.5312138795852661,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,water,19.0,0.6521028280258179,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,roof,16.0,0.41913652420043945,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,mountain,16.0,0.631645143032074,geographical feature,/m/09d_r,/m/043rvww,mountain,mountain,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,atmosphere of earth,16.0,0.8117719888687134,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+gEqiHYTTCQA,competition,25.0,0.5023467540740967,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,competition,29.0,0.4542579054832458,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,competition,30.0,0.4137358665466309,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,sand,25.0,0.7962003946304321,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+gEqiHYTTCQA,sand,26.0,0.8053186535835266,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+gEqiHYTTCQA,sand,27.0,0.8278724551200867,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+gEqiHYTTCQA,sand,28.0,0.800070583820343,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+gEqiHYTTCQA,sand,29.0,0.8527847528457642,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+gEqiHYTTCQA,sand,30.0,0.7893984317779541,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+gEqiHYTTCQA,sand,31.0,0.8618375062942505,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+gEqiHYTTCQA,physical fitness,27.0,0.5142103433609009,sports,/m/027x7n,/m/06ntj,physical fitness,physical fitness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,,sports,sports,EVENT,sports,EVENT
+gEqiHYTTCQA,physical fitness,28.0,0.4163710176944733,sports,/m/027x7n,/m/06ntj,physical fitness,physical fitness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,,sports,sports,EVENT,sports,EVENT
+gEqiHYTTCQA,physical fitness,29.0,0.4487458467483521,sports,/m/027x7n,/m/06ntj,physical fitness,physical fitness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,,sports,sports,EVENT,sports,EVENT
+gEqiHYTTCQA,physical fitness,30.0,0.4258780181407929,sports,/m/027x7n,/m/06ntj,physical fitness,physical fitness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,,sports,sports,EVENT,sports,EVENT
+gEqiHYTTCQA,physical fitness,31.0,0.4451380968093872,sports,/m/027x7n,/m/06ntj,physical fitness,physical fitness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,,sports,sports,EVENT,sports,EVENT
+gEqiHYTTCQA,sun tanning,25.0,0.8573606610298157,OTHER,/m/02n6m5,,sun tanning,sun tanning,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sun tanning,26.0,0.9025512337684632,OTHER,/m/02n6m5,,sun tanning,sun tanning,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sun tanning,27.0,0.9370754361152648,OTHER,/m/02n6m5,,sun tanning,sun tanning,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sun tanning,28.0,0.9353289604187012,OTHER,/m/02n6m5,,sun tanning,sun tanning,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sun tanning,29.0,0.9309066534042358,OTHER,/m/02n6m5,,sun tanning,sun tanning,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sun tanning,30.0,0.8869633078575134,OTHER,/m/02n6m5,,sun tanning,sun tanning,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sun tanning,31.0,0.9288794994354248,OTHER,/m/02n6m5,,sun tanning,sun tanning,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,undergarment,26.0,0.58747398853302,clothing,/m/09j1x,/m/09j2d,undergarment,undergarment,OTHER,,http://dbpedia.org/ontology/Disease,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,undergarment,27.0,0.7188915610313416,clothing,/m/09j1x,/m/09j2d,undergarment,undergarment,OTHER,,http://dbpedia.org/ontology/Disease,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,undergarment,28.0,0.6459404826164246,clothing,/m/09j1x,/m/09j2d,undergarment,undergarment,OTHER,,http://dbpedia.org/ontology/Disease,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,undergarment,29.0,0.5778104662895203,clothing,/m/09j1x,/m/09j2d,undergarment,undergarment,OTHER,,http://dbpedia.org/ontology/Disease,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,undergarment,30.0,0.6094921231269836,clothing,/m/09j1x,/m/09j2d,undergarment,undergarment,OTHER,,http://dbpedia.org/ontology/Disease,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,undergarment,31.0,0.6203795075416565,clothing,/m/09j1x,/m/09j2d,undergarment,undergarment,OTHER,,http://dbpedia.org/ontology/Disease,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,beach volleyball,25.0,0.7953837513923645,volleyball,/m/01gqfm,/m/07_53,beach volleyball,beach volleyball,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,volleyball,volleyball,EVENT,volleyball,EVENT
+gEqiHYTTCQA,beach volleyball,26.0,0.6043931841850281,volleyball,/m/01gqfm,/m/07_53,beach volleyball,beach volleyball,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,volleyball,volleyball,EVENT,volleyball,EVENT
+gEqiHYTTCQA,beach volleyball,27.0,0.6645252108573914,volleyball,/m/01gqfm,/m/07_53,beach volleyball,beach volleyball,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,volleyball,volleyball,EVENT,volleyball,EVENT
+gEqiHYTTCQA,beach volleyball,28.0,0.5489081740379333,volleyball,/m/01gqfm,/m/07_53,beach volleyball,beach volleyball,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,volleyball,volleyball,EVENT,volleyball,EVENT
+gEqiHYTTCQA,beach volleyball,29.0,0.5494407415390015,volleyball,/m/01gqfm,/m/07_53,beach volleyball,beach volleyball,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,volleyball,volleyball,EVENT,volleyball,EVENT
+gEqiHYTTCQA,beach volleyball,30.0,0.7608821988105774,volleyball,/m/01gqfm,/m/07_53,beach volleyball,beach volleyball,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,volleyball,volleyball,EVENT,volleyball,EVENT
+gEqiHYTTCQA,beach volleyball,31.0,0.6782551407814026,volleyball,/m/01gqfm,/m/07_53,beach volleyball,beach volleyball,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,volleyball,volleyball,EVENT,volleyball,EVENT
+gEqiHYTTCQA,leisure,25.0,0.501136839389801,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,leisure,26.0,0.591203510761261,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,leisure,27.0,0.5058991312980652,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,leisure,28.0,0.5176027417182922,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,leisure,29.0,0.5915307998657227,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,leisure,30.0,0.5580717325210571,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,leisure,31.0,0.6418576836585999,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,abdomen,27.0,0.4043344259262085,trunk,/m/08y7p8,/m/031vtq,abdomen,abdomen,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,trunk,OTHER,trunk,trunk,OTHER
+gEqiHYTTCQA,recreation,26.0,0.5525146722793579,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,recreation,27.0,0.5324588418006897,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,recreation,28.0,0.5320059061050415,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,recreation,31.0,0.5356002449989319,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,spring break,25.0,0.7909278273582458,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+gEqiHYTTCQA,spring break,26.0,0.8560629487037659,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+gEqiHYTTCQA,spring break,27.0,0.8506869673728943,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+gEqiHYTTCQA,spring break,28.0,0.8507378697395325,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+gEqiHYTTCQA,spring break,29.0,0.7981085777282715,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+gEqiHYTTCQA,spring break,30.0,0.8368037343025208,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+gEqiHYTTCQA,spring break,31.0,0.800589382648468,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+gEqiHYTTCQA,chest,25.0,0.4402925670146942,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+gEqiHYTTCQA,chest,26.0,0.4687069058418274,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+gEqiHYTTCQA,chest,27.0,0.5316904783248901,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+gEqiHYTTCQA,chest,28.0,0.4815744161605835,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+gEqiHYTTCQA,chest,29.0,0.5332316756248474,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+gEqiHYTTCQA,chest,30.0,0.5031657814979553,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+gEqiHYTTCQA,chest,31.0,0.5339523553848267,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+gEqiHYTTCQA,swimwear,25.0,0.7002155780792236,clothing,/m/01gkx_,/m/09j2d,swimwear,swimwear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,swimwear,26.0,0.7597039341926575,clothing,/m/01gkx_,/m/09j2d,swimwear,swimwear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,swimwear,27.0,0.8114635944366455,clothing,/m/01gkx_,/m/09j2d,swimwear,swimwear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,swimwear,28.0,0.8208127617835999,clothing,/m/01gkx_,/m/09j2d,swimwear,swimwear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,swimwear,29.0,0.776411235332489,clothing,/m/01gkx_,/m/09j2d,swimwear,swimwear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,swimwear,30.0,0.7880534529685974,clothing,/m/01gkx_,/m/09j2d,swimwear,swimwear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,swimwear,31.0,0.7964766621589661,clothing,/m/01gkx_,/m/09j2d,swimwear,swimwear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+gEqiHYTTCQA,barechestedness,25.0,0.5174617171287537,man,/m/0dm6dl,/m/04yx4,barechestedness,barechestedness,OTHER,,,,,man,man,man,man,OTHER
+gEqiHYTTCQA,barechestedness,26.0,0.6518175601959229,man,/m/0dm6dl,/m/04yx4,barechestedness,barechestedness,OTHER,,,,,man,man,man,man,OTHER
+gEqiHYTTCQA,barechestedness,27.0,0.8693141937255859,man,/m/0dm6dl,/m/04yx4,barechestedness,barechestedness,OTHER,,,,,man,man,man,man,OTHER
+gEqiHYTTCQA,barechestedness,28.0,0.7487674951553345,man,/m/0dm6dl,/m/04yx4,barechestedness,barechestedness,OTHER,,,,,man,man,man,man,OTHER
+gEqiHYTTCQA,barechestedness,29.0,0.8165292739868164,man,/m/0dm6dl,/m/04yx4,barechestedness,barechestedness,OTHER,,,,,man,man,man,man,OTHER
+gEqiHYTTCQA,barechestedness,30.0,0.7031089663505554,man,/m/0dm6dl,/m/04yx4,barechestedness,barechestedness,OTHER,,,,,man,man,man,man,OTHER
+gEqiHYTTCQA,barechestedness,31.0,0.8271151185035706,man,/m/0dm6dl,/m/04yx4,barechestedness,barechestedness,OTHER,,,,,man,man,man,man,OTHER
+gEqiHYTTCQA,vacation,25.0,0.7926669716835022,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,vacation,26.0,0.871606171131134,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,vacation,27.0,0.8651650547981262,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,vacation,28.0,0.8516252040863037,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,vacation,29.0,0.8497109413146973,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,vacation,30.0,0.8482601642608643,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,vacation,31.0,0.8910424709320068,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,fun,25.0,0.8005599975585938,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,fun,26.0,0.8607087135314941,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,fun,27.0,0.8404380679130554,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,fun,28.0,0.8492887616157532,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,fun,29.0,0.816603422164917,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,fun,30.0,0.8502421975135803,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,fun,31.0,0.8560318946838379,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,play,25.0,0.5561063885688782,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+gEqiHYTTCQA,play,26.0,0.6354449391365051,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+gEqiHYTTCQA,play,27.0,0.45484697818756104,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+gEqiHYTTCQA,play,28.0,0.5356683135032654,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+gEqiHYTTCQA,play,29.0,0.4704357385635376,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+gEqiHYTTCQA,play,30.0,0.501866340637207,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+gEqiHYTTCQA,play,31.0,0.5637250542640686,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+gEqiHYTTCQA,summer,25.0,0.7190378904342651,season,/m/078qz,/m/0754v,summer,summer,OTHER,,,,,season,season,season,season,OTHER
+gEqiHYTTCQA,summer,26.0,0.7818339467048645,season,/m/078qz,/m/0754v,summer,summer,OTHER,,,,,season,season,season,season,OTHER
+gEqiHYTTCQA,summer,27.0,0.7768628001213074,season,/m/078qz,/m/0754v,summer,summer,OTHER,,,,,season,season,season,season,OTHER
+gEqiHYTTCQA,summer,28.0,0.7530241608619691,season,/m/078qz,/m/0754v,summer,summer,OTHER,,,,,season,season,season,season,OTHER
+gEqiHYTTCQA,summer,29.0,0.7457104921340942,season,/m/078qz,/m/0754v,summer,summer,OTHER,,,,,season,season,season,season,OTHER
+gEqiHYTTCQA,summer,30.0,0.7530173063278198,season,/m/078qz,/m/0754v,summer,summer,OTHER,,,,,season,season,season,season,OTHER
+gEqiHYTTCQA,summer,31.0,0.7831586599349976,season,/m/078qz,/m/0754v,summer,summer,OTHER,,,,,season,season,season,season,OTHER
+gEqiHYTTCQA,sports,25.0,0.6911947727203369,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sports,26.0,0.4787352085113525,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sports,27.0,0.5044257044792175,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sports,28.0,0.4258094429969788,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sports,29.0,0.4348516166210175,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sports,30.0,0.6298245787620544,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,sports,31.0,0.5236850976943971,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gEqiHYTTCQA,competition event,25.0,0.7443306446075441,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gEqiHYTTCQA,competition event,26.0,0.6892160177230835,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gEqiHYTTCQA,competition event,27.0,0.7278099060058594,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gEqiHYTTCQA,competition event,28.0,0.67906653881073,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gEqiHYTTCQA,competition event,29.0,0.6278867125511169,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gEqiHYTTCQA,competition event,30.0,0.6891444325447083,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gEqiHYTTCQA,competition event,31.0,0.6244093179702759,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gEqiHYTTCQA,beach,25.0,0.8090985417366028,OTHER,/m/0b3yr,,beach,beach,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,beach,26.0,0.9110091328620912,OTHER,/m/0b3yr,,beach,beach,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,beach,27.0,0.9251341223716736,OTHER,/m/0b3yr,,beach,beach,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,beach,28.0,0.8986212611198425,OTHER,/m/0b3yr,,beach,beach,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,beach,29.0,0.9208371043205258,OTHER,/m/0b3yr,,beach,beach,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,beach,30.0,0.8931122422218323,OTHER,/m/0b3yr,,beach,beach,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,beach,31.0,0.9375118017196656,OTHER,/m/0b3yr,,beach,beach,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+gEqiHYTTCQA,facade,87.0,0.4045860171318054,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+gEqiHYTTCQA,cob,85.0,0.4010883569717407,material,/m/026gr8,/m/01l0y0,cob,cob,OTHER,,,,,material,material,material,material,OTHER
+gEqiHYTTCQA,cob,86.0,0.4347038269042969,material,/m/026gr8,/m/01l0y0,cob,cob,OTHER,,,,,material,material,material,material,OTHER
+gEqiHYTTCQA,cob,87.0,0.4333256185054779,material,/m/026gr8,/m/01l0y0,cob,cob,OTHER,,,,,material,material,material,material,OTHER
+gEqiHYTTCQA,mud,85.0,0.4047273695468903,material,/m/01qr50,/m/01l0y0,mud,mud,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,,material,material,material,material,OTHER
+gEqiHYTTCQA,mud,87.0,0.4067082703113556,material,/m/01qr50,/m/01l0y0,mud,mud,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,,material,material,material,material,OTHER
+gEqiHYTTCQA,earthquake,85.0,0.4735250174999237,disaster,/m/02r97,/m/028hh,earthquake,earthquake,OTHER,,,,EVENT,disaster,disaster,EVENT,disaster,EVENT
+gEqiHYTTCQA,earthquake,86.0,0.4365102052688599,disaster,/m/02r97,/m/028hh,earthquake,earthquake,OTHER,,,,EVENT,disaster,disaster,EVENT,disaster,EVENT
+gEqiHYTTCQA,earthquake,87.0,0.6095244288444519,disaster,/m/02r97,/m/028hh,earthquake,earthquake,OTHER,,,,EVENT,disaster,disaster,EVENT,disaster,EVENT
+gEqiHYTTCQA,natural disaster,85.0,0.5524583458900452,disaster,/m/0g2k1,/m/028hh,natural disaster,natural disaster,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,disaster,disaster,EVENT,disaster,EVENT
+gEqiHYTTCQA,natural disaster,86.0,0.4991484582424164,disaster,/m/0g2k1,/m/028hh,natural disaster,natural disaster,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,disaster,disaster,EVENT,disaster,EVENT
+gEqiHYTTCQA,natural disaster,87.0,0.5455837249755859,disaster,/m/0g2k1,/m/028hh,natural disaster,natural disaster,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,disaster,disaster,EVENT,disaster,EVENT
+gEqiHYTTCQA,disaster,85.0,0.8257485032081604,event,/m/028hh,/m/081pkj,disaster,disaster,OTHER,,http://dbpedia.org/ontology/Disease,,EVENT,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,disaster,86.0,0.7996440529823303,event,/m/028hh,/m/081pkj,disaster,disaster,OTHER,,http://dbpedia.org/ontology/Disease,,EVENT,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,disaster,87.0,0.83310866355896,event,/m/028hh,/m/081pkj,disaster,disaster,OTHER,,http://dbpedia.org/ontology/Disease,,EVENT,event,event,EVENT,event,EVENT
+gEqiHYTTCQA,geological phenomenon,85.0,0.8319991230964661,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,geological phenomenon,86.0,0.8434412479400635,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,geological phenomenon,87.0,0.8445490002632141,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,water,85.0,0.4759823381900787,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gEqiHYTTCQA,water,86.0,0.5318924188613892,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER

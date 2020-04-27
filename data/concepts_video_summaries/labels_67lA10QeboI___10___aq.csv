@@ -1,0 +1,137 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+67lA10QeboI,llanero,0.0,0.5835875272750854,person,/m/02hdz6,/m/01g317,llanero,llanero,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+67lA10QeboI,llanero,1.0,0.5912564396858215,person,/m/02hdz6,/m/01g317,llanero,llanero,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+67lA10QeboI,llanero,2.0,0.5884900093078613,person,/m/02hdz6,/m/01g317,llanero,llanero,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+67lA10QeboI,horse like mammal,0.0,0.7267732620239258,mammal,/m/02s3y,/m/04rky,horse like mammal,horse like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,horse like mammal,1.0,0.7378536462783813,mammal,/m/02s3y,/m/04rky,horse like mammal,horse like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,horse like mammal,2.0,0.7413434982299805,mammal,/m/02s3y,/m/04rky,horse like mammal,horse like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,ecoregion,0.0,0.6104467511177063,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,ecoregion,1.0,0.6098344922065735,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,ecoregion,2.0,0.6107351779937744,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,steppe,0.0,0.4670803844928742,geographical feature,/m/0f45l,/m/043rvww,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,steppe,1.0,0.46502193808555603,geographical feature,/m/0f45l,/m/043rvww,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,steppe,2.0,0.4710006415843964,geographical feature,/m/0f45l,/m/043rvww,steppe,steppe,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,ranch,0.0,0.733424961566925,landscape,/m/08w8zl,/m/025s3q0,ranch,ranch,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,landscape,landscape,landscape,LOCATION
+67lA10QeboI,ranch,1.0,0.7466036081314087,landscape,/m/08w8zl,/m/025s3q0,ranch,ranch,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,landscape,landscape,landscape,LOCATION
+67lA10QeboI,ranch,2.0,0.7533575892448425,landscape,/m/08w8zl,/m/025s3q0,ranch,ranch,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,landscape,landscape,landscape,LOCATION
+67lA10QeboI,history,0.0,0.603731632232666,OTHER,/m/03g3w,,history,history,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,history,1.0,0.6015415191650391,OTHER,/m/03g3w,,history,history,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,history,2.0,0.5924192667007446,OTHER,/m/03g3w,,history,history,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,cattle like mammal,0.0,0.8920605182647705,mammal,/m/0jzz1,/m/04rky,cattle like mammal,cattle like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,cattle like mammal,1.0,0.907932460308075,mammal,/m/0jzz1,/m/04rky,cattle like mammal,cattle like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,cattle like mammal,2.0,0.915940523147583,mammal,/m/0jzz1,/m/04rky,cattle like mammal,cattle like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,herd,0.0,0.9456152319908142,animal,/m/03vd46,/m/0jbk,herd,herd,OTHER,,,,ORGANIZATION,animal,animal,animal,animal,OTHER
+67lA10QeboI,herd,1.0,0.9307816624641418,animal,/m/03vd46,/m/0jbk,herd,herd,OTHER,,,,ORGANIZATION,animal,animal,animal,animal,OTHER
+67lA10QeboI,herd,2.0,0.9354394674301147,animal,/m/03vd46,/m/0jbk,herd,herd,OTHER,,,,ORGANIZATION,animal,animal,animal,animal,OTHER
+67lA10QeboI,horse,0.0,0.6238576173782349,"mammal, animal",/m/03k3r,"/m/04rky, /m/0jbk",horse,horse,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Animal",,ORGANIZATION,"mammal, animal","mammal, animal","mammal, animal","mammal, animal",OTHER
+67lA10QeboI,horse,1.0,0.6343158483505249,"mammal, animal",/m/03k3r,"/m/04rky, /m/0jbk",horse,horse,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Animal",,ORGANIZATION,"mammal, animal","mammal, animal","mammal, animal","mammal, animal",OTHER
+67lA10QeboI,horse,2.0,0.6386703252792358,"mammal, animal",/m/03k3r,"/m/04rky, /m/0jbk",horse,horse,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Animal",,ORGANIZATION,"mammal, animal","mammal, animal","mammal, animal","mammal, animal",OTHER
+67lA10QeboI,pack animal,0.0,0.8165416717529297,mammal,/m/0464z4,/m/04rky,pack animal,pack animal,PERSON,,http://dbpedia.org/ontology/Person,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,pack animal,1.0,0.8090400695800781,mammal,/m/0464z4,/m/04rky,pack animal,pack animal,PERSON,,http://dbpedia.org/ontology/Person,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,pack animal,2.0,0.8063704967498779,mammal,/m/0464z4,/m/04rky,pack animal,pack animal,PERSON,,http://dbpedia.org/ontology/Person,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,cattle,0.0,0.8221807479858398,animal,/m/01xq0k1,/m/0jbk,cattle,cattle,OTHER,,,,,animal,animal,animal,animal,OTHER
+67lA10QeboI,cattle,1.0,0.8451290130615234,animal,/m/01xq0k1,/m/0jbk,cattle,cattle,OTHER,,,,,animal,animal,animal,animal,OTHER
+67lA10QeboI,cattle,2.0,0.8546950221061707,animal,/m/01xq0k1,/m/0jbk,cattle,cattle,OTHER,,,,,animal,animal,animal,animal,OTHER
+67lA10QeboI,working animal,1.0,0.40259602665901184,animal,/m/07_gml,/m/0jbk,work animal,work animal,OTHER,,http://dbpedia.org/ontology/Animal,,,animal,animal,animal,animal,OTHER
+67lA10QeboI,working animal,2.0,0.4037301540374756,animal,/m/07_gml,/m/0jbk,work animal,work animal,OTHER,,http://dbpedia.org/ontology/Animal,,,animal,animal,animal,animal,OTHER
+67lA10QeboI,cowboy,0.0,0.757236123085022,person,/m/016f9d,/m/01g317,cowboy,cowboy,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,cowboy,1.0,0.7549992799758911,person,/m/016f9d,/m/01g317,cowboy,cowboy,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,cowboy,2.0,0.7635953426361084,person,/m/016f9d,/m/01g317,cowboy,cowboy,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,adaptation,0.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,adaptation,1.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,adaptation,2.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,stock photography,0.0,0.4831807613372803,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,stock photography,1.0,0.4783922135829926,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,stock photography,2.0,0.4784899055957794,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,livestock,0.0,0.5373269915580751,animal,/m/0ch8v,/m/0jbk,livestock,livestock,OTHER,,http://dbpedia.org/ontology/Animal,,,animal,animal,animal,animal,OTHER
+67lA10QeboI,livestock,1.0,0.5682902336120605,animal,/m/0ch8v,/m/0jbk,livestock,livestock,OTHER,,http://dbpedia.org/ontology/Animal,,,animal,animal,animal,animal,OTHER
+67lA10QeboI,livestock,2.0,0.5663763284683228,animal,/m/0ch8v,/m/0jbk,livestock,livestock,OTHER,,http://dbpedia.org/ontology/Animal,,,animal,animal,animal,animal,OTHER
+67lA10QeboI,american frontier,0.0,0.4077414870262146,OTHER,/m/01lgb6,,american frontier,american frontier,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,camel like mammal,0.0,0.4226383566856384,mammal,/m/01v4x4,/m/04rky,camel like mammal,camel like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+67lA10QeboI,landscape,0.0,0.6107394695281982,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,landscape,1.0,0.5860003232955933,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,landscape,2.0,0.5651710033416748,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+67lA10QeboI,mule,0.0,0.4406504929065704,"mammal, animal",/m/0dbzx,"/m/04rky, /m/0jbk",mule,mule,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Animal",,,"mammal, animal","mammal, animal","mammal, animal","mammal, animal",OTHER
+67lA10QeboI,mule,1.0,0.41636884212493896,"mammal, animal",/m/0dbzx,"/m/04rky, /m/0jbk",mule,mule,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Animal",,,"mammal, animal","mammal, animal","mammal, animal","mammal, animal",OTHER
+67lA10QeboI,mule,2.0,0.4084519147872925,"mammal, animal",/m/0dbzx,"/m/04rky, /m/0jbk",mule,mule,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Animal",,,"mammal, animal","mammal, animal","mammal, animal","mammal, animal",OTHER
+67lA10QeboI,sand,0.0,0.4294118881225586,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+67lA10QeboI,sand,1.0,0.4186587333679199,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+67lA10QeboI,sand,2.0,0.4076690375804901,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+67lA10QeboI,mustang horse,0.0,0.6245105862617493,horse,/m/02_fkk,/m/03k3r,mustang horse,mustang horse,OTHER,,,,,horse,horse,horse,horse,OTHER
+67lA10QeboI,mustang horse,1.0,0.5945480465888977,horse,/m/02_fkk,/m/03k3r,mustang horse,mustang horse,OTHER,,,,,horse,horse,horse,horse,OTHER
+67lA10QeboI,mustang horse,2.0,0.6121551990509033,horse,/m/02_fkk,/m/03k3r,mustang horse,mustang horse,OTHER,,,,,horse,horse,horse,horse,OTHER
+67lA10QeboI,gaucho,0.0,0.5871953368186951,person,/m/0229v7,/m/01g317,gaucho,gaucho,OTHER,,http://dbpedia.org/ontology/Food,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,gaucho,1.0,0.5810902118682861,person,/m/0229v7,/m/01g317,gaucho,gaucho,OTHER,,http://dbpedia.org/ontology/Food,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,gaucho,2.0,0.5803194642066956,person,/m/0229v7,/m/01g317,gaucho,gaucho,OTHER,,http://dbpedia.org/ontology/Food,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,ox,0.0,0.481305181980133,cattle,/m/03bx7vb,/m/01xq0k1,ox,ox,OTHER,,,,,cattle,cattle,cattle,cattle,OTHER
+67lA10QeboI,ox,1.0,0.5371366739273071,cattle,/m/03bx7vb,/m/01xq0k1,ox,ox,OTHER,,,,,cattle,cattle,cattle,cattle,OTHER
+67lA10QeboI,ox,2.0,0.5392007231712341,cattle,/m/03bx7vb,/m/01xq0k1,ox,ox,OTHER,,,,,cattle,cattle,cattle,cattle,OTHER
+67lA10QeboI,stockman,0.0,0.5829396247863771,person,/m/06w8l6,/m/01g317,stockman,stockman,OTHER,,,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,stockman,1.0,0.5872425436973572,person,/m/06w8l6,/m/01g317,stockman,stockman,OTHER,,,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,stockman,2.0,0.5906431078910828,person,/m/06w8l6,/m/01g317,stockman,stockman,OTHER,,,,PERSON,person,person,person,person,OTHER
+67lA10QeboI,visual effects,7.0,0.4663337469100952,person,/m/01vx2h,/m/01g317,visual effect,visual effect,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,person,person,person,person,OTHER
+67lA10QeboI,visual effects,8.0,0.438541978597641,person,/m/01vx2h,/m/01g317,visual effect,visual effect,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,person,person,person,person,OTHER
+67lA10QeboI,night,3.0,0.44767099618911743,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,night,5.0,0.4966165125370026,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,night,7.0,0.6138117909431458,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,phenomenon,3.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,phenomenon,6.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,phenomenon,7.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,phenomenon,8.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,scene,3.0,0.44483429193496704,OTHER,/m/09cvst,,scene,scene,OTHER,,,,"LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,screenshot,3.0,0.5941466093063354,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,screenshot,4.0,0.5661238431930542,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,screenshot,5.0,0.6574190855026245,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,screenshot,6.0,0.7236807942390442,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,screenshot,7.0,0.6716957688331604,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,screenshot,8.0,0.7648439407348633,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,pc game,8.0,0.4000798761844635,software,/m/04tr8s,/m/01mf0,pc game,pc game,OTHER,,,,,software,software,software,software,OTHER
+67lA10QeboI,digital compositing,3.0,0.4122319221496582,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+67lA10QeboI,digital compositing,4.0,0.4031392931938171,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+67lA10QeboI,digital compositing,5.0,0.43460580706596375,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+67lA10QeboI,digital compositing,6.0,0.4585643708705902,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+67lA10QeboI,digital compositing,7.0,0.4646163284778595,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+67lA10QeboI,digital compositing,8.0,0.4712779819965362,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+67lA10QeboI,shadow,7.0,0.4622021019458771,OTHER,/m/01ft8k,,shadow,shadow,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,shadow,8.0,0.6589634418487549,OTHER,/m/01ft8k,,shadow,shadow,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,midnight,3.0,0.4702905416488648,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,midnight,4.0,0.4521133899688721,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,midnight,5.0,0.4688170850276947,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,midnight,6.0,0.5236292481422424,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,midnight,7.0,0.5361697673797607,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,midnight,8.0,0.414794921875,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,computer wallpaper,4.0,0.5026429295539856,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+67lA10QeboI,computer wallpaper,5.0,0.47761270403862,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+67lA10QeboI,computer wallpaper,6.0,0.5611097812652588,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+67lA10QeboI,computer wallpaper,7.0,0.5195879340171814,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+67lA10QeboI,computer wallpaper,8.0,0.5210692286491394,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+67lA10QeboI,darkness,3.0,0.7620456218719482,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,darkness,4.0,0.824795126914978,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,darkness,5.0,0.8426081538200378,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,darkness,6.0,0.8634224534034729,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,darkness,7.0,0.8857426047325134,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,darkness,8.0,0.8348237872123718,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,space,4.0,0.40468403697013855,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,space,5.0,0.4101390540599823,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,space,6.0,0.4518969058990479,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,space,7.0,0.4738709330558777,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,space,8.0,0.4051597714424133,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,stock photography,3.0,0.4191348850727081,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,stock photography,4.0,0.44023847579956055,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,stock photography,5.0,0.4184956252574921,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,stock photography,6.0,0.43588441610336304,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,stock photography,7.0,0.41582390666008,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,stock photography,8.0,0.41377615928649897,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,wood,4.0,0.5994683504104614,OTHER,/m/083vt,,wood,wood,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,wood,6.0,0.7301082015037537,OTHER,/m/083vt,,wood,wood,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,wood,7.0,0.6076878309249878,OTHER,/m/083vt,,wood,wood,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,wood,8.0,0.6789795756340027,OTHER,/m/083vt,,wood,wood,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,texture,6.0,0.597042441368103,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,texture,7.0,0.5555189847946167,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,texture,8.0,0.4831477701663971,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,still life photography,4.0,0.4122242331504822,photography,/m/027_ny3,/m/05wkw,still life photography,still life photography,OTHER,,http://dbpedia.org/ontology/MusicGenre,,,photography,photography,photography,photography,OTHER
+67lA10QeboI,wood stain,6.0,0.4006586968898773,OTHER,/m/05t06b,,wood stain,wood stain,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,light,7.0,0.8262767791748047,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,atmosphere,7.0,0.7132505178451538,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+67lA10QeboI,sky,7.0,0.5029327273368835,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+67lA10QeboI,sky,8.0,0.4982045888900757,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION

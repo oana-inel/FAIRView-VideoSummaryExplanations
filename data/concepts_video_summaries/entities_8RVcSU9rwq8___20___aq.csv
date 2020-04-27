@@ -1,0 +1,15 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+8RVcSU9rwq8,Nastia Liukin,PERSON,/m/0bfy48,https://en.wikipedia.org/wiki/Nastia_Liukin,Nastia Liukin,46,0.0,0.0,PROPER,0.32579630613327026,0.4000000059604645,0.10000000149011612,Nastia Liukin,nastia liukin,,,,,,PERSON,PERSON,PERSON
+8RVcSU9rwq8,Nastia Liukin,PERSON,/m/0bfy48,https://en.wikipedia.org/wiki/Nastia_Liukin,gymnast,38,0.10000000149011612,0.10000000149011612,COMMON,0.32579630613327026,0.4000000059604645,0.10000000149011612,Nastia Liukin,nastia liukin,,,,,,PERSON,PERSON,PERSON
+8RVcSU9rwq8,Nastia Liukin,PERSON,/m/0bfy48,https://en.wikipedia.org/wiki/Nastia_Liukin,champion,92,0.0,0.0,COMMON,0.32579630613327026,0.4000000059604645,0.10000000149011612,Nastia Liukin,nastia liukin,,,,,,PERSON,PERSON,PERSON
+8RVcSU9rwq8,Olympic,EVENT,/m/06vvk,https://en.wikipedia.org/wiki/Summer_Olympic_Games,Olympic,30,0.30000001192092896,0.30000001192092896,PROPER,0.18141618371009827,0.6000000238418579,0.0,Olympic,olympic,,,,,,EVENT,EVENT,EVENT
+8RVcSU9rwq8,Olympic,EVENT,/m/06vvk,https://en.wikipedia.org/wiki/Summer_Olympic_Games,Olympic,73,0.0,0.0,PROPER,0.18141618371009827,0.6000000238418579,0.0,Olympic,olympic,,,,,,EVENT,EVENT,EVENT
+8RVcSU9rwq8,Beijing,LOCATION,/m/01914,https://en.wikipedia.org/wiki/Beijing,Beijing,104,0.0,0.0,PROPER,0.013900828547775744,0.0,0.0,Beijing,beijing,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+8RVcSU9rwq8,Olympic,EVENT,/m/06vvk,https://en.wikipedia.org/wiki/Summer_Olympic_Games,Olympic,311,0.0,0.0,PROPER,0.18141618371009827,0.6000000238418579,0.0,Olympic,olympic,,,,,,EVENT,EVENT,EVENT
+8RVcSU9rwq8,trials,EVENT,,,trials,319,0.0,0.0,COMMON,0.010020889341831207,0.0,0.0,trial,trial,,,,,EVENT,EVENT,EVENT,EVENT
+8RVcSU9rwq8,bars,OTHER,,,bars,383,0.8000000119209291,-0.8000000119209291,COMMON,0.010020889341831207,0.8000000119209291,-0.8000000119209291,bar,bar,,,,,ORGANIZATION,OTHER,OTHER,OTHER
+8RVcSU9rwq8,routine,OTHER,,,routine,361,0.10000000149011612,-0.10000000149011612,COMMON,0.010020889341831207,0.10000000149011612,-0.10000000149011612,routine,routine,,,,,,OTHER,OTHER,OTHER
+8RVcSU9rwq8,teammates,PERSON,,,teammates,423,0.0,0.0,COMMON,0.010961150750517843,0.0,0.0,teammate,teammate,,,,,PERSON,PERSON,PERSON,PERSON
+8RVcSU9rwq8,fans,PERSON,,,fans,441,0.10000000149011612,-0.10000000149011612,COMMON,0.008783167228102684,0.10000000149011612,-0.10000000149011612,fan,fan,,,,,PERSON,PERSON,PERSON,PERSON
+8RVcSU9rwq8,standing ovation,OTHER,,,standing ovation,624,0.10000000149011612,-0.10000000149011612,COMMON,0.006712508853524922,0.10000000149011612,-0.10000000149011612,stand ovation,stand ovation,,,,,,OTHER,OTHER,OTHER
+8RVcSU9rwq8,home,LOCATION,,,home,666,0.0,0.0,COMMON,0.005888467654585838,0.0,0.0,home,home,,,,,"LOCATION, ORGANIZATION",LOCATION,LOCATION,LOCATION

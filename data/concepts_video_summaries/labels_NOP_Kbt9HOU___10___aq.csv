@@ -1,0 +1,224 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+NOP_Kbt9HOU,geological phenomenon,13.0,0.7477093935012817,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,tree,10.0,0.8743705153465271,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,tree,11.0,0.8417127132415771,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,tree,12.0,0.9348894953727722,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,tree,13.0,0.8732653856277466,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,tree,14.0,0.911543905735016,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,tree,15.0,0.6948725581169128,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,photo caption,13.0,0.4742759466171265,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+NOP_Kbt9HOU,text,14.0,0.6992390751838684,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,text,15.0,0.6530353426933289,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,vertebrate,13.0,0.9037036299705504,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+NOP_Kbt9HOU,compost,15.0,0.4509589374065399,OTHER,/m/01ss0,,compost,compost,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,grass,10.0,0.5298410654067993,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,grass,11.0,0.5535280704498291,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,grass,12.0,0.6137093901634216,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,grass,13.0,0.5158953666687012,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,grass,14.0,0.628579318523407,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,grass,15.0,0.5341927409172058,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,jungle,10.0,0.7621228694915771,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,jungle,11.0,0.6489564776420593,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,jungle,12.0,0.7914178371429443,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,jungle,13.0,0.6901931166648865,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,jungle,14.0,0.66182941198349,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,jungle,15.0,0.6031515002250671,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,plant,10.0,0.7192927598953247,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,plant,11.0,0.7692636847496033,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,plant,12.0,0.7928151488304138,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,plant,13.0,0.7280258536338806,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,plant,14.0,0.8227885961532593,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,plant,15.0,0.4318304061889648,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,adventure,10.0,0.4902250468730927,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,adventure,14.0,0.5927305221557617,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,screenshot,11.0,0.4416357278823853,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,woodland,10.0,0.4077231287956238,forest,/m/0hnc1,/m/02zr8,woodland,woodland,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,,LOCATION,forest,forest,forest,LOCATION
+NOP_Kbt9HOU,woodland,12.0,0.4881271421909332,forest,/m/0hnc1,/m/02zr8,woodland,woodland,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,,LOCATION,forest,forest,forest,LOCATION
+NOP_Kbt9HOU,woodland,14.0,0.4626526832580566,forest,/m/0hnc1,/m/02zr8,woodland,woodland,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,,LOCATION,forest,forest,forest,LOCATION
+NOP_Kbt9HOU,woodland,15.0,0.6020587086677551,forest,/m/0hnc1,/m/02zr8,woodland,woodland,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,,LOCATION,forest,forest,forest,LOCATION
+NOP_Kbt9HOU,adaptation,10.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,adaptation,11.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,adaptation,12.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,adaptation,13.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,adaptation,14.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,adaptation,15.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,mud,12.0,0.4676921963691712,material,/m/01qr50,/m/01l0y0,mud,mud,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,,material,material,material,material,OTHER
+NOP_Kbt9HOU,soil,10.0,0.6962302327156067,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,soil,11.0,0.6568318605422974,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,soil,12.0,0.7946360111236572,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,soil,13.0,0.7564205527305603,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,soil,14.0,0.9164400696754456,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,soil,15.0,0.9380128979682922,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,trail,10.0,0.4249524176120758,OTHER,/m/0hm03,,trail,trail,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+NOP_Kbt9HOU,trail,12.0,0.4560365974903106,OTHER,/m/0hm03,,trail,trail,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+NOP_Kbt9HOU,trail,14.0,0.6972495317459106,OTHER,/m/0hm03,,trail,trail,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+NOP_Kbt9HOU,recreation,10.0,0.58028244972229,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,recreation,12.0,0.5274835824966431,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,recreation,14.0,0.5740833878517151,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,style,10.0,0.40765324234962463,weak entity,/m/012yh1,/m/0pccj,style,style,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+NOP_Kbt9HOU,animal,13.0,0.4335820972919464,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,forest,10.0,0.7197478413581848,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,forest,11.0,0.5548783540725708,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,forest,12.0,0.7974581122398376,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,forest,13.0,0.6148706674575806,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,forest,14.0,0.5842985510826111,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,forest,15.0,0.5794229507446289,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,world,10.0,0.4160602390766144,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,world,11.0,0.4123543798923493,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,world,12.0,0.4005061089992523,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,world,14.0,0.4535143673419952,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,mammal,12.0,0.9251099824905396,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+NOP_Kbt9HOU,mammal,13.0,0.9247717261314392,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+NOP_Kbt9HOU,firearm,15.0,0.8326433300971985,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+NOP_Kbt9HOU,rainforest,10.0,0.4060819745063782,forest,/m/0d8cn,/m/02zr8,rainforest,rainforest,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,ORGANIZATION,LOCATION,forest,forest,forest,LOCATION
+NOP_Kbt9HOU,rainforest,12.0,0.4059334099292755,forest,/m/0d8cn,/m/02zr8,rainforest,rainforest,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,ORGANIZATION,LOCATION,forest,forest,forest,LOCATION
+NOP_Kbt9HOU,tree,18.0,0.8638622760772705,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,tree,19.0,0.4915259778499603,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,tree,20.0,0.6116185784339905,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+NOP_Kbt9HOU,watercourse,19.0,0.7581893801689148,OTHER,/m/03kj4q,,watercourse,watercourse,OTHER,,http://dbpedia.org/ontology/TelevisionStation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,watercourse,20.0,0.8856412172317505,OTHER,/m/03kj4q,,watercourse,watercourse,OTHER,,http://dbpedia.org/ontology/TelevisionStation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,watercourse,21.0,0.8471779823303223,OTHER,/m/03kj4q,,watercourse,watercourse,OTHER,,http://dbpedia.org/ontology/TelevisionStation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,watercourse,22.0,0.7537539601325989,OTHER,/m/03kj4q,,watercourse,watercourse,OTHER,,http://dbpedia.org/ontology/TelevisionStation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,rafting,20.0,0.4610687792301178,sports,/m/0162j4,/m/06ntj,raft,raft,OTHER,,http://dbpedia.org/ontology/GovernmentAgency,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,rafting,21.0,0.42423275113105774,sports,/m/0162j4,/m/06ntj,raft,raft,OTHER,,http://dbpedia.org/ontology/GovernmentAgency,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,leisure,19.0,0.9136214852333068,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,leisure,20.0,0.645177960395813,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,leisure,21.0,0.7313970923423767,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,leisure,22.0,0.5700942873954773,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,landscape,20.0,0.4327947795391083,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,outdoor recreation,18.0,0.7962802052497864,OTHER,/m/05b0n7k,,outdoor recreation,outdoor recreation,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,outdoor recreation,19.0,0.7929595112800598,OTHER,/m/05b0n7k,,outdoor recreation,outdoor recreation,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,outdoor recreation,20.0,0.8117249608039856,OTHER,/m/05b0n7k,,outdoor recreation,outdoor recreation,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,event,18.0,0.5215438008308411,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,rowing,19.0,0.6391057968139648,sports,/m/06f41,/m/06ntj,row,row,OTHER,,http://dbpedia.org/ontology/Band,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,rowing,21.0,0.5621393322944641,sports,/m/06f41,/m/06ntj,row,row,OTHER,,http://dbpedia.org/ontology/Band,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,rowing,22.0,0.4806944727897644,sports,/m/06f41,/m/06ntj,row,row,OTHER,,http://dbpedia.org/ontology/Band,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,waterway,19.0,0.9667029976844788,OTHER,/m/017m8l,,waterway,waterway,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,waterway,20.0,0.9738513231277466,OTHER,/m/017m8l,,waterway,waterway,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,waterway,21.0,0.9757384061813354,OTHER,/m/017m8l,,waterway,waterway,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,waterway,22.0,0.9753240942955016,OTHER,/m/017m8l,,waterway,waterway,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water resources,19.0,0.8963154554367065,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+NOP_Kbt9HOU,water resources,20.0,0.9357815980911256,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+NOP_Kbt9HOU,water resources,21.0,0.9343099594116212,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+NOP_Kbt9HOU,water resources,22.0,0.8612062335014343,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+NOP_Kbt9HOU,inflatable boat,19.0,0.4835686087608338,boat,/m/02hrx1,/m/019jd,inflatable boat,inflatable boat,OTHER,,http://dbpedia.org/ontology/Ship,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,inflatable boat,21.0,0.6269363760948181,boat,/m/02hrx1,/m/019jd,inflatable boat,inflatable boat,OTHER,,http://dbpedia.org/ontology/Ship,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,inflatable boat,22.0,0.6771498918533325,boat,/m/02hrx1,/m/019jd,inflatable boat,inflatable boat,OTHER,,http://dbpedia.org/ontology/Ship,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,canoe,19.0,0.6955783367156982,boat,/m/0ph39,/m/019jd,canoe,canoe,OTHER,,http://dbpedia.org/ontology/Ship,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,canoe,20.0,0.7380331754684448,boat,/m/0ph39,/m/019jd,canoe,canoe,OTHER,,http://dbpedia.org/ontology/Ship,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,canoe,21.0,0.9352567791938782,boat,/m/0ph39,/m/019jd,canoe,canoe,OTHER,,http://dbpedia.org/ontology/Ship,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,canoe,22.0,0.7178745269775391,boat,/m/0ph39,/m/019jd,canoe,canoe,OTHER,,http://dbpedia.org/ontology/Ship,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,canoeing,21.0,0.8773127794265747,sports,/m/01psvn,/m/06ntj,canoe,canoe,OTHER,,"http://www.ontologydesignpatterns.org/ont/d0.owl#Activity, http://dbpedia.org/ontology/Sport, http://dbpedia.org/ontology/Activity",,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,canoeing,22.0,0.6417744755744934,sports,/m/01psvn,/m/06ntj,canoe,canoe,OTHER,,"http://www.ontologydesignpatterns.org/ont/d0.owl#Activity, http://dbpedia.org/ontology/Sport, http://dbpedia.org/ontology/Activity",,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,surface water sports,21.0,0.7202013731002808,sports,/m/0dxnmb,/m/06ntj,surface water sport,surface water sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,surface water sports,22.0,0.7453052401542664,sports,/m/0dxnmb,/m/06ntj,surface water sport,surface water sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,vertebrate,18.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+NOP_Kbt9HOU,kayak,21.0,0.5690881013870239,boat,/m/04fdw,/m/019jd,kayak,kayak,OTHER,,http://dbpedia.org/ontology/Ship,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,crowd,18.0,0.7887579202651978,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+NOP_Kbt9HOU,nature,19.0,0.9633811116218568,OTHER,/m/05h0n,,nature,nature,OTHER,,http://dbpedia.org/ontology/Agent,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,nature,20.0,0.9593430757522584,OTHER,/m/05h0n,,nature,nature,OTHER,,http://dbpedia.org/ontology/Agent,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,nature,21.0,0.9622882604599,OTHER,/m/05h0n,,nature,nature,OTHER,,http://dbpedia.org/ontology/Agent,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,nature,22.0,0.9571656584739684,OTHER,/m/05h0n,,nature,nature,OTHER,,http://dbpedia.org/ontology/Agent,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,park,19.0,0.4364301264286041,OTHER,/m/0166ls,,park,park,LOCATION,,http://dbpedia.org/ontology/Place,,"LOCATION, PERSON",LOCATION,OTHER,EVENT,OTHER,LOCATION
+NOP_Kbt9HOU,stream,20.0,0.7136584520339966,geographical feature,/m/0j6m2,/m/043rvww,stream,stream,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, EVENT",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,stream,21.0,0.5102053284645081,geographical feature,/m/0j6m2,/m/043rvww,stream,stream,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, EVENT",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,raft,21.0,0.4770143032073975,boat,/m/019fyk,/m/019jd,raft,raft,OTHER,,,,,boat,boat,boat,boat,OTHER
+NOP_Kbt9HOU,jungle,18.0,0.6573893427848816,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,jungle,20.0,0.5363095998764038,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,tourism,18.0,0.4377614855766296,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,tourism,19.0,0.5517106652259827,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,tourism,20.0,0.4440572559833527,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,vacation,19.0,0.6501270532608032,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+NOP_Kbt9HOU,vacation,20.0,0.4925550818443298,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+NOP_Kbt9HOU,vacation,22.0,0.4309389591217041,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+NOP_Kbt9HOU,oar,21.0,0.6696453094482422,OTHER,/m/01kw8y,,oar,oar,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,people,18.0,0.9579705595970154,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+NOP_Kbt9HOU,plant,18.0,0.4986758828163147,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,boating,19.0,0.8227669000625609,sports,/m/03m4wn,/m/06ntj,boat,boat,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,boating,20.0,0.5869176983833313,sports,/m/03m4wn,/m/06ntj,boat,boat,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,boating,21.0,0.8480455875396729,sports,/m/03m4wn,/m/06ntj,boat,boat,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,boating,22.0,0.8809656500816345,sports,/m/03m4wn,/m/06ntj,boat,boat,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,watercraft,19.0,0.5557253360748291,vehicle,/m/01rzcn,/m/07yv9,watercraft,watercraft,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+NOP_Kbt9HOU,watercraft,20.0,0.4463867843151093,vehicle,/m/01rzcn,/m/07yv9,watercraft,watercraft,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+NOP_Kbt9HOU,watercraft,21.0,0.8003095984458923,vehicle,/m/01rzcn,/m/07yv9,watercraft,watercraft,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+NOP_Kbt9HOU,watercraft,22.0,0.7737385034561157,vehicle,/m/01rzcn,/m/07yv9,watercraft,watercraft,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+NOP_Kbt9HOU,vehicle,18.0,0.5948396921157837,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,vehicle,19.0,0.7102423310279846,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,vehicle,20.0,0.7340042591094971,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,vehicle,21.0,0.8296692967414856,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,vehicle,22.0,0.7195747494697571,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,boats and boating equipment and supplies,19.0,0.40541672706604,OTHER,/m/0bp3j53,,boat and boat equipment and supply,boat and boat equipment and supply,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,boats and boating equipment and supplies,20.0,0.5388885736465454,OTHER,/m/0bp3j53,,boat and boat equipment and supply,boat and boat equipment and supply,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,boats and boating equipment and supplies,21.0,0.8121946454048157,OTHER,/m/0bp3j53,,boat and boat equipment and supply,boat and boat equipment and supply,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,boats and boating equipment and supplies,22.0,0.6430312395095825,OTHER,/m/0bp3j53,,boat and boat equipment and supply,boat and boat equipment and supply,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water sport,20.0,0.4083434939384461,sports,/m/02fhdf,/m/06ntj,water sport,water sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,water sport,21.0,0.5116083025932312,sports,/m/02fhdf,/m/06ntj,water sport,water sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,water sport,22.0,0.5491012334823608,sports,/m/02fhdf,/m/06ntj,water sport,water sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,water transportation,19.0,0.9240499138832092,transport,/m/08rrcl,/m/07bsy,water transportation,water transportation,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,transport,transport,transport,transport,OTHER
+NOP_Kbt9HOU,water transportation,20.0,0.9240496158599854,transport,/m/08rrcl,/m/07bsy,water transportation,water transportation,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,transport,transport,transport,transport,OTHER
+NOP_Kbt9HOU,water transportation,21.0,0.9240193963050842,transport,/m/08rrcl,/m/07bsy,water transportation,water transportation,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,transport,transport,transport,transport,OTHER
+NOP_Kbt9HOU,water transportation,22.0,0.924048125743866,transport,/m/08rrcl,/m/07bsy,water transportation,water transportation,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,transport,transport,transport,transport,OTHER
+NOP_Kbt9HOU,adventure,18.0,0.6740148663520813,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,adventure,19.0,0.5744649171829224,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,adventure,20.0,0.6976017951965332,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,adventure,21.0,0.7864918708801271,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,adventure,22.0,0.7839356660842896,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,body of water,20.0,0.934986174106598,OTHER,/m/03ktm1,,body of water,body of water,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water feature,19.0,0.7303534150123596,OTHER,/m/090j23,,water feature,water feature,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water feature,20.0,0.7232486605644226,OTHER,/m/090j23,,water feature,water feature,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water feature,21.0,0.7433063387870789,OTHER,/m/090j23,,water feature,water feature,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water feature,22.0,0.7472274303436279,OTHER,/m/090j23,,water feature,water feature,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,kayaking,21.0,0.7467358708381653,sports,/m/025sylx,/m/06ntj,kayak,kayak,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,kayaking,22.0,0.5417189598083496,sports,/m/025sylx,/m/06ntj,kayak,kayak,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,picnic,18.0,0.4962348639965058,event,/m/01kt56,/m/081pkj,picnic,picnic,OTHER,,,,,event,event,EVENT,event,EVENT
+NOP_Kbt9HOU,watercraft rowing,19.0,0.8000636696815491,OTHER,/m/056ks2,,watercraft rowing,watercraft rowing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,watercraft rowing,20.0,0.6031408905982971,OTHER,/m/056ks2,,watercraft rowing,watercraft rowing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,watercraft rowing,21.0,0.7289906740188599,OTHER,/m/056ks2,,watercraft rowing,watercraft rowing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,watercraft rowing,22.0,0.63381427526474,OTHER,/m/056ks2,,watercraft rowing,watercraft rowing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,rapid,19.0,0.6182593107223511,river,/m/06gl1,/m/06cnp,rapid,rapid,OTHER,,,,,LOCATION,river,river,river,LOCATION
+NOP_Kbt9HOU,rapid,20.0,0.7684507966041565,river,/m/06gl1,/m/06cnp,rapid,rapid,OTHER,,,,,LOCATION,river,river,river,LOCATION
+NOP_Kbt9HOU,rapid,21.0,0.9032822847366332,river,/m/06gl1,/m/06cnp,rapid,rapid,OTHER,,,,,LOCATION,river,river,river,LOCATION
+NOP_Kbt9HOU,rapid,22.0,0.9160400629043579,river,/m/06gl1,/m/06cnp,rapid,rapid,OTHER,,,,,LOCATION,river,river,river,LOCATION
+NOP_Kbt9HOU,fun,18.0,0.7868418097496033,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,fun,19.0,0.8797122240066528,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,fun,20.0,0.6966517567634583,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,fun,21.0,0.6488599181175232,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,fun,22.0,0.635484516620636,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,boat,19.0,0.8358985781669617,vehicle,/m/019jd,/m/07yv9,boat,boat,OTHER,,http://dbpedia.org/ontology/Ship,,,vehicle,vehicle,vehicle,vehicle,OTHER
+NOP_Kbt9HOU,boat,20.0,0.7839229106903076,vehicle,/m/019jd,/m/07yv9,boat,boat,OTHER,,http://dbpedia.org/ontology/Ship,,,vehicle,vehicle,vehicle,vehicle,OTHER
+NOP_Kbt9HOU,boat,21.0,0.935097336769104,vehicle,/m/019jd,/m/07yv9,boat,boat,OTHER,,http://dbpedia.org/ontology/Ship,,,vehicle,vehicle,vehicle,vehicle,OTHER
+NOP_Kbt9HOU,boat,22.0,0.8835929036140442,vehicle,/m/019jd,/m/07yv9,boat,boat,OTHER,,http://dbpedia.org/ontology/Ship,,,vehicle,vehicle,vehicle,vehicle,OTHER
+NOP_Kbt9HOU,bayou,20.0,0.4861799776554108,geographical feature,/m/02yybg,/m/043rvww,bayou,bayou,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,tributary,20.0,0.45075470209121704,stream,/m/0jj_h,/m/0j6m2,tributary,tributary,OTHER,,http://dbpedia.org/ontology/River,,,LOCATION,stream,stream,stream,LOCATION
+NOP_Kbt9HOU,boardsport,21.0,0.515156626701355,sports,/m/09qkx,/m/06ntj,boardsport,boardsport,OTHER,,http://dbpedia.org/ontology/Broadcaster,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,boardsport,22.0,0.7403178215026855,sports,/m/09qkx,/m/06ntj,boardsport,boardsport,OTHER,,http://dbpedia.org/ontology/Broadcaster,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,creek,20.0,0.5035777091979979,OTHER,/m/03ybsm,,creek,creek,OTHER,,,,PERSON,LOCATION,OTHER,OTHER,OTHER,LOCATION
+NOP_Kbt9HOU,extreme sport,21.0,0.6448616981506348,sports,/m/02pyg,/m/06ntj,extreme sport,extreme sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,extreme sport,22.0,0.4186083376407623,sports,/m/02pyg,/m/06ntj,extreme sport,extreme sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,tubing,21.0,0.5686208605766296,OTHER,/m/06sk_3,,tube,tube,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,tubing,22.0,0.48361736536026,OTHER,/m/06sk_3,,tube,tube,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+NOP_Kbt9HOU,paddle,19.0,0.5173952579498291,OTHER,/m/014y4n,,paddle,paddle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,paddle,20.0,0.4795657694339752,OTHER,/m/014y4n,,paddle,paddle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,paddle,21.0,0.6947326064109802,OTHER,/m/014y4n,,paddle,paddle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,paddle,22.0,0.4948410391807556,OTHER,/m/014y4n,,paddle,paddle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,river,19.0,0.802209198474884,geographical feature,/m/06cnp,/m/043rvww,river,river,OTHER,,http://dbpedia.org/ontology/River,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,river,20.0,0.9264528751373292,geographical feature,/m/06cnp,/m/043rvww,river,river,OTHER,,http://dbpedia.org/ontology/River,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,river,21.0,0.9398317337036132,geographical feature,/m/06cnp,/m/043rvww,river,river,OTHER,,http://dbpedia.org/ontology/River,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,river,22.0,0.9157274961471558,geographical feature,/m/06cnp,/m/043rvww,river,river,OTHER,,http://dbpedia.org/ontology/River,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,recreation,18.0,0.7402312159538269,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,recreation,19.0,0.7136588096618652,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,recreation,20.0,0.6273384094238281,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,recreation,21.0,0.5726768970489502,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,recreation,22.0,0.6378127932548523,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,style,18.0,0.4799223244190216,weak entity,/m/012yh1,/m/0pccj,style,style,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+NOP_Kbt9HOU,community,18.0,0.8732191324234009,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+NOP_Kbt9HOU,forest,18.0,0.5056313276290894,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,forest,20.0,0.5957145690917969,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+NOP_Kbt9HOU,world,19.0,0.4196113049983978,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,powerboating,22.0,0.4579793214797974,sports,/m/05yz00,/m/06ntj,powerboating,powerboating,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+NOP_Kbt9HOU,mammal,18.0,0.9261809587478638,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+NOP_Kbt9HOU,water,19.0,0.9696105718612672,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water,20.0,0.9561436176300048,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water,21.0,0.922278106212616,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,water,22.0,0.8806892037391663,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+NOP_Kbt9HOU,rainforest,20.0,0.4598324000835418,forest,/m/0d8cn,/m/02zr8,rainforest,rainforest,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,ORGANIZATION,LOCATION,forest,forest,forest,LOCATION

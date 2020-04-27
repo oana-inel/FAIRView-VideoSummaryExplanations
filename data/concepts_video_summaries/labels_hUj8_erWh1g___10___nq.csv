@@ -1,0 +1,267 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+hUj8_erWh1g,competition event,32.0,0.5481824278831482,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,spring break,34.0,0.5644701719284058,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+hUj8_erWh1g,event,32.0,0.7637704610824585,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,event,33.0,0.4945064783096314,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,event,34.0,0.5540521740913391,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,event,35.0,0.5670623779296875,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,social group,34.0,0.916603684425354,OTHER,/m/01b4q9,,social group,social group,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,parade,32.0,0.4715948402881622,festival,/m/063r3,/m/0hr5k,parade,parade,OTHER,,http://dbpedia.org/ontology/Holiday,,ORGANIZATION,festival,festival,EVENT,festival,EVENT
+hUj8_erWh1g,student,33.0,0.4668770134449005,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+hUj8_erWh1g,student,34.0,0.4378205239772797,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+hUj8_erWh1g,crowd,32.0,0.9829181432724,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,crowd,33.0,0.9007452130317688,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,crowd,34.0,0.93264502286911,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,crowd,35.0,0.8719604015350342,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,people,32.0,0.9693752527236938,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hUj8_erWh1g,people,33.0,0.9730353355407716,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hUj8_erWh1g,people,34.0,0.9658955931663512,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hUj8_erWh1g,people,35.0,0.971166968345642,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hUj8_erWh1g,street,32.0,0.7173759937286377,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+hUj8_erWh1g,facial expression,33.0,0.9371699690818788,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+hUj8_erWh1g,facial expression,34.0,0.9403938055038452,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+hUj8_erWh1g,audience,32.0,0.6432936787605286,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,audience,33.0,0.6003164052963257,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,audience,34.0,0.6711916327476501,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,audience,35.0,0.4444648027420044,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,city,32.0,0.5546132326126099,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+hUj8_erWh1g,religion,35.0,0.5293855667114258,OTHER,/m/06bvp,,religion,religion,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,protest,32.0,0.5681731700897217,event,/m/01nd_n,/m/081pkj,protest,protest,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,event,event,EVENT,event,EVENT
+hUj8_erWh1g,community,32.0,0.8414618372917175,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hUj8_erWh1g,community,33.0,0.8093838691711426,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hUj8_erWh1g,community,34.0,0.8037097454071045,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hUj8_erWh1g,community,35.0,0.8216283917427063,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hUj8_erWh1g,world,32.0,0.4371482133865357,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,world,33.0,0.404967725276947,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,international student,33.0,0.4880584180355072,person,/m/01mytk,/m/01g317,international student,international student,OTHER,,,,,person,person,person,person,OTHER
+hUj8_erWh1g,public event,32.0,0.6730740070343018,event,/g/116c3n66l,/m/081pkj,public event,public event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,public event,34.0,0.6052646636962891,event,/g/116c3n66l,/m/081pkj,public event,public event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,happiness,34.0,0.5918477177619934,person,/m/016pp7,/m/01g317,happiness,happiness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,,person,person,person,person,OTHER
+hUj8_erWh1g,sports,32.0,0.4588024616241455,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,smile,33.0,0.7085379958152771,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hUj8_erWh1g,smile,34.0,0.7594923377037048,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hUj8_erWh1g,smile,35.0,0.6494158506393433,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hUj8_erWh1g,fête,32.0,0.4435601532459259,festival,/m/07bb2_,/m/0hr5k,fête,fête,EVENT,,http://dbpedia.org/ontology/SocietalEvent,,,festival,festival,EVENT,festival,EVENT
+hUj8_erWh1g,demonstration,32.0,0.6185587644577026,education,/m/026yq0z,/m/02jfc,demonstration,demonstration,OTHER,,,,,education,education,education,education,OTHER
+hUj8_erWh1g,tourism,32.0,0.4899213612079621,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,pedestrian,32.0,0.6026302576065063,person,/m/017r8p,/m/01g317,pedestrian,pedestrian,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hUj8_erWh1g,product,32.0,0.6099262237548828,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,product,33.0,0.7567393183708191,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,product,34.0,0.6641608476638794,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,product,35.0,0.7037586569786072,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,cheering,33.0,0.4565619230270386,person,/m/053hz1,/m/01g317,cheer,cheer,OTHER,,,,,person,person,person,person,OTHER
+hUj8_erWh1g,cheering,34.0,0.5826670527458191,person,/m/053hz1,/m/01g317,cheer,cheer,OTHER,,,,,person,person,person,person,OTHER
+hUj8_erWh1g,day,32.0,0.8905072212219238,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,day,33.0,0.8904891610145569,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,day,34.0,0.8892492651939392,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,day,35.0,0.8891608715057373,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,32.0,0.5773826241493225,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,33.0,0.7301000952720642,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,34.0,0.8386508226394653,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,35.0,0.709116518497467,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,team,32.0,0.5034428238868713,organization,/m/011l78,/m/0qb7t,team,team,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+hUj8_erWh1g,socialite,34.0,0.6303303837776184,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hUj8_erWh1g,socialite,35.0,0.4146801233291626,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hUj8_erWh1g,festival,32.0,0.6398741602897644,event,/m/0hr5k,/m/081pkj,festival,festival,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,EVENT,event,EVENT
+hUj8_erWh1g,festival,33.0,0.6004888415336609,event,/m/0hr5k,/m/081pkj,festival,festival,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,EVENT,event,EVENT
+hUj8_erWh1g,festival,34.0,0.6122418045997621,event,/m/0hr5k,/m/081pkj,festival,festival,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,EVENT,event,EVENT
+hUj8_erWh1g,festival,35.0,0.5100470185279846,event,/m/0hr5k,/m/081pkj,festival,festival,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,EVENT,event,EVENT
+hUj8_erWh1g,recreation,32.0,0.7405387759208679,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,style,33.0,0.4016473889350891,weak entity,/m/012yh1,/m/0pccj,style,style,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+hUj8_erWh1g,headgear,34.0,0.7768381834030151,clothing,/m/01443y,/m/09j2d,headgear,headgear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+hUj8_erWh1g,headgear,35.0,0.7300018072128296,clothing,/m/01443y,/m/09j2d,headgear,headgear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+hUj8_erWh1g,abdomen,33.0,0.4545803964138031,trunk,/m/08y7p8,/m/031vtq,abdomen,abdomen,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,trunk,OTHER,trunk,trunk,OTHER
+hUj8_erWh1g,abdomen,34.0,0.5013144016265869,trunk,/m/08y7p8,/m/031vtq,abdomen,abdomen,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,trunk,OTHER,trunk,trunk,OTHER
+hUj8_erWh1g,competition event,53.0,0.6879122257232666,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,competition event,54.0,0.7150463461875916,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,competition event,55.0,0.7143821716308594,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,competition event,56.0,0.7552119493484497,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,ball,55.0,0.4075363874435425,OTHER,/m/018xm,,ball,ball,OTHER,,,,"ORGANIZATION, PERSON, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,basketball court,53.0,0.6941719055175781,"location, structure",/m/0329yh,"/m/078x4m, /m/0n68_",basketball court,basketball court,OTHER,,,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,basketball court,54.0,0.5342289805412292,"location, structure",/m/0329yh,"/m/078x4m, /m/0n68_",basketball court,basketball court,OTHER,,,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,basketball court,55.0,0.6602360010147095,"location, structure",/m/0329yh,"/m/078x4m, /m/0n68_",basketball court,basketball court,OTHER,,,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,basketball court,56.0,0.44929203391075134,"location, structure",/m/0329yh,"/m/078x4m, /m/0n68_",basketball court,basketball court,OTHER,,,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,ball over a net games,55.0,0.4867607653141022,sports,/m/0ch36lm,/m/06ntj,ball over a net game,ball over a net game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,structure,53.0,0.7890710234642029,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hUj8_erWh1g,hobby,54.0,0.4960372745990753,art,/m/03glg,/m/0jjw,hobby,hobby,OTHER,,http://dbpedia.org/ontology/Sport,,,art,art,art,art,OTHER
+hUj8_erWh1g,hobby,55.0,0.5180447697639465,art,/m/03glg,/m/0jjw,hobby,hobby,OTHER,,http://dbpedia.org/ontology/Sport,,,art,art,art,art,OTHER
+hUj8_erWh1g,hobby,56.0,0.5679752230644226,art,/m/03glg,/m/0jjw,hobby,hobby,OTHER,,http://dbpedia.org/ontology/Sport,,,art,art,art,art,OTHER
+hUj8_erWh1g,team sport,53.0,0.5319491624832153,sports,/m/03x045,/m/06ntj,team sport,team sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,team sport,54.0,0.4599520564079285,sports,/m/03x045,/m/06ntj,team sport,team sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,team sport,55.0,0.6048173308372498,sports,/m/03x045,/m/06ntj,team sport,team sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,team sport,56.0,0.6372576951980591,sports,/m/03x045,/m/06ntj,team sport,team sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,sport venue,53.0,0.956237018108368,"location, structure",/m/0bmgjqz,"/m/078x4m, /m/0n68_",sport venue,sport venue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,sport venue,54.0,0.9429153203964232,"location, structure",/m/0bmgjqz,"/m/078x4m, /m/0n68_",sport venue,sport venue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,sport venue,55.0,0.9364556074142456,"location, structure",/m/0bmgjqz,"/m/078x4m, /m/0n68_",sport venue,sport venue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,sport venue,56.0,0.9261692762374878,"location, structure",/m/0bmgjqz,"/m/078x4m, /m/0n68_",sport venue,sport venue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,ball game,53.0,0.7080391645431519,sports,/m/020m7t,/m/06ntj,ball game,ball game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,ball game,54.0,0.5735548138618469,sports,/m/020m7t,/m/06ntj,ball game,ball game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,ball game,55.0,0.5716797709465027,sports,/m/020m7t,/m/06ntj,ball game,ball game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,ball game,56.0,0.6424342393875122,sports,/m/020m7t,/m/06ntj,ball game,ball game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,leisure centre,53.0,0.5152621865272522,building,/m/07cqtx,/m/0cgh4,leisure centre,leisure centre,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,building,building,building,LOCATION
+hUj8_erWh1g,leisure centre,56.0,0.42532336711883545,building,/m/07cqtx,/m/0cgh4,leisure centre,leisure centre,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,building,building,building,LOCATION
+hUj8_erWh1g,sports training,53.0,0.4279123544692993,person,/m/02z8359,/m/01g317,sport training,sport training,OTHER,,,,,person,person,person,person,OTHER
+hUj8_erWh1g,net,53.0,0.5908445119857788,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hUj8_erWh1g,net,54.0,0.5715273022651672,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hUj8_erWh1g,net,55.0,0.5042212009429932,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hUj8_erWh1g,net,56.0,0.5620313286781311,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hUj8_erWh1g,tournament,53.0,0.6508475542068481,event,/m/012sbd,/m/081pkj,tournament,tournament,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,tournament,54.0,0.6295664310455322,event,/m/012sbd,/m/081pkj,tournament,tournament,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,tournament,55.0,0.5952931642532349,event,/m/012sbd,/m/081pkj,tournament,tournament,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,tournament,56.0,0.6322766542434692,event,/m/012sbd,/m/081pkj,tournament,tournament,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,leisure,53.0,0.7138161659240723,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,leisure,54.0,0.6484150886535645,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,leisure,55.0,0.6390087604522705,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,leisure,56.0,0.6681248545646667,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,sports,53.0,0.9764014482498168,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,sports,54.0,0.9589090943336488,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,sports,55.0,0.9610915184020996,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,sports,56.0,0.9612900614738464,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,championship,55.0,0.417022168636322,event,/m/0b4_rz,/m/081pkj,championship,championship,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,championship,56.0,0.4379579424858093,event,/m/0b4_rz,/m/081pkj,championship,championship,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,player,53.0,0.9120046496391296,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,player,54.0,0.892464816570282,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,player,55.0,0.8919704556465149,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,player,56.0,0.8832542896270752,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,field house,53.0,0.4530701041221618,building,/m/02qg91d,/m/0cgh4,field house,field house,OTHER,,,,,LOCATION,building,building,building,LOCATION
+hUj8_erWh1g,field house,54.0,0.41192880272865295,building,/m/02qg91d,/m/0cgh4,field house,field house,OTHER,,,,,LOCATION,building,building,building,LOCATION
+hUj8_erWh1g,field house,55.0,0.4175927340984345,building,/m/02qg91d,/m/0cgh4,field house,field house,OTHER,,,,,LOCATION,building,building,building,LOCATION
+hUj8_erWh1g,field house,56.0,0.4231894612312317,building,/m/02qg91d,/m/0cgh4,field house,field house,OTHER,,,,,LOCATION,building,building,building,LOCATION
+hUj8_erWh1g,fun,53.0,0.589762270450592,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,54.0,0.6697854399681091,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,55.0,0.7214675545692444,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,56.0,0.6634706854820251,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,recreation,53.0,0.550408124923706,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,recreation,54.0,0.5949053764343262,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,recreation,55.0,0.6354284286499023,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,recreation,56.0,0.6299052834510803,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,games,55.0,0.5209957957267761,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,games,56.0,0.5177730917930603,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,pallone,56.0,0.4783569872379303,sports,/m/05xknm,/m/06ntj,pallone,pallone,OTHER,,http://dbpedia.org/ontology/VideoGame,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,competition,53.0,0.5612033009529114,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,competition,54.0,0.5382323861122131,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,competition,55.0,0.5986760258674622,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,competition,56.0,0.5049754381179811,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,competition event,89.0,0.7000569105148315,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,competition event,90.0,0.6731189489364624,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,competition event,91.0,0.6753671765327454,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,competition event,92.0,0.8063435554504395,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+hUj8_erWh1g,bocce,92.0,0.6161960363388062,games,/m/01cwd,/m/03bt1gh,bocce,bocce,OTHER,,"http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity, http://dbpedia.org/ontology/Activity",,,games,games,EVENT,games,EVENT
+hUj8_erWh1g,college softball,90.0,0.5912850499153137,softball,/m/05v_4b,/m/0kw94,college softball,college softball,OTHER,,http://dbpedia.org/ontology/Stadium,,,softball,softball,EVENT,softball,EVENT
+hUj8_erWh1g,basketball,89.0,0.41396620869636536,sports,/m/018w8,/m/06ntj,basketball,basketball,OTHER,,"http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity, http://dbpedia.org/ontology/Activity",,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,snapshot,91.0,0.8176745176315308,"photography, photograph",/m/06pg22,"/m/05wkw, /m/068jd",snapshot,snapshot,OTHER,,,,,"photography, photograph","photography, photograph","photography, photograph","photography, photograph",OTHER
+hUj8_erWh1g,snapshot,92.0,0.8176745176315308,"photography, photograph",/m/06pg22,"/m/05wkw, /m/068jd",snapshot,snapshot,OTHER,,,,,"photography, photograph","photography, photograph","photography, photograph","photography, photograph",OTHER
+hUj8_erWh1g,black hair,88.0,0.7125195264816284,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+hUj8_erWh1g,night,91.0,0.7259160876274109,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,jaw,88.0,0.40928664803504944,OTHER,/m/01k9lj,,jaw,jaw,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,eyebrow,88.0,0.8516722917556763,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,crowd,89.0,0.5517289042472839,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,nose,88.0,0.8958992958068848,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,eyewear,88.0,0.950891137123108,OTHER,/m/0j272k5,,eyewear,eyewear,OTHER,,"http://dbpedia.org/ontology/TopicalConcept, http://dbpedia.org/ontology/Fashion, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept",,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,ball,89.0,0.6094037294387817,OTHER,/m/018xm,,ball,ball,OTHER,,,,"ORGANIZATION, PERSON, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,ball,90.0,0.9253045916557312,OTHER,/m/018xm,,ball,ball,OTHER,,,,"ORGANIZATION, PERSON, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,ball,92.0,0.6242906451225281,OTHER,/m/018xm,,ball,ball,OTHER,,,,"ORGANIZATION, PERSON, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,lip,88.0,0.6157465577125549,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,light,91.0,0.8463343977928162,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,midnight,91.0,0.5640913844108582,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,photograph,92.0,0.9495938420295716,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,tennis,91.0,0.408416748046875,sports,/m/07bs0,/m/06ntj,tennis,tennis,OTHER,,"http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity, http://dbpedia.org/ontology/Activity",,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,tennis,92.0,0.8040122389793396,sports,/m/07bs0,/m/06ntj,tennis,tennis,OTHER,,"http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity, http://dbpedia.org/ontology/Activity",,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,screenshot,88.0,0.4917556047439575,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,structure,91.0,0.7747882008552551,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hUj8_erWh1g,structure,92.0,0.7861521244049072,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hUj8_erWh1g,racket,90.0,0.4389274716377258,OTHER,/m/0dv9c,,racket,racket,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,clothing,90.0,0.9611916542053224,OTHER,/m/09j2d,,clothing,clothing,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,soft tennis,92.0,0.635739803314209,tennis,/m/09515x,/m/07bs0,soft tennis,soft tennis,OTHER,,http://dbpedia.org/ontology/VideoGame,,,tennis,tennis,EVENT,tennis,EVENT
+hUj8_erWh1g,health & beauty,88.0,0.5619167685508728,OTHER,/m/0ggk3_t,,health & beauty,health & beauty,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,arm,89.0,0.7035823464393616,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+hUj8_erWh1g,ball,90.0,0.8784155249595642,ball,/m/0dpm1v,/m/018xm,ball,ball,OTHER,,,,"ORGANIZATION, PERSON, EVENT",ball,ball,ball,ball,OTHER
+hUj8_erWh1g,ball,92.0,0.4723970890045166,ball,/m/0dpm1v,/m/018xm,ball,ball,OTHER,,,,"ORGANIZATION, PERSON, EVENT",ball,ball,ball,ball,OTHER
+hUj8_erWh1g,sunglasses,88.0,0.5938888788223267,OTHER,/m/017ftj,,sunglass,sunglass,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,tennis player,90.0,0.43259841203689575,person,/m/02xhr73,/m/01g317,tennis player,tennis player,OTHER,,,,PERSON,person,person,person,person,OTHER
+hUj8_erWh1g,tennis player,92.0,0.8329741954803467,person,/m/02xhr73,/m/01g317,tennis player,tennis player,OTHER,,,,PERSON,person,person,person,person,OTHER
+hUj8_erWh1g,shoe,90.0,0.4968998730182648,OTHER,/m/06rrc,,shoe,shoe,OTHER,,http://dbpedia.org/ontology/Food,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,audience,89.0,0.6015490889549255,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+hUj8_erWh1g,team sport,90.0,0.5214742422103882,sports,/m/03x045,/m/06ntj,team sport,team sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,basketball moves,89.0,0.8835639953613281,basketball,/m/06nb_j,/m/018w8,basketball move,basketball move,OTHER,,,,,basketball,basketball,EVENT,basketball,EVENT
+hUj8_erWh1g,vision care,88.0,0.9312465190887452,OTHER,/m/0h8jxfl,,vision care,vision care,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,sport venue,89.0,0.9615871906280518,"location, structure",/m/0bmgjqz,"/m/078x4m, /m/0n68_",sport venue,sport venue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,sport venue,90.0,0.8897548317909241,"location, structure",/m/0bmgjqz,"/m/078x4m, /m/0n68_",sport venue,sport venue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,sport venue,91.0,0.8693312406539917,"location, structure",/m/0bmgjqz,"/m/078x4m, /m/0n68_",sport venue,sport venue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,sport venue,92.0,0.9522727131843568,"location, structure",/m/0bmgjqz,"/m/078x4m, /m/0n68_",sport venue,sport venue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,portrait photography,88.0,0.4227123856544495,photography,/m/0chml9,/m/05wkw,portrait photography,portrait photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+hUj8_erWh1g,ball game,89.0,0.5257394313812256,sports,/m/020m7t,/m/06ntj,ball game,ball game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,ball game,90.0,0.7475239038467407,sports,/m/020m7t,/m/06ntj,ball game,ball game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,ball game,91.0,0.5236049890518188,sports,/m/020m7t,/m/06ntj,ball game,ball game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,ball game,92.0,0.8846890926361084,sports,/m/020m7t,/m/06ntj,ball game,ball game,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,world,89.0,0.4380914270877838,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,world,91.0,0.5151325464248657,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,world,92.0,0.4980097711086273,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,darkness,91.0,0.44713446497917175,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,mammal,90.0,0.92399001121521,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+hUj8_erWh1g,mammal,92.0,0.922609567642212,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+hUj8_erWh1g,cheek,88.0,0.8057265877723694,OTHER,/m/037p5b,,cheek,cheek,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,net,92.0,0.5835941433906555,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hUj8_erWh1g,tournament,89.0,0.7024495601654053,event,/m/012sbd,/m/081pkj,tournament,tournament,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,tournament,90.0,0.7803667187690735,event,/m/012sbd,/m/081pkj,tournament,tournament,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,tournament,92.0,0.7735908031463623,event,/m/012sbd,/m/081pkj,tournament,tournament,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,leisure,91.0,0.6686959862709045,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,leisure,92.0,0.7542771697044373,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,football,90.0,0.405909925699234,ball,/m/01226z,/m/018xm,football,football,OTHER,,,,,ball,ball,ball,ball,OTHER
+hUj8_erWh1g,sports,89.0,0.9234101176261902,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,sports,90.0,0.9039183259010316,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,sports,91.0,0.6264838576316833,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,sports,92.0,0.9394491314888,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,smile,88.0,0.7265282869338989,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hUj8_erWh1g,smile,91.0,0.613442063331604,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hUj8_erWh1g,brown hair,88.0,0.5770756602287292,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+hUj8_erWh1g,championship,89.0,0.4524126946926117,event,/m/0b4_rz,/m/081pkj,championship,championship,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,championship,91.0,0.4506604671478272,event,/m/0b4_rz,/m/081pkj,championship,championship,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,championship,92.0,0.4928562939167023,event,/m/0b4_rz,/m/081pkj,championship,championship,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,EVENT,event,event,EVENT,event,EVENT
+hUj8_erWh1g,play,89.0,0.42947787046432495,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+hUj8_erWh1g,play,90.0,0.7517282366752625,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+hUj8_erWh1g,play,92.0,0.6804471611976624,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+hUj8_erWh1g,racquet sport,91.0,0.5716856718063354,sports,/m/01qhp_,/m/06ntj,racquet sport,racquet sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,racquet sport,92.0,0.8035275936126709,sports,/m/01qhp_,/m/06ntj,racquet sport,racquet sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,tennis court,91.0,0.4779106974601746,"location, structure",/m/07gcy,"/m/078x4m, /m/0n68_",tennis court,tennis court,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hUj8_erWh1g,eye,88.0,0.8266443014144897,organ,/m/014sv8,/m/013y0j,eye,eye,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,organ,OTHER,organ,organ,OTHER
+hUj8_erWh1g,tennis ball,91.0,0.5530430674552917,ball,/m/05ctyq,/m/018xm,tennis ball,tennis ball,OTHER,,http://dbpedia.org/ontology/Food,,,ball,ball,ball,ball,OTHER
+hUj8_erWh1g,tennis ball,92.0,0.4055931270122528,ball,/m/05ctyq,/m/018xm,tennis ball,tennis ball,OTHER,,http://dbpedia.org/ontology/Food,,,ball,ball,ball,ball,OTHER
+hUj8_erWh1g,player,89.0,0.9636448621749878,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,player,90.0,0.9753164052963256,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,player,91.0,0.8042611479759216,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,player,92.0,0.9035822153091432,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,indoor games and sports,89.0,0.8490995168685913,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+hUj8_erWh1g,indoor games and sports,92.0,0.7653504014015198,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+hUj8_erWh1g,emotion,91.0,0.8058705329895021,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+hUj8_erWh1g,white,92.0,0.9580346941947936,OTHER,/m/083jv,,white,white,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,real tennis,92.0,0.424966961145401,sports,/m/01j2rk,/m/06ntj,real tennis,real tennis,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,sportswear,90.0,0.4554702043533325,clothing,/m/025xryy,/m/09j2d,sportswear,sportswear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+hUj8_erWh1g,rackets,90.0,0.6287574172019958,sports,/m/05bzyr,/m/06ntj,racket,racket,OTHER,,,,EVENT,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,rackets,92.0,0.4851180016994476,sports,/m/05bzyr,/m/06ntj,racket,racket,OTHER,,,,EVENT,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,contact sport,89.0,0.4102136194705963,sports,/m/08fgwk,/m/06ntj,contact sport,contact sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,joint,89.0,0.5813800692558289,human body,/m/01dvt1,/m/02p0tk3,joint,joint,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,human body,OTHER,human body,human body,OTHER
+hUj8_erWh1g,portrait,88.0,0.5402798652648926,OTHER,/m/01dv4h,,portrait,portrait,OTHER,,http://dbpedia.org/ontology/Artwork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,day,89.0,0.900079607963562,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,day,90.0,0.9007530212402344,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,day,91.0,0.8942164778709412,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,day,92.0,0.9102463126182556,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,88.0,0.6096123456954956,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,89.0,0.841510534286499,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,90.0,0.8054277896881104,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,91.0,0.8781831860542297,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,fun,92.0,0.8524041175842285,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,recreation,90.0,0.6453803777694702,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,recreation,92.0,0.6649808883666992,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,games,89.0,0.945891261100769,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,games,90.0,0.8176596760749817,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,games,91.0,0.7026702761650085,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,games,92.0,0.9495154023170472,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hUj8_erWh1g,pallone,90.0,0.4633390009403229,sports,/m/05xknm,/m/06ntj,pallone,pallone,OTHER,,http://dbpedia.org/ontology/VideoGame,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,physical fitness,89.0,0.4708484411239624,sports,/m/027x7n,/m/06ntj,physical fitness,physical fitness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,ear,88.0,0.5001426339149475,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+hUj8_erWh1g,striking combat sports,89.0,0.6577746868133545,sports,/m/0wgq6y7,/m/06ntj,strike combat sport,strike combat sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+hUj8_erWh1g,glasses,88.0,0.9709122776985168,OTHER,/m/0jyfg,,glass,glass,OTHER,,http://dbpedia.org/ontology/Device,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,competition,89.0,0.5789695978164673,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,phenomenon,91.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+hUj8_erWh1g,cool,88.0,0.7155431509017944,person,/m/071j9r,/m/01g317,cool,cool,OTHER,,,,,person,person,person,person,OTHER

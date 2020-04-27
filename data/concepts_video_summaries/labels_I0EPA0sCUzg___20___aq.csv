@@ -1,0 +1,181 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+I0EPA0sCUzg,plaster,1.0,0.5008791089057922,material,/m/01w_gm,/m/01l0y0,plaster,plaster,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+I0EPA0sCUzg,lip,2.0,0.6210393309593201,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,lip,3.0,0.5987133979797363,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,joint compound,1.0,0.42853134870529175,material,/m/0dbxhq,/m/01l0y0,joint compound,joint compound,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+I0EPA0sCUzg,stomach,3.0,0.4661368131637573,organ,/m/09x8z,/m/013y0j,stomach,stomach,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+I0EPA0sCUzg,thumb,2.0,0.5362650156021118,finger,/m/01bmhj,/m/09cx8,thumb,thumb,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,finger,finger,finger,finger,OTHER
+I0EPA0sCUzg,neck,0.0,0.4226093590259552,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,neck,1.0,0.5917706489562988,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,neck,2.0,0.6413798928260803,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,neck,3.0,0.8008620142936707,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,textile,0.0,0.7575430870056152,material,/m/0dnr7,/m/01l0y0,textile,textile,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+I0EPA0sCUzg,textile,1.0,0.6690778136253357,material,/m/0dnr7,/m/01l0y0,textile,textile,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+I0EPA0sCUzg,muscle,3.0,0.6572461724281311,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,0.0,0.6689057350158691,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,square,1.0,0.4272347688674927,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+I0EPA0sCUzg,square,2.0,0.4091683030128479,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+I0EPA0sCUzg,square,3.0,0.5073880553245544,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+I0EPA0sCUzg,foot,2.0,0.4466959536075592,leg,/m/031n1,/m/035r7c,foot,foot,OTHER,,"http://dbpedia.org/ontology/Building, http://dbpedia.org/ontology/AnatomicalStructure",,"LOCATION, PERSON, ORGANIZATION",leg,leg,leg,leg,OTHER
+I0EPA0sCUzg,material,0.0,0.6212343573570251,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,material,1.0,0.5954900979995728,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,professional,1.0,0.5516725182533264,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,eyebrow,3.0,0.7234558463096619,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,nose,2.0,0.8997790217399597,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,nose,3.0,0.9042168855667114,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,carnivoran,2.0,0.4756355881690979,mammal,/m/01lrl,/m/04rky,carnivoran,carnivoran,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+I0EPA0sCUzg,skin,2.0,0.948305368423462,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,skin,3.0,0.9518175721168518,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,sleep,3.0,0.4915372729301453,person,/m/06xzh,/m/01g317,sleep,sleep,OTHER,,,,,person,person,person,person,OTHER
+I0EPA0sCUzg,furniture,0.0,0.5834752321243286,OTHER,/m/0c_jw,,furniture,furniture,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,joint,0.0,0.6321107745170593,human body,/m/01dvt1,/m/02p0tk3,joint,joint,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,joint,1.0,0.6246172189712524,human body,/m/01dvt1,/m/02p0tk3,joint,joint,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,joint,2.0,0.7481170892715454,human body,/m/01dvt1,/m/02p0tk3,joint,joint,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,joint,3.0,0.8037636280059814,human body,/m/01dvt1,/m/02p0tk3,joint,joint,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,abdomen,3.0,0.4512433409690857,trunk,/m/08y7p8,/m/031vtq,abdomen,abdomen,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,trunk,OTHER,trunk,trunk,OTHER
+I0EPA0sCUzg,ear,2.0,0.7229017019271851,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+I0EPA0sCUzg,ear,3.0,0.7201988101005554,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+I0EPA0sCUzg,cheek,2.0,0.7531408071517944,OTHER,/m/037p5b,,cheek,cheek,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,cheek,3.0,0.799377977848053,OTHER,/m/037p5b,,cheek,cheek,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,pet,2.0,0.7256945371627808,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+I0EPA0sCUzg,finger,1.0,0.7546968460083008,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+I0EPA0sCUzg,finger,2.0,0.8666737675666809,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+I0EPA0sCUzg,finger,3.0,0.7861880660057068,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+I0EPA0sCUzg,white,3.0,0.9607393145561218,OTHER,/m/083jv,,white,white,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,shoulder,0.0,0.7890480756759644,joint,/m/01ssh5,/m/01dvt1,shoulder,shoulder,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,joint,OTHER,joint,joint,OTHER
+I0EPA0sCUzg,shoulder,1.0,0.7441883683204651,joint,/m/01ssh5,/m/01dvt1,shoulder,shoulder,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,joint,OTHER,joint,joint,OTHER
+I0EPA0sCUzg,nail,2.0,0.5246753692626953,finger,/m/023j4r,/m/09cx8,nail,nail,OTHER,,,,,finger,finger,finger,finger,OTHER
+I0EPA0sCUzg,nail,3.0,0.4107936322689056,finger,/m/023j4r,/m/09cx8,nail,nail,OTHER,,,,,finger,finger,finger,finger,OTHER
+I0EPA0sCUzg,trunk,3.0,0.5369827747344971,human body,/m/031vtq,/m/02p0tk3,trunk,trunk,OTHER,,,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,flesh,2.0,0.4555610716342926,human body,/m/02p16m6,/m/02p0tk3,flesh,flesh,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,flesh,3.0,0.4331965446472168,human body,/m/02p16m6,/m/02p0tk3,flesh,flesh,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,flooring,0.0,0.5651838183403015,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+I0EPA0sCUzg,flooring,1.0,0.4837934374809265,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+I0EPA0sCUzg,flooring,2.0,0.4029792249202728,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+I0EPA0sCUzg,forehead,3.0,0.7357542514801025,OTHER,/m/025kyy,,forehead,forehead,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,chest,2.0,0.4352535009384155,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+I0EPA0sCUzg,chest,3.0,0.6102898716926575,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+I0EPA0sCUzg,hand,1.0,0.7744220495223999,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,hand,2.0,0.8293240070343018,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,hand,3.0,0.7300384640693665,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,mouth,2.0,0.7141769528388977,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,mouth,3.0,0.708970844745636,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,floor,0.0,0.5540086030960083,OTHER,/m/0l7_8,,floor,floor,OTHER,,http://dbpedia.org/ontology/Bone,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,floor,1.0,0.544439435005188,OTHER,/m/0l7_8,,floor,floor,OTHER,,http://dbpedia.org/ontology/Bone,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,jaw,2.0,0.4721924066543579,OTHER,/m/01k9lj,,jaw,jaw,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,jaw,3.0,0.4699030816555023,OTHER,/m/01k9lj,,jaw,jaw,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,arm,0.0,0.702612578868866,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,arm,1.0,0.7208669185638428,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,arm,2.0,0.7525559663772583,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,arm,3.0,0.7635909914970398,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,leg,0.0,0.7395983338356018,human body,/m/035r7c,/m/02p0tk3,leg,leg,OTHER,,http://dbpedia.org/ontology/Plant,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,leg,1.0,0.7837551832199097,human body,/m/035r7c,/m/02p0tk3,leg,leg,OTHER,,http://dbpedia.org/ontology/Plant,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,leg,3.0,0.7062979936599731,human body,/m/035r7c,/m/02p0tk3,leg,leg,OTHER,,http://dbpedia.org/ontology/Plant,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,fun,4.0,0.7769478559494019,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,fun,5.0,0.7663486003875732,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,fun,6.0,0.7450711727142334,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,4.0,0.5072556734085083,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,5.0,0.5002725124359131,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,6.0,0.5668580532073975,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,youth worker,4.0,0.4257617294788361,person,/m/0525917,/m/01g317,youth worker,youth worker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+I0EPA0sCUzg,youth worker,5.0,0.44164124131202703,person,/m/0525917,/m/01g317,youth worker,youth worker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+I0EPA0sCUzg,youth worker,6.0,0.42026329040527344,person,/m/0525917,/m/01g317,youth worker,youth worker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+I0EPA0sCUzg,friendship,4.0,0.4737842977046967,OTHER,/m/019_nn,,friendship,friendship,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,friendship,5.0,0.416479617357254,OTHER,/m/019_nn,,friendship,friendship,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,friendship,6.0,0.4554994106292725,OTHER,/m/019_nn,,friendship,friendship,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,recreation,4.0,0.6005630493164062,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,recreation,5.0,0.5563609600067139,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,recreation,6.0,0.595548152923584,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,style,4.0,0.4034056663513184,weak entity,/m/012yh1,/m/0pccj,style,style,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+I0EPA0sCUzg,vacation,4.0,0.4023604094982147,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+I0EPA0sCUzg,social group,4.0,0.9288495182991028,OTHER,/m/01b4q9,,social group,social group,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,social group,5.0,0.9197373390197754,OTHER,/m/01b4q9,,social group,social group,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,social group,6.0,0.9082345962524414,OTHER,/m/01b4q9,,social group,social group,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,student,4.0,0.4667842984199524,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,student,5.0,0.5010774135589601,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,student,6.0,0.4562479257583618,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,leg,4.0,0.700529932975769,human body,/m/035r7c,/m/02p0tk3,leg,leg,OTHER,,http://dbpedia.org/ontology/Plant,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,fun,42.0,0.4100572764873505,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,conversation,40.0,0.4060089290142059,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+I0EPA0sCUzg,conversation,41.0,0.4120859205722809,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+I0EPA0sCUzg,conversation,42.0,0.4314618408679962,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+I0EPA0sCUzg,conversation,44.0,0.41567978262901306,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+I0EPA0sCUzg,neck,38.0,0.4690670073032379,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+I0EPA0sCUzg,smile,38.0,0.4133699834346771,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+I0EPA0sCUzg,professional,38.0,0.5617812275886536,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,professional,39.0,0.496540367603302,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,professional,40.0,0.5341489911079407,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,professional,41.0,0.5075328946113586,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,professional,42.0,0.4677280485630035,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,professional,43.0,0.4797325134277344,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,professional,44.0,0.4433565437793732,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,professional,45.0,0.4787014126777649,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,portrait,39.0,0.4277114868164063,OTHER,/m/01dv4h,,portrait,portrait,OTHER,,http://dbpedia.org/ontology/Artwork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,portrait,40.0,0.42287614941596985,OTHER,/m/01dv4h,,portrait,portrait,OTHER,,http://dbpedia.org/ontology/Artwork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,portrait,41.0,0.4043205678462982,OTHER,/m/01dv4h,,portrait,portrait,OTHER,,http://dbpedia.org/ontology/Artwork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,portrait,43.0,0.4132786393165589,OTHER,/m/01dv4h,,portrait,portrait,OTHER,,http://dbpedia.org/ontology/Artwork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,portrait,45.0,0.4198752641677856,OTHER,/m/01dv4h,,portrait,portrait,OTHER,,http://dbpedia.org/ontology/Artwork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,senior citizen,41.0,0.40985438227653503,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,scene,45.0,0.4099333584308624,OTHER,/m/09cvst,,scene,scene,OTHER,,,,"LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,chin,38.0,0.8258488178253174,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,public relations,40.0,0.41558602452278137,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+I0EPA0sCUzg,space,37.0,0.4029867649078369,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,fur,39.0,0.4273816645145416,material,/m/0cnmr,/m/01l0y0,fur,fur,OTHER,,,,,material,material,material,material,OTHER
+I0EPA0sCUzg,fur,43.0,0.4104577600955963,material,/m/0cnmr,/m/01l0y0,fur,fur,OTHER,,,,,material,material,material,material,OTHER
+I0EPA0sCUzg,multimedia,37.0,0.4166103899478912,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,socialite,38.0,0.6743658781051636,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,socialite,39.0,0.679362416267395,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,socialite,40.0,0.6043210029602051,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+I0EPA0sCUzg,brand,81.0,0.5200027227401733,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,brand,82.0,0.5127456188201904,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,brand,83.0,0.5273262858390808,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,brand,84.0,0.478308379650116,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,photo caption,79.0,0.40040266513824463,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+I0EPA0sCUzg,material property,81.0,0.44692206382751465,material,/m/0457gc6,/m/01l0y0,material property,material property,OTHER,,,,,material,material,material,material,OTHER
+I0EPA0sCUzg,material property,82.0,0.44692206382751465,material,/m/0457gc6,/m/01l0y0,material property,material property,OTHER,,,,,material,material,material,material,OTHER
+I0EPA0sCUzg,material property,83.0,0.44692206382751465,material,/m/0457gc6,/m/01l0y0,material property,material property,OTHER,,,,,material,material,material,material,OTHER
+I0EPA0sCUzg,text,81.0,0.8653101921081543,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,text,82.0,0.8691793084144592,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,text,83.0,0.8721535801887512,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,text,84.0,0.8629207611083984,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,79.0,0.5136550068855286,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,81.0,0.540882408618927,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,82.0,0.586697518825531,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,83.0,0.6210076212882996,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,product,84.0,0.4366251528263092,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,label,81.0,0.4907483458518982,OTHER,/m/05c0n6k,,label,label,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,label,82.0,0.4643871188163757,OTHER,/m/05c0n6k,,label,label,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,label,83.0,0.47166046500206,OTHER,/m/05c0n6k,,label,label,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,label,84.0,0.4809937477111816,OTHER,/m/05c0n6k,,label,label,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,material,79.0,0.5788527131080627,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,material,81.0,0.6219006776809692,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,material,82.0,0.6314345598220825,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,material,83.0,0.6356769800186157,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,material,84.0,0.5901404023170471,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,dairy product,79.0,0.64791339635849,food,/m/0284d,/m/02wbm,dairy product,dairy product,OTHER,,http://dbpedia.org/ontology/Food,,,food,food,food,food,OTHER
+I0EPA0sCUzg,line,80.0,0.6600530743598938,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+I0EPA0sCUzg,line,84.0,0.657335102558136,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+I0EPA0sCUzg,product design,81.0,0.6199154257774353,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+I0EPA0sCUzg,product design,83.0,0.6159499287605286,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+I0EPA0sCUzg,membrane winged insect,80.0,0.4675583243370056,insect,/m/03mp1,/m/03vt0,membrane wing insect,membrane wing insect,OTHER,,,,,insect,insect,insect,insect,OTHER
+I0EPA0sCUzg,font,81.0,0.710077702999115,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+I0EPA0sCUzg,font,82.0,0.6946038007736206,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+I0EPA0sCUzg,font,83.0,0.716910719871521,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+I0EPA0sCUzg,font,84.0,0.6557538509368896,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+I0EPA0sCUzg,arthropod,80.0,0.4365902841091156,animal,/m/0zkm,/m/0jbk,arthropod,arthropod,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Animal",,,animal,animal,animal,animal,OTHER
+I0EPA0sCUzg,paper,81.0,0.4809187054634094,material,/m/0641k,/m/01l0y0,paper,paper,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,ORGANIZATION,material,material,material,material,OTHER
+I0EPA0sCUzg,paper,84.0,0.5453866720199585,material,/m/0641k,/m/01l0y0,paper,paper,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,ORGANIZATION,material,material,material,material,OTHER
+I0EPA0sCUzg,insect,80.0,0.6483113765716553,animal,/m/03vt0,/m/0jbk,insect,insect,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+I0EPA0sCUzg,pattern,81.0,0.4123542308807373,design,/m/0hwky,/m/02cwm,pattern,pattern,OTHER,,,,LOCATION,design,design,design,design,OTHER
+I0EPA0sCUzg,flooring,81.0,0.480951189994812,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+I0EPA0sCUzg,flooring,82.0,0.4178617000579834,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+I0EPA0sCUzg,pest,80.0,0.5992031097412109,animal,/m/01dqkc,/m/0jbk,pest,pest,OTHER,,,,PERSON,animal,animal,animal,animal,OTHER
+I0EPA0sCUzg,angle,80.0,0.5461345911026001,OTHER,/m/0mwc,,angle,angle,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,angle,81.0,0.599095344543457,OTHER,/m/0mwc,,angle,angle,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,angle,82.0,0.6032932996749878,OTHER,/m/0mwc,,angle,angle,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,angle,83.0,0.5938628315925598,OTHER,/m/0mwc,,angle,angle,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,angle,84.0,0.5653250813484192,OTHER,/m/0mwc,,angle,angle,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+I0EPA0sCUzg,rectangle,81.0,0.41061797738075256,shape,/m/0j62f,/m/016nqd,rectangle,rectangle,OTHER,,http://dbpedia.org/ontology/Bone,,,shape,shape,shape,shape,OTHER
+I0EPA0sCUzg,rectangle,83.0,0.4163370132446289,shape,/m/0j62f,/m/016nqd,rectangle,rectangle,OTHER,,http://dbpedia.org/ontology/Bone,,,shape,shape,shape,shape,OTHER
+I0EPA0sCUzg,invertebrate,80.0,0.5751872658729553,animal,/m/03xxp,/m/0jbk,invertebrate,invertebrate,OTHER,,http://dbpedia.org/ontology/Animal,,,animal,animal,animal,animal,OTHER
+I0EPA0sCUzg,floor,81.0,0.5867066383361816,OTHER,/m/0l7_8,,floor,floor,OTHER,,http://dbpedia.org/ontology/Bone,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER

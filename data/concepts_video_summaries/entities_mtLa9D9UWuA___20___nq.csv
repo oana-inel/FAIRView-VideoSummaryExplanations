@@ -1,0 +1,14 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+mtLa9D9UWuA,carriers,ORGANIZATION,,,carriers,323,0.0,0.0,COMMON,0.01904264464974404,0.0,0.0,carrier,carrier,,,,,"PERSON, ORGANIZATION",ORGANIZATION,ORGANIZATION,ORGANIZATION
+mtLa9D9UWuA,treatments,OTHER,,,treatments,428,0.10000000149011612,0.10000000149011612,COMMON,0.006188957951962948,0.10000000149011612,0.10000000149011612,treatment,treatment,,,,,,OTHER,OTHER,OTHER
+mtLa9D9UWuA,cancer,OTHER,,,cancer,582,0.0,0.0,COMMON,0.007683847565203905,0.0,0.0,cancer,cancer,,,,,"PERSON, LOCATION",OTHER,OTHER,OTHER
+mtLa9D9UWuA,radioactivity,OTHER,,,radioactivity,522,0.0,0.0,COMMON,0.007588051725178956,0.0,0.0,radioactivity,radioactivity,,,,,,OTHER,OTHER,OTHER
+mtLa9D9UWuA,soldiers,PERSON,,,soldiers,568,0.10000000149011612,-0.10000000149011612,COMMON,0.007009567227214575,0.10000000149011612,-0.10000000149011612,soldier,soldier,,,,,PERSON,PERSON,PERSON,PERSON
+mtLa9D9UWuA,French,LOCATION,/m/064_8sq,https://en.wikipedia.org/wiki/French_language,French,561,0.0,0.0,PROPER,0.006288030650466681,0.0,0.0,French,french,,,,,PERSON,LOCATION,PERSON,PERSON
+mtLa9D9UWuA,organization,ORGANIZATION,,,organization,722,0.10000000149011612,0.10000000149011612,COMMON,0.0070711541920900345,0.10000000149011612,0.10000000149011612,organization,organization,,,,,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION
+mtLa9D9UWuA,French,LOCATION,/m/064_8sq,https://en.wikipedia.org/wiki/French_language,French,697,0.0,0.0,PROPER,0.006288030650466681,0.0,0.0,French,french,,,,,PERSON,LOCATION,PERSON,PERSON
+mtLa9D9UWuA,court,ORGANIZATION,,,court,704,0.10000000149011612,0.10000000149011612,COMMON,0.006212332751601934,0.10000000149011612,0.10000000149011612,court,court,,,,,"ORGANIZATION, PERSON",ORGANIZATION,ORGANIZATION,ORGANIZATION
+mtLa9D9UWuA,patients,PERSON,,,patients,890,0.0,0.0,COMMON,0.005700369831174612,0.0,0.0,patient,patient,,,,,PERSON,PERSON,PERSON,PERSON
+mtLa9D9UWuA,world,LOCATION,,,world,1313,0.0,0.0,COMMON,0.005335446447134018,0.0,0.0,world,world,,,,,ORGANIZATION,LOCATION,LOCATION,LOCATION
+mtLa9D9UWuA,people,PERSON,,,people,1295,0.0,0.0,COMMON,0.004275221843272448,0.0,0.0,people,people,,,,,ORGANIZATION,PERSON,PERSON,PERSON
+mtLa9D9UWuA,World Health organization,ORGANIZATION,/m/0840w,https://en.wikipedia.org/wiki/World_Health_Organization,World Health organization,1331,0.0,0.0,PROPER,0.0028773280791938305,0.0,0.0,World Health organization,world health organization,,,,,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION

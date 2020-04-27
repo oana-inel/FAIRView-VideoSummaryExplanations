@@ -1,0 +1,9 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+rxlgs2XT6WA,shrines,LOCATION,,,shrines,8,0.20000000298023224,-0.20000000298023224,COMMON,0.06270677596330643,0.20000000298023224,-0.20000000298023224,shrine,shrine,,,,,,LOCATION,LOCATION,LOCATION
+rxlgs2XT6WA,Islamic,OTHER,/m/0flw86,https://en.wikipedia.org/wiki/Islam,Islamic,0,0.0,0.0,PROPER,0.038212601095438,0.0,0.0,Islamic,islamic,,,,,,OTHER,OTHER,OTHER
+rxlgs2XT6WA,West Africa,LOCATION,/m/0dg3n1,https://en.wikipedia.org/wiki/Africa,West Africa,19,0.0,0.0,PROPER,0.024146689102053642,0.0,0.0,West Africa,west africa,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+rxlgs2XT6WA,monuments,OTHER,,,monuments,1458,0.30000001192092896,0.30000001192092896,COMMON,0.011089565232396126,0.4000000059604645,0.20000000298023224,monument,monument,,,,,LOCATION,OTHER,OTHER,OTHER
+rxlgs2XT6WA,planet,LOCATION,,,planet,1445,0.0,0.0,COMMON,0.003817201824858785,0.0,0.0,planet,planet,,,,,PERSON,LOCATION,PERSON,PERSON
+rxlgs2XT6WA,mankind,OTHER,,,mankind,1506,0.5,0.5,COMMON,0.003817201824858785,0.5,0.5,mankind,mankind,,,,,,OTHER,OTHER,OTHER
+rxlgs2XT6WA,history,OTHER,,,history,1495,0.8999999761581421,0.8999999761581421,COMMON,0.003817201824858785,0.8999999761581421,0.8999999761581421,history,history,,,,,,OTHER,OTHER,OTHER
+rxlgs2XT6WA,extremists,PERSON,,,extremists,1415,0.8000000119209291,-0.8000000119209291,COMMON,0.003817201824858785,0.8000000119209291,-0.8000000119209291,extremist,extremist,,,,,PERSON,PERSON,PERSON,PERSON

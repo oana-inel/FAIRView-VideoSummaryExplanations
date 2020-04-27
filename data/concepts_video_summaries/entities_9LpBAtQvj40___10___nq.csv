@@ -1,0 +1,8 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+9LpBAtQvj40,technology,OTHER,,,technology,122,0.6000000238418579,0.6000000238418579,COMMON,0.047581546008586884,0.6000000238418579,0.6000000238418579,technology,technology,,,,,,OTHER,OTHER,OTHER
+9LpBAtQvj40,solar power,OTHER,,,solar power,137,0.6000000238418579,0.6000000238418579,COMMON,0.038197163492441184,0.6000000238418579,0.6000000238418579,solar power,solar power,,,,,,OTHER,OTHER,OTHER
+9LpBAtQvj40,pilots,PERSON,,,pilots,1364,0.0,0.0,COMMON,0.03972800076007843,0.8000000119209291,-0.10000000149011612,pilot,pilot,,,,,PERSON,PERSON,PERSON,PERSON
+9LpBAtQvj40,cockpit,OTHER,,,cockpit,1406,0.0,0.0,COMMON,0.0076489862985908985,0.0,0.0,cockpit,cockpit,,,,,,OTHER,OTHER,OTHER
+9LpBAtQvj40,trip,EVENT,,,trip,1429,0.0,0.0,COMMON,0.006719015538692474,0.0,0.0,trip,trip,,,,,EVENT,EVENT,EVENT,EVENT
+9LpBAtQvj40,stop,LOCATION,,,stop,1446,0.0,0.0,COMMON,0.006719015538692474,0.0,0.0,stop,stop,,,,,"EVENT, LOCATION",LOCATION,LOCATION,LOCATION
+9LpBAtQvj40,schools politicians,PERSON,,,schools politicians,1463,0.30000001192092896,-0.30000001192092896,COMMON,0.006719015538692474,0.30000001192092896,-0.30000001192092896,school politician,school politician,,,,,,PERSON,PERSON,PERSON

@@ -1,0 +1,223 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+gPak1jchfD0,car,46.0,0.7391452789306641,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+gPak1jchfD0,car,47.0,0.8403881788253784,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+gPak1jchfD0,car,48.0,0.6491453647613525,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+gPak1jchfD0,car,49.0,0.626358687877655,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+gPak1jchfD0,animal,45.0,0.43502816557884216,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog,45.0,0.4866045117378235,pet,/m/0bt9lr,/m/068hy,dog,dog,OTHER,,http://dbpedia.org/ontology/Mammal,,PERSON,pet,pet,pet,pet,OTHER
+gPak1jchfD0,endurance sports,46.0,0.6226637363433838,sports,/m/0bpxlzj,/m/06ntj,endurance sport,endurance sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,endurance sports,47.0,0.5254682302474976,sports,/m/0bpxlzj,/m/06ntj,endurance sport,endurance sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,endurance sports,48.0,0.581866979598999,sports,/m/0bpxlzj,/m/06ntj,endurance sport,endurance sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,endurance sports,49.0,0.5577727556228638,sports,/m/0bpxlzj,/m/06ntj,endurance sport,endurance sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,race,45.0,0.6953942775726318,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,race,46.0,0.8044795393943787,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,race,47.0,0.7165206670761108,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,race,48.0,0.7560898065567017,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,race,49.0,0.7924883365631104,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,mountain bike,46.0,0.5156457424163818,bicycle,/m/0_mjp,/m/0199g,mountain bike,mountain bike,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,bicycle,bicycle,bicycle,bicycle,OTHER
+gPak1jchfD0,mountain bike,47.0,0.4546191096305847,bicycle,/m/0_mjp,/m/0199g,mountain bike,mountain bike,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,bicycle,bicycle,bicycle,bicycle,OTHER
+gPak1jchfD0,podium,45.0,0.4422540366649628,audio,/m/03qpft,/m/0h91fqv,podium,podium,OTHER,,http://dbpedia.org/ontology/Company,,,audio,audio,audio,audio,OTHER
+gPak1jchfD0,podium,46.0,0.5957156419754028,audio,/m/03qpft,/m/0h91fqv,podium,podium,OTHER,,http://dbpedia.org/ontology/Company,,,audio,audio,audio,audio,OTHER
+gPak1jchfD0,podium,47.0,0.463230699300766,audio,/m/03qpft,/m/0h91fqv,podium,podium,OTHER,,http://dbpedia.org/ontology/Company,,,audio,audio,audio,audio,OTHER
+gPak1jchfD0,podium,48.0,0.5123206973075867,audio,/m/03qpft,/m/0h91fqv,podium,podium,OTHER,,http://dbpedia.org/ontology/Company,,,audio,audio,audio,audio,OTHER
+gPak1jchfD0,podium,49.0,0.4588829278945923,audio,/m/03qpft,/m/0h91fqv,podium,podium,OTHER,,http://dbpedia.org/ontology/Company,,,audio,audio,audio,audio,OTHER
+gPak1jchfD0,pet,45.0,0.7382826805114746,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,pet,48.0,0.5128536224365234,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,ultramarathon,46.0,0.4266908466815949,running,/m/02ngb1,/m/06h7j,ultramarathon,ultramarathon,OTHER,,,,,running,running,EVENT,running,EVENT
+gPak1jchfD0,ultramarathon,48.0,0.4226198196411133,running,/m/02ngb1,/m/06h7j,ultramarathon,ultramarathon,OTHER,,,,,running,running,EVENT,running,EVENT
+gPak1jchfD0,ultramarathon,49.0,0.7413886785507202,running,/m/02ngb1,/m/06h7j,ultramarathon,ultramarathon,OTHER,,,,,running,running,EVENT,running,EVENT
+gPak1jchfD0,tree,47.0,0.5038025379180908,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+gPak1jchfD0,tree,48.0,0.4891891479492188,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+gPak1jchfD0,racing,47.0,0.4166668951511383,sports,/m/0dfbw,/m/06ntj,race,race,OTHER,,http://dbpedia.org/ontology/SoccerTournament,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,team,46.0,0.5430619716644287,organization,/m/011l78,/m/0qb7t,team,team,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+gPak1jchfD0,team,47.0,0.5090759992599487,organization,/m/011l78,/m/0qb7t,team,team,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+gPak1jchfD0,team,49.0,0.4451847672462464,organization,/m/011l78,/m/0qb7t,team,team,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+gPak1jchfD0,working animal,45.0,0.416586309671402,animal,/m/07_gml,/m/0jbk,work animal,work animal,OTHER,,http://dbpedia.org/ontology/Animal,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,competition event,45.0,0.632418692111969,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gPak1jchfD0,competition event,46.0,0.4517524838447571,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gPak1jchfD0,competition event,47.0,0.4082903861999512,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gPak1jchfD0,competition event,48.0,0.4007716178894043,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+gPak1jchfD0,sporting group,45.0,0.4187403619289398,dog,/m/0265rtm,/m/0bt9lr,sport group,sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,competition,46.0,0.4133224487304688,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,competition,47.0,0.4236569404602051,OTHER,/m/018tl7,,competition,competition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"EVENT, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,sports equipment,47.0,0.4330143630504608,OTHER,/m/05y5lj,,sport equipment,sport equipment,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,duathlon,46.0,0.7117805480957031,running,/m/02l5zk,/m/06h7j,duathlon,duathlon,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,running,running,EVENT,running,EVENT
+gPak1jchfD0,duathlon,47.0,0.6096076369285583,running,/m/02l5zk,/m/06h7j,duathlon,duathlon,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,running,running,EVENT,running,EVENT
+gPak1jchfD0,duathlon,48.0,0.7165078520774841,running,/m/02l5zk,/m/06h7j,duathlon,duathlon,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,running,running,EVENT,running,EVENT
+gPak1jchfD0,duathlon,49.0,0.6535903215408325,running,/m/02l5zk,/m/06h7j,duathlon,duathlon,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,running,running,EVENT,running,EVENT
+gPak1jchfD0,adventure racing,46.0,0.61954665184021,sports,/m/02zjm7,/m/06ntj,adventure race,adventure race,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,adventure racing,47.0,0.5405487418174744,sports,/m/02zjm7,/m/06ntj,adventure race,adventure race,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,adventure racing,48.0,0.5293468832969666,sports,/m/02zjm7,/m/06ntj,adventure race,adventure race,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,adventure racing,49.0,0.5853389501571655,sports,/m/02zjm7,/m/06ntj,adventure race,adventure race,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,cani cross,46.0,0.6314976215362549,sports,/m/047n541,/m/06ntj,cani cross,cani cross,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,cani cross,47.0,0.5986806154251099,sports,/m/047n541,/m/06ntj,cani cross,cani cross,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,cani cross,48.0,0.64095538854599,sports,/m/047n541,/m/06ntj,cani cross,cani cross,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,cani cross,49.0,0.6491340398788452,sports,/m/047n541,/m/06ntj,cani cross,cani cross,OTHER,,http://dbpedia.org/ontology/Sport,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,vehicle,45.0,0.6767004132270813,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,vehicle,46.0,0.7447577714920044,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,vehicle,47.0,0.8015231490135193,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,vehicle,48.0,0.6847885847091675,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,vehicle,49.0,0.6467041373252869,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,animal sports,45.0,0.6393333673477173,sports,/m/0wfrc8w,/m/06ntj,animal sport,animal sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,recreation,46.0,0.5580282211303711,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,recreation,47.0,0.5746285319328308,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,recreation,48.0,0.607137143611908,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,recreation,49.0,0.6459798812866211,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog sports,45.0,0.5643527507781982,sports,/m/0wgq8gt,/m/06ntj,dog sport,dog sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,dog sports,48.0,0.4902194440364838,sports,/m/0wgq8gt,/m/06ntj,dog sport,dog sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,dog sports,49.0,0.5657656788825989,sports,/m/0wgq8gt,/m/06ntj,dog sport,dog sport,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,sports,48.0,0.5442017316818237,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gPak1jchfD0,sports,49.0,0.6552399396896362,OTHER,/m/06ntj,,sport,sport,OTHER,,,,PERSON,OTHER,OTHER,EVENT,OTHER,EVENT
+gPak1jchfD0,adventure,45.0,0.4509408175945282,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gPak1jchfD0,adventure,46.0,0.5007674694061279,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gPak1jchfD0,adventure,47.0,0.4939160645008087,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gPak1jchfD0,adventure,48.0,0.453719288110733,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gPak1jchfD0,adventure,49.0,0.4547359943389893,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gPak1jchfD0,triathlon,46.0,0.4272409677505493,sports,/m/07rlg,/m/06ntj,triathlon,triathlon,OTHER,,"http://dbpedia.org/ontology/Activity, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity, http://dbpedia.org/ontology/Sport, http://dbpedia.org/ontology/SoccerTournament",,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,triathlon,48.0,0.4123504161834717,sports,/m/07rlg,/m/06ntj,triathlon,triathlon,OTHER,,"http://dbpedia.org/ontology/Activity, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity, http://dbpedia.org/ontology/Sport, http://dbpedia.org/ontology/SoccerTournament",,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,half marathon,49.0,0.4222006797790527,running,/m/03zsp5,/m/06h7j,half marathon,half marathon,OTHER,,http://dbpedia.org/ontology/Road,,,running,running,EVENT,running,EVENT
+gPak1jchfD0,pentathlon,49.0,0.4196025133132935,sports,/m/01n7yl,/m/06ntj,pentathlon,pentathlon,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,EVENT,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,retriever,82.0,0.6774182915687561,dog,/m/020xxc,/m/0bt9lr,retriever,retriever,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,retriever,83.0,0.8278420567512512,dog,/m/020xxc,/m/0bt9lr,retriever,retriever,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,retriever,84.0,0.7362265586853027,dog,/m/020xxc,/m/0bt9lr,retriever,retriever,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,retriever,85.0,0.5286163687705994,dog,/m/020xxc,/m/0bt9lr,retriever,retriever,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,retriever,86.0,0.6281965970993042,dog,/m/020xxc,/m/0bt9lr,retriever,retriever,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,retriever,87.0,0.4779910147190094,dog,/m/020xxc,/m/0bt9lr,retriever,retriever,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,retriever,88.0,0.5628676414489746,dog,/m/020xxc,/m/0bt9lr,retriever,retriever,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,animal,82.0,0.8559538125991821,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,animal,83.0,0.8224234580993652,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,animal,84.0,0.8514530658721924,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,animal,85.0,0.7582666873931885,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,animal,86.0,0.8909781575202942,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,animal,87.0,0.916999101638794,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,animal,88.0,0.8857158422470093,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,carnivoran,82.0,0.5885944366455078,mammal,/m/01lrl,/m/04rky,carnivoran,carnivoran,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,carnivoran,83.0,0.5443674921989441,mammal,/m/01lrl,/m/04rky,carnivoran,carnivoran,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,carnivoran,84.0,0.5350083112716675,mammal,/m/01lrl,/m/04rky,carnivoran,carnivoran,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,carnivoran,85.0,0.5435670018196106,mammal,/m/01lrl,/m/04rky,carnivoran,carnivoran,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,carnivoran,86.0,0.6232056021690369,mammal,/m/01lrl,/m/04rky,carnivoran,carnivoran,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,carnivoran,87.0,0.6268051266670227,mammal,/m/01lrl,/m/04rky,carnivoran,carnivoran,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,carnivoran,88.0,0.5620689392089844,mammal,/m/01lrl,/m/04rky,carnivoran,carnivoran,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,dog breed group,82.0,0.8385974764823914,OTHER,/m/02xl47d,,dog breed group,dog breed group,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed group,83.0,0.8820951581001282,OTHER,/m/02xl47d,,dog breed group,dog breed group,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed group,84.0,0.8283454179763794,OTHER,/m/02xl47d,,dog breed group,dog breed group,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed group,85.0,0.6300175786018372,OTHER,/m/02xl47d,,dog breed group,dog breed group,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed group,86.0,0.8968372941017151,OTHER,/m/02xl47d,,dog breed group,dog breed group,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed group,87.0,0.8661920428276062,OTHER,/m/02xl47d,,dog breed group,dog breed group,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed group,88.0,0.7851141095161438,OTHER,/m/02xl47d,,dog breed group,dog breed group,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog,82.0,0.9623534679412842,pet,/m/0bt9lr,/m/068hy,dog,dog,OTHER,,http://dbpedia.org/ontology/Mammal,,PERSON,pet,pet,pet,pet,OTHER
+gPak1jchfD0,dog,83.0,0.9384757876396179,pet,/m/0bt9lr,/m/068hy,dog,dog,OTHER,,http://dbpedia.org/ontology/Mammal,,PERSON,pet,pet,pet,pet,OTHER
+gPak1jchfD0,dog,84.0,0.9379374384880066,pet,/m/0bt9lr,/m/068hy,dog,dog,OTHER,,http://dbpedia.org/ontology/Mammal,,PERSON,pet,pet,pet,pet,OTHER
+gPak1jchfD0,dog,85.0,0.9221199750900269,pet,/m/0bt9lr,/m/068hy,dog,dog,OTHER,,http://dbpedia.org/ontology/Mammal,,PERSON,pet,pet,pet,pet,OTHER
+gPak1jchfD0,dog,86.0,0.9532797932624816,pet,/m/0bt9lr,/m/068hy,dog,dog,OTHER,,http://dbpedia.org/ontology/Mammal,,PERSON,pet,pet,pet,pet,OTHER
+gPak1jchfD0,dog,87.0,0.9716004133224488,pet,/m/0bt9lr,/m/068hy,dog,dog,OTHER,,http://dbpedia.org/ontology/Mammal,,PERSON,pet,pet,pet,pet,OTHER
+gPak1jchfD0,dog,88.0,0.9713951349258424,pet,/m/0bt9lr,/m/068hy,dog,dog,OTHER,,http://dbpedia.org/ontology/Mammal,,PERSON,pet,pet,pet,pet,OTHER
+gPak1jchfD0,senior citizen,82.0,0.6735336780548096,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+gPak1jchfD0,senior citizen,83.0,0.7083052396774292,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+gPak1jchfD0,senior citizen,84.0,0.741815447807312,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+gPak1jchfD0,senior citizen,85.0,0.6757202744483948,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+gPak1jchfD0,senior citizen,86.0,0.5278518199920654,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+gPak1jchfD0,golden retriever,82.0,0.5419334769248962,dog,/m/01t032,/m/0bt9lr,golden retriever,golden retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,golden retriever,83.0,0.7421883940696716,dog,/m/01t032,/m/0bt9lr,golden retriever,golden retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,golden retriever,84.0,0.5283864140510559,dog,/m/01t032,/m/0bt9lr,golden retriever,golden retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,golden retriever,88.0,0.40538489818573,dog,/m/01t032,/m/0bt9lr,golden retriever,golden retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,companion dog,83.0,0.6042770743370056,dog,/m/03yl64,/m/0bt9lr,companion dog,companion dog,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,companion dog,84.0,0.6042770743370056,dog,/m/03yl64,/m/0bt9lr,companion dog,companion dog,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,companion dog,88.0,0.6042770743370056,dog,/m/03yl64,/m/0bt9lr,companion dog,companion dog,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,dog crossbreeds,82.0,0.4924793839454651,dog,/m/03f5jh,/m/0bt9lr,dog crossbreed,dog crossbreed,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,dog crossbreeds,83.0,0.5499120950698853,dog,/m/03f5jh,/m/0bt9lr,dog crossbreed,dog crossbreed,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,dog crossbreeds,84.0,0.5082047581672668,dog,/m/03f5jh,/m/0bt9lr,dog crossbreed,dog crossbreed,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,dog crossbreeds,86.0,0.4292460381984711,dog,/m/03f5jh,/m/0bt9lr,dog crossbreed,dog crossbreed,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,dog crossbreeds,87.0,0.4006110429763794,dog,/m/03f5jh,/m/0bt9lr,dog crossbreed,dog crossbreed,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,dog crossbreeds,88.0,0.6111891269683838,dog,/m/03f5jh,/m/0bt9lr,dog crossbreed,dog crossbreed,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,dog like mammal,82.0,0.9540250897407532,mammal,/m/01z5f,/m/04rky,dog like mammal,dog like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,dog like mammal,83.0,0.9176508784294128,mammal,/m/01z5f,/m/04rky,dog like mammal,dog like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,dog like mammal,84.0,0.8668758869171143,mammal,/m/01z5f,/m/04rky,dog like mammal,dog like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,dog like mammal,85.0,0.8466868400573729,mammal,/m/01z5f,/m/04rky,dog like mammal,dog like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,dog like mammal,86.0,0.9369373321533204,mammal,/m/01z5f,/m/04rky,dog like mammal,dog like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,dog like mammal,87.0,0.9467870593070984,mammal,/m/01z5f,/m/04rky,dog like mammal,dog like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,dog like mammal,88.0,0.8921022415161133,mammal,/m/01z5f,/m/04rky,dog like mammal,dog like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+gPak1jchfD0,pet,82.0,0.9608868956565856,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,pet,83.0,0.9483497738838196,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,pet,84.0,0.9471349120140076,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,pet,85.0,0.9434820413589478,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,pet,86.0,0.9465932846069336,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,pet,87.0,0.9405052661895752,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,pet,88.0,0.9364901185035706,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+gPak1jchfD0,non sporting group,87.0,0.4069859981536865,dog,/m/08xf1x,/m/0bt9lr,non sport group,non sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,fun,82.0,0.8049929738044739,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,fun,83.0,0.7156037688255309,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,fun,84.0,0.7333438396453857,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,fun,85.0,0.7046352624893188,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,fun,86.0,0.7327163219451904,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,fun,87.0,0.450842410326004,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,product,84.0,0.6145840883255005,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,mammal,82.0,0.9270191192626952,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,mammal,83.0,0.9265745282173156,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,mammal,84.0,0.9264591932296752,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,mammal,85.0,0.9260173439979552,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,mammal,86.0,0.9268448948860168,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,mammal,87.0,0.9257148504257202,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,photo caption,83.0,0.4015405476093292,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+gPak1jchfD0,dog breed,82.0,0.7572321891784668,OTHER,/m/0kpmf,,dog breed,dog breed,OTHER,,http://dbpedia.org/ontology/Insect,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed,83.0,0.914801299571991,OTHER,/m/0kpmf,,dog breed,dog breed,OTHER,,http://dbpedia.org/ontology/Insect,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed,84.0,0.8795248866081238,OTHER,/m/0kpmf,,dog breed,dog breed,OTHER,,http://dbpedia.org/ontology/Insect,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed,85.0,0.901354432106018,OTHER,/m/0kpmf,,dog breed,dog breed,OTHER,,http://dbpedia.org/ontology/Insect,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed,86.0,0.9128128290176392,OTHER,/m/0kpmf,,dog breed,dog breed,OTHER,,http://dbpedia.org/ontology/Insect,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed,87.0,0.8890897631645203,OTHER,/m/0kpmf,,dog breed,dog breed,OTHER,,http://dbpedia.org/ontology/Insect,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,dog breed,88.0,0.916677713394165,OTHER,/m/0kpmf,,dog breed,dog breed,OTHER,,http://dbpedia.org/ontology/Insect,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,sporting group,82.0,0.5481502413749695,dog,/m/0265rtm,/m/0bt9lr,sport group,sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,sporting group,83.0,0.5755848884582521,dog,/m/0265rtm,/m/0bt9lr,sport group,sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,sporting group,84.0,0.5402165651321411,dog,/m/0265rtm,/m/0bt9lr,sport group,sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,sporting group,85.0,0.5132521390914917,dog,/m/0265rtm,/m/0bt9lr,sport group,sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,sporting group,86.0,0.5461247563362122,dog,/m/0265rtm,/m/0bt9lr,sport group,sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,sporting group,87.0,0.5632376670837402,dog,/m/0265rtm,/m/0bt9lr,sport group,sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,sporting group,88.0,0.5646543502807617,dog,/m/0265rtm,/m/0bt9lr,sport group,sport group,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,lap,83.0,0.42603278160095215,human body,/m/09fwz6,/m/02p0tk3,lap,lap,OTHER,,http://dbpedia.org/ontology/Bone,,,human body,OTHER,human body,human body,OTHER
+gPak1jchfD0,lap,85.0,0.4544801414012909,human body,/m/09fwz6,/m/02p0tk3,lap,lap,OTHER,,http://dbpedia.org/ontology/Bone,,,human body,OTHER,human body,human body,OTHER
+gPak1jchfD0,human,85.0,0.6809690594673157,OTHER,/m/0dgw9r,,human,human,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,human,86.0,0.69777512550354,OTHER,/m/0dgw9r,,human,human,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,puppy love,83.0,0.6126223206520081,OTHER,/m/02fpy0,,puppy love,puppy love,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,puppy love,84.0,0.4729126393795013,OTHER,/m/02fpy0,,puppy love,puppy love,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,puppy love,86.0,0.4986005127429962,OTHER,/m/02fpy0,,puppy love,puppy love,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,puppy love,88.0,0.42363041639328003,OTHER,/m/02fpy0,,puppy love,puppy love,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,snapshot,86.0,0.8176745176315308,"photography, photograph",/m/06pg22,"/m/05wkw, /m/068jd",snapshot,snapshot,OTHER,,,,,"photography, photograph","photography, photograph","photography, photograph","photography, photograph",OTHER
+gPak1jchfD0,professional,85.0,0.4660217761993408,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gPak1jchfD0,breeder,83.0,0.4788071215152741,person,/m/02yz74,/m/01g317,breeder,breeder,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gPak1jchfD0,fur,86.0,0.5469401478767395,material,/m/0cnmr,/m/01l0y0,fur,fur,OTHER,,,,,material,material,material,material,OTHER
+gPak1jchfD0,vertebrate,82.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,vertebrate,83.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,vertebrate,84.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,vertebrate,85.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,vertebrate,86.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,vertebrate,87.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,smile,86.0,0.4772071838378906,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gPak1jchfD0,conformation show,82.0,0.8533825278282166,sports,/m/0299pv,/m/06ntj,conformation show,conformation show,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,conformation show,83.0,0.8472443222999573,sports,/m/0299pv,/m/06ntj,conformation show,conformation show,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,conformation show,84.0,0.7640455365180969,sports,/m/0299pv,/m/06ntj,conformation show,conformation show,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,conformation show,85.0,0.8215874433517456,sports,/m/0299pv,/m/06ntj,conformation show,conformation show,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,conformation show,86.0,0.8253223299980164,sports,/m/0299pv,/m/06ntj,conformation show,conformation show,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,conformation show,87.0,0.6464828252792358,sports,/m/0299pv,/m/06ntj,conformation show,conformation show,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,conformation show,88.0,0.5575965046882629,sports,/m/0299pv,/m/06ntj,conformation show,conformation show,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,weimaraner,85.0,0.5033549070358276,dog,/m/02kwjt,/m/0bt9lr,weimaraner,weimaraner,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,snout,83.0,0.7944307327270508,animal,/m/05mqq3,/m/0jbk,snout,snout,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,snout,84.0,0.7447316646575928,animal,/m/05mqq3,/m/0jbk,snout,snout,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,snout,85.0,0.7694690823554993,animal,/m/05mqq3,/m/0jbk,snout,snout,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,snout,86.0,0.7732591032981873,animal,/m/05mqq3,/m/0jbk,snout,snout,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,snout,87.0,0.7482626438140869,animal,/m/05mqq3,/m/0jbk,snout,snout,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,snout,88.0,0.765857994556427,animal,/m/05mqq3,/m/0jbk,snout,snout,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,animal,animal,animal,animal,OTHER
+gPak1jchfD0,labrador retriever,82.0,0.4479673802852631,dog,/m/0km3f,/m/0bt9lr,labrador retriever,labrador retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,labrador retriever,83.0,0.7036441564559937,dog,/m/0km3f,/m/0bt9lr,labrador retriever,labrador retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,labrador retriever,84.0,0.489917904138565,dog,/m/0km3f,/m/0bt9lr,labrador retriever,labrador retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,labrador retriever,85.0,0.5600520372390747,dog,/m/0km3f,/m/0bt9lr,labrador retriever,labrador retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,labrador retriever,86.0,0.6412513852119446,dog,/m/0km3f,/m/0bt9lr,labrador retriever,labrador retriever,OTHER,,,,,dog,dog,dog,dog,OTHER
+gPak1jchfD0,puppy,82.0,0.7006327509880066,dog,/m/0d7s3w,/m/0bt9lr,puppy,puppy,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,PERSON,dog,dog,dog,dog,OTHER
+gPak1jchfD0,puppy,83.0,0.7650013566017151,dog,/m/0d7s3w,/m/0bt9lr,puppy,puppy,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,PERSON,dog,dog,dog,dog,OTHER
+gPak1jchfD0,puppy,84.0,0.6742222309112549,dog,/m/0d7s3w,/m/0bt9lr,puppy,puppy,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,PERSON,dog,dog,dog,dog,OTHER
+gPak1jchfD0,puppy,85.0,0.4766364693641663,dog,/m/0d7s3w,/m/0bt9lr,puppy,puppy,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,PERSON,dog,dog,dog,dog,OTHER
+gPak1jchfD0,puppy,86.0,0.7131089568138123,dog,/m/0d7s3w,/m/0bt9lr,puppy,puppy,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,PERSON,dog,dog,dog,dog,OTHER
+gPak1jchfD0,puppy,87.0,0.6357417106628418,dog,/m/0d7s3w,/m/0bt9lr,puppy,puppy,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,PERSON,dog,dog,dog,dog,OTHER
+gPak1jchfD0,puppy,88.0,0.5554605722427368,dog,/m/0d7s3w,/m/0bt9lr,puppy,puppy,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,PERSON,dog,dog,dog,dog,OTHER
+gPak1jchfD0,magenta,83.0,0.4967568218708038,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gPak1jchfD0,obedience training,83.0,0.4276333749294281,sports,/m/0296c5,/m/06ntj,obedience training,obedience training,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+gPak1jchfD0,obedience training,85.0,0.4568075239658356,sports,/m/0296c5,/m/06ntj,obedience training,obedience training,OTHER,,,,,sports,sports,EVENT,sports,EVENT

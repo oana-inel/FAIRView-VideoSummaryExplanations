@@ -1,0 +1,930 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+C_itlEamvBo,banana,7.0,0.579143226146698,fruit,/m/09qck,/m/02xwb,banana,banana,OTHER,,http://dbpedia.org/ontology/Plant,,,fruit,fruit,fruit,fruit,OTHER
+C_itlEamvBo,electric blue,12.0,0.5285751819610596,OTHER,/m/02vwbzz,,electric blue,electric blue,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,5.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,6.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,7.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,11.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,13.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,21.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,23.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,24.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,25.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,27.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,28.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,29.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,30.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,31.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,42.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,44.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,45.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,adaptation,59.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,play,20.0,0.51944500207901,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+C_itlEamvBo,play,21.0,0.5481352210044861,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+C_itlEamvBo,play,22.0,0.5163853168487549,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+C_itlEamvBo,play,32.0,0.5856013298034668,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+C_itlEamvBo,play,33.0,0.4081588089466095,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+C_itlEamvBo,play,60.0,0.6089751124382019,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+C_itlEamvBo,playground,60.0,0.4211102724075317,city,/m/01h_1n,/m/01n32,playground,playground,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,LOCATION,city,EVENT,city,LOCATION
+C_itlEamvBo,machine tool,55.0,0.5013271570205688,"tool, machine",/m/01b5w1,"/m/07k1x, /m/0dkw5",machine tool,machine tool,OTHER,,http://dbpedia.org/ontology/Software,,,"tool, machine","tool, machine","tool, machine","tool, machine",OTHER
+C_itlEamvBo,area,21.0,0.6720095872879028,OTHER,/m/0n0j,,area,area,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,area,22.0,0.6720095872879028,OTHER,/m/0n0j,,area,area,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,medical glove,57.0,0.6137548685073853,medical,/m/03yx9r,/m/02xht4g,medical glove,medical glove,PERSON,,http://dbpedia.org/ontology/Person,,,medical,medical,medical,medical,OTHER
+C_itlEamvBo,backyard,20.0,0.65826016664505,OTHER,/m/0hrcj2p,,backyard,backyard,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,backyard,21.0,0.5264710783958435,OTHER,/m/0hrcj2p,,backyard,backyard,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,backyard,22.0,0.5077979564666748,OTHER,/m/0hrcj2p,,backyard,backyard,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,backyard,60.0,0.6013447642326355,OTHER,/m/0hrcj2p,,backyard,backyard,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,backyard,61.0,0.6769773364067078,OTHER,/m/0hrcj2p,,backyard,backyard,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,cnidaria,19.0,0.4066238403320313,animal,/m/01y77,/m/0jbk,cnidaria,cnidaria,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,light bulb,38.0,0.5405354499816895,lighting,/m/0h8l4fh,/m/019sc6,light bulb,light bulb,OTHER,,,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,light bulb,39.0,0.6128972172737122,lighting,/m/0h8l4fh,/m/019sc6,light bulb,light bulb,OTHER,,,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,light bulb,40.0,0.4610028862953186,lighting,/m/0h8l4fh,/m/019sc6,light bulb,light bulb,OTHER,,,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,product design,38.0,0.5850061774253845,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,product design,39.0,0.6207983493804932,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,smile,43.0,0.6463618874549866,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+C_itlEamvBo,smile,44.0,0.5184364318847656,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+C_itlEamvBo,smile,45.0,0.7548839449882507,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+C_itlEamvBo,smile,46.0,0.8270384073257446,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+C_itlEamvBo,smile,47.0,0.8351202011108398,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+C_itlEamvBo,smile,48.0,0.859247624874115,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+C_itlEamvBo,snapshot,9.0,0.8176745176315308,"photography, photograph",/m/06pg22,"/m/05wkw, /m/068jd",snapshot,snapshot,OTHER,,,,,"photography, photograph","photography, photograph","photography, photograph","photography, photograph",OTHER
+C_itlEamvBo,geological phenomenon,27.0,0.7152063250541687,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,geological phenomenon,28.0,0.7101197242736816,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,geological phenomenon,31.0,0.7127687931060791,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,woodland,60.0,0.7677714228630066,forest,/m/0hnc1,/m/02zr8,woodland,woodland,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,,LOCATION,forest,forest,forest,LOCATION
+C_itlEamvBo,woodland,61.0,0.7427566647529602,forest,/m/0hnc1,/m/02zr8,woodland,woodland,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,,LOCATION,forest,forest,forest,LOCATION
+C_itlEamvBo,outdoor play equipment,60.0,0.4863854348659515,OTHER,/m/0h8jmzl,,outdoor play equipment,outdoor play equipment,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,surgeon's assistant,56.0,0.6420913338661194,person,/m/04r5nv,/m/01g317,surgeon 's assistant,surgeon 's assistant,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,surgeon's assistant,57.0,0.6886117458343506,person,/m/04r5nv,/m/01g317,surgeon 's assistant,surgeon 's assistant,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,surgeon's assistant,58.0,0.4575257301330566,person,/m/04r5nv,/m/01g317,surgeon 's assistant,surgeon 's assistant,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,bed,1.0,0.4884859621524811,furniture,/m/03ssj5,/m/0c_jw,bed,bed,OTHER,,http://dbpedia.org/ontology/MusicalWork,,LOCATION,furniture,furniture,furniture,furniture,OTHER
+C_itlEamvBo,bed,2.0,0.6673839688301086,furniture,/m/03ssj5,/m/0c_jw,bed,bed,OTHER,,http://dbpedia.org/ontology/MusicalWork,,LOCATION,furniture,furniture,furniture,furniture,OTHER
+C_itlEamvBo,bed,3.0,0.6375486850738525,furniture,/m/03ssj5,/m/0c_jw,bed,bed,OTHER,,http://dbpedia.org/ontology/MusicalWork,,LOCATION,furniture,furniture,furniture,furniture,OTHER
+C_itlEamvBo,bed,4.0,0.7106401324272156,furniture,/m/03ssj5,/m/0c_jw,bed,bed,OTHER,,http://dbpedia.org/ontology/MusicalWork,,LOCATION,furniture,furniture,furniture,furniture,OTHER
+C_itlEamvBo,phenomenon,0.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,14.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,23.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,24.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,25.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,27.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,28.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,29.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,30.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,31.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,41.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,42.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,phenomenon,59.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,black and white,0.0,0.9286819696426392,style,/m/01g6gs,/m/012yh1,black and white,black and white,OTHER,,,,,style,style,style,style,OTHER
+C_itlEamvBo,floristry,5.0,0.5542485117912292,"building, person",/m/02hcw1,"/m/0cgh4, /m/01g317",floristry,floristry,OTHER,,http://dbpedia.org/ontology/Company,,,"building, person","building, person","building, person","building, person",OTHER
+C_itlEamvBo,lip,46.0,0.8587225079536438,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,lip,47.0,0.8466161489486694,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,lip,48.0,0.7287353277206421,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,physician,49.0,0.5322882533073425,professional,/m/05t4q,/m/01qkbx,physician,physician,OTHER,,,,PERSON,professional,PERSON,professional,professional,PERSON
+C_itlEamvBo,physician,50.0,0.4560754001140594,professional,/m/05t4q,/m/01qkbx,physician,physician,OTHER,,,,PERSON,professional,PERSON,professional,professional,PERSON
+C_itlEamvBo,photo caption,6.0,0.5647850036621094,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,photo caption,7.0,0.4983198344707489,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,photo caption,8.0,0.4401476085186005,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,photo caption,34.0,0.4041597843170166,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,photo caption,42.0,0.6491414904594421,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,photo caption,43.0,0.605925977230072,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,photo caption,44.0,0.5783237814903259,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,photo caption,45.0,0.6679251194000244,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,barber,45.0,0.7008330225944519,person,/m/012qyb,/m/01g317,barber,barber,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,barber,49.0,0.6062324047088623,person,/m/012qyb,/m/01g317,barber,barber,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,barber,50.0,0.4067026972770691,person,/m/012qyb,/m/01g317,barber,barber,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,barber,51.0,0.5469166040420532,person,/m/012qyb,/m/01g317,barber,barber,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,darkness,0.0,0.8787239193916321,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mouth,43.0,0.8003522157669067,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mouth,44.0,0.7719070315361023,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mouth,45.0,0.8183952569961548,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mouth,46.0,0.8715558648109436,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mouth,47.0,0.8767295479774475,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mouth,48.0,0.8544521927833557,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,vertebrate,6.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,vertebrate,20.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,vertebrate,21.0,0.9037036299705504,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,vertebrate,22.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,vertebrate,32.0,0.9037036299705504,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,vertebrate,42.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,vertebrate,45.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,vertebrate,59.0,0.9037036895751952,animal,/m/09686,/m/0jbk,vertebrate,vertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,health care,49.0,0.7509279251098633,service,/m/01mw2x,/m/018tkd,health care,health care,OTHER,,http://dbpedia.org/ontology/Company,,,service,service,service,service,OTHER
+C_itlEamvBo,health care,50.0,0.7248996496200562,service,/m/01mw2x,/m/018tkd,health care,health care,OTHER,,http://dbpedia.org/ontology/Company,,,service,service,service,service,OTHER
+C_itlEamvBo,health care,51.0,0.7275396585464478,service,/m/01mw2x,/m/018tkd,health care,health care,OTHER,,http://dbpedia.org/ontology/Company,,,service,service,service,service,OTHER
+C_itlEamvBo,style,60.0,0.4483593702316284,weak entity,/m/012yh1,/m/0pccj,style,style,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+C_itlEamvBo,structure,36.0,0.7834913730621338,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,still life photography,38.0,0.4093531370162964,photography,/m/027_ny3,/m/05wkw,still life photography,still life photography,OTHER,,http://dbpedia.org/ontology/MusicGenre,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,still life photography,39.0,0.4035920798778534,photography,/m/027_ny3,/m/05wkw,still life photography,still life photography,OTHER,,http://dbpedia.org/ontology/MusicGenre,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,medical technologist,49.0,0.44868913292884827,person,/m/09_32m,/m/01g317,medical technologist,medical technologist,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,medical technologist,50.0,0.43362534046173096,person,/m/09_32m,/m/01g317,medical technologist,medical technologist,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,medical technologist,51.0,0.4163818955421448,person,/m/09_32m,/m/01g317,medical technologist,medical technologist,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,community,20.0,0.8201167583465576,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+C_itlEamvBo,community,21.0,0.8630724549293518,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+C_itlEamvBo,community,22.0,0.8444035053253174,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+C_itlEamvBo,community,60.0,0.7762291431427002,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+C_itlEamvBo,mammal,20.0,0.9247695207595824,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,mammal,32.0,0.9238558411598206,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,mammal,42.0,0.9264402389526368,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,mammal,43.0,0.922782301902771,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,mammal,45.0,0.9265462160110474,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,mammal,58.0,0.9240230321884156,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,mammal,59.0,0.926469087600708,animal,/m/04rky,/m/0jbk,mammal,mammal,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,patient,49.0,0.8403899669647217,person,/m/028hfb,/m/01g317,patient,patient,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,patient,50.0,0.6711449027061462,person,/m/028hfb,/m/01g317,patient,patient,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,patient,51.0,0.6916629076004028,person,/m/028hfb,/m/01g317,patient,patient,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,clinic,49.0,0.6043435335159302,"medical, hospital",/m/03fk5c,"/m/02xht4g, /m/0hpnr",clinic,clinic,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,ORGANIZATION,"medical, hospital","medical, hospital","medical, hospital","medical, hospital",OTHER
+C_itlEamvBo,clinic,50.0,0.6886329054832458,"medical, hospital",/m/03fk5c,"/m/02xht4g, /m/0hpnr",clinic,clinic,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,ORGANIZATION,"medical, hospital","medical, hospital","medical, hospital","medical, hospital",OTHER
+C_itlEamvBo,clinic,51.0,0.6446290612220764,"medical, hospital",/m/03fk5c,"/m/02xht4g, /m/0hpnr",clinic,clinic,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,ORGANIZATION,"medical, hospital","medical, hospital","medical, hospital","medical, hospital",OTHER
+C_itlEamvBo,commodity,5.0,0.4547788202762604,OTHER,/m/0cxp1,,commodity,commodity,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,nursing,49.0,0.6108999252319336,person,/m/05fh2,/m/01g317,nursing,nursing,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+C_itlEamvBo,surgeon,9.0,0.4394871890544891,professional,/m/02y_93f,/m/01qkbx,surgeon,surgeon,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+C_itlEamvBo,surgeon,56.0,0.8145668506622314,professional,/m/02y_93f,/m/01qkbx,surgeon,surgeon,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+C_itlEamvBo,surgeon,57.0,0.9150749444961548,professional,/m/02y_93f,/m/01qkbx,surgeon,surgeon,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+C_itlEamvBo,surgeon,58.0,0.837122917175293,professional,/m/02y_93f,/m/01qkbx,surgeon,surgeon,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+C_itlEamvBo,swing,60.0,0.598433256149292,OTHER,/m/02y929,,swing,swing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,head,43.0,0.8597168922424316,OTHER,/m/04hgtk,,head,head,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, ORGANIZATION, LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,head,44.0,0.8590339422225952,OTHER,/m/04hgtk,,head,head,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, ORGANIZATION, LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,head,45.0,0.8608570098876953,OTHER,/m/04hgtk,,head,head,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, ORGANIZATION, LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,head,46.0,0.8611661195755005,OTHER,/m/04hgtk,,head,head,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, ORGANIZATION, LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,head,47.0,0.8611698746681213,OTHER,/m/04hgtk,,head,head,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, ORGANIZATION, LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,head,48.0,0.8611618280410767,OTHER,/m/04hgtk,,head,head,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, ORGANIZATION, LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,outer space,14.0,0.4297355115413666,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,outer space,15.0,0.4303476512432097,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,outer space,18.0,0.4345249831676483,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,outer space,19.0,0.6540572643280029,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,tongue,47.0,0.5233539938926697,organ,/m/0fjkt,/m/013y0j,tongue,tongue,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,tongue,48.0,0.4046670496463776,organ,/m/0fjkt,/m/013y0j,tongue,tongue,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,laughter,48.0,0.4272959232330322,person,/m/01j3sz,/m/01g317,laughter,laughter,OTHER,,http://dbpedia.org/ontology/Disease,,,person,person,person,person,OTHER
+C_itlEamvBo,prayer,5.0,0.44316422939300537,person,/m/0687y,/m/01g317,prayer,prayer,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,laboratory,49.0,0.4347198605537415,building,/m/017clw,/m/0cgh4,laboratory,laboratory,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,LOCATION,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,laboratory,50.0,0.4225626885890961,building,/m/017clw,/m/0cgh4,laboratory,laboratory,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,LOCATION,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,material,1.0,0.6506527662277222,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,2.0,0.6975138783454895,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,3.0,0.7686925530433655,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,4.0,0.7430980801582336,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,5.0,0.6734521985054016,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,8.0,0.6195302009582521,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,32.0,0.5944862365722656,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,39.0,0.710464596748352,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,40.0,0.6648938655853271,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,material,41.0,0.580595850944519,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,underwater,14.0,0.4808790385723114,OTHER,/m/01sfb5,,underwater,underwater,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,underwater,15.0,0.5932151675224304,OTHER,/m/01sfb5,,underwater,underwater,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,underwater,16.0,0.4399935901165009,OTHER,/m/01sfb5,,underwater,underwater,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,underwater,18.0,0.5154391527175903,OTHER,/m/01sfb5,,underwater,underwater,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,underwater,19.0,0.6055358052253723,OTHER,/m/01sfb5,,underwater,underwater,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,registered nurse,49.0,0.4326426684856415,person,/m/0fd02,/m/01g317,registered nurse,registered nurse,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,hospital,49.0,0.7187097072601318,building,/m/0hpnr,/m/0cgh4,hospital,hospital,OTHER,,http://dbpedia.org/ontology/University,,ORGANIZATION,LOCATION,building,building,ORGANIZATION,ORGANIZATION###LOCATION
+C_itlEamvBo,hospital,50.0,0.7183823585510254,building,/m/0hpnr,/m/0cgh4,hospital,hospital,OTHER,,http://dbpedia.org/ontology/University,,ORGANIZATION,LOCATION,building,building,ORGANIZATION,ORGANIZATION###LOCATION
+C_itlEamvBo,hospital,51.0,0.6941113471984863,building,/m/0hpnr,/m/0cgh4,hospital,hospital,OTHER,,http://dbpedia.org/ontology/University,,ORGANIZATION,LOCATION,building,building,ORGANIZATION,ORGANIZATION###LOCATION
+C_itlEamvBo,cyclone,25.0,0.4739801287651062,storm,/m/0brl6,/m/0z71l,cyclone,cyclone,LOCATION,,http://dbpedia.org/ontology/Place,,,storm,storm,storm,storm,OTHER
+C_itlEamvBo,cyclone,27.0,0.44498950242996216,storm,/m/0brl6,/m/0z71l,cyclone,cyclone,LOCATION,,http://dbpedia.org/ontology/Place,,,storm,storm,storm,storm,OTHER
+C_itlEamvBo,cyclone,28.0,0.5021716356277466,storm,/m/0brl6,/m/0z71l,cyclone,cyclone,LOCATION,,http://dbpedia.org/ontology/Place,,,storm,storm,storm,storm,OTHER
+C_itlEamvBo,cyclone,29.0,0.5168922543525696,storm,/m/0brl6,/m/0z71l,cyclone,cyclone,LOCATION,,http://dbpedia.org/ontology/Place,,,storm,storm,storm,storm,OTHER
+C_itlEamvBo,cyclone,30.0,0.5266324877738953,storm,/m/0brl6,/m/0z71l,cyclone,cyclone,LOCATION,,http://dbpedia.org/ontology/Place,,,storm,storm,storm,storm,OTHER
+C_itlEamvBo,cyclone,31.0,0.5251051783561707,storm,/m/0brl6,/m/0z71l,cyclone,cyclone,LOCATION,,http://dbpedia.org/ontology/Place,,,storm,storm,storm,storm,OTHER
+C_itlEamvBo,human body,46.0,0.7411763668060303,OTHER,/m/02p0tk3,,human body,human body,OTHER,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Building",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,human body,47.0,0.7411763668060303,OTHER,/m/02p0tk3,,human body,human body,OTHER,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Building",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,small appliance,55.0,0.5795215368270874,OTHER,/m/017z18,,small appliance,small appliance,OTHER,,http://dbpedia.org/ontology/FictionalCharacter,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,clothing,57.0,0.9723783731460572,OTHER,/m/09j2d,,clothing,clothing,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,clothing,59.0,0.9681801199913024,OTHER,/m/09j2d,,clothing,clothing,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,paper,3.0,0.4130931794643402,material,/m/0641k,/m/01l0y0,paper,paper,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,ORGANIZATION,material,material,material,material,OTHER
+C_itlEamvBo,floor,33.0,0.5271887183189392,OTHER,/m/0l7_8,,floor,floor,OTHER,,http://dbpedia.org/ontology/Bone,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,emotion,43.0,0.7988614439964294,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,emotion,45.0,0.8442217707633972,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,emotion,46.0,0.8331567049026489,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,emotion,47.0,0.8281519412994385,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,emotion,48.0,0.8451912999153137,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,plant,20.0,0.6044932007789612,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,plant,21.0,0.7418493032455444,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,plant,22.0,0.6882176399230957,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,plant,59.0,0.7656058073043823,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,plant,60.0,0.6145330667495728,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,plant,61.0,0.5406769514083862,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,floral design,5.0,0.4731999933719635,"flower, artwork",/m/06gjp9,"/m/0c9ph5, /m/0dgsmq8",floral design,floral design,PERSON,,http://dbpedia.org/ontology/Person,,,"flower, artwork","flower, artwork","flower, artwork","flower, artwork",OTHER
+C_itlEamvBo,landscape,21.0,0.4459649920463562,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,landscape,22.0,0.4121387898921967,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,landscape,24.0,0.4930371046066284,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,energy,11.0,0.4577431678771973,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,energy,12.0,0.5414265394210815,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,energy,13.0,0.5334486365318298,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,energy,14.0,0.4992944896221161,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,energy,24.0,0.4559706449508667,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,energy,25.0,0.4853867888450623,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,energy,40.0,0.4434678256511688,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,scientific instrument,55.0,0.8489415049552917,OTHER,/m/04n4dpy,,scientific instrument,scientific instrument,OTHER,,http://dbpedia.org/ontology/Agent,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,thumb,1.0,0.43431416153907776,finger,/m/01bmhj,/m/09cx8,thumb,thumb,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,finger,finger,finger,finger,OTHER
+C_itlEamvBo,text,0.0,0.8427743315696716,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,5.0,0.7903476357460022,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,6.0,0.8387306928634644,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,7.0,0.8289342522621155,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,8.0,0.7949481010437012,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,11.0,0.888411819934845,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,12.0,0.8236663937568665,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,13.0,0.8113236427307129,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,14.0,0.7926689386367798,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,16.0,0.6692771911621094,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,17.0,0.7382622957229614,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,23.0,0.6927764415740967,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,24.0,0.8722120523452759,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,25.0,0.8970556855201721,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,26.0,0.698876678943634,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,27.0,0.6494607329368591,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,28.0,0.8000842332839966,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,29.0,0.7868508100509644,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,30.0,0.7900274991989136,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,31.0,0.7974033951759338,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,33.0,0.6885494589805603,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,34.0,0.6922132968902588,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,35.0,0.6562080979347229,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,40.0,0.9061599373817444,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,41.0,0.884640097618103,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,42.0,0.8931946754455566,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,43.0,0.8173272609710693,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,44.0,0.8570305109024048,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,text,45.0,0.8086211085319519,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,selfie,47.0,0.4855118989944458,photography,/m/0sgh53y,/m/05wkw,selfie,selfie,OTHER,,http://dbpedia.org/ontology/Artwork,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,selfie,48.0,0.415929526090622,photography,/m/0sgh53y,/m/05wkw,selfie,selfie,OTHER,,http://dbpedia.org/ontology/Artwork,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,water,10.0,0.614360511302948,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,11.0,0.8899049758911133,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,12.0,0.9458453059196472,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,13.0,0.9675760865211488,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,14.0,0.9678238034248352,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,15.0,0.9734141230583192,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,16.0,0.971842646598816,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,17.0,0.9593635201454164,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,18.0,0.9641969799995422,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,19.0,0.8782365322113037,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,23.0,0.6406815052032471,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,24.0,0.8541372418403625,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,25.0,0.9235441088676452,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,26.0,0.7489879727363586,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,28.0,0.5134473443031311,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,29.0,0.498789519071579,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,30.0,0.5242664217948914,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,31.0,0.5107113122940063,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,water,40.0,0.6813036799430847,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,1.0,0.872780978679657,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,2.0,0.8677242398262024,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,6.0,0.6649470925331116,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,7.0,0.7363726496696472,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,43.0,0.6172069907188416,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,44.0,0.656603991985321,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,45.0,0.7118582129478455,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,46.0,0.7738259434700012,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,47.0,0.7843743562698364,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hand,48.0,0.7307938933372498,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,soil,21.0,0.6168473362922668,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,event,0.0,0.4723080396652222,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,event,57.0,0.4258364737033844,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,light fixture,38.0,0.9527986645698548,lighting,/m/08jpwt,/m/019sc6,light fixture,light fixture,OTHER,,http://dbpedia.org/ontology/Device,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,light fixture,39.0,0.8633015751838684,lighting,/m/08jpwt,/m/019sc6,light fixture,light fixture,OTHER,,http://dbpedia.org/ontology/Device,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,light fixture,40.0,0.8125918507575989,lighting,/m/08jpwt,/m/019sc6,light fixture,light fixture,OTHER,,http://dbpedia.org/ontology/Device,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,wall,40.0,0.764155387878418,OTHER,/m/09qqq,,wall,wall,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,job,50.0,0.5395225286483765,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,job,51.0,0.5212571620941162,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,job,53.0,0.4280720353126526,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,job,54.0,0.4270431697368622,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,deep sea fish,15.0,0.4317318499088288,fish,/m/0gvkb,/m/0ch_cf,deep sea fish,deep sea fish,OTHER,,,,,fish,fish,fish,fish,OTHER
+C_itlEamvBo,deep sea fish,19.0,0.4208929836750031,fish,/m/0gvkb,/m/0ch_cf,deep sea fish,deep sea fish,OTHER,,,,,fish,fish,fish,fish,OTHER
+C_itlEamvBo,saint patrick's day,58.0,0.4076403081417084,holiday,/m/016s_l,/m/03gkl,saint patrick 's day,saint patrick 's day,OTHER,,,,,holiday,holiday,EVENT,holiday,EVENT
+C_itlEamvBo,fish,19.0,0.4044411778450012,seafood,/m/07pbfj,/m/06nwz,fish,fish,OTHER,,,,"PERSON, LOCATION",seafood,seafood,seafood,seafood,OTHER
+C_itlEamvBo,race,20.0,0.457838237285614,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,race,21.0,0.4848249554634094,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,race,22.0,0.4657563269138336,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,universe,14.0,0.6139946579933167,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,universe,15.0,0.4017803370952606,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,universe,17.0,0.584450900554657,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,universe,18.0,0.6418596506118774,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,universe,19.0,0.7379953861236572,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+C_itlEamvBo,astronomy,19.0,0.4633754789829254,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+C_itlEamvBo,lawn,20.0,0.5274856686592102,OTHER,/m/01v327,,lawn,lawn,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,lawn,21.0,0.4275413453578949,OTHER,/m/01v327,,lawn,lawn,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,lawn,59.0,0.4172192513942719,OTHER,/m/01v327,,lawn,lawn,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,lawn,60.0,0.4552968442440033,OTHER,/m/01v327,,lawn,lawn,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,home fencing,20.0,0.488891988992691,OTHER,/m/0h8jv05,,home fencing,home fencing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,home fencing,21.0,0.5207316875457764,OTHER,/m/0h8jv05,,home fencing,home fencing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,home fencing,22.0,0.5548068881034851,OTHER,/m/0h8jv05,,home fencing,home fencing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,midnight,0.0,0.6098679900169373,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,animal,37.0,0.4577842950820923,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,animal,45.0,0.6758992075920105,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,net,20.0,0.7641267776489258,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,net,21.0,0.7106022834777832,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,net,22.0,0.7185937166213989,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,grass,20.0,0.8416237831115723,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,grass,21.0,0.8089265823364258,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,grass,22.0,0.8142984509468079,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,grass,24.0,0.6164841055870056,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,grass,25.0,0.6534619927406311,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,grass,26.0,0.5966923832893372,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,grass,59.0,0.8065241575241089,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,grass,60.0,0.7045614123344421,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,grass,61.0,0.5575005412101746,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,mode of transport,32.0,0.8751301169395447,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mode of transport,37.0,0.8750501871109009,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mode of transport,41.0,0.8751720786094666,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mode of transport,42.0,0.8751042485237122,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,mode of transport,60.0,0.8752463459968567,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,sconce,38.0,0.4354225695133209,lighting,/m/06n224,/m/019sc6,sconce,sconce,OTHER,,,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,petal,3.0,0.569808304309845,OTHER,/m/016q19,,petal,petal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,petal,4.0,0.4235633611679077,OTHER,/m/016q19,,petal,petal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,petal,5.0,0.6867557764053345,OTHER,/m/016q19,,petal,petal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,nose,45.0,0.8858259916305542,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,nose,46.0,0.9552235603332521,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,nose,47.0,0.9613795280456544,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,nose,48.0,0.9510672688484192,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,globe,23.0,0.4166179299354553,OTHER,/m/01q_cy,,globe,globe,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,eyebrow,46.0,0.850294291973114,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,eyebrow,47.0,0.9219536781311036,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,eyebrow,48.0,0.883957028388977,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,expert,53.0,0.40536314249038696,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,expert,54.0,0.4166315197944641,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,expert,58.0,0.4435115456581116,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,glass,35.0,0.439464658498764,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+C_itlEamvBo,glass,38.0,0.7468176484107971,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+C_itlEamvBo,glass,39.0,0.8220813870429993,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+C_itlEamvBo,glass,40.0,0.8383139967918396,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+C_itlEamvBo,glass,41.0,0.6145818829536438,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+C_itlEamvBo,organism,10.0,0.7671950459480286,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,11.0,0.7663848400115967,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,12.0,0.7892752885818481,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,13.0,0.7974847555160522,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,14.0,0.7894518375396729,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,15.0,0.8236877322196959,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,16.0,0.8240734934806824,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,17.0,0.8456926941871643,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,18.0,0.8243580460548401,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,19.0,0.827075719833374,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,24.0,0.6171351075172424,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,25.0,0.680915117263794,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,28.0,0.6056309938430786,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,30.0,0.6069599390029907,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,31.0,0.608528733253479,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,organism,45.0,0.6678685545921326,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,marine invertebrates,15.0,0.5510165691375732,animal,/m/03hl4l9,/m/0jbk,marine invertebrate,marine invertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,marine invertebrates,16.0,0.4276151061058045,animal,/m/03hl4l9,/m/0jbk,marine invertebrate,marine invertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,marine invertebrates,17.0,0.5340421795845032,animal,/m/03hl4l9,/m/0jbk,marine invertebrate,marine invertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,marine invertebrates,19.0,0.7763248682022095,animal,/m/03hl4l9,/m/0jbk,marine invertebrate,marine invertebrate,OTHER,,,,,animal,animal,animal,animal,OTHER
+C_itlEamvBo,surgical technologist,56.0,0.5872622132301331,person,/m/051vxl,/m/01g317,surgical technologist,surgical technologist,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,surgical technologist,57.0,0.6544132828712463,person,/m/051vxl,/m/01g317,surgical technologist,surgical technologist,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,surgical technologist,58.0,0.4215231835842133,person,/m/051vxl,/m/01g317,surgical technologist,surgical technologist,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,atmosphere,0.0,0.8988041877746582,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,10.0,0.7121809720993042,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,14.0,0.7722262740135193,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,18.0,0.7690980434417725,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,19.0,0.883463978767395,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,23.0,0.8334195613861084,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,24.0,0.862964928150177,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,25.0,0.9339207410812378,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,26.0,0.8791393041610718,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,27.0,0.8060590028762817,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,28.0,0.7866869568824768,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,29.0,0.7887474298477173,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,30.0,0.795598030090332,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,atmosphere,31.0,0.796148419380188,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,machinist,52.0,0.4430308043956757,person,/m/01t8by,/m/01g317,machinist,machinist,OTHER,,,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,product,1.0,0.4635355174541474,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,2.0,0.5170969367027283,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,3.0,0.7744401097297668,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,4.0,0.7839786410331726,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,8.0,0.5168957114219666,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,9.0,0.6039099097251892,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,11.0,0.4728544652462006,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,32.0,0.5469993948936462,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,37.0,0.4474501311779022,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,39.0,0.5268437862396239,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,40.0,0.4745726883411408,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,41.0,0.4616937935352325,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,58.0,0.4308960437774658,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,product,59.0,0.6024726629257202,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,interaction,45.0,0.7121898531913757,person,/m/01ckgp,/m/01g317,interaction,interaction,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,trunk,45.0,0.5448695421218872,human body,/m/031vtq,/m/02p0tk3,trunk,trunk,OTHER,,,,,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,trunk,57.0,0.5273312926292419,human body,/m/031vtq,/m/02p0tk3,trunk,trunk,OTHER,,,,,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,garden,20.0,0.4017361402511597,OTHER,/m/0bl0l,,garden,garden,OTHER,,,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,garden,21.0,0.40687060356140137,OTHER,/m/0bl0l,,garden,garden,OTHER,,,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,tropical cyclone,25.0,0.40429237484931946,storm,/m/07r2x,/m/0z71l,tropical cyclone,tropical cyclone,OTHER,,,,,storm,storm,storm,storm,OTHER
+C_itlEamvBo,research,49.0,0.4914873540401459,building,/m/06cs1,/m/0cgh4,research,research,OTHER,,,,,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,research,50.0,0.5615149140357971,building,/m/06cs1,/m/0cgh4,research,research,OTHER,,,,,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,research,51.0,0.5347670316696167,building,/m/06cs1,/m/0cgh4,research,research,OTHER,,,,,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,research,52.0,0.4981606900691986,building,/m/06cs1,/m/0cgh4,research,research,OTHER,,,,,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,research,54.0,0.5604232549667358,building,/m/06cs1,/m/0cgh4,research,research,OTHER,,,,,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,cheek,46.0,0.8687859177589417,OTHER,/m/037p5b,,cheek,cheek,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,cheek,47.0,0.9377329349517822,OTHER,/m/037p5b,,cheek,cheek,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,cheek,48.0,0.8969215750694275,OTHER,/m/037p5b,,cheek,cheek,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,plumbing fixture,39.0,0.5480992197990417,OTHER,/m/02pkr5,,plumbing fixture,plumbing fixture,OTHER,,http://dbpedia.org/ontology/Device,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,jungle,60.0,0.6274493932723999,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,jungle,61.0,0.4768014252185822,geographical feature,/m/01y3fy,/m/043rvww,jungle,jungle,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,skin,1.0,0.9436759948730468,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,skin,2.0,0.943695068359375,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,skin,44.0,0.9295386672019958,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,skin,45.0,0.9426976442337036,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,skin,46.0,0.9338023066520692,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,skin,47.0,0.9516522288322448,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,skin,48.0,0.9391794800758362,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,lighting accessory,38.0,0.737240195274353,OTHER,/m/0h8lyfz,,light accessory,light accessory,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,healthcare science,49.0,0.861882746219635,person,/m/0dczl,/m/01g317,healthcare science,healthcare science,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,healthcare science,50.0,0.8466426730155945,person,/m/0dczl,/m/01g317,healthcare science,healthcare science,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,healthcare science,51.0,0.8434838056564331,person,/m/0dczl,/m/01g317,healthcare science,healthcare science,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,games,20.0,0.7538635730743408,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,games,22.0,0.5861797332763672,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,parrot,37.0,0.4717934131622314,"bird, pet",/m/0gv1x,"/m/015p6, /m/068hy",parrot,parrot,OTHER,,http://dbpedia.org/ontology/Bird,,PERSON,"bird, pet","bird, pet","bird, pet","bird, pet",OTHER
+C_itlEamvBo,song,7.0,0.5038933753967285,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+C_itlEamvBo,song,42.0,0.4574324190616608,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+C_itlEamvBo,song,43.0,0.403527170419693,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+C_itlEamvBo,song,45.0,0.4083183705806732,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+C_itlEamvBo,stock photography,10.0,0.4365333020687103,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,11.0,0.43568798899650574,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,12.0,0.4910195767879486,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,13.0,0.4801635146141052,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,14.0,0.4742233753204346,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,15.0,0.422844260931015,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,16.0,0.42093271017074585,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,17.0,0.4458665549755096,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,18.0,0.4608942568302154,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,stock photography,19.0,0.42949563264846796,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,pillow,2.0,0.4175316691398621,material,/m/034c16,/m/01l0y0,pillow,pillow,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,material,material,material,material,OTHER
+C_itlEamvBo,lamp,38.0,0.8075518608093262,lighting,/m/0dtln,/m/019sc6,lamp,lamp,OTHER,,,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,lamp,39.0,0.4709697961807251,lighting,/m/0dtln,/m/019sc6,lamp,lamp,OTHER,,,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,abdomen,7.0,0.4347638785839081,trunk,/m/08y7p8,/m/031vtq,abdomen,abdomen,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,trunk,OTHER,trunk,trunk,OTHER
+C_itlEamvBo,medicine,49.0,0.4776262640953064,medical,/m/04sh3,/m/02xht4g,medicine,medicine,OTHER,,http://dbpedia.org/ontology/Work,,,medical,medical,medical,medical,OTHER
+C_itlEamvBo,medicine,50.0,0.5048874616622925,medical,/m/04sh3,/m/02xht4g,medicine,medicine,OTHER,,http://dbpedia.org/ontology/Work,,,medical,medical,medical,medical,OTHER
+C_itlEamvBo,medicine,51.0,0.5093748569488525,medical,/m/04sh3,/m/02xht4g,medicine,medicine,OTHER,,http://dbpedia.org/ontology/Work,,,medical,medical,medical,medical,OTHER
+C_itlEamvBo,water resources,24.0,0.8987536430358887,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+C_itlEamvBo,water resources,25.0,0.8673693537712097,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+C_itlEamvBo,water resources,26.0,0.6724399924278259,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+C_itlEamvBo,water resources,28.0,0.6330190896987915,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+C_itlEamvBo,water resources,29.0,0.6461831331253052,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+C_itlEamvBo,water resources,30.0,0.6633744239807129,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+C_itlEamvBo,water resources,31.0,0.6617289781570435,water,/m/015s2f,/m/0838f,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,,water,water,water,water,OTHER
+C_itlEamvBo,window,41.0,0.5455501079559326,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,film,48.0,0.4028508961200714,entertainment,/m/02vxn,/m/02jjt,film,film,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,entertainment,entertainment,EVENT,entertainment,EVENT
+C_itlEamvBo,banana family,7.0,0.5624326467514038,plant,/m/013xk6,/m/05s2s,banana family,banana family,OTHER,,,,,plant,plant,plant,plant,OTHER
+C_itlEamvBo,tooth,48.0,0.5080820918083191,organ,/m/0cnxs6x,/m/013y0j,tooth,tooth,OTHER,,http://dbpedia.org/ontology/Building,,,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,nature reserve,60.0,0.8942949175834656,geographical feature,/m/0swq_,/m/043rvww,nature reserve,nature reserve,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,walking,60.0,0.4763125479221344,sports,/m/083mg,/m/06ntj,walk,walk,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+C_itlEamvBo,aerial photography,25.0,0.4116482436656952,photography,/m/01w5c_,/m/05wkw,aerial photography,aerial photography,OTHER,,http://dbpedia.org/ontology/MilitaryConflict,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,aerial photography,26.0,0.5159224271774292,photography,/m/01w5c_,/m/05wkw,aerial photography,aerial photography,OTHER,,http://dbpedia.org/ontology/MilitaryConflict,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,black,0.0,0.9621956348419192,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,technology,11.0,0.601101815700531,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,technology,12.0,0.7140325903892517,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,7.0,0.4540115594863892,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,8.0,0.5071637034416199,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,9.0,0.4706145823001862,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,11.0,0.435425877571106,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,12.0,0.4762914776802063,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,13.0,0.4530221819877625,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,14.0,0.5949774980545044,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,15.0,0.4620280563831329,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,16.0,0.6273450255393982,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,17.0,0.5534718036651611,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,18.0,0.5834488272666931,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,20.0,0.42535656690597534,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,21.0,0.5280997753143309,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,22.0,0.4863188862800598,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,23.0,0.7517839074134827,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,24.0,0.6639266610145569,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,25.0,0.7361928224563599,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,26.0,0.5593879222869873,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,27.0,0.5679256916046143,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,28.0,0.6194866895675659,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,29.0,0.6153769493103027,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,30.0,0.6185591816902161,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,31.0,0.6142510771751404,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,42.0,0.413848340511322,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,world,59.0,0.4050350785255432,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,nail,1.0,0.4864349365234375,finger,/m/023j4r,/m/09cx8,nail,nail,OTHER,,,,,finger,finger,finger,finger,OTHER
+C_itlEamvBo,nail,2.0,0.4183468520641327,finger,/m/023j4r,/m/09cx8,nail,nail,OTHER,,,,,finger,finger,finger,finger,OTHER
+C_itlEamvBo,eyelash,46.0,0.6120797395706177,cosmetics,/m/03f52z,/m/014trl,eyelash,eyelash,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,cosmetics,cosmetics,cosmetics,cosmetics,OTHER
+C_itlEamvBo,eyelash,47.0,0.7524231076240541,cosmetics,/m/03f52z,/m/014trl,eyelash,eyelash,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,cosmetics,cosmetics,cosmetics,cosmetics,OTHER
+C_itlEamvBo,eyelash,48.0,0.597470223903656,cosmetics,/m/03f52z,/m/014trl,eyelash,eyelash,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,cosmetics,cosmetics,cosmetics,cosmetics,OTHER
+C_itlEamvBo,jaw,46.0,0.5517069101333618,OTHER,/m/01k9lj,,jaw,jaw,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,jaw,47.0,0.7097070217132568,OTHER,/m/01k9lj,,jaw,jaw,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,jaw,48.0,0.6730481386184692,OTHER,/m/01k9lj,,jaw,jaw,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,white,0.0,0.9583500027656556,OTHER,/m/083jv,,white,white,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,operating theater,56.0,0.7635777592658997,room,/m/0221lk,/m/06ht1,operating theater,operating theater,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,room,room,room,LOCATION
+C_itlEamvBo,operating theater,57.0,0.867414653301239,room,/m/0221lk,/m/06ht1,operating theater,operating theater,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,room,room,room,LOCATION
+C_itlEamvBo,operating theater,58.0,0.7539159655570984,room,/m/0221lk,/m/06ht1,operating theater,operating theater,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,room,room,room,LOCATION
+C_itlEamvBo,coral reef,19.0,0.6123448014259338,geographical feature,/m/0l_br,/m/043rvww,coral reef,coral reef,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,light,0.0,0.8438113927841187,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,light,40.0,0.8433884978294373,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,chest,43.0,0.4636174440383911,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+C_itlEamvBo,chest,44.0,0.4680383801460266,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+C_itlEamvBo,chest,45.0,0.6525142788887024,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+C_itlEamvBo,chest,47.0,0.438201516866684,trunk,/m/0dzdr,/m/031vtq,chest,chest,OTHER,,,,,trunk,OTHER,trunk,trunk,OTHER
+C_itlEamvBo,muscle,7.0,0.6746893525123596,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,muscle,45.0,0.7014362812042236,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,muscle,47.0,0.6534494161605835,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,facial expression,43.0,0.9349757432937622,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,facial expression,45.0,0.9406955242156982,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,facial expression,46.0,0.9409894943237304,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,facial expression,47.0,0.9414473176002502,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,facial expression,48.0,0.9417670965194702,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,forest,60.0,0.606142520904541,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,forest,61.0,0.5961096882820129,geographical feature,/m/02zr8,/m/043rvww,forest,forest,LOCATION,,http://dbpedia.org/ontology/Place,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,fence,20.0,0.7990919947624207,OTHER,/m/0blz9,,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,fence,21.0,0.8303882479667664,OTHER,/m/0blz9,,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,fence,22.0,0.8366063237190247,OTHER,/m/0blz9,,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,human,43.0,0.7666126489639282,OTHER,/m/0dgw9r,,human,human,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,human,44.0,0.755808413028717,OTHER,/m/0dgw9r,,human,human,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,human,45.0,0.7656937241554259,OTHER,/m/0dgw9r,,human,human,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,human,46.0,0.684703528881073,OTHER,/m/0dgw9r,,human,human,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,human,48.0,0.7467839121818542,OTHER,/m/0dgw9r,,human,human,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,bed sheet,3.0,0.4905512630939484,material,/m/04mygm,/m/01l0y0,bed sheet,bed sheet,OTHER,,http://dbpedia.org/ontology/Fashion,,,material,material,material,material,OTHER
+C_itlEamvBo,bed sheet,4.0,0.5572012662887573,material,/m/04mygm,/m/01l0y0,bed sheet,bed sheet,OTHER,,http://dbpedia.org/ontology/Fashion,,,material,material,material,material,OTHER
+C_itlEamvBo,plantation,21.0,0.4030152559280396,building,/m/011yvr,/m/0cgh4,plantation,plantation,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,microscope,52.0,0.5309919714927673,OTHER,/m/04y9_,,microscope,microscope,OTHER,,http://dbpedia.org/ontology/Agent,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,microscope,54.0,0.40819495916366577,OTHER,/m/04y9_,,microscope,microscope,OTHER,,http://dbpedia.org/ontology/Agent,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,microscope,55.0,0.8799092173576355,OTHER,/m/04y9_,,microscope,microscope,OTHER,,http://dbpedia.org/ontology/Agent,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,optical instrument,55.0,0.619960606098175,OTHER,/m/05mfbz,,optical instrument,optical instrument,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,human behavior,42.0,0.5859727263450623,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,human behavior,43.0,0.6215059757232666,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,human behavior,44.0,0.5857163667678833,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,human behavior,45.0,0.666955292224884,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,monochrome,0.0,0.7701934576034546,style,/m/01mwkf,/m/012yh1,monochrome,monochrome,OTHER,,,,,style,style,style,style,OTHER
+C_itlEamvBo,tap,38.0,0.4234477579593657,OTHER,/m/02jz0l,,tap,tap,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,tap,39.0,0.6095876693725586,OTHER,/m/02jz0l,,tap,tap,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,tap,40.0,0.4723804295063019,OTHER,/m/02jz0l,,tap,tap,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,facial hair,45.0,0.5415335893630981,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+C_itlEamvBo,facial hair,46.0,0.6830149292945862,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+C_itlEamvBo,facial hair,47.0,0.8659168481826782,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+C_itlEamvBo,facial hair,48.0,0.7308033108711243,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+C_itlEamvBo,textile,1.0,0.7003951072692871,material,/m/0dnr7,/m/01l0y0,textile,textile,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+C_itlEamvBo,textile,2.0,0.7441895604133606,material,/m/0dnr7,/m/01l0y0,textile,textile,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+C_itlEamvBo,textile,3.0,0.8415865302085876,material,/m/0dnr7,/m/01l0y0,textile,textile,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+C_itlEamvBo,textile,4.0,0.8323956131935121,material,/m/0dnr7,/m/01l0y0,textile,textile,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+C_itlEamvBo,arm,1.0,0.6812630295753479,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,2.0,0.6945946216583252,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,6.0,0.7572836875915527,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,7.0,0.7563027739524841,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,9.0,0.7166764736175537,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,42.0,0.7461706399917603,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,43.0,0.7415565252304077,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,44.0,0.7539308071136475,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,45.0,0.7560367584228516,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,47.0,0.7231919765472412,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,arm,48.0,0.6836827993392944,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,digital compositing,23.0,0.4176820814609528,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,digital compositing,24.0,0.40309754014015203,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,digital compositing,27.0,0.4380550086498261,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,digital compositing,28.0,0.4514618813991546,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,digital compositing,29.0,0.4474043846130371,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,digital compositing,30.0,0.4490919709205627,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,digital compositing,31.0,0.450568437576294,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,digital compositing,42.0,0.4503226578235626,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+C_itlEamvBo,rainforest,60.0,0.4684374928474426,forest,/m/0d8cn,/m/02zr8,rainforest,rainforest,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,ORGANIZATION,LOCATION,forest,forest,forest,LOCATION
+C_itlEamvBo,professional,42.0,0.4425323307514191,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,professional,49.0,0.776077389717102,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,professional,50.0,0.7054901719093323,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,professional,51.0,0.6717994213104248,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,professional,56.0,0.6009571552276611,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,professional,57.0,0.8010543584823608,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,professional,58.0,0.7463985085487366,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,medical,9.0,0.6550236344337463,service,/m/02xht4g,/m/018tkd,medical,medical,OTHER,,,,,service,service,service,service,OTHER
+C_itlEamvBo,medical,49.0,0.661697506904602,service,/m/02xht4g,/m/018tkd,medical,medical,OTHER,,,,,service,service,service,service,OTHER
+C_itlEamvBo,medical,50.0,0.6878413558006287,service,/m/02xht4g,/m/018tkd,medical,medical,OTHER,,,,,service,service,service,service,OTHER
+C_itlEamvBo,medical,51.0,0.6574543714523315,service,/m/02xht4g,/m/018tkd,medical,medical,OTHER,,,,,service,service,service,service,OTHER
+C_itlEamvBo,medical,56.0,0.560442328453064,service,/m/02xht4g,/m/018tkd,medical,medical,OTHER,,,,,service,service,service,service,OTHER
+C_itlEamvBo,medical,57.0,0.7712620496749878,service,/m/02xht4g,/m/018tkd,medical,medical,OTHER,,,,,service,service,service,service,OTHER
+C_itlEamvBo,medical,58.0,0.7052164673805237,service,/m/02xht4g,/m/018tkd,medical,medical,OTHER,,,,,service,service,service,service,OTHER
+C_itlEamvBo,linens,3.0,0.5617839694023132,material,/m/06httj,/m/01l0y0,linen,linen,OTHER,,http://dbpedia.org/ontology/Company,,,material,material,material,material,OTHER
+C_itlEamvBo,linens,4.0,0.5501482486724854,material,/m/06httj,/m/01l0y0,linen,linen,OTHER,,http://dbpedia.org/ontology/Company,,,material,material,material,material,OTHER
+C_itlEamvBo,lighting,38.0,0.8524731993675232,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,lighting,39.0,0.8088926076889038,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,lighting,40.0,0.8190504908561707,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,atmosphere of earth,0.0,0.7985122203826904,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,atmosphere of earth,19.0,0.7886669039726257,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,atmosphere of earth,24.0,0.7836258411407471,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,atmosphere of earth,25.0,0.8164694905281067,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,atmosphere of earth,26.0,0.8038152456283569,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,land lot,26.0,0.5266281962394714,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+C_itlEamvBo,leisure,60.0,0.7114319801330566,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,celestial event,0.0,0.5932095050811768,event,/m/02rhkz,/m/081pkj,celestial event,celestial event,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+C_itlEamvBo,graphics,0.0,0.4453034400939941,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+C_itlEamvBo,graphics,11.0,0.6021848917007446,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+C_itlEamvBo,graphics,12.0,0.5935258269309998,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+C_itlEamvBo,graphics,13.0,0.5603350996971129,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+C_itlEamvBo,graphics,14.0,0.5583512187004089,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+C_itlEamvBo,graphics,16.0,0.4156381189823151,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+C_itlEamvBo,graphics,17.0,0.4227161407470703,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+C_itlEamvBo,graphics,18.0,0.4130174219608307,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+C_itlEamvBo,general practitioner,49.0,0.6646189093589783,person,/m/01c35v,/m/01g317,general practitioner,general practitioner,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,general practitioner,50.0,0.5974955558776855,person,/m/01c35v,/m/01g317,general practitioner,general practitioner,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,general practitioner,51.0,0.5176556110382079,person,/m/01c35v,/m/01g317,general practitioner,general practitioner,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,medical equipment,57.0,0.4654014706611633,medical,/m/01xgg_,/m/02xht4g,medical equipment,medical equipment,OTHER,,,,,medical,medical,medical,medical,OTHER
+C_itlEamvBo,ear,44.0,0.4753308892250061,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,ear,45.0,0.5614076852798462,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,ear,46.0,0.5494624972343445,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,ear,47.0,0.7710586786270142,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,ear,48.0,0.6931818127632141,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,biomedical scientist,50.0,0.4369469285011292,person,/m/099njg,/m/01g317,biomedical scientist,biomedical scientist,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+C_itlEamvBo,biomedical scientist,51.0,0.4208984673023224,person,/m/099njg,/m/01g317,biomedical scientist,biomedical scientist,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+C_itlEamvBo,flooring,32.0,0.40833836793899536,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,flooring,33.0,0.4867855310440064,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,flooring,40.0,0.4222949743270874,OTHER,/m/01c34b,,floor,floor,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,map,24.0,0.6886699199676514,OTHER,/m/04_tb,,map,map,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,map,25.0,0.9231873154640198,OTHER,/m/04_tb,,map,map,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,map,26.0,0.9703668355941772,OTHER,/m/04_tb,,map,map,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,map,27.0,0.9074782729148864,OTHER,/m/04_tb,,map,map,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,map,28.0,0.7944541573524475,OTHER,/m/04_tb,,map,map,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,map,29.0,0.8070077300071716,OTHER,/m/04_tb,,map,map,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,map,30.0,0.8221794366836548,OTHER,/m/04_tb,,map,map,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,map,31.0,0.8024163246154785,OTHER,/m/04_tb,,map,map,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,neurosurgery,57.0,0.4682005941867829,person,/m/05h54,/m/01g317,neurosurgery,neurosurgery,OTHER,,http://dbpedia.org/ontology/Food,,,person,person,person,person,OTHER
+C_itlEamvBo,neurosurgery,58.0,0.4510093927383423,person,/m/05h54,/m/01g317,neurosurgery,neurosurgery,OTHER,,http://dbpedia.org/ontology/Food,,,person,person,person,person,OTHER
+C_itlEamvBo,fun,7.0,0.6295580267906189,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,8.0,0.5979059934616089,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,9.0,0.7134791016578674,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,20.0,0.6233770251274109,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,21.0,0.631084680557251,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,22.0,0.5778934955596924,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,32.0,0.4449048340320587,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,47.0,0.5371983051300049,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,48.0,0.5563979744911194,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,59.0,0.4605164229869842,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,fun,60.0,0.6233832836151123,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,park,60.0,0.4984420239925385,OTHER,/m/0166ls,,park,park,LOCATION,,http://dbpedia.org/ontology/Place,,"LOCATION, PERSON",LOCATION,OTHER,EVENT,OTHER,LOCATION
+C_itlEamvBo,line,0.0,0.6848247051239014,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+C_itlEamvBo,line,25.0,0.705704927444458,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+C_itlEamvBo,line,40.0,0.6884931921958923,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+C_itlEamvBo,organ,43.0,0.71711266040802,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,organ,44.0,0.7153063416481018,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,organ,45.0,0.722425639629364,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,organ,46.0,0.7267202138900757,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,organ,47.0,0.715947151184082,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,organ,48.0,0.7015407085418701,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,neck,1.0,0.5416052341461182,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,neck,2.0,0.4949297904968262,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,neck,47.0,0.6153942346572876,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,neck,48.0,0.41661009192466736,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,planet,13.0,0.5152211189270021,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+C_itlEamvBo,planet,14.0,0.8224193453788757,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+C_itlEamvBo,planet,15.0,0.6552585959434509,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+C_itlEamvBo,planet,16.0,0.6393955945968628,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+C_itlEamvBo,planet,17.0,0.7513425350189209,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+C_itlEamvBo,planet,18.0,0.7567225098609924,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+C_itlEamvBo,planet,19.0,0.7337836623191833,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+C_itlEamvBo,planet,23.0,0.7795333862304688,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+C_itlEamvBo,recreation,20.0,0.7193015813827515,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,recreation,21.0,0.7161754369735718,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,recreation,22.0,0.6851069927215576,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,recreation,60.0,0.7545621395111084,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,recreation,61.0,0.5266825556755066,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,computer wallpaper,0.0,0.7038753628730774,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,10.0,0.5654251575469971,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,11.0,0.6284918189048767,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,12.0,0.6471964716911316,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,13.0,0.5905576944351196,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,14.0,0.6509907245635986,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,15.0,0.5934790968894958,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,16.0,0.5308814644813538,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,17.0,0.5667505264282227,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,18.0,0.5938182473182678,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,19.0,0.578419029712677,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,23.0,0.4638091623783112,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,24.0,0.5233795046806335,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,25.0,0.5242040753364563,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,computer wallpaper,26.0,0.40568965673446655,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,advertising,7.0,0.4722522497177124,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,fence,20.0,0.6064612865447998,person,/m/066b0q,/m/01g317,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,person,person,person,LOCATION
+C_itlEamvBo,fence,21.0,0.6669492125511169,person,/m/066b0q,/m/01g317,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,person,person,person,LOCATION
+C_itlEamvBo,fence,22.0,0.6888378858566284,person,/m/066b0q,/m/01g317,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,person,person,person,LOCATION
+C_itlEamvBo,mattress,1.0,0.5103862285614014,bed,/m/03dg8j,/m/03ssj5,mattress,mattress,OTHER,,http://dbpedia.org/ontology/LaunchPad,,,bed,bed,bed,bed,OTHER
+C_itlEamvBo,mattress,2.0,0.6657350659370422,bed,/m/03dg8j,/m/03ssj5,mattress,mattress,OTHER,,http://dbpedia.org/ontology/LaunchPad,,,bed,bed,bed,bed,OTHER
+C_itlEamvBo,mattress,4.0,0.4348320662975311,bed,/m/03dg8j,/m/03ssj5,mattress,mattress,OTHER,,http://dbpedia.org/ontology/LaunchPad,,,bed,bed,bed,bed,OTHER
+C_itlEamvBo,plastic,33.0,0.5041908621788025,material,/m/05z87,/m/01l0y0,plastic,plastic,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+C_itlEamvBo,drop,15.0,0.4050312340259552,OTHER,/m/0b7z1,,drop,drop,OTHER,,,,"LOCATION, EVENT",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,outdoor structure,20.0,0.6417340040206909,OTHER,/m/0h8lhsd,,outdoor structure,outdoor structure,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,outdoor structure,21.0,0.6557347178459167,OTHER,/m/0h8lhsd,,outdoor structure,outdoor structure,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,outdoor structure,22.0,0.6359209418296814,OTHER,/m/0h8lhsd,,outdoor structure,outdoor structure,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,marine biology,10.0,0.4587826728820801,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,marine biology,12.0,0.7031840682029724,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,marine biology,13.0,0.7728350758552551,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,marine biology,14.0,0.8150116205215454,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,marine biology,15.0,0.9062176942825316,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,marine biology,16.0,0.8682575225830078,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,marine biology,17.0,0.89260333776474,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,marine biology,18.0,0.8740237355232239,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,marine biology,19.0,0.8991426825523376,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+C_itlEamvBo,nature,60.0,0.9532246589660645,OTHER,/m/05h0n,,nature,nature,OTHER,,http://dbpedia.org/ontology/Agent,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,ecosystem,24.0,0.8732026815414429,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecosystem,41.0,0.8791502118110657,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecosystem,59.0,0.8976834416389465,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecosystem,60.0,0.9365710616111756,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,machine,52.0,0.4546621143817902,OTHER,/m/0dkw5,,machine,machine,OTHER,,http://dbpedia.org/ontology/Software,,"PERSON, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,machine,55.0,0.4873360097408295,OTHER,/m/0dkw5,,machine,machine,OTHER,,http://dbpedia.org/ontology/Software,,"PERSON, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,public space,20.0,0.8608638644218445,city,/m/01lqfm,/m/01n32,public space,public space,OTHER,,,,,LOCATION,city,city,city,LOCATION
+C_itlEamvBo,public space,21.0,0.8980277180671692,city,/m/01lqfm,/m/01n32,public space,public space,OTHER,,,,,LOCATION,city,city,city,LOCATION
+C_itlEamvBo,public space,22.0,0.8729416728019714,city,/m/01lqfm,/m/01n32,public space,public space,OTHER,,,,,LOCATION,city,city,city,LOCATION
+C_itlEamvBo,public space,60.0,0.9256479144096376,city,/m/01lqfm,/m/01n32,public space,public space,OTHER,,,,,LOCATION,city,city,city,LOCATION
+C_itlEamvBo,eye,43.0,0.7810919284820557,organ,/m/014sv8,/m/013y0j,eye,eye,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,eye,45.0,0.7669413089752197,organ,/m/014sv8,/m/013y0j,eye,eye,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,eye,46.0,0.8654145002365112,organ,/m/014sv8,/m/013y0j,eye,eye,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,eye,47.0,0.8544608354568481,organ,/m/014sv8,/m/013y0j,eye,eye,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,eye,48.0,0.8353291153907776,organ,/m/014sv8,/m/013y0j,eye,eye,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,organ,OTHER,organ,organ,OTHER
+C_itlEamvBo,font,0.0,0.7246021032333374,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,6.0,0.4757015407085418,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,7.0,0.505375862121582,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,11.0,0.6567890644073486,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,12.0,0.6178571581840515,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,13.0,0.623613178730011,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,14.0,0.6567059755325317,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,16.0,0.5281024575233461,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,17.0,0.584436297416687,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,18.0,0.4862073361873626,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,23.0,0.4302744567394257,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,24.0,0.5916954874992371,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,25.0,0.6121083498001099,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,28.0,0.4003210365772247,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,40.0,0.6190730929374695,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,41.0,0.694158673286438,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,42.0,0.6215378642082214,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,font,44.0,0.5626906752586365,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+C_itlEamvBo,chin,46.0,0.7937381267547607,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,chin,47.0,0.9146045446395874,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,chin,48.0,0.8835323452949524,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,technician,52.0,0.4390618205070496,person,/m/049btd,/m/01g317,technician,technician,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,technician,54.0,0.4060027003288269,person,/m/049btd,/m/01g317,technician,technician,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,service,6.0,0.5713487863540649,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,9.0,0.6749616861343384,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,49.0,0.7838064432144165,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,50.0,0.7787194848060608,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,51.0,0.7742173671722412,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,52.0,0.5705811381340027,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,53.0,0.6290149092674255,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,54.0,0.6468334197998047,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,56.0,0.6280742287635803,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,57.0,0.7471786141395569,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,service,58.0,0.7321815490722656,OTHER,/m/018tkd,,service,service,OTHER,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,macro photography,10.0,0.8087624907493591,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,macro photography,11.0,0.5367094278335571,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,macro photography,12.0,0.6018868684768677,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,macro photography,13.0,0.5988934636116028,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,macro photography,14.0,0.6907553672790527,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,macro photography,15.0,0.7542292475700378,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,macro photography,16.0,0.4789353609085083,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,macro photography,17.0,0.5643327832221985,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,macro photography,19.0,0.5553315877914429,photography,/m/03rbf6,/m/05wkw,macro photography,macro photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,liquid,12.0,0.4276195466518402,OTHER,/m/04k94,,liquid,liquid,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,astronomical object,14.0,0.4928069412708282,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,astronomical object,15.0,0.4265709817409515,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,astronomical object,17.0,0.4482483565807343,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,astronomical object,18.0,0.4656705260276794,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,astronomical object,19.0,0.590680718421936,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,astronomical object,23.0,0.4025905132293701,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,coral reef fish,18.0,0.42173701524734497,fish,/m/076t48l,/m/0ch_cf,coral reef fish,coral reef fish,OTHER,,,,,fish,fish,fish,fish,OTHER
+C_itlEamvBo,coral reef fish,19.0,0.5187916755676271,fish,/m/076t48l,/m/0ch_cf,coral reef fish,coral reef fish,OTHER,,,,,fish,fish,fish,fish,OTHER
+C_itlEamvBo,biome,24.0,0.7016496658325195,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,25.0,0.7183091044425964,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,26.0,0.7226969599723816,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,27.0,0.7112048268318176,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,28.0,0.7022411823272705,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,29.0,0.7030106782913208,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,30.0,0.7027526497840881,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,31.0,0.7040203213691711,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,41.0,0.6702716946601868,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,biome,60.0,0.6849024295806885,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,chandelier,38.0,0.5297660231590271,lighting,/m/02ws6z,/m/019sc6,chandelier,chandelier,OTHER,,http://dbpedia.org/ontology/Agent,,,lighting,lighting,lighting,lighting,OTHER
+C_itlEamvBo,forehead,46.0,0.8057159185409546,OTHER,/m/025kyy,,forehead,forehead,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,forehead,47.0,0.8985646963119507,OTHER,/m/025kyy,,forehead,forehead,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,forehead,48.0,0.8658688068389893,OTHER,/m/025kyy,,forehead,forehead,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,0.0,0.4869103729724884,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,9.0,0.4341881275177002,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,10.0,0.44585558772087097,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,11.0,0.4474020600318909,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,12.0,0.4940362870693207,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,13.0,0.5406991243362427,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,14.0,0.6346598267555237,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,15.0,0.6114360094070435,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,16.0,0.5701520442962646,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,17.0,0.6237549781799316,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,18.0,0.6346784234046936,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,19.0,0.6350933313369751,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,23.0,0.5409851670265198,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,24.0,0.4738604128360748,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,25.0,0.5221965312957764,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,26.0,0.4048493206501007,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,27.0,0.44653555750846863,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,28.0,0.4525495767593384,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,29.0,0.4550585746765137,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,30.0,0.4595970511436462,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,31.0,0.460419237613678,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,space,33.0,0.4195500016212464,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,bird's eye view,26.0,0.41595807671546936,landscape,/m/08863x,/m/025s3q0,bird 's eye view,bird 's eye view,OTHER,,,,,LOCATION,landscape,landscape,landscape,LOCATION
+C_itlEamvBo,bedtime,4.0,0.4310435652732849,event,/m/027s69l,/m/081pkj,bedtime,bedtime,OTHER,,,,,event,event,event,event,OTHER
+C_itlEamvBo,chain link fencing,20.0,0.7262111902236938,OTHER,/m/0cd3bj,,chain link fence,chain link fence,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,chain link fencing,21.0,0.646727442741394,OTHER,/m/0cd3bj,,chain link fence,chain link fence,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,chain link fencing,22.0,0.5960420966148376,OTHER,/m/0cd3bj,,chain link fence,chain link fence,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,monochrome photography,0.0,0.8339001536369324,photography,/m/03d49p1,/m/05wkw,monochrome photography,monochrome photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+C_itlEamvBo,tree,20.0,0.7452648282051086,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,tree,21.0,0.8510072231292725,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,tree,22.0,0.8419419527053833,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,tree,26.0,0.5473060011863708,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,tree,59.0,0.5689333081245422,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,tree,60.0,0.903691828250885,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,tree,61.0,0.8679803013801575,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+C_itlEamvBo,profession,50.0,0.6169248223304749,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+C_itlEamvBo,profession,51.0,0.4980173707008362,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+C_itlEamvBo,profession,52.0,0.413505494594574,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+C_itlEamvBo,profession,56.0,0.5510700345039368,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+C_itlEamvBo,adventure,60.0,0.5175788998603821,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,pet,6.0,0.7545279860496521,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+C_itlEamvBo,pet,20.0,0.5571682453155518,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+C_itlEamvBo,pet,32.0,0.7369209527969359,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+C_itlEamvBo,pet,37.0,0.898354709148407,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+C_itlEamvBo,interior design,39.0,0.5961027145385742,OTHER,/m/02rfdq,,interior design,interior design,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,interior design,40.0,0.5043853521347046,OTHER,/m/02rfdq,,interior design,interior design,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,picnic,60.0,0.4834655821323395,event,/m/01kt56,/m/081pkj,picnic,picnic,OTHER,,,,,event,event,EVENT,event,EVENT
+C_itlEamvBo,comfort,1.0,0.4150324463844299,OTHER,/m/08xgn7,,comfort,comfort,OTHER,,http://dbpedia.org/ontology/Species,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,comfort,2.0,0.4504089057445526,OTHER,/m/08xgn7,,comfort,comfort,OTHER,,http://dbpedia.org/ontology/Species,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hazmat suit,8.0,0.42410483956336975,OTHER,/m/05trrf,,hazmat suit,hazmat suit,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hazmat suit,9.0,0.7265447974205017,OTHER,/m/05trrf,,hazmat suit,hazmat suit,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,hazmat suit,56.0,0.6652268767356873,OTHER,/m/05trrf,,hazmat suit,hazmat suit,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,brand,11.0,0.5354583263397217,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,brand,12.0,0.456364631652832,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,brand,13.0,0.4122303426265717,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,brand,14.0,0.4170449674129486,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,brand,40.0,0.4092115461826325,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,brand,41.0,0.4363347291946411,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,wire fencing,20.0,0.4415804445743561,OTHER,/m/0h8xdq1,,wire fencing,wire fencing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,wire fencing,21.0,0.4567190706729889,OTHER,/m/0h8xdq1,,wire fencing,wire fencing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,wire fencing,22.0,0.4289485812187195,OTHER,/m/0h8xdq1,,wire fencing,wire fencing,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+C_itlEamvBo,decor,38.0,0.5093047022819519,OTHER,/m/0h8nzzj,,decor,decor,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,sky,0.0,0.9299904704093932,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,10.0,0.5239892601966858,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,11.0,0.4697107076644898,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,23.0,0.7700766921043396,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,24.0,0.8381887674331665,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,25.0,0.8506858944892883,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,26.0,0.7417472004890442,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,27.0,0.5458776950836182,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,28.0,0.6190152168273926,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,29.0,0.5999155640602112,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,30.0,0.6087007522583008,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,sky,31.0,0.6237708330154419,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+C_itlEamvBo,plaster,39.0,0.503542959690094,material,/m/01w_gm,/m/01l0y0,plaster,plaster,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+C_itlEamvBo,science,17.0,0.4736859500408173,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,science,18.0,0.4391859173774719,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,science,19.0,0.43816694617271423,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,science,54.0,0.4331628978252411,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,night,0.0,0.8036803007125854,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,yard,20.0,0.622481644153595,garden,/m/049_3v,/m/0bl0l,yard,yard,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,LOCATION,garden,garden,garden,LOCATION
+C_itlEamvBo,yard,21.0,0.5672827363014221,garden,/m/049_3v,/m/0bl0l,yard,yard,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,LOCATION,garden,garden,garden,LOCATION
+C_itlEamvBo,yard,22.0,0.5361155271530151,garden,/m/049_3v,/m/0bl0l,yard,yard,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,LOCATION,garden,garden,garden,LOCATION
+C_itlEamvBo,yard,60.0,0.5169271230697632,garden,/m/049_3v,/m/0bl0l,yard,yard,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,LOCATION,garden,garden,garden,LOCATION
+C_itlEamvBo,yard,61.0,0.616097092628479,garden,/m/049_3v,/m/0bl0l,yard,yard,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,LOCATION,garden,garden,garden,LOCATION
+C_itlEamvBo,person,47.0,0.9265663027763368,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+C_itlEamvBo,person,48.0,0.9268890023231506,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+C_itlEamvBo,screenshot,26.0,0.5266701579093933,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,screenshot,27.0,0.6071290373802185,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,screenshot,28.0,0.5726401209831238,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,screenshot,29.0,0.5614233016967773,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,screenshot,30.0,0.5616913437843323,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,screenshot,31.0,0.5644036531448364,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,screenshot,42.0,0.42678147554397583,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,screenshot,43.0,0.4067168831825256,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,joint,7.0,0.4051420390605927,human body,/m/01dvt1,/m/02p0tk3,joint,joint,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,human body,OTHER,human body,human body,OTHER
+C_itlEamvBo,personal protective equipment,56.0,0.4345162212848663,OTHER,/m/0ffjr,,personal protective equipment,personal protective equipment,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+C_itlEamvBo,earth,12.0,0.4721485078334808,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,13.0,0.6882860064506531,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,14.0,0.8446798324584961,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,15.0,0.7780159115791321,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,16.0,0.7798194885253906,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,17.0,0.7642308473587036,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,18.0,0.7945741415023804,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,19.0,0.6555688381195068,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,23.0,0.9042972922325134,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,24.0,0.7843634486198425,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,25.0,0.834041178226471,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,26.0,0.6350612044334412,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,27.0,0.569415271282196,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,28.0,0.5418881177902222,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,29.0,0.5483509302139282,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,30.0,0.562608003616333,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,earth,31.0,0.564803421497345,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+C_itlEamvBo,physician assistant,49.0,0.4166069626808167,person,/m/02fdq0,/m/01g317,physician assistant,physician assistant,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,incandescent light bulb,38.0,0.7387612462043762,light bulb,/m/0cpk7,/m/0h8l4fh,incandescent light bulb,incandescent light bulb,OTHER,,http://dbpedia.org/ontology/Lighthouse,,,light bulb,light bulb,light bulb,light bulb,OTHER
+C_itlEamvBo,incandescent light bulb,39.0,0.6882880330085754,light bulb,/m/0cpk7,/m/0h8l4fh,incandescent light bulb,incandescent light bulb,OTHER,,http://dbpedia.org/ontology/Lighthouse,,,light bulb,light bulb,light bulb,light bulb,OTHER
+C_itlEamvBo,incandescent light bulb,40.0,0.4438698589801788,light bulb,/m/0cpk7,/m/0h8l4fh,incandescent light bulb,incandescent light bulb,OTHER,,http://dbpedia.org/ontology/Lighthouse,,,light bulb,light bulb,light bulb,light bulb,OTHER
+C_itlEamvBo,flower,5.0,0.5292124748229979,plant,/m/0c9ph5,/m/05s2s,flower,flower,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Building",,,plant,plant,plant,plant,OTHER
+C_itlEamvBo,love,45.0,0.41907674074172974,person,/m/048knlz,/m/01g317,love,love,OTHER,,http://dbpedia.org/ontology/Grape,,PERSON,person,person,person,person,OTHER
+C_itlEamvBo,medical research,49.0,0.6547331213951111,person,/m/06ywtl,/m/01g317,medical research,medical research,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,medical research,50.0,0.671151876449585,person,/m/06ywtl,/m/01g317,medical research,medical research,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,medical research,51.0,0.6560823917388916,person,/m/06ywtl,/m/01g317,medical research,medical research,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,medical research,54.0,0.4872342944145202,person,/m/06ywtl,/m/01g317,medical research,medical research,OTHER,,,,,person,person,person,person,OTHER
+C_itlEamvBo,finger,1.0,0.8391612768173218,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,2.0,0.840862512588501,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,6.0,0.7159896492958069,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,7.0,0.7643098831176758,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,43.0,0.5819588899612427,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,44.0,0.6103616952896118,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,45.0,0.7186563611030579,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,46.0,0.7255266308784485,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,47.0,0.8161497116088867,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,finger,48.0,0.7546971440315247,hand,/m/09cx8,/m/0k65p,finger,finger,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,hand,hand,hand,hand,OTHER
+C_itlEamvBo,ecoregion,24.0,0.6185232996940613,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecoregion,26.0,0.5641385912895203,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecoregion,27.0,0.5863997340202332,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecoregion,28.0,0.5500458478927612,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecoregion,29.0,0.5538963675498962,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecoregion,30.0,0.5633130669593811,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+C_itlEamvBo,ecoregion,31.0,0.5642108321189879,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION

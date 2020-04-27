@@ -1,0 +1,10 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+1iaT99UIV64,Donald Trump,CONSUMER_GOOD,/m/0cqt90,https://en.wikipedia.org/wiki/Donald_Trump,Donald Trump,452,0.10000000149011612,0.10000000149011612,PROPER,0.3401578366756439,7.5,0.0,Donald Trump,donald trump,OTHER,PERSON,,"Thing, Person",,OTHER,OTHER,OTHER
+1iaT99UIV64,Donald Trump,CONSUMER_GOOD,/m/0cqt90,https://en.wikipedia.org/wiki/Donald_Trump,Trump,315,0.0,0.0,PROPER,0.3401578366756439,7.5,0.0,Donald Trump,donald trump,OTHER,PERSON,,"Thing, Person",,OTHER,OTHER,OTHER
+1iaT99UIV64,Banning Muslims,PERSON,,,Muslims,362,0.0,0.0,PROPER,0.0183032900094986,0.0,0.0,Banning Muslims,ban muslim,OTHER,OTHER,,OTHER,,PERSON,PERSON,PERSON
+1iaT99UIV64,speech,WORK_OF_ART,,,speech,350,0.0,0.0,COMMON,0.009691835381090641,0.0,0.0,speech,speech,OTHER,OTHER,,"Thing, Book",,WORK_OF_ART,WORK_OF_ART,EVENT
+1iaT99UIV64,sport,OTHER,,,sport,398,0.0,0.0,COMMON,0.0050787455402314646,0.0,0.0,sport,sport,OTHER,OTHER,,OTHER,PERSON,OTHER,OTHER,OTHER
+1iaT99UIV64,all,OTHER,,,all,289,0.10000000149011612,0.10000000149011612,COMMON,0.004329252056777477,0.10000000149011612,0.10000000149011612,all,all,OTHER,OTHER,,OTHER,,OTHER,OTHER,OTHER
+1iaT99UIV64,Sports Heroes,PERSON,,,Sports Heroes,378,0.0,0.0,PROPER,0.003233520546928048,0.0,0.0,Sports Heroes,sport hero,OTHER,OTHER,,OTHER,,PERSON,PERSON,PERSON
+1iaT99UIV64,Obama,PERSON,/m/02mjmr,https://en.wikipedia.org/wiki/Barack_Obama,Obama,334,0.20000000298023224,-0.20000000298023224,PROPER,0.002685227431356907,0.30000001192092896,-0.10000000149011612,Obama,obama,OTHER,LOCATION,,"Thing, Place, City, AdministrativeArea",,PERSON,PERSON,PERSON
+1iaT99UIV64,Obama,PERSON,/m/02mjmr,https://en.wikipedia.org/wiki/Barack_Obama,Obama,436,0.0,0.0,PROPER,0.002685227431356907,0.30000001192092896,-0.10000000149011612,Obama,obama,OTHER,LOCATION,,"Thing, AdministrativeArea, City, Place",,PERSON,PERSON,PERSON

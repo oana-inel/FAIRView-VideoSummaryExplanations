@@ -1,0 +1,6 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+1FIPmYtgn50,point,OTHER,,,point,27,0.0,0.0,COMMON,0.14190369844436646,0.0,0.0,point,point,OTHER,ORGANIZATION,,"Corporation, Organization, Thing",LOCATION,OTHER,OTHER,OTHER
+1FIPmYtgn50,story,OTHER,,,story,173,0.0,0.0,COMMON,0.11189118772745132,0.0,0.0,story,story,OTHER,OTHER,,OTHER,,OTHER,OTHER,OTHER
+1FIPmYtgn50,Spider-Man,WORK_OF_ART,,,Spider-Man,58,0.10000000149011612,-0.10000000149011612,PROPER,0.040750373154878616,0.10000000149011612,-0.10000000149011612,Spider-Man,spider-man,OTHER,OTHER,,"VideoGame, Thing",,WORK_OF_ART,WORK_OF_ART,EVENT
+1FIPmYtgn50,police,PERSON,,,police,215,0.0,0.0,COMMON,0.02939747087657452,0.0,0.0,police,police,ORGANIZATION,LOCATION,http://dbpedia.org/ontology/Organisation,"Thing, Place, City",ORGANIZATION,PERSON,PERSON,PERSON
+1FIPmYtgn50,video,WORK_OF_ART,,,video,334,0.0,0.0,COMMON,0.03778338432312012,0.20000000298023224,0.0,video,video,OTHER,OTHER,http://dbpedia.org/ontology/Athlete,"MusicGroup, Thing",,WORK_OF_ART,WORK_OF_ART,EVENT

@@ -1,0 +1,145 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+gt7q9MLwiuo,mouth,12.0,0.7858920693397522,OTHER,/m/0283dt1,,mouth,mouth,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,lip,12.0,0.4585175216197968,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,summer,12.0,0.6710531115531921,season,/m/078qz,/m/0754v,summer,summer,OTHER,,,,,season,season,season,season,OTHER
+gt7q9MLwiuo,conversation,12.0,0.4744281172752381,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+gt7q9MLwiuo,snapshot,12.0,0.8176745176315308,"photography, photograph",/m/06pg22,"/m/05wkw, /m/068jd",snapshot,snapshot,OTHER,,,,,"photography, photograph","photography, photograph","photography, photograph","photography, photograph",OTHER
+gt7q9MLwiuo,happiness,12.0,0.6924110651016235,person,/m/016pp7,/m/01g317,happiness,happiness,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,,person,person,person,person,OTHER
+gt7q9MLwiuo,photo shoot,12.0,0.4003470838069916,photography,/m/02qbl1m,/m/05wkw,photo shoot,photo shoot,OTHER,,,,,photography,photography,photography,photography,OTHER
+gt7q9MLwiuo,neck,12.0,0.5934572815895081,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+gt7q9MLwiuo,selfie,12.0,0.5294320583343506,photography,/m/0sgh53y,/m/05wkw,selfie,selfie,OTHER,,http://dbpedia.org/ontology/Artwork,,,photography,photography,photography,photography,OTHER
+gt7q9MLwiuo,fun,12.0,0.8446359038352966,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,fun,13.0,0.4734814763069153,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,fun,14.0,0.4149686098098755,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,fun,15.0,0.4404560923576355,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,fun,16.0,0.4730051755905152,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,fun,17.0,0.4662542939186096,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,fun,18.0,0.4306779503822327,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,black hair,12.0,0.8172959685325623,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,13.0,0.7299010157585144,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,14.0,0.6840637922286987,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,16.0,0.7093599438667297,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,17.0,0.7014102339744568,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,18.0,0.6831955909729004,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,eyebrow,12.0,0.7545066475868225,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,cheek,12.0,0.760431706905365,OTHER,/m/037p5b,,cheek,cheek,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,nose,12.0,0.8697805404663086,OTHER,/m/0k0pj,,nose,nose,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,facial expression,12.0,0.9447988271713256,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+gt7q9MLwiuo,energy,12.0,0.4034340977668762,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,hand,12.0,0.6781147718429565,OTHER,/m/0k65p,,hand,hand,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,microphone,12.0,0.7390599846839905,audio,/m/0hg7b,/m/0h91fqv,microphone,microphone,OTHER,,,,,audio,audio,audio,audio,OTHER
+gt7q9MLwiuo,photograph,12.0,0.9527205228805542,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,emotion,12.0,0.8360412716865541,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,13.0,0.4845910668373108,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,14.0,0.4664972722530365,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,15.0,0.5419334769248962,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,16.0,0.4944778978824616,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,17.0,0.5024480223655701,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,18.0,0.4944126009941101,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,public relations,13.0,0.4871139526367188,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,public relations,14.0,0.4367950558662415,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,public relations,15.0,0.5370316505432129,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,public relations,16.0,0.44704410433769226,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,public relations,17.0,0.5115157961845398,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,public relations,18.0,0.437549889087677,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,hair coloring,12.0,0.6843775510787964,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,hair coloring,13.0,0.4586239457130432,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,hair coloring,16.0,0.4004053771495819,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,sitting,12.0,0.7733505368232727,person,/m/015c4z,/m/01g317,sit,sit,PERSON,,http://dbpedia.org/ontology/Person,,ORGANIZATION,person,person,person,person,OTHER
+gt7q9MLwiuo,product,13.0,0.6643335819244385,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,product,14.0,0.6411569714546204,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,product,15.0,0.6291258931159973,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,product,16.0,0.6499719023704529,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,product,17.0,0.6340957880020142,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,product,18.0,0.5892019867897034,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,brown hair,12.0,0.7395642995834351,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,13.0,0.6366091370582581,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,14.0,0.5648707747459412,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,15.0,0.5652840733528137,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,16.0,0.6045352816581726,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,17.0,0.5839815139770508,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,18.0,0.5503441691398621,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,audio,12.0,0.5026631951332092,technology,/m/0h91fqv,/m/07c1v,audio,audio,OTHER,,,,,technology,technology,technology,technology,OTHER
+gt7q9MLwiuo,long hair,12.0,0.7742729783058167,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,13.0,0.6747741103172302,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,14.0,0.5933743119239807,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,15.0,0.6006503701210022,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,16.0,0.6345445513725281,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,17.0,0.6047025322914124,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,socialite,13.0,0.6825806498527527,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,socialite,15.0,0.6817399263381958,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,socialite,16.0,0.6810948848724365,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,socialite,17.0,0.6543703079223633,person,/m/03gkb0,/m/01g317,socialite,socialite,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,eyelash,12.0,0.6112313270568848,cosmetics,/m/03f52z,/m/014trl,eyelash,eyelash,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,cosmetics,cosmetics,cosmetics,cosmetics,OTHER
+gt7q9MLwiuo,smile,12.0,0.9294849634170532,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,13.0,0.5967725515365601,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,14.0,0.4304884970188141,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,15.0,0.4945987761020661,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,16.0,0.5205219388008118,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,17.0,0.5246595740318298,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,18.0,0.4446823000907898,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,photography,12.0,0.7960172295570374,OTHER,/m/05wkw,,photography,photography,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,skin,12.0,0.9444992542266846,OTHER,/m/06z04,,skin,skin,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,electronic device,18.0,0.5177474021911621,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+gt7q9MLwiuo,lip,50.0,0.4662938117980957,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,lip,51.0,0.6427910923957825,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,lip,52.0,0.4548732340335846,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,lip,53.0,0.407359391450882,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,lip,54.0,0.5260542035102844,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,lip,55.0,0.4560495913028717,OTHER,/m/06pj2k,,lip,lip,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,chin,51.0,0.7878410220146179,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,chin,53.0,0.7692727446556091,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,neck,51.0,0.4708271324634552,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+gt7q9MLwiuo,neck,53.0,0.4798211455345154,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+gt7q9MLwiuo,health & beauty,55.0,0.42672812938690186,OTHER,/m/0ggk3_t,,health & beauty,health & beauty,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,black hair,50.0,0.7298790812492371,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,51.0,0.75613933801651,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,52.0,0.7163299322128296,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,53.0,0.7016736268997192,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,54.0,0.7478479743003845,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,55.0,0.7367945909500122,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,black hair,56.0,0.7031887173652649,hair,/m/0fc1fy,/m/03q69,black hair,black hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,eyebrow,50.0,0.7845630645751953,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,eyebrow,51.0,0.8157079219818115,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,eyebrow,52.0,0.757726788520813,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,eyebrow,53.0,0.7442339658737183,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,eyebrow,54.0,0.795846700668335,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,eyebrow,55.0,0.7556902170181274,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,eyebrow,56.0,0.7266501784324646,OTHER,/m/027n3_,,eyebrow,eyebrow,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,hair,54.0,0.9655605554580688,OTHER,/m/03q69,,hair,hair,OTHER,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Nerve",,,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,professional,50.0,0.6723946928977966,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,51.0,0.6407866477966309,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,52.0,0.6368170976638794,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,53.0,0.6513961553573608,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,54.0,0.6028873324394226,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,55.0,0.5887153744697571,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,professional,56.0,0.6284946203231812,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+gt7q9MLwiuo,hair coloring,50.0,0.568351149559021,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,hair coloring,51.0,0.5973259210586548,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,hair coloring,52.0,0.4340988993644713,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,hair coloring,53.0,0.534270703792572,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,hair coloring,54.0,0.6362281441688538,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,hair coloring,55.0,0.5214836001396179,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,hair coloring,56.0,0.4562067687511444,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+gt7q9MLwiuo,product,50.0,0.4524115025997162,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,product,55.0,0.4825954735279083,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,product,56.0,0.4173620939254761,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+gt7q9MLwiuo,brown hair,50.0,0.6434398889541626,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,51.0,0.6792347431182861,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,52.0,0.5954195857048035,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,53.0,0.6332346796989441,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,54.0,0.6674280762672424,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,55.0,0.5828410387039185,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,brown hair,56.0,0.6195864081382751,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,50.0,0.6945871710777283,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,51.0,0.7186983823776245,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,52.0,0.6324969530105591,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,53.0,0.6650975346565247,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,54.0,0.7056307792663574,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,55.0,0.6696059107780457,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,long hair,56.0,0.6461049318313599,hair,/m/02pd__z,/m/03q69,long hair,long hair,OTHER,,http://dbpedia.org/ontology/Fashion,,,hair,OTHER,hair,hair,OTHER
+gt7q9MLwiuo,smile,50.0,0.6206736564636229,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,51.0,0.5428227186203003,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,52.0,0.4525605142116546,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,54.0,0.4708869457244873,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+gt7q9MLwiuo,smile,56.0,0.4977659583091736,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION

@@ -1,0 +1,10 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+cqfjwZomFI4,Egypt,LOCATION,/m/02k54,https://en.wikipedia.org/wiki/Egypt,Egypt,844,0.10000000149011612,-0.10000000149011612,PROPER,0.00572334136813879,0.4000000059604645,-0.20000000298023224,Egypt,egypt,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+cqfjwZomFI4,Egypt,LOCATION,/m/02k54,https://en.wikipedia.org/wiki/Egypt,Egyptian,893,0.0,0.0,PROPER,0.00572334136813879,0.4000000059604645,-0.20000000298023224,Egypt,egypt,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+cqfjwZomFI4,flag others,PERSON,,,flag others,852,0.0,0.0,COMMON,0.004137923941016197,0.0,0.0,flag others,flag others,,,,,,PERSON,PERSON,PERSON
+cqfjwZomFI4,embassy,LOCATION,,,embassy,902,0.0,0.0,COMMON,0.004137923941016197,0.0,0.0,embassy,embassy,,,,,ORGANIZATION,LOCATION,LOCATION,LOCATION
+cqfjwZomFI4,front,OTHER,,,front,880,0.20000000298023224,-0.20000000298023224,COMMON,0.004137923941016197,0.20000000298023224,-0.20000000298023224,front,front,,,,,"LOCATION, PERSON, ORGANIZATION",OTHER,OTHER,OTHER
+cqfjwZomFI4,gags,OTHER,,,gags,822,0.10000000149011612,-0.10000000149011612,COMMON,0.0018147623632103203,0.10000000149011612,-0.10000000149011612,gag,gag,,,,,,OTHER,OTHER,OTHER
+cqfjwZomFI4,colors,OTHER,,,colors,834,0.0,0.0,COMMON,0.0018147623632103203,0.0,0.0,color,color,,,,,ORGANIZATION,OTHER,OTHER,OTHER
+cqfjwZomFI4,Jobs,OTHER,,,Jobs,812,0.10000000149011612,-0.10000000149011612,COMMON,0.0018147623632103203,0.10000000149011612,-0.10000000149011612,Jobs,job,,,,,PERSON,OTHER,OTHER,OTHER
+cqfjwZomFI4,East Africa,LOCATION,/m/01mqb6,https://en.wikipedia.org/wiki/East_Africa,East Africa,785,0.0,0.0,PROPER,0.0010761643061414359,0.0,0.0,East Africa,east africa,,,,,LOCATION,LOCATION,LOCATION,LOCATION

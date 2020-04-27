@@ -1,0 +1,504 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,WordNet Type Type,WordNet Type,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,type_v1,type_v2,type_v3,type_v4,type_v5
+i61j1noX0Kw,calm,2.0,0.4656381607055664,weather,/m/026fm63,/m/0866r,OTHER,,calm,calm,OTHER,,,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,space,1.0,0.4512346684932709,none,/m/06wqb,none,OTHER,LOCATION,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,landscape,1.0,0.4560632407665253,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,landscape,2.0,0.4726271033287048,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,water resources,1.0,0.6992536187171936,water,/m/015s2f,/m/0838f,OTHER,,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,water,water,water,water,OTHER
+i61j1noX0Kw,water resources,2.0,0.7603389620780945,water,/m/015s2f,/m/0838f,OTHER,,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,water,water,water,water,OTHER
+i61j1noX0Kw,marine mammal,2.0,0.4795821011066437,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,product,0.0,0.740590512752533,person,/m/02n3pb,/m/01g317,OTHER,ORGANIZATION,product,product,OTHER,,,,person,person,person,person,OTHER
+i61j1noX0Kw,graphic design,0.0,0.6984005570411682,artwork,/m/03c31,/m/0dgsmq8,OTHER,,graphic design,graphic design,OTHER,,http://dbpedia.org/ontology/Election,,artwork,artwork,artwork,artwork,OTHER
+i61j1noX0Kw,organism,1.0,0.6653586626052856,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,2.0,0.7145678400993347,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,personal protective equipment,0.0,0.5038161873817444,none,/m/0ffjr,none,OTHER,,personal protective equipment,personal protective equipment,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,font,0.0,0.6998630166053772,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,font,1.0,0.5793865323066711,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,font,2.0,0.5909410119056702,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,phenomenon,1.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,computer wallpaper,0.0,0.5268330574035645,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,2.0,0.4919330477714538,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,marine biology,2.0,0.5383273959159851,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,wind,1.0,0.5722740292549133,none,/m/03m9d0z,none,OTHER,,wind,wind,OTHER,,http://dbpedia.org/ontology/Album,,none,none,none,none,OTHER
+i61j1noX0Kw,wind,2.0,0.4756958186626434,none,/m/03m9d0z,none,OTHER,,wind,wind,OTHER,,http://dbpedia.org/ontology/Album,,none,none,none,none,OTHER
+i61j1noX0Kw,logo,0.0,0.4271605312824249,graphics,/m/0dwx7,/m/021sdg,OTHER,,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,graphics,graphics,graphics,graphics,OTHER
+i61j1noX0Kw,horizon,1.0,0.8120407462120056,geographical feature,/m/0d1n2,/m/043rvww,OTHER,LOCATION,horizon,horizon,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,horizon,2.0,0.5764014720916748,geographical feature,/m/0d1n2,/m/043rvww,OTHER,LOCATION,horizon,horizon,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,world,1.0,0.4338451325893402,none,/m/09nm_,none,OTHER,ORGANIZATION,world,world,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,energy,1.0,0.5600411295890808,none,/m/02mm_,none,OTHER,ORGANIZATION,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+i61j1noX0Kw,energy,2.0,0.5567187070846558,none,/m/02mm_,none,OTHER,ORGANIZATION,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+i61j1noX0Kw,earth,1.0,0.6114546060562134,planet,/m/02j71,/m/05qc_,PERSON,LOCATION,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/CelestialBody",,LOCATION,planet,planet,planet,LOCATION
+i61j1noX0Kw,earth,2.0,0.459524929523468,planet,/m/02j71,/m/05qc_,PERSON,LOCATION,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/CelestialBody",,LOCATION,planet,planet,planet,LOCATION
+i61j1noX0Kw,water,1.0,0.551712155342102,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,2.0,0.8064826726913452,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,line,1.0,0.6936815977096558,shape,/m/03scnj,/m/016nqd,ORGANIZATION,"ORGANIZATION, LOCATION",line,line,OTHER,,,,shape,shape,shape,shape,OTHER
+i61j1noX0Kw,line,2.0,0.6875782608985901,shape,/m/03scnj,/m/016nqd,ORGANIZATION,"ORGANIZATION, LOCATION",line,line,OTHER,,,,shape,shape,shape,shape,OTHER
+i61j1noX0Kw,daytime,1.0,0.7409709095954895,none,/m/02q7ylj,none,OTHER,,daytime,daytime,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,daytime,2.0,0.6901459097862244,none,/m/02q7ylj,none,OTHER,,daytime,daytime,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,screenshot,1.0,0.5408535599708557,none,/m/01zbnw,none,OTHER,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,screenshot,2.0,0.5622050166130066,none,/m/01zbnw,none,OTHER,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,ecosystem,1.0,0.9080228209495544,geographical feature,/m/02mhj,/m/043rvww,OTHER,ORGANIZATION,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,ecosystem,2.0,0.8947904706001282,geographical feature,/m/02mhj,/m/043rvww,OTHER,ORGANIZATION,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,product design,0.0,0.6871866583824158,person,/m/03y18t,/m/01g317,OTHER,,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,person,EVENT,EVENT,person,EVENT
+i61j1noX0Kw,brand,0.0,0.5932449698448181,none,/m/01cd9,none,OTHER,,brand,brand,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,brand,1.0,0.4531901478767395,none,/m/01cd9,none,OTHER,,brand,brand,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,brand,2.0,0.4350512623786926,none,/m/01cd9,none,OTHER,,brand,brand,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,presentation,1.0,0.4482975006103516,person,/m/02y3rj,/m/01g317,OTHER,,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,person,EVENT,EVENT,person,EVENT
+i61j1noX0Kw,presentation,2.0,0.4242376089096069,person,/m/02y3rj,/m/01g317,OTHER,,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,person,EVENT,EVENT,person,EVENT
+i61j1noX0Kw,material property,0.0,0.44692206382751465,material,/m/0457gc6,/m/01l0y0,PERSON,,material property,material property,OTHER,,,,material,material,material,material,OTHER
+i61j1noX0Kw,sky,1.0,0.9330469965934752,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,2.0,0.8661593198776245,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,adaptation,1.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,adaptation,2.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,text,0.0,0.7492919564247131,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,text,1.0,0.9167796969413756,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,text,2.0,0.9267215728759766,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,1.0,0.9328749179840088,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,2.0,0.8583603501319885,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,cloud,1.0,0.5446732044219971,none,/m/0csby,none,OTHER,ORGANIZATION,cloud,cloud,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,helmet,0.0,0.487676203250885,clothing,/m/0zvk5,/m/09j2d,OTHER,,helmet,helmet,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+i61j1noX0Kw,graphics,0.0,0.6098380088806152,artwork,/m/021sdg,/m/0dgsmq8,OTHER,,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,artwork,artwork,artwork,artwork,OTHER
+i61j1noX0Kw,atmosphere of earth,1.0,0.8133759498596191,geographical feature,/m/01ctry,/m/043rvww,OTHER,,atmosphere of earth,atmosphere of earth,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,underwater,10.0,0.8767552375793457,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,11.0,0.8986014127731323,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,12.0,0.9211075305938721,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,marine mammal,10.0,0.5898714661598206,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,11.0,0.6620382070541382,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,12.0,0.4648447632789612,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,requiem shark,10.0,0.54631507396698,shark,/m/01j_qp,/m/0by6g,PERSON,,requiem shark,requiem shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,requiem shark,11.0,0.5308581590652466,shark,/m/01j_qp,/m/0by6g,PERSON,,requiem shark,requiem shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,sea,10.0,0.474122554063797,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,11.0,0.4201623499393463,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,12.0,0.4919741749763489,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,organism,10.0,0.7138503193855286,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,11.0,0.7130292654037476,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,12.0,0.6111282110214233,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,fish,10.0,0.6881433725357056,animal,/m/0ch_cf,/m/0jbk,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,fish,11.0,0.7613711357116699,animal,/m/0ch_cf,/m/0jbk,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,fish,12.0,0.6878459453582764,animal,/m/0ch_cf,/m/0jbk,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,font,10.0,0.4859878122806549,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,font,11.0,0.4609900712966919,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,phenomenon,9.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,stock photography,9.0,0.4029087126255035,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,10.0,0.4301391243934631,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,11.0,0.4489773809909821,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,computer wallpaper,9.0,0.4786611497402191,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,10.0,0.5335044860839844,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,11.0,0.5356541275978088,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,12.0,0.5248117446899414,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,marine biology,10.0,0.7096433639526367,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,11.0,0.769426167011261,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,12.0,0.8132469654083252,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,manta ray,11.0,0.5236401557922363,stingray,/m/0df6p,/m/0f54r,OTHER,,manta ray,manta ray,OTHER,,http://dbpedia.org/ontology/Fish,,stingray,stingray,stingray,stingray,OTHER
+i61j1noX0Kw,ocean,10.0,0.4787915349006653,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,11.0,0.4416349828243256,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,12.0,0.43810418248176575,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,cartilaginous fish,10.0,0.5651300549507141,fish,/m/01lvx,/m/0ch_cf,"PERSON, LOCATION",,cartilaginous fish,cartilaginous fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,cartilaginous fish,11.0,0.6341013908386229,fish,/m/01lvx,/m/0ch_cf,"PERSON, LOCATION",,cartilaginous fish,cartilaginous fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,cartilaginous fish,12.0,0.6104764342308044,fish,/m/01lvx,/m/0ch_cf,"PERSON, LOCATION",,cartilaginous fish,cartilaginous fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,nature,9.0,0.9442844986915588,none,/m/05h0n,none,OTHER,PERSON,nature,nature,OTHER,,http://dbpedia.org/ontology/Agent,,none,none,none,none,OTHER
+i61j1noX0Kw,earth,9.0,0.5990185737609863,planet,/m/02j71,/m/05qc_,PERSON,LOCATION,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/CelestialBody",,LOCATION,planet,planet,planet,LOCATION
+i61j1noX0Kw,freediving,11.0,0.44822341203689575,diving,/m/01p7j8,/m/02bkg,EVENT,,freediving,freediving,OTHER,,,,diving,diving,EVENT,diving,EVENT
+i61j1noX0Kw,water,9.0,0.6534298062324524,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,10.0,0.937760591506958,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,11.0,0.9081358313560486,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,12.0,0.9218639135360718,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,rays and skates,10.0,0.4529536366462708,fish,/m/0m53l,/m/0ch_cf,"PERSON, LOCATION",,ray and skate,ray and skate,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,rays and skates,11.0,0.5725322365760803,fish,/m/0m53l,/m/0ch_cf,"PERSON, LOCATION",,ray and skate,ray and skate,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,rays and skates,12.0,0.591931939125061,fish,/m/0m53l,/m/0ch_cf,"PERSON, LOCATION",,ray and skate,ray and skate,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,mountain range,9.0,0.6698691248893738,geographical feature,/m/04wxr,/m/043rvww,OTHER,,mountain range,mountain range,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,mineral,9.0,0.5527506470680237,none,/m/04tc_,none,OTHER,,mineral,mineral,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,glacial landform,9.0,0.5138006806373596,geographical feature,/m/055s40,/m/043rvww,OTHER,,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,mountain,9.0,0.7990161776542664,geographical feature,/m/09d_r,/m/043rvww,OTHER,,mountain,mountain,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,sky,9.0,0.7867925763130188,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,stingray,10.0,0.4746549129486084,fish,/m/0f54r,/m/0ch_cf,"PERSON, LOCATION",,stingray,stingray,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Band",,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,stingray,11.0,0.5751283168792725,fish,/m/0f54r,/m/0ch_cf,"PERSON, LOCATION",,stingray,stingray,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Band",,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,stingray,12.0,0.5018996596336365,fish,/m/0f54r,/m/0ch_cf,"PERSON, LOCATION",,stingray,stingray,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Band",,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,photography,9.0,0.7836587429046631,none,/m/05wkw,none,OTHER,,photography,photography,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,text,10.0,0.7647491097450256,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,text,11.0,0.7285876870155334,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,tiger shark,10.0,0.5358254909515381,shark,/m/01hxbg,/m/0by6g,PERSON,,tiger shark,tiger shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,tiger shark,11.0,0.5518448948860168,shark,/m/01hxbg,/m/0by6g,PERSON,,tiger shark,tiger shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,atmosphere,9.0,0.7487506270408629,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,11.0,0.7216301560401917,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,12.0,0.7164037823677063,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,transparency and translucency,10.0,0.41328129172325134,none,/m/01z8xg,none,OTHER,,transparency and translucency,transparency and translucency,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+i61j1noX0Kw,geological phenomenon,9.0,0.8324339389801025,none,/m/07sn5gn,none,OTHER,,geological phenomenon,geological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,animal,11.0,0.4358162879943848,none,/m/0jbk,none,OTHER,,animal,animal,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere of earth,9.0,0.7814435362815857,geographical feature,/m/01ctry,/m/043rvww,OTHER,,atmosphere of earth,atmosphere of earth,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,underwater,27.0,0.8580530881881714,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,28.0,0.8641898632049559,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,29.0,0.8990989327430725,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,30.0,0.9152862429618835,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,31.0,0.8987374901771545,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,space,26.0,0.5167520046234131,none,/m/06wqb,none,OTHER,LOCATION,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,marine mammal,29.0,0.5219150185585022,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,30.0,0.5210230946540833,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,31.0,0.5768047571182251,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,sea,27.0,0.6889588832855225,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,28.0,0.6443328857421875,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,29.0,0.7415094375610352,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,30.0,0.6963363289833069,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,31.0,0.626329243183136,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,organism,29.0,0.6480790972709656,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,31.0,0.6111251711845398,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,scuba diving,31.0,0.4631142914295197,diving,/m/04njq1,/m/02bkg,EVENT,,scuba dive,scuba dive,OTHER,,http://dbpedia.org/ontology/Single,,diving,diving,EVENT,diving,EVENT
+i61j1noX0Kw,darkness,26.0,0.5305092930793762,none,/m/01kyr8,none,OTHER,LOCATION,darkness,darkness,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,mode of transport,26.0,0.8752299547195435,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,fish,31.0,0.6791426539421082,animal,/m/0ch_cf,/m/0jbk,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,terrain,26.0,0.6608608365058899,geographical feature,/m/025tn5c,/m/043rvww,OTHER,LOCATION,terrain,terrain,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,phenomenon,26.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,phenomenon,30.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,stock photography,26.0,0.5031750202178955,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,28.0,0.4215414822101593,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,29.0,0.4232938587665558,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,30.0,0.4157354831695557,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,31.0,0.4099489152431488,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,meteorological phenomenon,26.0,0.5588521361351013,none,/g/11k2xz7mr,none,OTHER,,meteorological phenomenon,meteorological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,computer wallpaper,26.0,0.6290486454963684,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,27.0,0.485444188117981,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,28.0,0.4950353801250458,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,29.0,0.4521347582340241,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,30.0,0.4902000725269318,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,marine biology,27.0,0.6706684827804565,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,28.0,0.7118002772331238,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,29.0,0.7817031145095825,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,30.0,0.7589393854141235,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,31.0,0.8594457507133484,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,manta ray,31.0,0.4257422387599945,stingray,/m/0df6p,/m/0f54r,OTHER,,manta ray,manta ray,OTHER,,http://dbpedia.org/ontology/Fish,,stingray,stingray,stingray,stingray,OTHER
+i61j1noX0Kw,ocean,27.0,0.5978785753250122,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,28.0,0.5549749135971069,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,29.0,0.6430769562721252,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,30.0,0.5137829184532166,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,31.0,0.4430870711803436,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,adventure,26.0,0.4146176874637604,none,/m/0h_m,none,OTHER,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,none,none,EVENT,none,EVENT
+i61j1noX0Kw,cartilaginous fish,31.0,0.5140825510025024,fish,/m/01lvx,/m/0ch_cf,"PERSON, LOCATION",,cartilaginous fish,cartilaginous fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,horizon,27.0,0.4253852665424347,geographical feature,/m/0d1n2,/m/043rvww,OTHER,LOCATION,horizon,horizon,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,cumulus,26.0,0.6766483187675476,cloud,/m/0csh5,/m/0csby,ORGANIZATION,ORGANIZATION,cumulus,cumulus,OTHER,,,,cloud,cloud,cloud,cloud,OTHER
+i61j1noX0Kw,earth,26.0,0.6352726221084595,planet,/m/02j71,/m/05qc_,PERSON,LOCATION,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/CelestialBody",,LOCATION,planet,planet,planet,LOCATION
+i61j1noX0Kw,freediving,27.0,0.5202042460441589,diving,/m/01p7j8,/m/02bkg,EVENT,,freediving,freediving,OTHER,,,,diving,diving,EVENT,diving,EVENT
+i61j1noX0Kw,freediving,28.0,0.5280295610427856,diving,/m/01p7j8,/m/02bkg,EVENT,,freediving,freediving,OTHER,,,,diving,diving,EVENT,diving,EVENT
+i61j1noX0Kw,freediving,29.0,0.7091140747070312,diving,/m/01p7j8,/m/02bkg,EVENT,,freediving,freediving,OTHER,,,,diving,diving,EVENT,diving,EVENT
+i61j1noX0Kw,freediving,30.0,0.5693063735961914,diving,/m/01p7j8,/m/02bkg,EVENT,,freediving,freediving,OTHER,,,,diving,diving,EVENT,diving,EVENT
+i61j1noX0Kw,freediving,31.0,0.7286686301231384,diving,/m/01p7j8,/m/02bkg,EVENT,,freediving,freediving,OTHER,,,,diving,diving,EVENT,diving,EVENT
+i61j1noX0Kw,water,27.0,0.5173355937004089,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,28.0,0.4152239859104157,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,29.0,0.7509415745735168,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,screenshot,26.0,0.4971443116664887,none,/m/01zbnw,none,OTHER,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,screenshot,27.0,0.4721391201019287,none,/m/01zbnw,none,OTHER,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,screenshot,28.0,0.4148080050945282,none,/m/01zbnw,none,OTHER,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,rays and skates,31.0,0.4624742865562439,fish,/m/0m53l,/m/0ch_cf,"PERSON, LOCATION",,ray and skate,ray and skate,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,sky,26.0,0.9741582870483398,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,27.0,0.7204467058181763,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,28.0,0.6059970855712891,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,29.0,0.5013181567192078,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,30.0,0.6688141226768494,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,stingray,31.0,0.4322976171970368,fish,/m/0f54r,/m/0ch_cf,"PERSON, LOCATION",,stingray,stingray,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Band",,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,photography,26.0,0.7919700741767883,none,/m/05wkw,none,OTHER,,photography,photography,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,26.0,0.9409093856811525,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,27.0,0.823314368724823,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,28.0,0.8235107660293579,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,29.0,0.72355055809021,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,30.0,0.8615297079086304,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,geological phenomenon,26.0,0.8627991080284119,none,/m/07sn5gn,none,OTHER,,geological phenomenon,geological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,geological phenomenon,29.0,0.7172477245330809,none,/m/07sn5gn,none,OTHER,,geological phenomenon,geological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,geological phenomenon,30.0,0.8536956310272217,none,/m/07sn5gn,none,OTHER,,geological phenomenon,geological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,cloud,26.0,0.731048583984375,none,/m/0csby,none,OTHER,ORGANIZATION,cloud,cloud,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater diving,29.0,0.6414690017700195,none,/m/09kjpq,none,OTHER,,underwater dive,underwater dive,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater diving,30.0,0.5908496379852295,none,/m/09kjpq,none,OTHER,,underwater dive,underwater dive,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater diving,31.0,0.763590395450592,none,/m/09kjpq,none,OTHER,,underwater dive,underwater dive,OTHER,,http://dbpedia.org/ontology/Company,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere of earth,26.0,0.8198177218437195,geographical feature,/m/01ctry,/m/043rvww,OTHER,,atmosphere of earth,atmosphere of earth,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,texture,34.0,0.7291869521141052,none,/m/0521dbh,none,OTHER,,texture,texture,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,wind wave,33.0,0.7788054347038269,none,/m/034srq,none,OTHER,,wind wave,wind wave,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,36.0,0.620542049407959,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,calm,37.0,0.5951766967773438,weather,/m/026fm63,/m/0866r,OTHER,,calm,calm,OTHER,,,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,black,34.0,0.9536197185516356,none,/m/019sc,none,OTHER,PERSON,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,none,none,none,none,OTHER
+i61j1noX0Kw,space,34.0,0.4210556149482727,none,/m/06wqb,none,OTHER,LOCATION,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,landscape,33.0,0.5021718144416809,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,marine mammal,36.0,0.4162370562553406,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,material,34.0,0.6050809025764465,none,/m/01l0y0,none,OTHER,PERSON,material,material,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,fog,33.0,0.5504481792449951,weather,/m/0g2z8,/m/0866r,OTHER,,fog,fog,OTHER,,http://dbpedia.org/ontology/Disease,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,fog,34.0,0.7382336854934692,weather,/m/0g2z8,/m/0866r,OTHER,,fog,fog,OTHER,,http://dbpedia.org/ontology/Disease,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,fog,35.0,0.6562634706497192,weather,/m/0g2z8,/m/0866r,OTHER,,fog,fog,OTHER,,http://dbpedia.org/ontology/Disease,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,organism,36.0,0.6676056981086731,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,massif,33.0,0.4412087202072144,mountain,/m/01pbgp,/m/09d_r,OTHER,,massif,massif,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,mountain,mountain,mountain,LOCATION
+i61j1noX0Kw,storm,35.0,0.4054020941257477,weather,/m/0z71l,/m/0866r,OTHER,,storm,storm,OTHER,,,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,mode of transport,33.0,0.8750288486480713,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,mode of transport,34.0,0.8751973509788513,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,mist,33.0,0.5062231421470642,none,/m/01bqwh,none,OTHER,,mist,mist,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,mist,34.0,0.6271827816963196,none,/m/01bqwh,none,OTHER,,mist,mist,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,mist,35.0,0.8043345808982849,none,/m/01bqwh,none,OTHER,,mist,mist,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,black and white,33.0,0.6793748140335083,style,/m/01g6gs,/m/012yh1,OTHER,,black and white,black and white,OTHER,,,,style,style,style,style,OTHER
+i61j1noX0Kw,black and white,34.0,0.577511727809906,style,/m/01g6gs,/m/012yh1,OTHER,,black and white,black and white,OTHER,,,,style,style,style,style,OTHER
+i61j1noX0Kw,terrain,33.0,0.7755501866340637,geographical feature,/m/025tn5c,/m/043rvww,OTHER,LOCATION,terrain,terrain,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,font,34.0,0.7690380215644836,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,font,35.0,0.6292403936386108,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,font,36.0,0.4916322827339173,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,font,37.0,0.5000856518745422,software,/m/03gq5hm,/m/01mf0,OTHER,,font,font,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,morning,35.0,0.7628324627876282,none,/m/02_ktj,none,OTHER,EVENT,morning,morning,OTHER,,http://dbpedia.org/ontology/Country,,none,none,none,none,OTHER
+i61j1noX0Kw,mountainous landforms,33.0,0.8943960070610046,geographical feature,/g/11jxkqbpp,/m/043rvww,OTHER,,mountainous landforms,mountainous landforms,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,phenomenon,33.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,phenomenon,34.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,phenomenon,35.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,phenomenon,36.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,phenomenon,37.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,stock photography,35.0,0.4300824999809265,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,36.0,0.4761735796928406,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,37.0,0.4618650674819946,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,ice,33.0,0.5613961815834045,none,/m/03vtj,none,OTHER,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+i61j1noX0Kw,ice cap,33.0,0.5225633382797241,geographical feature,/m/04b966,/m/043rvww,OTHER,,ice cap,ice cap,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,meteorological phenomenon,34.0,0.5538994073867798,none,/g/11k2xz7mr,none,OTHER,,meteorological phenomenon,meteorological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,meteorological phenomenon,35.0,0.5446686744689941,none,/g/11k2xz7mr,none,OTHER,,meteorological phenomenon,meteorological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,computer wallpaper,35.0,0.6373060345649719,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,36.0,0.5426735281944275,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,37.0,0.5509790182113647,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,volcanic landform,33.0,0.4172927737236023,geographical feature,/g/11jwzh3_l,/m/043rvww,OTHER,,volcanic landform,volcanic landform,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,drizzle,34.0,0.5285354852676392,weather,/m/06bp78,/m/0866r,OTHER,,drizzle,drizzle,OTHER,,,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,white,34.0,0.9583429098129272,none,/m/083jv,none,OTHER,PERSON,white,white,OTHER,,http://dbpedia.org/ontology/Colour,,none,none,none,none,OTHER
+i61j1noX0Kw,wind,35.0,0.5479466319084167,none,/m/03m9d0z,none,OTHER,,wind,wind,OTHER,,http://dbpedia.org/ontology/Album,,none,none,none,none,OTHER
+i61j1noX0Kw,adventure,33.0,0.6387946009635925,none,/m/0h_m,none,OTHER,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,none,none,EVENT,none,EVENT
+i61j1noX0Kw,piste,33.0,0.4494717717170715,geographical feature,/m/06z4ng,/m/043rvww,OTHER,,piste,piste,OTHER,,http://dbpedia.org/ontology/HorseRace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,winter storm,33.0,0.5007128119468689,"event, weather",/m/01kgp6,"/m/081pkj, /m/0866r",OTHER,,winter storm,winter storm,EVENT,,http://dbpedia.org/ontology/SportsEvent,,"event, weather","event, weather",EVENT,"event, weather",EVENT
+i61j1noX0Kw,horizon,35.0,0.5754896998405457,geographical feature,/m/0d1n2,/m/043rvww,OTHER,LOCATION,horizon,horizon,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,nature,33.0,0.9532129764556884,none,/m/05h0n,none,OTHER,PERSON,nature,nature,OTHER,,http://dbpedia.org/ontology/Agent,,none,none,none,none,OTHER
+i61j1noX0Kw,cumulus,33.0,0.5765786170959473,cloud,/m/0csh5,/m/0csby,ORGANIZATION,ORGANIZATION,cumulus,cumulus,OTHER,,,,cloud,cloud,cloud,cloud,OTHER
+i61j1noX0Kw,cumulus,35.0,0.7962563037872314,cloud,/m/0csh5,/m/0csby,ORGANIZATION,ORGANIZATION,cumulus,cumulus,OTHER,,,,cloud,cloud,cloud,cloud,OTHER
+i61j1noX0Kw,cumulus,36.0,0.5104464888572693,cloud,/m/0csh5,/m/0csby,ORGANIZATION,ORGANIZATION,cumulus,cumulus,OTHER,,,,cloud,cloud,cloud,cloud,OTHER
+i61j1noX0Kw,cumulus,37.0,0.604491651058197,cloud,/m/0csh5,/m/0csby,ORGANIZATION,ORGANIZATION,cumulus,cumulus,OTHER,,,,cloud,cloud,cloud,cloud,OTHER
+i61j1noX0Kw,energy,36.0,0.4865992069244385,none,/m/02mm_,none,OTHER,ORGANIZATION,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+i61j1noX0Kw,energy,37.0,0.4598347246646881,none,/m/02mm_,none,OTHER,ORGANIZATION,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+i61j1noX0Kw,freezing,33.0,0.7961161732673645,none,/m/01c791,none,OTHER,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,none,none,none,none,OTHER
+i61j1noX0Kw,arctic,33.0,0.4845364689826965,geographical feature,/m/09738,/m/043rvww,OTHER,LOCATION,arctic,arctic,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,ridge,33.0,0.907804012298584,mountain,/m/0355cw,/m/09d_r,OTHER,,ridge,ridge,OTHER,,http://dbpedia.org/ontology/Work,,LOCATION,mountain,mountain,mountain,LOCATION
+i61j1noX0Kw,wave,33.0,0.5035182237625122,none,/m/02p0sll,none,OTHER,"EVENT, PERSON",wave,wave,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,water,35.0,0.4778052568435669,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,36.0,0.518112063407898,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,37.0,0.7531038522720337,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,line,34.0,0.7284364104270935,shape,/m/03scnj,/m/016nqd,ORGANIZATION,"ORGANIZATION, LOCATION",line,line,OTHER,,,,shape,shape,shape,shape,OTHER
+i61j1noX0Kw,fell,33.0,0.5186779499053955,landscape,/m/0280nh,/m/025s3q0,LOCATION,,fall,fall,OTHER,,http://dbpedia.org/ontology/Work,,LOCATION,landscape,landscape,landscape,LOCATION
+i61j1noX0Kw,daytime,35.0,0.7659775614738464,none,/m/02q7ylj,none,OTHER,,daytime,daytime,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,daytime,37.0,0.7289617657661438,none,/m/02q7ylj,none,OTHER,,daytime,daytime,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,screenshot,34.0,0.5539687275886536,none,/m/01zbnw,none,OTHER,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,screenshot,37.0,0.458484411239624,none,/m/01zbnw,none,OTHER,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+i61j1noX0Kw,glacier,33.0,0.7367915511131287,geographical feature,/m/038jz,/m/043rvww,OTHER,,glacier,glacier,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,mountain range,33.0,0.8824167847633362,geographical feature,/m/04wxr,/m/043rvww,OTHER,,mountain range,mountain range,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,brand,34.0,0.4338298141956329,none,/m/01cd9,none,OTHER,,brand,brand,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,glacial landform,33.0,0.8356376886367798,geographical feature,/m/055s40,/m/043rvww,OTHER,,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,mountain,33.0,0.8907194137573242,geographical feature,/m/09d_r,/m/043rvww,OTHER,,mountain,mountain,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,sky,33.0,0.8776456713676453,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,34.0,0.9308682084083556,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,35.0,0.9586589932441713,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,36.0,0.7829964160919191,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sky,37.0,0.8576287627220154,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,snow,33.0,0.5191603302955627,weather,/m/06_dn,/m/0866r,OTHER,PERSON,snow,snow,OTHER,,,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,adaptation,36.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,adaptation,37.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,text,34.0,0.9446442127227784,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,text,35.0,0.8498772382736206,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,text,36.0,0.8047921061515808,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,text,37.0,0.8038044571876526,none,/m/07s6nbt,none,OTHER,,text,text,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,haze,34.0,0.4281033277511597,none,/m/03xxq7,none,OTHER,,haze,haze,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,haze,35.0,0.4207005500793457,none,/m/03xxq7,none,OTHER,,haze,haze,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,33.0,0.8562920093536377,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,34.0,0.9635174870491028,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,35.0,0.9655699729919434,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,36.0,0.8479084372520447,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere,37.0,0.8552101850509644,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,geological phenomenon,33.0,0.8665139079093933,none,/m/07sn5gn,none,OTHER,,geological phenomenon,geological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,geological phenomenon,34.0,0.8050698041915894,none,/m/07sn5gn,none,OTHER,,geological phenomenon,geological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,geological phenomenon,35.0,0.7428479790687561,none,/m/07sn5gn,none,OTHER,,geological phenomenon,geological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,summit,33.0,0.6816985607147217,mountain,/m/0388sn,/m/09d_r,OTHER,"LOCATION, ORGANIZATION",summit,summit,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,mountain,mountain,mountain,LOCATION
+i61j1noX0Kw,extreme sport,33.0,0.4977726042270661,sports,/m/02pyg,/m/06ntj,PERSON,,extreme sport,extreme sport,OTHER,,,,sports,sports,EVENT,sports,EVENT
+i61j1noX0Kw,cloud,33.0,0.6387245059013367,none,/m/0csby,none,OTHER,ORGANIZATION,cloud,cloud,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,cloud,34.0,0.5465255379676819,none,/m/0csby,none,OTHER,ORGANIZATION,cloud,cloud,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,cloud,35.0,0.8500517010688782,none,/m/0csby,none,OTHER,ORGANIZATION,cloud,cloud,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,cloud,36.0,0.507327139377594,none,/m/0csby,none,OTHER,ORGANIZATION,cloud,cloud,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,cloud,37.0,0.7217448353767395,none,/m/0csby,none,OTHER,ORGANIZATION,cloud,cloud,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,atmosphere of earth,33.0,0.8146555423736572,geographical feature,/m/01ctry,/m/043rvww,OTHER,,atmosphere of earth,atmosphere of earth,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,atmosphere of earth,34.0,0.8211896419525146,geographical feature,/m/01ctry,/m/043rvww,OTHER,,atmosphere of earth,atmosphere of earth,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,atmosphere of earth,35.0,0.8213635087013245,geographical feature,/m/01ctry,/m/043rvww,OTHER,,atmosphere of earth,atmosphere of earth,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,asphalt,34.0,0.5938540101051331,none,/m/0hr8,none,OTHER,,asphalt,asphalt,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,mammal,47.0,0.923223614692688,animal,/m/04rky,/m/0jbk,OTHER,,mammal,mammal,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,manatee,44.0,0.4306009709835053,mammal,/m/0529w,/m/04rky,OTHER,,manatee,manatee,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,manatee,45.0,0.4719975888729096,mammal,/m/0529w,/m/04rky,OTHER,,manatee,manatee,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,manatee,47.0,0.4994521737098694,mammal,/m/0529w,/m/04rky,OTHER,,manatee,manatee,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,underwater,44.0,0.8520281910896301,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,45.0,0.8335099816322327,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,46.0,0.8665209412574768,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,47.0,0.884052574634552,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,marine mammal,44.0,0.9192396402359008,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,45.0,0.9217097759246826,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,46.0,0.9191907644271852,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,47.0,0.9609729647636414,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,organism,44.0,0.7450767755508423,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,45.0,0.7619243860244751,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,46.0,0.7885029315948486,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,47.0,0.7969391942024231,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,phenomenon,45.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,phenomenon,46.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,stock photography,44.0,0.4890519380569458,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,45.0,0.4797354638576508,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,46.0,0.4952688217163086,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,stock photography,47.0,0.4693962037563324,photography,/m/036jvk,/m/05wkw,OTHER,,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,photography,photography,photography,photography,OTHER
+i61j1noX0Kw,computer wallpaper,44.0,0.4827096164226532,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,45.0,0.4708816111087799,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,46.0,0.5334275960922241,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,47.0,0.5755122900009155,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,jaw,46.0,0.4302298128604889,none,/m/01k9lj,none,OTHER,,jaw,jaw,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,marine biology,44.0,0.7783070802688599,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,45.0,0.7801183462142944,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,46.0,0.7823973298072815,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,47.0,0.8721733093261719,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,dolphin,45.0,0.5768100619316101,mammal,/m/02hj4,/m/04rky,OTHER,,dolphin,dolphin,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,dolphin,46.0,0.5106356143951416,mammal,/m/02hj4,/m/04rky,OTHER,,dolphin,dolphin,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,dolphin,47.0,0.6296262741088867,mammal,/m/02hj4,/m/04rky,OTHER,,dolphin,dolphin,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whales dolphins and porpoises,44.0,0.5431247353553772,mammal,/m/024pk,/m/04rky,OTHER,,whale dolphin and porpoise,whale dolphin and porpoise,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whales dolphins and porpoises,45.0,0.632691502571106,mammal,/m/024pk,/m/04rky,OTHER,,whale dolphin and porpoise,whale dolphin and porpoise,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whales dolphins and porpoises,46.0,0.6612542271614075,mammal,/m/024pk,/m/04rky,OTHER,,whale dolphin and porpoise,whale dolphin and porpoise,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whales dolphins and porpoises,47.0,0.7089341878890991,mammal,/m/024pk,/m/04rky,OTHER,,whale dolphin and porpoise,whale dolphin and porpoise,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,water,44.0,0.9549546241760254,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,45.0,0.9506484866142272,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,46.0,0.9478594660758972,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,47.0,0.9442227482795716,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,wildlife,47.0,0.645487904548645,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,animal,45.0,0.5167815089225769,none,/m/0jbk,none,OTHER,,animal,animal,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,animal,46.0,0.4891505241394043,none,/m/0jbk,none,OTHER,,animal,animal,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,animal,47.0,0.5465827584266663,none,/m/0jbk,none,OTHER,,animal,animal,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,arctic ocean,54.0,0.7861441373825073,ocean,/m/0j85,/m/05kq4,OTHER,,arctic ocean,arctic ocean,OTHER,,,,LOCATION,ocean,ocean,ocean,LOCATION
+i61j1noX0Kw,fauna,55.0,0.9239505529403688,animal,/m/035qhg,/m/0jbk,OTHER,ORGANIZATION,fauna,fauna,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,fauna,56.0,0.9210915565490724,animal,/m/035qhg,/m/0jbk,OTHER,ORGANIZATION,fauna,fauna,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,fauna,57.0,0.9096728563308716,animal,/m/035qhg,/m/0jbk,OTHER,ORGANIZATION,fauna,fauna,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,fauna,58.0,0.9257141351699828,animal,/m/035qhg,/m/0jbk,OTHER,ORGANIZATION,fauna,fauna,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,wind wave,54.0,0.9316819310188292,none,/m/034srq,none,OTHER,,wind wave,wind wave,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,55.0,0.7283633947372437,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,56.0,0.7763970494270325,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,57.0,0.8332287669181824,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,underwater,58.0,0.841971755027771,none,/m/01sfb5,none,OTHER,,underwater,underwater,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,calm,54.0,0.7155159115791321,weather,/m/026fm63,/m/0866r,OTHER,,calm,calm,OTHER,,,,weather,weather,weather,weather,OTHER
+i61j1noX0Kw,humpback whale,55.0,0.5950152277946472,whale,/m/01hq29,/m/084zz,PERSON,,humpback whale,humpback whale,OTHER,,http://dbpedia.org/ontology/Mammal,,whale,whale,whale,whale,OTHER
+i61j1noX0Kw,humpback whale,56.0,0.5411135554313661,whale,/m/01hq29,/m/084zz,PERSON,,humpback whale,humpback whale,OTHER,,http://dbpedia.org/ontology/Mammal,,whale,whale,whale,whale,OTHER
+i61j1noX0Kw,humpback whale,57.0,0.6238680481910706,whale,/m/01hq29,/m/084zz,PERSON,,humpback whale,humpback whale,OTHER,,http://dbpedia.org/ontology/Mammal,,whale,whale,whale,whale,OTHER
+i61j1noX0Kw,humpback whale,58.0,0.5489145517349243,whale,/m/01hq29,/m/084zz,PERSON,,humpback whale,humpback whale,OTHER,,http://dbpedia.org/ontology/Mammal,,whale,whale,whale,whale,OTHER
+i61j1noX0Kw,leatherback turtle,58.0,0.5001507997512817,sea turtle,/m/01vq2n,/m/0120dh,OTHER,,leatherback turtle,leatherback turtle,OTHER,,,,sea turtle,sea turtle,sea turtle,sea turtle,OTHER
+i61j1noX0Kw,landscape,54.0,0.452310174703598,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,water resources,54.0,0.6610475182533264,water,/m/015s2f,/m/0838f,OTHER,,water resource,water resource,OTHER,,http://dbpedia.org/ontology/Nerve,,water,water,water,water,OTHER
+i61j1noX0Kw,marine mammal,55.0,0.9435055255889891,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,56.0,0.9066139459609984,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,57.0,0.9494394659996032,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,marine mammal,58.0,0.8929020166397095,mammal,/m/0gd2v,/m/04rky,OTHER,,marine mammal,marine mammal,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,spinner dolphin,55.0,0.4815541207790375,dolphin,/m/02bqry,/m/02hj4,OTHER,,spinner dolphin,spinner dolphin,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,spinner dolphin,57.0,0.4103986024856568,dolphin,/m/02bqry,/m/02hj4,OTHER,,spinner dolphin,spinner dolphin,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,requiem shark,56.0,0.4943809509277344,shark,/m/01j_qp,/m/0by6g,PERSON,,requiem shark,requiem shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,sea,54.0,0.8907657861709595,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,55.0,0.4354106485843657,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,56.0,0.4884322881698608,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,57.0,0.5304652452468872,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,sea,58.0,0.7532940506935121,none,/m/06npx,none,OTHER,,sea,sea,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,fin,55.0,0.7693214416503906,none,/m/02zg_,none,OTHER,,fin,fin,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+i61j1noX0Kw,fin,56.0,0.7975530624389648,none,/m/02zg_,none,OTHER,,fin,fin,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+i61j1noX0Kw,fin,57.0,0.8271418213844299,none,/m/02zg_,none,OTHER,,fin,fin,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+i61j1noX0Kw,fin,58.0,0.7417692542076111,none,/m/02zg_,none,OTHER,,fin,fin,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,55.0,0.7552361488342285,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,56.0,0.7431967854499817,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,57.0,0.7738890051841736,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,organism,58.0,0.7731238603591919,none,/m/05nnm,none,OTHER,ORGANIZATION,organism,organism,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,inlet,54.0,0.680427610874176,geographical feature,/m/02hdxc,/m/043rvww,OTHER,,inlet,inlet,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,short beaked common dolphin,55.0,0.485057145357132,dolphin,/m/04n7h6z,/m/02hj4,OTHER,,short beak common dolphin,short beak common dolphin,OTHER,,,,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,short beaked common dolphin,57.0,0.4065018594264984,dolphin,/m/04n7h6z,/m/02hj4,OTHER,,short beak common dolphin,short beak common dolphin,OTHER,,,,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,lamnidae,56.0,0.5290150642395021,shark,/m/041wmv,/m/0by6g,PERSON,,lamnidae,lamnidae,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,lamnidae,57.0,0.42731431126594543,shark,/m/041wmv,/m/0by6g,PERSON,,lamnidae,lamnidae,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,lamnidae,58.0,0.4224773049354553,shark,/m/041wmv,/m/0by6g,PERSON,,lamnidae,lamnidae,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,fish,55.0,0.8963469862937927,animal,/m/0ch_cf,/m/0jbk,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,fish,56.0,0.9276891350746156,animal,/m/0ch_cf,/m/0jbk,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,fish,57.0,0.8897682428359985,animal,/m/0ch_cf,/m/0jbk,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,fish,58.0,0.8985803723335266,animal,/m/0ch_cf,/m/0jbk,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,phenomenon,54.0,0.7547649145126343,none,/m/0gjyk,none,OTHER,EVENT,phenomenon,phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,ice,54.0,0.4796265363693237,none,/m/03vtj,none,OTHER,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+i61j1noX0Kw,ice cap,54.0,0.4646880030632019,geographical feature,/m/04b966,/m/043rvww,OTHER,,ice cap,ice cap,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,computer wallpaper,54.0,0.5006618499755859,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,computer wallpaper,57.0,0.4521388709545136,software,/m/03w43x,/m/01mf0,OTHER,,computer wallpaper,computer wallpaper,OTHER,,,,software,software,software,software,OTHER
+i61j1noX0Kw,shark,55.0,0.6358950138092041,fish,/m/0by6g,/m/0ch_cf,"PERSON, LOCATION",PERSON,shark,shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Band",,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,shark,56.0,0.7459650039672852,fish,/m/0by6g,/m/0ch_cf,"PERSON, LOCATION",PERSON,shark,shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Band",,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,shark,57.0,0.666960597038269,fish,/m/0by6g,/m/0ch_cf,"PERSON, LOCATION",PERSON,shark,shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Band",,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,shark,58.0,0.6347288489341736,fish,/m/0by6g,/m/0ch_cf,"PERSON, LOCATION",PERSON,shark,shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Band",,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,fish,55.0,0.4462378621101379,seafood,/m/07pbfj,/m/06nwz,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,seafood,seafood,seafood,seafood,OTHER
+i61j1noX0Kw,fish,56.0,0.6593241691589355,seafood,/m/07pbfj,/m/06nwz,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,seafood,seafood,seafood,seafood,OTHER
+i61j1noX0Kw,fish,57.0,0.6481484770774841,seafood,/m/07pbfj,/m/06nwz,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,seafood,seafood,seafood,seafood,OTHER
+i61j1noX0Kw,fish,58.0,0.8319861888885498,seafood,/m/07pbfj,/m/06nwz,OTHER,"PERSON, LOCATION",fish,fish,OTHER,,,,seafood,seafood,seafood,seafood,OTHER
+i61j1noX0Kw,marine biology,55.0,0.8863943815231323,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,56.0,0.907314121723175,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,57.0,0.913070797920227,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,marine biology,58.0,0.9146417379379272,biology,/m/050vn,/m/01540,ORGANIZATION,,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,biology,biology,biology,biology,OTHER
+i61j1noX0Kw,tide,54.0,0.5329524874687195,none,/m/07kc0,none,OTHER,EVENT,tide,tide,OTHER,,http://dbpedia.org/ontology/Building,,none,none,none,none,OTHER
+i61j1noX0Kw,coast,54.0,0.6950421929359436,geographical feature,/m/01lxd,/m/043rvww,OTHER,,coast,coast,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,coastal and oceanic landforms,54.0,0.844578742980957,geographical feature,/m/02c9_23,/m/043rvww,OTHER,,coastal and oceanic landforms,coastal and oceanic landforms,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,bony fish,56.0,0.4130297303199768,fish,/m/05lms,/m/0ch_cf,"PERSON, LOCATION",,bony fish,bony fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,bony fish,58.0,0.4862354695796967,fish,/m/05lms,/m/0ch_cf,"PERSON, LOCATION",,bony fish,bony fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,loggerhead,58.0,0.8633477687835693,sea turtle,/m/064_lq,/m/0120dh,OTHER,PERSON,loggerhead,loggerhead,OTHER,,,,sea turtle,sea turtle,sea turtle,sea turtle,OTHER
+i61j1noX0Kw,ocean,54.0,0.9174526929855348,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,55.0,0.5033013820648193,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,56.0,0.4900663197040558,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,57.0,0.5089752674102783,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,ocean,58.0,0.6539347171783447,none,/m/05kq4,none,OTHER,,ocean,ocean,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,fjord,54.0,0.4451580047607422,geographical feature,/m/0by0z,/m/043rvww,OTHER,,fjord,fjord,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,dolphin,55.0,0.6312137246131897,mammal,/m/02hj4,/m/04rky,OTHER,,dolphin,dolphin,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,dolphin,56.0,0.518631100654602,mammal,/m/02hj4,/m/04rky,OTHER,,dolphin,dolphin,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,dolphin,57.0,0.5211853981018066,mammal,/m/02hj4,/m/04rky,OTHER,,dolphin,dolphin,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,cartilaginous fish,55.0,0.5448737740516663,fish,/m/01lvx,/m/0ch_cf,"PERSON, LOCATION",,cartilaginous fish,cartilaginous fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,cartilaginous fish,56.0,0.531485915184021,fish,/m/01lvx,/m/0ch_cf,"PERSON, LOCATION",,cartilaginous fish,cartilaginous fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,cartilaginous fish,57.0,0.4772569239139557,fish,/m/01lvx,/m/0ch_cf,"PERSON, LOCATION",,cartilaginous fish,cartilaginous fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,cartilaginous fish,58.0,0.4354734718799591,fish,/m/01lvx,/m/0ch_cf,"PERSON, LOCATION",,cartilaginous fish,cartilaginous fish,OTHER,,,,fish,fish,fish,fish,OTHER
+i61j1noX0Kw,stenella,55.0,0.7702619433403015,dolphin,/m/02bk79,/m/02hj4,OTHER,,stenella,stenella,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,stenella,56.0,0.6176415085792542,dolphin,/m/02bk79,/m/02hj4,OTHER,,stenella,stenella,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,stenella,57.0,0.70433509349823,dolphin,/m/02bk79,/m/02hj4,OTHER,,stenella,stenella,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,stenella,58.0,0.4272781014442444,dolphin,/m/02bk79,/m/02hj4,OTHER,,stenella,stenella,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,striped dolphin,55.0,0.4157694280147553,dolphin,/m/02cn26,/m/02hj4,OTHER,,strip dolphin,strip dolphin,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,horizon,54.0,0.671533465385437,geographical feature,/m/0d1n2,/m/043rvww,OTHER,LOCATION,horizon,horizon,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,great white shark,55.0,0.41823670268058777,shark,/m/0by7c,/m/0by6g,PERSON,,great white shark,great white shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,great white shark,56.0,0.7481867074966431,shark,/m/0by7c,/m/0by6g,PERSON,,great white shark,great white shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,great white shark,57.0,0.6149283647537231,shark,/m/0by7c,/m/0by6g,PERSON,,great white shark,great white shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,great white shark,58.0,0.5734713673591614,shark,/m/0by7c,/m/0by6g,PERSON,,great white shark,great white shark,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,whales dolphins and porpoises,55.0,0.8571374416351318,mammal,/m/024pk,/m/04rky,OTHER,,whale dolphin and porpoise,whale dolphin and porpoise,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whales dolphins and porpoises,56.0,0.8160737156867981,mammal,/m/024pk,/m/04rky,OTHER,,whale dolphin and porpoise,whale dolphin and porpoise,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whales dolphins and porpoises,57.0,0.8628861308097839,mammal,/m/024pk,/m/04rky,OTHER,,whale dolphin and porpoise,whale dolphin and porpoise,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whales dolphins and porpoises,58.0,0.7465111017227173,mammal,/m/024pk,/m/04rky,OTHER,,whale dolphin and porpoise,whale dolphin and porpoise,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,arctic,54.0,0.6108075380325317,geographical feature,/m/09738,/m/043rvww,OTHER,LOCATION,arctic,arctic,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,wave,54.0,0.931729018688202,none,/m/02p0sll,none,OTHER,"EVENT, PERSON",wave,wave,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,water,54.0,0.8100259900093079,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,55.0,0.896293044090271,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,56.0,0.9460497498512268,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,57.0,0.9289250373840332,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,water,58.0,0.956335723400116,none,/m/0838f,none,OTHER,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,none,none,none,none,OTHER
+i61j1noX0Kw,polar ice cap,54.0,0.43947768211364746,geographical feature,/m/048nfp,/m/043rvww,OTHER,,polar ice cap,polar ice cap,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,whale,55.0,0.6852059960365295,mammal,/m/084zz,/m/04rky,OTHER,PERSON,whale,whale,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whale,56.0,0.644100546836853,mammal,/m/084zz,/m/04rky,OTHER,PERSON,whale,whale,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whale,57.0,0.6483493447303772,mammal,/m/084zz,/m/04rky,OTHER,PERSON,whale,whale,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,whale,58.0,0.5635664463043213,mammal,/m/084zz,/m/04rky,OTHER,PERSON,whale,whale,OTHER,,,,mammal,mammal,mammal,mammal,OTHER
+i61j1noX0Kw,white beaked dolphin,55.0,0.4720276892185211,dolphin,/m/01t2tr,/m/02hj4,OTHER,,white beak dolphin,white beak dolphin,OTHER,,,,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,white beaked dolphin,57.0,0.43587088584899897,dolphin,/m/01t2tr,/m/02hj4,OTHER,,white beak dolphin,white beak dolphin,OTHER,,,,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,sea turtle,58.0,0.8658416867256165,turtle,/m/0120dh,/m/09dzg,OTHER,,sea turtle,sea turtle,OTHER,,http://dbpedia.org/ontology/Reptile,,turtle,turtle,turtle,turtle,OTHER
+i61j1noX0Kw,turtle,58.0,0.7729687094688416,reptile,/m/09dzg,/m/06bt6,OTHER,,turtle,turtle,OTHER,,http://dbpedia.org/ontology/Reptile,,reptile,reptile,reptile,reptile,OTHER
+i61j1noX0Kw,glacial landform,54.0,0.5132938027381897,geographical feature,/m/055s40,/m/043rvww,OTHER,,glacial landform,glacial landform,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,sky,54.0,0.8702130913734436,none,/m/01bqvp,none,OTHER,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,LOCATION,none,none,none,LOCATION
+i61j1noX0Kw,adaptation,55.0,0.40077000856399536,none,/m/03r_vp,none,OTHER,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,none,none,none,none,OTHER
+i61j1noX0Kw,bay,54.0,0.4604020416736603,geographical feature,/m/04ggh49,/m/043rvww,OTHER,EVENT,bay,bay,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,atmosphere,54.0,0.7626408934593201,none,/m/01ctsf,none,OTHER,LOCATION,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+i61j1noX0Kw,wholphin,55.0,0.4076361954212189,dolphin,/m/01ppx5,/m/02hj4,OTHER,,wholphin,wholphin,OTHER,,,,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,geological phenomenon,54.0,0.7133235335350037,none,/m/07sn5gn,none,OTHER,,geological phenomenon,geological phenomenon,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,river,54.0,0.4529308676719666,geographical feature,/m/06cnp,/m/043rvww,OTHER,,river,river,OTHER,,http://dbpedia.org/ontology/River,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,headland,54.0,0.6327294111251831,geographical feature,/m/04gv79h,/m/043rvww,OTHER,,headland,headland,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+i61j1noX0Kw,wildlife,55.0,0.6576489806175232,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,wildlife,56.0,0.5956433415412903,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,wildlife,57.0,0.6599414348602295,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,wildlife,58.0,0.44848185777664185,animal,/m/01280g,/m/0jbk,OTHER,ORGANIZATION,wildlife,wildlife,OTHER,,,,animal,animal,animal,animal,OTHER
+i61j1noX0Kw,cloud,54.0,0.4130100905895233,none,/m/0csby,none,OTHER,ORGANIZATION,cloud,cloud,OTHER,,,,none,none,none,none,OTHER
+i61j1noX0Kw,lamniformes,55.0,0.4151615500450134,shark,/m/01v3j7,/m/0by6g,PERSON,,lamniformes,lamniformes,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,lamniformes,56.0,0.7469139099121094,shark,/m/01v3j7,/m/0by6g,PERSON,,lamniformes,lamniformes,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,lamniformes,57.0,0.6145337224006653,shark,/m/01v3j7,/m/0by6g,PERSON,,lamniformes,lamniformes,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,lamniformes,58.0,0.655348539352417,shark,/m/01v3j7,/m/0by6g,PERSON,,lamniformes,lamniformes,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Fish, http://dbpedia.org/ontology/Species",,shark,shark,shark,shark,OTHER
+i61j1noX0Kw,rough toothed dolphin,55.0,0.7917119860649109,dolphin,/m/025t8y,/m/02hj4,OTHER,,rough toothed dolphin,rough toothed dolphin,OTHER,,,,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,rough toothed dolphin,56.0,0.6728314757347107,dolphin,/m/025t8y,/m/02hj4,OTHER,,rough toothed dolphin,rough toothed dolphin,OTHER,,,,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,rough toothed dolphin,57.0,0.6419317126274109,dolphin,/m/025t8y,/m/02hj4,OTHER,,rough toothed dolphin,rough toothed dolphin,OTHER,,,,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,loch,54.0,0.8544971942901611,lake,/m/04p25,/m/04h4w,OTHER,,loch,loch,OTHER,,,,LOCATION,lake,lake,lake,LOCATION
+i61j1noX0Kw,common bottlenose dolphin,55.0,0.5521422028541565,dolphin,/m/05c60tl,/m/02hj4,OTHER,,common bottlenose dolphin,common bottlenose dolphin,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,common bottlenose dolphin,56.0,0.435589998960495,dolphin,/m/05c60tl,/m/02hj4,OTHER,,common bottlenose dolphin,common bottlenose dolphin,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER
+i61j1noX0Kw,common bottlenose dolphin,57.0,0.4531393051147461,dolphin,/m/05c60tl,/m/02hj4,OTHER,,common bottlenose dolphin,common bottlenose dolphin,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species",,dolphin,dolphin,dolphin,dolphin,OTHER

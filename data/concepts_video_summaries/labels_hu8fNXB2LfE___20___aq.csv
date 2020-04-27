@@ -1,0 +1,466 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+hu8fNXB2LfE,professional,0.0,0.4079375267028809,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,player,1.0,0.4602225720882416,OTHER,/m/02vzx9,,player,player,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,facial expression,0.0,0.9372525811195374,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,facial expression,1.0,0.9368651509284972,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,facial expression,2.0,0.935534119606018,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,facial expression,3.0,0.9404553174972534,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,facial expression,4.0,0.94150310754776,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,mode of transport,0.0,0.8752563595771791,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,1.0,0.8752564787864685,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,2.0,0.8752561211585999,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,3.0,0.8752562999725342,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,4.0,0.8752559423446655,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mid size car,0.0,0.5482749938964844,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+hu8fNXB2LfE,mid size car,1.0,0.5431858301162721,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+hu8fNXB2LfE,mid size car,2.0,0.4861420691013336,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+hu8fNXB2LfE,tree,0.0,0.7349570393562317,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+hu8fNXB2LfE,tree,1.0,0.7750926613807678,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+hu8fNXB2LfE,tree,2.0,0.6682994961738586,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+hu8fNXB2LfE,tree,3.0,0.7298663258552551,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+hu8fNXB2LfE,tree,4.0,0.7569674253463745,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+hu8fNXB2LfE,smile,0.0,0.6995974779129028,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,smile,1.0,0.6314845085144043,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,smile,2.0,0.6380365490913391,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,smile,3.0,0.7394609451293945,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,smile,4.0,0.7771185636520386,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,leisure,0.0,0.42871642112731934,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hu8fNXB2LfE,leisure,1.0,0.4289941489696503,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hu8fNXB2LfE,newscaster,0.0,0.6659397482872009,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,1.0,0.622840166091919,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,2.0,0.6712037324905396,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,3.0,0.6743506193161011,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,4.0,0.6706333160400391,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,fun,0.0,0.5435640215873718,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,fun,1.0,0.5195145010948181,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,fun,2.0,0.5035434365272522,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,fun,3.0,0.5412697792053223,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,fun,4.0,0.6114520430564879,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,community,0.0,0.8103502988815308,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,community,1.0,0.8314609527587891,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,community,2.0,0.7766635417938232,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,community,3.0,0.78706294298172,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,community,4.0,0.8023343086242676,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,vacation,0.0,0.5544483661651611,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+hu8fNXB2LfE,vacation,1.0,0.5394749045372009,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+hu8fNXB2LfE,vacation,2.0,0.4937866926193237,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+hu8fNXB2LfE,vacation,3.0,0.5300800204277039,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+hu8fNXB2LfE,vacation,4.0,0.5652819275856018,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+hu8fNXB2LfE,plant,0.0,0.5955844521522522,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,plant,1.0,0.7055997848510742,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,plant,2.0,0.4894614219665527,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,plant,3.0,0.5707718729972839,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,plant,4.0,0.650362491607666,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,asphalt,1.0,0.4357173442840576,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,phenomenon,0.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,phenomenon,1.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,phenomenon,2.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,phenomenon,3.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,phenomenon,4.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,0.0,0.4153810739517212,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,2.0,0.41009941697120667,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,3.0,0.4150701463222504,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,4.0,0.4426949918270111,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,0.0,0.5623757243156433,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,1.0,0.536829948425293,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,2.0,0.6512166261672974,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,3.0,0.571317195892334,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,4.0,0.5800747275352478,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,advertising,0.0,0.6401185393333435,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hu8fNXB2LfE,advertising,1.0,0.6444494724273682,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hu8fNXB2LfE,advertising,2.0,0.5581403374671936,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hu8fNXB2LfE,advertising,3.0,0.5560604333877563,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hu8fNXB2LfE,advertising,4.0,0.6052099466323853,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+hu8fNXB2LfE,desk,12.0,0.6458165645599365,furniture,/m/01y9k5,/m/0c_jw,desk,desk,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,furniture,furniture,furniture,furniture,OTHER
+hu8fNXB2LfE,weapon,7.0,0.9815213084220886,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,weapon,8.0,0.9761427044868468,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,weapon,9.0,0.96267431974411,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,weapon,10.0,0.8908851742744446,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,shotgun,7.0,0.921331226825714,weapon,/m/06nrc,/m/083kb,shotgun,shotgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,shotgun,8.0,0.9601239562034608,weapon,/m/06nrc,/m/083kb,shotgun,shotgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,shotgun,9.0,0.943557858467102,weapon,/m/06nrc,/m/083kb,shotgun,shotgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,shotgun,10.0,0.8792086839675903,weapon,/m/06nrc,/m/083kb,shotgun,shotgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,chair,12.0,0.467451274394989,furniture,/m/01mzpv,/m/0c_jw,chair,chair,OTHER,,http://dbpedia.org/ontology/MusicalWork,,PERSON,furniture,furniture,furniture,furniture,OTHER
+hu8fNXB2LfE,shooting range,7.0,0.7579898834228516,"location, structure",/m/04l3lm,"/m/078x4m, /m/0n68_",shoot range,shoot range,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hu8fNXB2LfE,shooting range,10.0,0.5766158103942871,"location, structure",/m/04l3lm,"/m/078x4m, /m/0n68_",shoot range,shoot range,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,"location, structure","location, structure","location, structure",LOCATION
+hu8fNXB2LfE,display device,11.0,0.7976807951927185,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,display device,12.0,0.7414577007293701,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,window,9.0,0.4372664093971253,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+hu8fNXB2LfE,gun barrel,7.0,0.7088826894760132,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,gun barrel,8.0,0.7083907127380371,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,gun barrel,9.0,0.6998015642166138,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,gun barrel,10.0,0.5932905673980713,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,mode of transport,6.0,0.8752554059028625,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,7.0,0.8752563595771791,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,8.0,0.8752538561820984,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,9.0,0.8750796318054199,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,10.0,0.8747835755348206,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,mode of transport,11.0,0.8751180768013,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,audio equipment,11.0,0.4450996518135071,audio,/m/01yttv,/m/0h91fqv,audio equipment,audio equipment,OTHER,,,,,audio,audio,audio,audio,OTHER
+hu8fNXB2LfE,firearm,7.0,0.9243630170822144,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,firearm,8.0,0.9559916257858276,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,firearm,9.0,0.929035782814026,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,firearm,10.0,0.9191844463348388,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,brand,6.0,0.5154780149459839,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,brand,7.0,0.430112898349762,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,brand,9.0,0.40572163462638855,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,brand,10.0,0.4826395809650421,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,brand,11.0,0.5745638012886047,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,brand,12.0,0.5696906447410583,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,material,6.0,0.7418594360351562,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,material,7.0,0.5865397453308105,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,material,10.0,0.6494360566139221,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,material,11.0,0.6474496126174927,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,material,12.0,0.675412118434906,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,furniture,11.0,0.8297107219696045,OTHER,/m/0c_jw,,furniture,furniture,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,furniture,12.0,0.8333936929702759,OTHER,/m/0c_jw,,furniture,furniture,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product design,6.0,0.6207302212715149,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,product design,8.0,0.5987976789474487,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,product design,9.0,0.6248250603675842,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,product design,10.0,0.6477625966072083,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,product design,11.0,0.7056432962417603,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,product design,12.0,0.7150452136993408,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,line,6.0,0.6759539246559143,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+hu8fNXB2LfE,technology,11.0,0.9150006771087646,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,technology,12.0,0.8987097144126892,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,trigger,7.0,0.8677653670310974,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,trigger,8.0,0.9236093759536744,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,trigger,9.0,0.8428343534469604,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,trigger,10.0,0.6378931999206543,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,product,6.0,0.6002712845802307,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,7.0,0.4421985149383545,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,8.0,0.5788844227790833,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,9.0,0.5588441491127014,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,10.0,0.6892029047012329,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,11.0,0.6961807608604431,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,12.0,0.7353438735008241,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,gun,7.0,0.8420741558074951,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun,8.0,0.8852277398109436,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun,9.0,0.8066119551658629,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun,10.0,0.7903465032577515,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gadget,11.0,0.4016817510128021,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,automotive exterior,6.0,0.6096754670143127,OTHER,/m/0h8ls87,,automotive exterior,automotive exterior,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,automotive exterior,7.0,0.5432639718055725,OTHER,/m/0h8ls87,,automotive exterior,automotive exterior,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,automotive exterior,8.0,0.5187413692474365,OTHER,/m/0h8ls87,,automotive exterior,automotive exterior,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,automotive exterior,9.0,0.5228340625762941,OTHER,/m/0h8ls87,,automotive exterior,automotive exterior,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,text,6.0,0.7837297320365906,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,text,7.0,0.6714890599250793,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,text,8.0,0.5916640758514404,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,text,9.0,0.6577984094619751,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,text,10.0,0.6986624598503113,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,text,11.0,0.7506688833236694,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,text,12.0,0.7406215667724609,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,couch,11.0,0.5910530686378479,furniture,/m/02crq1,/m/0c_jw,couch,couch,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,furniture,furniture,furniture,furniture,OTHER
+hu8fNXB2LfE,couch,12.0,0.4786211252212525,furniture,/m/02crq1,/m/0c_jw,couch,couch,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,furniture,furniture,furniture,furniture,OTHER
+hu8fNXB2LfE,angle,12.0,0.5425416827201843,OTHER,/m/0mwc,,angle,angle,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,multimedia,11.0,0.7112544178962708,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,multimedia,12.0,0.7076973915100098,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,office equipment,6.0,0.4617095589637756,OTHER,/m/03qtgjk,,office equipment,office equipment,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,font,6.0,0.4377805292606354,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+hu8fNXB2LfE,font,9.0,0.465006411075592,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+hu8fNXB2LfE,font,10.0,0.4748287200927734,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+hu8fNXB2LfE,font,11.0,0.5420532822608948,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+hu8fNXB2LfE,font,12.0,0.5687558054924011,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+hu8fNXB2LfE,sniper rifle,7.0,0.4932308793067932,rifle,/m/02bb1s,/m/06c54,sniper rifle,sniper rifle,OTHER,,http://dbpedia.org/ontology/Weapon,,,rifle,rifle,rifle,rifle,OTHER
+hu8fNXB2LfE,rifle,7.0,0.7868608832359314,gun,/m/06c54,/m/032rk,rifle,rifle,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,rifle,8.0,0.692713737487793,gun,/m/06c54,/m/032rk,rifle,rifle,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,rifle,9.0,0.7692080140113831,gun,/m/06c54,/m/032rk,rifle,rifle,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,rifle,10.0,0.6708717942237854,gun,/m/06c54,/m/032rk,rifle,rifle,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,indoor games and sports,6.0,0.5600195527076721,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+hu8fNXB2LfE,air gun,7.0,0.6250057220458984,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,air gun,8.0,0.5743884444236755,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,air gun,9.0,0.4644710719585418,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,air gun,10.0,0.4760249257087708,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,glass,9.0,0.5151306390762329,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+hu8fNXB2LfE,glass,10.0,0.4061294496059418,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+hu8fNXB2LfE,glass,11.0,0.4726314544677734,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+hu8fNXB2LfE,glass,12.0,0.4378962516784668,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+hu8fNXB2LfE,3d modeling,11.0,0.4073819220066071,person,/m/02p30vv,/m/01g317,3d modeling,3d modeling,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,professional,26.0,0.825832724571228,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,weapon,27.0,0.9887487888336182,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,weapon,28.0,0.9887701869010924,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,weapon,29.0,0.9889453053474426,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,weapon,30.0,0.9859890937805176,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,weapon,31.0,0.984460949897766,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,weapon,32.0,0.9850953817367554,OTHER,/m/083kb,,weapon,weapon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,30.0,0.7619122862815857,person,/m/02n3pb,/m/01g317,product,product,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,product,31.0,0.7684029340744019,person,/m/02n3pb,/m/01g317,product,product,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,product,32.0,0.7659121751785278,person,/m/02n3pb,/m/01g317,product,product,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,handgun,27.0,0.9742664098739624,gun,/m/0gxl3,/m/032rk,handgun,handgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,handgun,28.0,0.9620419144630432,gun,/m/0gxl3,/m/032rk,handgun,handgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,handgun,29.0,0.9662675261497498,gun,/m/0gxl3,/m/032rk,handgun,handgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,handgun,30.0,0.9757468104362488,gun,/m/0gxl3,/m/032rk,handgun,handgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,handgun,31.0,0.975050687789917,gun,/m/0gxl3,/m/032rk,handgun,handgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,handgun,32.0,0.974351704120636,gun,/m/0gxl3,/m/032rk,handgun,handgun,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,hardware,30.0,0.5744539499282837,OTHER,/m/03qtgkw,,hardware,hardware,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,hardware,31.0,0.5758116245269775,OTHER,/m/03qtgkw,,hardware,hardware,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,hardware,32.0,0.560818076133728,OTHER,/m/03qtgkw,,hardware,hardware,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,spokesperson,26.0,0.7158405184745789,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,display device,26.0,0.6314299702644348,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,gun barrel,27.0,0.7119043469429016,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,gun barrel,28.0,0.7119070887565613,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,gun barrel,29.0,0.7119157910346985,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,gun barrel,30.0,0.7119078040122986,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,gun barrel,31.0,0.7118315100669861,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,gun barrel,32.0,0.7118205428123474,gun,/m/02zn54,/m/032rk,gun barrel,gun barrel,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,official,26.0,0.7775477766990662,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,speaker,26.0,0.4128596782684326,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,public relations,26.0,0.6315430998802185,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,entrepreneur,26.0,0.4876649975776672,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,tool,30.0,0.41477131843566895,OTHER,/m/07k1x,,tool,tool,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,firearm,27.0,0.976690411567688,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,firearm,28.0,0.977213740348816,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,firearm,29.0,0.977429449558258,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,firearm,30.0,0.9752107858657836,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,firearm,31.0,0.9760415554046632,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,firearm,32.0,0.9759457111358644,weapon,/m/034qg,/m/083kb,firearm,firearm,OTHER,,http://dbpedia.org/ontology/Weapon,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,brand,26.0,0.4053198397159576,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,company,26.0,0.4576510190963745,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,gun accessory,27.0,0.9425785541534424,weapon,/m/0h8kv5p,/m/083kb,gun accessory,gun accessory,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun accessory,28.0,0.9391581416130066,weapon,/m/0h8kv5p,/m/083kb,gun accessory,gun accessory,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun accessory,29.0,0.9407674074172974,weapon,/m/0h8kv5p,/m/083kb,gun accessory,gun accessory,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun accessory,30.0,0.9458497166633606,weapon,/m/0h8kv5p,/m/083kb,gun accessory,gun accessory,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun accessory,31.0,0.9458378553390504,weapon,/m/0h8kv5p,/m/083kb,gun accessory,gun accessory,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun accessory,32.0,0.9458248615264891,weapon,/m/0h8kv5p,/m/083kb,gun accessory,gun accessory,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,airsoft gun,27.0,0.4948369264602661,gun,/m/07b8yn,/m/032rk,airsoft gun,airsoft gun,OTHER,,http://dbpedia.org/ontology/Company,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,airsoft gun,28.0,0.5124245882034302,gun,/m/07b8yn,/m/032rk,airsoft gun,airsoft gun,OTHER,,http://dbpedia.org/ontology/Company,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,airsoft gun,29.0,0.4987407922744751,gun,/m/07b8yn,/m/032rk,airsoft gun,airsoft gun,OTHER,,http://dbpedia.org/ontology/Company,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,airsoft gun,30.0,0.4968573749065399,gun,/m/07b8yn,/m/032rk,airsoft gun,airsoft gun,OTHER,,http://dbpedia.org/ontology/Company,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,airsoft gun,31.0,0.4634133875370026,gun,/m/07b8yn,/m/032rk,airsoft gun,airsoft gun,OTHER,,http://dbpedia.org/ontology/Company,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,airsoft gun,32.0,0.4631055891513825,gun,/m/07b8yn,/m/032rk,airsoft gun,airsoft gun,OTHER,,http://dbpedia.org/ontology/Company,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,product design,30.0,0.6215503215789795,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,product design,31.0,0.6299155950546265,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,product design,32.0,0.6259418129920961,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+hu8fNXB2LfE,business,26.0,0.4437910318374634,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,technology,26.0,0.7979965209960938,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,ranged weapon,27.0,0.4681496024131775,weapon,/m/04hygk,/m/083kb,range weapon,range weapon,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ranged weapon,28.0,0.5746769309043884,weapon,/m/04hygk,/m/083kb,range weapon,range weapon,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ranged weapon,29.0,0.5817550420761108,weapon,/m/04hygk,/m/083kb,range weapon,range weapon,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ranged weapon,30.0,0.4112130701541901,weapon,/m/04hygk,/m/083kb,range weapon,range weapon,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ranged weapon,31.0,0.43743452429771423,weapon,/m/04hygk,/m/083kb,range weapon,range weapon,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ranged weapon,32.0,0.4427210092544556,weapon,/m/04hygk,/m/083kb,range weapon,range weapon,OTHER,,,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,investor,26.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,trigger,27.0,0.9431286454200744,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,trigger,28.0,0.9427998065948486,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,trigger,29.0,0.9428499341011048,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,trigger,30.0,0.9436845183372498,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,trigger,31.0,0.9437030553817748,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,trigger,32.0,0.9436028599739076,gun,/m/0cdn2d,/m/032rk,trigger,trigger,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,newsreader,26.0,0.7484115362167358,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,product,27.0,0.6432491540908813,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,28.0,0.6113569736480713,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,29.0,0.603962779045105,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,30.0,0.7860298156738281,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,31.0,0.7833627462387085,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,product,32.0,0.7806288003921509,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,gun,27.0,0.9654347896575928,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun,28.0,0.9672760367393494,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun,29.0,0.9659101366996764,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun,30.0,0.9700202345848083,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun,31.0,0.9733789563179016,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,gun,32.0,0.9738051295280457,weapon,/m/032rk,/m/083kb,gun,gun,OTHER,,,,PERSON,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,newscaster,26.0,0.9062867164611816,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,energy,26.0,0.4357035458087921,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news conference,26.0,0.7176578044891357,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+hu8fNXB2LfE,speech,26.0,0.6226975917816162,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,journalist,26.0,0.822645366191864,professional,/m/0d8qb,/m/01qkbx,journalist,journalist,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+hu8fNXB2LfE,profession,26.0,0.8417589664459229,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,font,30.0,0.5048168897628784,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+hu8fNXB2LfE,font,31.0,0.4950772821903229,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+hu8fNXB2LfE,font,32.0,0.4959520101547241,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+hu8fNXB2LfE,ammunition,27.0,0.8113530874252319,weapon,/m/014tl,/m/083kb,ammunition,ammunition,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ammunition,28.0,0.7594748735427856,weapon,/m/014tl,/m/083kb,ammunition,ammunition,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ammunition,29.0,0.790108323097229,weapon,/m/014tl,/m/083kb,ammunition,ammunition,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ammunition,30.0,0.8085588216781616,weapon,/m/014tl,/m/083kb,ammunition,ammunition,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ammunition,31.0,0.7933573722839355,weapon,/m/014tl,/m/083kb,ammunition,ammunition,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,ammunition,32.0,0.7778387069702148,weapon,/m/014tl,/m/083kb,ammunition,ammunition,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,airsoft,27.0,0.5294407010078429,shooting,/m/0179ss,/m/071rm,airsoft,airsoft,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,airsoft,28.0,0.5520657896995544,shooting,/m/0179ss,/m/071rm,airsoft,airsoft,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,airsoft,29.0,0.5455700159072876,shooting,/m/0179ss,/m/071rm,airsoft,airsoft,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,airsoft,30.0,0.529559314250946,shooting,/m/0179ss,/m/071rm,airsoft,airsoft,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,airsoft,31.0,0.5191553235054016,shooting,/m/0179ss,/m/071rm,airsoft,airsoft,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,airsoft,32.0,0.5149024128913879,shooting,/m/0179ss,/m/071rm,airsoft,airsoft,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,handgun holster,27.0,0.7165422439575195,weapon,/m/052rln,/m/083kb,handgun holster,handgun holster,OTHER,,http://dbpedia.org/ontology/Device,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,handgun holster,28.0,0.4163551926612854,weapon,/m/052rln,/m/083kb,handgun holster,handgun holster,OTHER,,http://dbpedia.org/ontology/Device,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,handgun holster,29.0,0.5783951282501221,weapon,/m/052rln,/m/083kb,handgun holster,handgun holster,OTHER,,http://dbpedia.org/ontology/Device,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,handgun holster,30.0,0.9157670140266418,weapon,/m/052rln,/m/083kb,handgun holster,handgun holster,OTHER,,http://dbpedia.org/ontology/Device,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,handgun holster,31.0,0.9176111221313475,weapon,/m/052rln,/m/083kb,handgun holster,handgun holster,OTHER,,http://dbpedia.org/ontology/Device,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,handgun holster,32.0,0.9173839688301086,weapon,/m/052rln,/m/083kb,handgun holster,handgun holster,OTHER,,http://dbpedia.org/ontology/Device,,,weapon,weapon,weapon,weapon,OTHER
+hu8fNXB2LfE,media,26.0,0.5345072746276855,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,26.0,0.6875672340393066,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,shooting sport,30.0,0.4524988234043121,shooting,/m/071t0,/m/071rm,shoot sport,shoot sport,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,shooting sport,31.0,0.45749431848526,shooting,/m/071t0,/m/071rm,shoot sport,shoot sport,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,shooting sport,32.0,0.4503853619098663,shooting,/m/071t0,/m/071rm,shoot sport,shoot sport,OTHER,,http://dbpedia.org/ontology/Sport,,,shooting,shooting,EVENT,shooting,EVENT
+hu8fNXB2LfE,air gun,27.0,0.6875910758972168,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,air gun,28.0,0.7012945413589478,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,air gun,29.0,0.6883922219276428,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,air gun,30.0,0.6944282054901123,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,air gun,31.0,0.6710169911384583,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,air gun,32.0,0.6765130758285522,gun,/m/012fyw,/m/032rk,air gun,air gun,OTHER,,,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,television presenter,26.0,0.4340548813343048,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+hu8fNXB2LfE,expert,26.0,0.4986111521720886,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,revolver,27.0,0.4276776015758513,gun,/m/06fk8,/m/032rk,revolver,revolver,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,revolver,28.0,0.4014467000961304,gun,/m/06fk8,/m/032rk,revolver,revolver,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,revolver,30.0,0.4013407230377197,gun,/m/06fk8,/m/032rk,revolver,revolver,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,revolver,31.0,0.4581835865974426,gun,/m/06fk8,/m/032rk,revolver,revolver,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,revolver,32.0,0.4345971345901489,gun,/m/06fk8,/m/032rk,revolver,revolver,OTHER,,http://dbpedia.org/ontology/Weapon,,,gun,gun,gun,gun,OTHER
+hu8fNXB2LfE,professional,40.0,0.7874500751495361,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,professional,41.0,0.8238416314125061,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,professional,42.0,0.8305336833000183,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,professional,43.0,0.8123573660850525,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,professional,44.0,0.8355001211166382,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,professional,45.0,0.8341290950775146,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,professional,46.0,0.7934348583221436,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,trade,41.0,0.4026368260383606,OTHER,/m/07br0,,trade,trade,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,trade,42.0,0.4107330739498137,OTHER,/m/07br0,,trade,trade,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,trade,43.0,0.426829993724823,OTHER,/m/07br0,,trade,trade,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,trade,44.0,0.4185963571071625,OTHER,/m/07br0,,trade,trade,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,trade,45.0,0.4137687981128693,OTHER,/m/07br0,,trade,trade,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,trade,46.0,0.4013564884662628,OTHER,/m/07br0,,trade,trade,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,spokesperson,40.0,0.602655291557312,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,spokesperson,41.0,0.7372719645500183,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,spokesperson,42.0,0.7173967957496643,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,spokesperson,43.0,0.7429586052894592,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,spokesperson,44.0,0.7512359023094177,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,spokesperson,45.0,0.726714015007019,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,spokesperson,46.0,0.6335074305534363,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,display device,40.0,0.6276911497116089,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,display device,41.0,0.6464127898216248,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,display device,42.0,0.6116216778755188,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,display device,43.0,0.4956151843070984,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,display device,44.0,0.5926503539085388,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,display device,45.0,0.6266880631446838,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,display device,46.0,0.6027586460113525,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+hu8fNXB2LfE,official,40.0,0.6823075413703918,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,official,41.0,0.7450592517852783,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,official,42.0,0.7234369516372681,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,official,43.0,0.6755853891372681,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,official,44.0,0.6911135911941528,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,official,45.0,0.6927006244659424,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,official,46.0,0.7550402879714966,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,speaker,41.0,0.4055955111980438,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,speaker,42.0,0.4450348317623137,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,speaker,43.0,0.433146059513092,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,speaker,44.0,0.4452638030052185,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,speaker,45.0,0.42598408460617065,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,speaker,46.0,0.4128662049770355,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,public relations,40.0,0.6330825686454773,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,public relations,41.0,0.6324823498725891,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,public relations,42.0,0.6356028914451599,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,public relations,43.0,0.6611692309379578,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,public relations,44.0,0.650118887424469,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,public relations,45.0,0.6583802700042725,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,public relations,46.0,0.628585696220398,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+hu8fNXB2LfE,entrepreneur,40.0,0.5018612742424011,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,entrepreneur,41.0,0.5077075958251953,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,entrepreneur,42.0,0.4889850318431854,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,entrepreneur,43.0,0.5756461024284363,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,entrepreneur,44.0,0.5515862703323364,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,entrepreneur,45.0,0.5492115616798401,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,entrepreneur,46.0,0.5427773594856262,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,brand,45.0,0.40098679065704346,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,company,40.0,0.457228809595108,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,company,41.0,0.4507293403148651,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,company,42.0,0.4579271972179413,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,company,43.0,0.477063000202179,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,company,44.0,0.4685303568840027,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,company,45.0,0.4630856812000274,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,company,46.0,0.4666046500205994,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,business,41.0,0.4134398400783539,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,business,42.0,0.4636719524860382,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,business,43.0,0.5191202759742737,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,business,44.0,0.4994406402111054,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,business,45.0,0.4624094665050506,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,business,46.0,0.4316047430038452,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+hu8fNXB2LfE,technology,40.0,0.7603358626365662,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,technology,41.0,0.8582106232643127,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,technology,42.0,0.8563029170036316,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,technology,43.0,0.8253093957901001,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,technology,44.0,0.8452695608139038,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,technology,45.0,0.8587129712104797,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,technology,46.0,0.8284193873405457,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,investor,40.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,investor,41.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,investor,42.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,investor,43.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,investor,44.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,investor,45.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,investor,46.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newsreader,40.0,0.794951319694519,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newsreader,41.0,0.8367381691932678,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newsreader,42.0,0.7965559959411621,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newsreader,43.0,0.8509894609451294,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newsreader,44.0,0.8268452286720276,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newsreader,45.0,0.8409445285797119,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newsreader,46.0,0.7807475328445435,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,40.0,0.8971865773200989,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,41.0,0.9136909246444702,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,42.0,0.9074106216430664,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,43.0,0.8811705708503723,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,44.0,0.9046210646629332,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,45.0,0.9152988195419312,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,newscaster,46.0,0.8838692903518677,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,energy,40.0,0.42375582456588745,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,energy,41.0,0.450880378484726,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,energy,42.0,0.4288783669471741,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,energy,43.0,0.4869047701358795,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,energy,44.0,0.4578779637813568,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,energy,45.0,0.4551990330219269,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,energy,46.0,0.4841447770595551,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news conference,40.0,0.5100823640823364,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+hu8fNXB2LfE,news conference,41.0,0.7239313721656799,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+hu8fNXB2LfE,news conference,42.0,0.7287229895591736,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+hu8fNXB2LfE,news conference,43.0,0.5652048587799072,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+hu8fNXB2LfE,news conference,44.0,0.6668445467948914,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+hu8fNXB2LfE,news conference,45.0,0.6011139750480652,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+hu8fNXB2LfE,news conference,46.0,0.591661810874939,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+hu8fNXB2LfE,speech,40.0,0.4474495351314545,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,speech,41.0,0.660284161567688,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,speech,42.0,0.5816577076911926,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,speech,43.0,0.5614289045333862,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,speech,44.0,0.5678126811981201,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,speech,45.0,0.5387614965438843,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,speech,46.0,0.5969840288162231,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+hu8fNXB2LfE,journalist,40.0,0.8479837775230408,professional,/m/0d8qb,/m/01qkbx,journalist,journalist,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+hu8fNXB2LfE,journalist,41.0,0.8504034876823425,professional,/m/0d8qb,/m/01qkbx,journalist,journalist,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+hu8fNXB2LfE,journalist,42.0,0.8345542550086975,professional,/m/0d8qb,/m/01qkbx,journalist,journalist,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+hu8fNXB2LfE,journalist,43.0,0.8208639621734619,professional,/m/0d8qb,/m/01qkbx,journalist,journalist,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+hu8fNXB2LfE,journalist,44.0,0.8300293087959291,professional,/m/0d8qb,/m/01qkbx,journalist,journalist,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+hu8fNXB2LfE,journalist,45.0,0.8439249396324158,professional,/m/0d8qb,/m/01qkbx,journalist,journalist,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+hu8fNXB2LfE,journalist,46.0,0.8261565566062927,professional,/m/0d8qb,/m/01qkbx,journalist,journalist,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,professional,PERSON,professional,professional,PERSON
+hu8fNXB2LfE,profession,40.0,0.7864882946014404,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,profession,41.0,0.8455491662025452,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,profession,42.0,0.8364357352256775,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,profession,43.0,0.7686463594436646,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,profession,44.0,0.8223108649253845,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,profession,45.0,0.8253060579299927,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,profession,46.0,0.7930999994277954,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+hu8fNXB2LfE,media,40.0,0.5850579142570496,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,41.0,0.5716699361801147,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,42.0,0.5374367237091064,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,43.0,0.5152382254600525,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,44.0,0.5418420433998108,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,45.0,0.5604092478752136,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,media,46.0,0.4869972467422485,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,40.0,0.7525638937950134,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,41.0,0.7164921164512634,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,42.0,0.6831968426704407,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,43.0,0.6699481606483461,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,44.0,0.6997665166854858,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,45.0,0.7172234654426575,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,news,46.0,0.7091338634490967,OTHER,/m/05jhg,,news,news,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+hu8fNXB2LfE,television presenter,40.0,0.5201051831245422,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+hu8fNXB2LfE,television presenter,41.0,0.5577709674835205,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+hu8fNXB2LfE,television presenter,42.0,0.4899004101753235,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+hu8fNXB2LfE,television presenter,43.0,0.575173556804657,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+hu8fNXB2LfE,television presenter,44.0,0.5093453526496887,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+hu8fNXB2LfE,television presenter,45.0,0.5440094470977783,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+hu8fNXB2LfE,television presenter,46.0,0.468799889087677,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+hu8fNXB2LfE,expert,40.0,0.5023511648178101,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,expert,41.0,0.4997042715549469,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,expert,42.0,0.490526556968689,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,expert,43.0,0.516469419002533,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,expert,44.0,0.5064528584480286,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,expert,45.0,0.5076625943183899,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,expert,46.0,0.5101392865180969,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+hu8fNXB2LfE,television,41.0,0.4232994019985199,media,/m/07c52,/m/03qh03g,television,television,OTHER,,,,,media,media,media,media,OTHER

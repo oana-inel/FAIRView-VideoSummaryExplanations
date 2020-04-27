@@ -1,0 +1,5 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+Jor9b84cQDQ,Chicago,LOCATION,/m/01_d4,https://en.wikipedia.org/wiki/Chicago,Chicago,334,0.10000000149011612,-0.10000000149011612,PROPER,0.025292180478572845,0.20000000298023224,-0.10000000149011612,Chicago,chicago,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+Jor9b84cQDQ,home,LOCATION,,,home,489,0.10000000149011612,-0.10000000149011612,COMMON,0.00811193510890007,0.10000000149011612,-0.10000000149011612,home,home,,,,,"LOCATION, ORGANIZATION",LOCATION,LOCATION,LOCATION
+Jor9b84cQDQ,Highland Park,LOCATION,,,Highland Park,344,0.0,0.0,PROPER,0.003108172444626689,0.0,0.0,Highland Park,highland park,,,,,,LOCATION,LOCATION,LOCATION
+Jor9b84cQDQ,The Auction Block,WORK_OF_ART,,,The Auction Block,366,0.0,0.0,PROPER,0.003108172444626689,0.0,0.0,The Auction Block,the auction block,,,,,,WORK_OF_ART,WORK_OF_ART,EVENT

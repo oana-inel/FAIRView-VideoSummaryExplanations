@@ -1,0 +1,154 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+nwx96e7qck0,laptop,2.0,0.5964715480804443,computer,/m/01c648,/m/01m3v,laptop,laptop,OTHER,,http://dbpedia.org/ontology/InformationAppliance,,,computer,computer,computer,computer,OTHER
+nwx96e7qck0,conversation,3.0,0.5318378806114197,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+nwx96e7qck0,conversation,4.0,0.5573689341545105,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+nwx96e7qck0,conversation,5.0,0.4653373956680298,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+nwx96e7qck0,conversation,6.0,0.549244225025177,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+nwx96e7qck0,communication,3.0,0.5551109910011292,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+nwx96e7qck0,communication,4.0,0.5932493209838867,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+nwx96e7qck0,communication,6.0,0.5970604419708252,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+nwx96e7qck0,expert,3.0,0.4243338108062744,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,expert,4.0,0.4141931533813477,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,expert,5.0,0.4121839106082916,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,expert,6.0,0.412623941898346,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,student,3.0,0.578533411026001,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,student,4.0,0.5865278840065002,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,student,5.0,0.5490536093711853,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,student,6.0,0.5574471354484558,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,eyewear,3.0,0.7719630002975464,OTHER,/m/0j272k5,,eyewear,eyewear,OTHER,,"http://dbpedia.org/ontology/TopicalConcept, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept, http://dbpedia.org/ontology/Fashion",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,eyewear,4.0,0.8425096869468689,OTHER,/m/0j272k5,,eyewear,eyewear,OTHER,,"http://dbpedia.org/ontology/TopicalConcept, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept, http://dbpedia.org/ontology/Fashion",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,eyewear,5.0,0.8422538638114929,OTHER,/m/0j272k5,,eyewear,eyewear,OTHER,,"http://dbpedia.org/ontology/TopicalConcept, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept, http://dbpedia.org/ontology/Fashion",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,eyewear,6.0,0.8056163191795349,OTHER,/m/0j272k5,,eyewear,eyewear,OTHER,,"http://dbpedia.org/ontology/TopicalConcept, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept, http://dbpedia.org/ontology/Fashion",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,chin,3.0,0.8448824882507324,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,chin,4.0,0.8314176797866821,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,chin,5.0,0.8295938372612,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,chin,6.0,0.8359680771827698,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,electronics,2.0,0.4641583263874054,technology,/m/02mrp,/m/07c1v,electronics,electronics,OTHER,,http://dbpedia.org/ontology/Work,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,fun,3.0,0.5654874444007874,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,fun,4.0,0.5155526399612427,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,fun,5.0,0.4985544383525848,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,fun,6.0,0.5246616601943971,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,multimedia,2.0,0.5001586675643921,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,human behavior,4.0,0.41034549474716187,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+nwx96e7qck0,human behavior,6.0,0.4344897568225861,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+nwx96e7qck0,gadget,2.0,0.602119505405426,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,professional,3.0,0.6158233284950256,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,professional,4.0,0.558704137802124,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,professional,5.0,0.6208546757698059,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,professional,6.0,0.6097607016563416,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,public relations,3.0,0.4844125509262085,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+nwx96e7qck0,public relations,4.0,0.5071804523468018,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+nwx96e7qck0,public relations,5.0,0.4770221412181854,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+nwx96e7qck0,public relations,6.0,0.5115783214569092,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+nwx96e7qck0,technology,2.0,0.8672189712524414,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,display device,2.0,0.5057744979858398,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,glasses,3.0,0.8223982453346252,OTHER,/m/0jyfg,,glass,glass,OTHER,,http://dbpedia.org/ontology/Device,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,glasses,4.0,0.8731029033660889,OTHER,/m/0jyfg,,glass,glass,OTHER,,http://dbpedia.org/ontology/Device,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,glasses,5.0,0.8616725206375122,OTHER,/m/0jyfg,,glass,glass,OTHER,,http://dbpedia.org/ontology/Device,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,glasses,6.0,0.8394833207130432,OTHER,/m/0jyfg,,glass,glass,OTHER,,http://dbpedia.org/ontology/Device,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,product,2.0,0.42893385887146,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,product,3.0,0.5478447079658508,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,product,4.0,0.5199686884880066,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,product,5.0,0.4988846480846405,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,personal computer,2.0,0.6406751275062561,computer,/m/0643t,/m/01m3v,personal computer,personal computer,OTHER,,http://dbpedia.org/ontology/InformationAppliance,,,computer,computer,computer,computer,OTHER
+nwx96e7qck0,electronic device,2.0,0.9069775938987732,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,vision care,3.0,0.7487180233001709,OTHER,/m/0h8jxfl,,vision care,vision care,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,vision care,4.0,0.7848343849182129,OTHER,/m/0h8jxfl,,vision care,vision care,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,vision care,5.0,0.7712834477424622,OTHER,/m/0h8jxfl,,vision care,vision care,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,vision care,6.0,0.7529466152191162,OTHER,/m/0h8jxfl,,vision care,vision care,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,conversation,44.0,0.561987042427063,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+nwx96e7qck0,communication,44.0,0.5894489288330078,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+nwx96e7qck0,laser,46.0,0.4230901300907135,technology,/m/04gh1,/m/07c1v,laser,laser,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,laser,47.0,0.4293779134750366,technology,/m/04gh1,/m/07c1v,laser,laser,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,sunglasses,44.0,0.6667019724845886,OTHER,/m/017ftj,,sunglass,sunglass,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,student,44.0,0.4497713148593903,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,ear,44.0,0.5236154198646545,organ,/m/039xj_,/m/013y0j,ear,ear,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,organ,OTHER,organ,organ,OTHER
+nwx96e7qck0,font,50.0,0.4812649786472321,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+nwx96e7qck0,night,45.0,0.5523396134376526,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,night,46.0,0.5125046372413635,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,night,47.0,0.516864001750946,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,night,48.0,0.4734438061714173,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,night,49.0,0.5249860286712646,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,night,50.0,0.5107768177986145,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,square,45.0,0.453566312789917,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+nwx96e7qck0,square,46.0,0.4408798813819885,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+nwx96e7qck0,square,48.0,0.40732792019844055,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+nwx96e7qck0,square,49.0,0.443646103143692,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+nwx96e7qck0,square,50.0,0.41043972969055176,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+nwx96e7qck0,neck,44.0,0.438591867685318,human body,/m/0dzd8,/m/02p0tk3,neck,neck,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,human body,OTHER,human body,human body,OTHER
+nwx96e7qck0,eyewear,44.0,0.8920653462409973,OTHER,/m/0j272k5,,eyewear,eyewear,OTHER,,"http://dbpedia.org/ontology/TopicalConcept, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept, http://dbpedia.org/ontology/Fashion",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,darkness,45.0,0.6346442103385925,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,darkness,46.0,0.6396644711494446,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,darkness,47.0,0.6349892020225525,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,darkness,48.0,0.5770541429519653,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,darkness,49.0,0.6157600283622742,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,darkness,50.0,0.5933380722999573,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,chin,44.0,0.8126795887947083,OTHER,/m/0f9swq,,chin,chin,LOCATION,,"http://dbpedia.org/ontology/AnatomicalStructure, http://dbpedia.org/ontology/Place",,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,light,45.0,0.845402717590332,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,light,46.0,0.8470677137374878,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,light,47.0,0.8437529802322388,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,light,48.0,0.8446717262268066,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,light,49.0,0.8494689464569092,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,light,50.0,0.839264452457428,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,magenta,45.0,0.5341819524765015,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,magenta,46.0,0.5675297975540161,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,magenta,47.0,0.5917166471481323,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,magenta,48.0,0.5334373712539673,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,magenta,49.0,0.5208006501197815,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,magenta,50.0,0.5040276646614075,OTHER,/m/0ckc5,,magenta,magenta,OTHER,,http://dbpedia.org/ontology/Colour,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,fun,44.0,0.6269075274467468,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,space,45.0,0.5048426985740662,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,space,46.0,0.5020294189453125,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,space,47.0,0.5074222087860107,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,space,48.0,0.4949741661548615,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,space,49.0,0.4908957779407501,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,space,50.0,0.4918325245380402,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,multimedia,48.0,0.4660555720329285,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,human behavior,44.0,0.4870842397212982,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+nwx96e7qck0,gadget,45.0,0.5288749933242798,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,gadget,46.0,0.6947223544120789,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,gadget,47.0,0.7538595199584961,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,gadget,48.0,0.8532055020332336,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,gadget,49.0,0.6890926957130432,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,gadget,50.0,0.6556707620620728,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,professional,44.0,0.46901005506515503,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+nwx96e7qck0,technology,45.0,0.7118105888366699,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,technology,46.0,0.746354341506958,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,technology,47.0,0.7735127210617065,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,technology,48.0,0.8022361397743225,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,technology,49.0,0.7586907744407654,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,technology,50.0,0.7841172814369202,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,display device,45.0,0.5073533058166504,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,display device,46.0,0.5286476016044617,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,display device,47.0,0.5286352038383484,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,display device,48.0,0.5944350361824036,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,display device,49.0,0.5537106990814209,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,display device,50.0,0.5895874500274658,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,glasses,44.0,0.8842806816101074,OTHER,/m/0jyfg,,glass,glass,OTHER,,http://dbpedia.org/ontology/Device,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,text,45.0,0.7194097638130188,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,text,46.0,0.7094331383705139,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,text,47.0,0.7232822179794312,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,text,48.0,0.6958845853805542,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,text,49.0,0.7132357358932495,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,text,50.0,0.7991592884063721,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,smile,44.0,0.4116892218589783,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+nwx96e7qck0,neon,45.0,0.4331176280975342,OTHER,/m/025s4r0,,neon,neon,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,neon,46.0,0.4981500804424286,OTHER,/m/025s4r0,,neon,neon,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,neon,47.0,0.5423264503479004,OTHER,/m/025s4r0,,neon,neon,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,neon,48.0,0.5077546834945679,OTHER,/m/025s4r0,,neon,neon,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,neon,49.0,0.5105806589126587,OTHER,/m/025s4r0,,neon,neon,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,neon,50.0,0.5516965985298157,OTHER,/m/025s4r0,,neon,neon,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,computer wallpaper,45.0,0.4857406616210938,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+nwx96e7qck0,computer wallpaper,46.0,0.4808653593063354,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+nwx96e7qck0,computer wallpaper,47.0,0.4786337018013001,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+nwx96e7qck0,computer wallpaper,48.0,0.472544938325882,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+nwx96e7qck0,computer wallpaper,49.0,0.4668802320957184,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+nwx96e7qck0,computer wallpaper,50.0,0.4804306328296661,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+nwx96e7qck0,electronic device,48.0,0.539237380027771,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+nwx96e7qck0,vision care,44.0,0.8049666285514832,OTHER,/m/0h8jxfl,,vision care,vision care,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,midnight,45.0,0.4782620966434479,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,midnight,46.0,0.4866721928119659,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,midnight,47.0,0.4928601384162903,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,midnight,48.0,0.4443360865116121,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,midnight,49.0,0.4729228615760803,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+nwx96e7qck0,midnight,50.0,0.467598021030426,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER

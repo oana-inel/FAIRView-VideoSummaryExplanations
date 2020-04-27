@@ -1,0 +1,8 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+-L6miYnJCVI,Reggie Bush Arab Academy Award,OTHER,,,Reggie Bush Arab Academy Award,0,0.0,0.0,PROPER,0.02296445146203041,0.0,0.0,Reggie Bush Arab Academy Award,reggie bush arab academy award,OTHER,OTHER,,OTHER,,OTHER,OTHER,OTHER
+-L6miYnJCVI,synopsis,WORK_OF_ART,,,synopsis,1245,0.0,0.0,COMMON,0.010056921280920506,0.20000000298023224,0.0,synopsis,synopsis,OTHER,ORGANIZATION,,"MusicAlbum, Thing, VisualArtwork, Organization",,WORK_OF_ART,WORK_OF_ART,EVENT
+-L6miYnJCVI,film,WORK_OF_ART,,,film,1219,0.0,0.0,COMMON,0.004396365024149418,0.0,0.0,film,film,OTHER,OTHER,http://dbpedia.org/ontology/TelevisionShow,OTHER,,WORK_OF_ART,WORK_OF_ART,EVENT
+-L6miYnJCVI,film,WORK_OF_ART,,,film,1263,0.0,0.0,COMMON,0.004396365024149418,0.0,0.0,film,film,OTHER,OTHER,http://dbpedia.org/ontology/TelevisionShow,OTHER,,WORK_OF_ART,WORK_OF_ART,EVENT
+-L6miYnJCVI,pages,OTHER,,,pages,1280,0.0,0.0,COMMON,0.0032798007596284147,0.0,0.0,page,page,OTHER,OTHER,,"MusicAlbum, MusicGroup, Thing",PERSON,OTHER,OTHER,OTHER
+-L6miYnJCVI,hand,OTHER,,,hand,1187,0.0,0.0,COMMON,0.0014396661426872015,0.0,0.0,hand,hand,OTHER,OTHER,http://dbpedia.org/ontology/AnatomicalStructure,OTHER,"PERSON, LOCATION, ORGANIZATION",OTHER,OTHER,OTHER
+-L6miYnJCVI,vision,OTHER,,,vision,1205,0.0,0.0,COMMON,0.0014379778876900673,0.0,0.0,vision,vision,OTHER,ORGANIZATION,,"Thing, Organization",EVENT,OTHER,OTHER,OTHER

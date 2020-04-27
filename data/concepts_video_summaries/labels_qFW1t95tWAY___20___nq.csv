@@ -1,0 +1,429 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+qFW1t95tWAY,car,13.0,0.9821196794509888,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+qFW1t95tWAY,performance,14.0,0.4331887364387512,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+qFW1t95tWAY,windshield,13.0,0.5533658266067505,"glass, window",/m/01lrnl,"/m/039jq, /m/0d4v4",windshield,windshield,OTHER,,http://dbpedia.org/ontology/Company,,,"glass, window","glass, window","glass, window","glass, window",OTHER
+qFW1t95tWAY,display device,14.0,0.4128760993480681,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+qFW1t95tWAY,display device,15.0,0.4668897688388825,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+qFW1t95tWAY,atmosphere of earth,14.0,0.8099378943443298,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,atmosphere of earth,15.0,0.7916560769081116,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,family car,13.0,0.8971228599548341,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+qFW1t95tWAY,brand,13.0,0.4118560254573822,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,stage,14.0,0.5601591467857361,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+qFW1t95tWAY,rear view mirror,13.0,0.4163772165775299,OTHER,/m/05j11x,,rear view mirror,rear view mirror,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,night,14.0,0.5478481054306029,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,night,15.0,0.537340521812439,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,night,16.0,0.4860301315784454,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,13.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,14.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,15.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,16.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,mode of transport,13.0,0.8752565383911133,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,mode of transport,14.0,0.8752319812774658,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,mode of transport,15.0,0.8749861717224121,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,mode of transport,16.0,0.875099778175354,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,14.0,0.5288233757019043,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,15.0,0.5288514494895935,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,16.0,0.4934932887554169,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,black and white,14.0,0.6100659370422363,style,/m/01g6gs,/m/012yh1,black and white,black and white,OTHER,,,,,style,style,style,style,OTHER
+qFW1t95tWAY,midnight,14.0,0.5863432884216309,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,midnight,15.0,0.5900023579597473,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,midnight,16.0,0.5690854787826538,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,text,14.0,0.7491528391838074,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,text,15.0,0.7485026717185974,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,light,14.0,0.8340792059898376,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,technology,14.0,0.5814586281776428,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,technology,16.0,0.5962076783180237,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,energy,14.0,0.4139660596847534,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,energy,15.0,0.4529029130935669,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,energy,16.0,0.4364536702632904,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,luxury vehicle,13.0,0.7951770424842834,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+qFW1t95tWAY,automotive window part,13.0,0.4948301613330841,OTHER,/m/0h8lhq_,,automotive window part,automotive window part,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,film,13.0,0.41909492015838623,entertainment,/m/02vxn,/m/02jjt,film,film,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,entertainment,entertainment,EVENT,entertainment,EVENT
+qFW1t95tWAY,city car,13.0,0.6293755769729614,car,/m/0369ss,/m/0k4j,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,,car,car,car,car,OTHER
+qFW1t95tWAY,automotive design,13.0,0.8549599051475525,OTHER,/m/068mqj,,automotive design,automotive design,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,square,14.0,0.6120873093605042,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+qFW1t95tWAY,square,15.0,0.6172952055931091,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+qFW1t95tWAY,square,16.0,0.5038092732429504,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+qFW1t95tWAY,driving,13.0,0.4782509505748749,OTHER,/m/0kw6d,,drive,drive,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+qFW1t95tWAY,vehicle,13.0,0.8806055188179016,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,black,14.0,0.9585647583007812,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,black,15.0,0.9569212198257446,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,black,16.0,0.9539434313774108,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,compact car,13.0,0.5542100667953491,car,/m/02swz_,/m/0k4j,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+qFW1t95tWAY,atmosphere,14.0,0.918631374835968,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,15.0,0.9040987491607666,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,16.0,0.8835457563400269,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,visual effects,14.0,0.5105140209197998,person,/m/01vx2h,/m/01g317,visual effect,visual effect,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,person,person,person,person,OTHER
+qFW1t95tWAY,visual effects,15.0,0.5446928143501282,person,/m/01vx2h,/m/01g317,visual effect,visual effect,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,person,person,person,person,OTHER
+qFW1t95tWAY,visual effects,16.0,0.4962192177772522,person,/m/01vx2h,/m/01g317,visual effect,visual effect,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,person,person,person,person,OTHER
+qFW1t95tWAY,executive car,13.0,0.4268925189971924,car,/m/0crtnw,/m/0k4j,executive car,executive car,OTHER,,,,,car,car,car,car,OTHER
+qFW1t95tWAY,automotive mirror,13.0,0.4177953004837036,OTHER,/m/0h8lk4b,,automotive mirror,automotive mirror,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,fun,13.0,0.6308044195175171,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,coupé,13.0,0.4243116974830627,car,/m/01d1dj,/m/0k4j,coupé,coupé,OTHER,,,,,car,car,car,car,OTHER
+qFW1t95tWAY,smile,13.0,0.400973379611969,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+qFW1t95tWAY,screenshot,14.0,0.4259525835514069,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,screenshot,15.0,0.4467600584030152,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,screenshot,16.0,0.4331894516944885,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,auto show,13.0,0.5842416286468506,car,/m/03y_qy,/m/0k4j,auto show,auto show,OTHER,,http://dbpedia.org/ontology/Convention,,,car,car,EVENT,car,EVENT
+qFW1t95tWAY,vehicle registration plate,13.0,0.4052368104457855,OTHER,/m/01jfm_,,vehicle registration plate,vehicle registration plate,OTHER,,http://dbpedia.org/ontology/Band,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,line,14.0,0.6655496954917908,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+qFW1t95tWAY,line,15.0,0.6586024761199951,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+qFW1t95tWAY,lens flare,14.0,0.4523932039737701,OTHER,/m/017bm6,,lens flare,lens flare,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,lens flare,15.0,0.5001869201660156,OTHER,/m/017bm6,,lens flare,lens flare,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,lens flare,16.0,0.4549665153026581,OTHER,/m/017bm6,,lens flare,lens flare,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,motor vehicle,13.0,0.8629029393196106,vehicle,/m/012f08,/m/07yv9,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,vehicle,vehicle,vehicle,vehicle,OTHER
+qFW1t95tWAY,lighting,14.0,0.7287325263023376,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+qFW1t95tWAY,snapshot,14.0,0.8176745176315308,"photography, photograph",/m/06pg22,"/m/05wkw, /m/068jd",snapshot,snapshot,OTHER,,,,,"photography, photograph","photography, photograph","photography, photograph","photography, photograph",OTHER
+qFW1t95tWAY,sky,14.0,0.6201173663139343,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,15.0,0.6208299398422241,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,muscle,13.0,0.7289753556251526,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,14.0,0.8904024362564087,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,15.0,0.8619735836982727,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,16.0,0.831909716129303,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,newsreader,28.0,0.4867441058158874,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,newsreader,30.0,0.4173188805580139,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,official,28.0,0.7135942578315735,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,official,29.0,0.6974905729293823,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,official,30.0,0.6474933028221129,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,space,27.0,0.4736603498458862,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,investor,28.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,investor,29.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,investor,30.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,professional,28.0,0.7888535261154175,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,professional,29.0,0.7954965829849243,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,professional,30.0,0.7660117149353027,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,business,28.0,0.4141625761985779,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+qFW1t95tWAY,executive officer,28.0,0.5030855536460876,person,/m/0289fz,/m/01g317,executive officer,executive officer,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,executive officer,29.0,0.4854019284248352,person,/m/0289fz,/m/01g317,executive officer,executive officer,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,executive officer,30.0,0.4106420874595642,person,/m/0289fz,/m/01g317,executive officer,executive officer,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,energy,28.0,0.4243585169315338,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,energy,29.0,0.4057011902332306,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,public speaking,28.0,0.726527988910675,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+qFW1t95tWAY,public speaking,29.0,0.6879329681396484,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+qFW1t95tWAY,public speaking,30.0,0.6273238658905029,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+qFW1t95tWAY,spokesperson,28.0,0.8434112668037415,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,spokesperson,29.0,0.8262075781822205,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,spokesperson,30.0,0.788982093334198,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,missile,27.0,0.5345554351806641,"weapon, aircraft",/m/04ylt,"/m/083kb, /m/0k5j",missile,missile,OTHER,,,,,"weapon, aircraft","weapon, aircraft","weapon, aircraft","weapon, aircraft",OTHER
+qFW1t95tWAY,space shuttle,27.0,0.8801954984664917,vehicle,/m/09l35,/m/07yv9,space shuttle,space shuttle,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+qFW1t95tWAY,mineral,27.0,0.5279737710952759,OTHER,/m/04tc_,,mineral,mineral,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,entrepreneur,28.0,0.6640514731407166,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,entrepreneur,29.0,0.6515852212905884,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,entrepreneur,30.0,0.6208707094192505,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,diplomat,28.0,0.4319743812084198,person,/m/080ntlp,/m/01g317,diplomat,diplomat,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,profession,28.0,0.7008405327796936,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+qFW1t95tWAY,profession,29.0,0.6955215930938721,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+qFW1t95tWAY,profession,30.0,0.6629791855812073,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+qFW1t95tWAY,rocket,27.0,0.9180370569229126,vehicle,/m/09rvcxw,/m/07yv9,rocket,rocket,OTHER,,http://dbpedia.org/ontology/Weapon,,,vehicle,vehicle,vehicle,vehicle,OTHER
+qFW1t95tWAY,speech,28.0,0.5505382418632507,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,speech,29.0,0.5250810980796814,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,speech,30.0,0.4681021571159363,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,suit,28.0,0.5888939499855042,clothing,/m/01xyhv,/m/09j2d,suit,suit,OTHER,,,,PERSON,clothing,clothing,clothing,clothing,OTHER
+qFW1t95tWAY,suit,29.0,0.699499249458313,clothing,/m/01xyhv,/m/09j2d,suit,suit,OTHER,,,,PERSON,clothing,clothing,clothing,clothing,OTHER
+qFW1t95tWAY,suit,30.0,0.6234771013259888,clothing,/m/01xyhv,/m/09j2d,suit,suit,OTHER,,,,PERSON,clothing,clothing,clothing,clothing,OTHER
+qFW1t95tWAY,spacecraft,27.0,0.7228847146034241,vehicle,/m/09g5h,/m/07yv9,spacecraft,spacecraft,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,vehicle,vehicle,vehicle,vehicle,OTHER
+qFW1t95tWAY,spaceplane,27.0,0.8270897269248962,aircraft,/m/02bl11,/m/0k5j,spaceplane,spaceplane,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,aircraft,aircraft,aircraft,aircraft,OTHER
+qFW1t95tWAY,newscaster,28.0,0.5185596346855164,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,newscaster,29.0,0.5070404410362244,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,newscaster,30.0,0.5045642852783203,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,company,28.0,0.4108383655548096,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+qFW1t95tWAY,white collar worker,28.0,0.4303082525730133,person,/m/01kq3x,/m/01g317,white collar worker,white collar worker,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,white collar worker,29.0,0.495780885219574,person,/m/01kq3x,/m/01g317,white collar worker,white collar worker,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,white collar worker,30.0,0.4196459352970123,person,/m/01kq3x,/m/01g317,white collar worker,white collar worker,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,sky,27.0,0.622714638710022,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,businessperson,28.0,0.5549865365028381,person,/m/012t_z,/m/01g317,businessperson,businessperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,businessperson,29.0,0.5479523539543152,person,/m/012t_z,/m/01g317,businessperson,businessperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,businessperson,30.0,0.4734355509281158,person,/m/012t_z,/m/01g317,businessperson,businessperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,expert,28.0,0.4550380706787109,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,expert,29.0,0.4490613639354706,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,expert,30.0,0.4273861348628998,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,business executive,28.0,0.5711356997489929,person,/m/0n5szg6,/m/01g317,business executive,business executive,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,business executive,29.0,0.5659072995185852,person,/m/0n5szg6,/m/01g317,business executive,business executive,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,business executive,30.0,0.517537534236908,person,/m/0n5szg6,/m/01g317,business executive,business executive,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+qFW1t95tWAY,windshield,47.0,0.4506614208221436,"glass, window",/m/01lrnl,"/m/039jq, /m/0d4v4",windshield,windshield,OTHER,,http://dbpedia.org/ontology/Company,,,"glass, window","glass, window","glass, window","glass, window",OTHER
+qFW1t95tWAY,atmosphere of earth,50.0,0.7879233360290527,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,automotive tire,47.0,0.7343724370002747,OTHER,/m/0h8pb3l,,automotive tire,automotive tire,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,automotive tire,48.0,0.885187029838562,OTHER,/m/0h8pb3l,,automotive tire,automotive tire,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,automotive tire,49.0,0.8622937798500061,OTHER,/m/0h8pb3l,,automotive tire,automotive tire,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,automotive tire,50.0,0.8753319978713989,OTHER,/m/0h8pb3l,,automotive tire,automotive tire,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,automotive tire,52.0,0.5419641137123108,OTHER,/m/0h8pb3l,,automotive tire,automotive tire,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,structure,52.0,0.782751739025116,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,phenomenon,50.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,51.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,52.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space station,50.0,0.4870650768280029,building,/m/0dfmm,/m/0cgh4,space station,space station,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,,LOCATION,building,building,building,LOCATION
+qFW1t95tWAY,mode of transport,47.0,0.8752526044845581,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,mode of transport,48.0,0.875238835811615,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,mode of transport,49.0,0.8752153515815735,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,47.0,0.5761063098907471,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,48.0,0.5824504494667053,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,49.0,0.5489494204521179,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,50.0,0.6446576118469238,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,51.0,0.6157609224319458,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,52.0,0.5841737389564514,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,53.0,0.6250293850898743,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,water,47.0,0.8657284379005432,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,water,48.0,0.5157687067985535,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,water,50.0,0.4740184545516968,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,water,51.0,0.7286844253540039,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,energy,47.0,0.4983319044113159,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,energy,51.0,0.4776398539543152,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,energy,52.0,0.435182511806488,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,energy,53.0,0.40254679322242737,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,stock photography,47.0,0.4060302972793579,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+qFW1t95tWAY,automotive wheel system,48.0,0.5091794133186339,OTHER,/m/0h8ly30,,automotive wheel system,automotive wheel system,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,automotive wheel system,50.0,0.4772242307662964,OTHER,/m/0h8ly30,,automotive wheel system,automotive wheel system,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,window,51.0,0.4735473394393921,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,window,52.0,0.5268109440803528,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,window,53.0,0.4951416850090027,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,microphone,49.0,0.4625636041164398,audio,/m/0hg7b,/m/0h91fqv,microphone,microphone,OTHER,,,,,audio,audio,audio,audio,OTHER
+qFW1t95tWAY,earth,47.0,0.4262525737285614,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+qFW1t95tWAY,earth,50.0,0.5291801691055298,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+qFW1t95tWAY,tire,47.0,0.6968990564346313,OTHER,/m/0h9mv,,tire,tire,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,tire,48.0,0.880296528339386,OTHER,/m/0h9mv,,tire,tire,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,tire,49.0,0.8552653789520264,OTHER,/m/0h9mv,,tire,tire,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,tire,50.0,0.8550449013710022,OTHER,/m/0h9mv,,tire,tire,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,tire,52.0,0.4988394975662232,OTHER,/m/0h9mv,,tire,tire,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,net,52.0,0.4169084131717682,OTHER,/m/02qdwbp,,net,net,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,metal,52.0,0.4511601328849793,material,/m/04t7l,/m/01l0y0,metal,metal,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+qFW1t95tWAY,musical instrument,53.0,0.40018463134765625,OTHER,/m/04szw,,musical instrument,musical instrument,OTHER,,http://dbpedia.org/ontology/Agent,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,wheel,47.0,0.5057690143585205,OTHER,/m/083wq,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,wheel,48.0,0.6262632608413696,OTHER,/m/083wq,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,wheel,49.0,0.538327157497406,OTHER,/m/083wq,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,wheel,50.0,0.5453007221221924,OTHER,/m/083wq,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,wheel,52.0,0.4054971933364868,OTHER,/m/083wq,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,iron,52.0,0.4471233189105988,metal,/m/025rw19,/m/04t7l,iron,iron,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,metal,metal,metal,metal,OTHER
+qFW1t95tWAY,iron,53.0,0.4084617495536804,metal,/m/025rw19,/m/04t7l,iron,iron,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,metal,metal,metal,metal,OTHER
+qFW1t95tWAY,icicle,51.0,0.7789034247398376,ice,/m/025sfz5,/m/03vtj,icicle,icicle,OTHER,,http://dbpedia.org/ontology/HollywoodCartoon,,,ice,ice,ice,ice,OTHER
+qFW1t95tWAY,auto part,47.0,0.4505165219306946,OTHER,/m/08dz3q,,auto part,auto part,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,auto part,48.0,0.4701692461967468,OTHER,/m/08dz3q,,auto part,auto part,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,auto part,49.0,0.5222082734107971,OTHER,/m/08dz3q,,auto part,auto part,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,auto part,50.0,0.545214056968689,OTHER,/m/08dz3q,,auto part,auto part,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,visual effects,53.0,0.5690217614173889,person,/m/01vx2h,/m/01g317,visual effect,visual effect,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,person,person,person,person,OTHER
+qFW1t95tWAY,building,50.0,0.491931825876236,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+qFW1t95tWAY,building,51.0,0.7051720023155212,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+qFW1t95tWAY,building,52.0,0.5105124711990356,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+qFW1t95tWAY,building,53.0,0.4916572272777557,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+qFW1t95tWAY,computer wallpaper,47.0,0.4650919139385224,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,48.0,0.4601906538009644,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,material,47.0,0.6448765993118286,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,mast,47.0,0.4152361750602722,ship,/m/03psdn,/m/06q74,mast,mast,OTHER,,,,,ship,ship,ship,ship,OTHER
+qFW1t95tWAY,screenshot,53.0,0.4039314389228821,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,freezing,51.0,0.4509951770305634,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+qFW1t95tWAY,world,47.0,0.498037189245224,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,spoke,47.0,0.5295373201370239,OTHER,/m/016xt7,,spoke,spoke,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,spoke,48.0,0.6982494592666626,OTHER,/m/016xt7,,spoke,spoke,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,spoke,49.0,0.5075271725654602,OTHER,/m/016xt7,,spoke,spoke,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,spoke,50.0,0.4041140079498291,OTHER,/m/016xt7,,spoke,spoke,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,machine,48.0,0.40028738975524897,OTHER,/m/0dkw5,,machine,machine,OTHER,,http://dbpedia.org/ontology/Software,,"PERSON, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,machine,52.0,0.4574695527553558,OTHER,/m/0dkw5,,machine,machine,OTHER,,http://dbpedia.org/ontology/Software,,"PERSON, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,ice,51.0,0.6620801091194153,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,ice,52.0,0.474566400051117,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,electricity,51.0,0.4297671616077423,OTHER,/m/02lts,,electricity,electricity,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,scaffolding,52.0,0.40930888056755066,OTHER,/m/01b958,,scaffold,scaffold,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,EVENT,OTHER,EVENT
+qFW1t95tWAY,sky,47.0,0.5748927593231201,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,50.0,0.4681231379508972,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,51.0,0.5107343792915344,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,53.0,0.6289664506912231,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,telecommunications engineering,47.0,0.519328236579895,person,/m/027j84c,/m/01g317,telecommunication engineering,telecommunication engineering,OTHER,,http://dbpedia.org/ontology/Sport,,,person,person,person,person,OTHER
+qFW1t95tWAY,glass,47.0,0.6723262071609497,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+qFW1t95tWAY,glass,48.0,0.6252252459526062,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+qFW1t95tWAY,glass,49.0,0.5857506394386292,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+qFW1t95tWAY,glass,51.0,0.6564385294914246,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+qFW1t95tWAY,glass,52.0,0.7849466800689697,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+qFW1t95tWAY,glass,53.0,0.5522887706756592,material,/m/039jq,/m/01l0y0,glass,glass,OTHER,,,,,material,material,material,material,OTHER
+qFW1t95tWAY,darkness,53.0,0.5137782096862793,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,daylighting,52.0,0.4666922092437744,window,/m/0k2n5,/m/0d4v4,daylighting,daylighting,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,window,window,window,LOCATION
+qFW1t95tWAY,daylighting,53.0,0.427034467458725,window,/m/0k2n5,/m/0d4v4,daylighting,daylighting,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,window,window,window,LOCATION
+qFW1t95tWAY,atmosphere of earth,59.0,0.7999017834663391,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,atmosphere of earth,60.0,0.7987731099128723,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,atmosphere of earth,61.0,0.7971048951148987,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,outer space,59.0,0.6287974119186401,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,outer space,60.0,0.7469013929367065,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,outer space,61.0,0.7722706794738771,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,59.0,0.7072696089744568,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,60.0,0.6354131698608398,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,61.0,0.5061100125312805,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,night,59.0,0.6302376389503479,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,night,60.0,0.5067657828330994,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,night,61.0,0.5507550239562988,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,59.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,60.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,61.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,59.0,0.7125658392906189,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,60.0,0.7284925580024719,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,61.0,0.6995470523834229,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,59.0,0.5634845495223999,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,60.0,0.5477991104125977,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,61.0,0.5362882614135742,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,midnight,59.0,0.5020969510078429,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,midnight,60.0,0.5236644148826599,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,midnight,61.0,0.5397654771804811,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,stock photography,59.0,0.4251789450645447,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+qFW1t95tWAY,universe,59.0,0.8713258504867554,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,universe,60.0,0.907634437084198,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,universe,61.0,0.8995258808135986,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,earth,59.0,0.5267806053161621,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+qFW1t95tWAY,earth,60.0,0.4676893055438995,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+qFW1t95tWAY,earth,61.0,0.4487577974796295,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+qFW1t95tWAY,circle,61.0,0.4209774434566498,shape,/m/01vkl,/m/016nqd,circle,circle,OTHER,,http://dbpedia.org/ontology/Album,,ORGANIZATION,shape,shape,shape,shape,OTHER
+qFW1t95tWAY,nebula,59.0,0.8793481588363647,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,60.0,0.8737096786499023,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,61.0,0.7503543496131897,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,atmosphere,59.0,0.8568066954612732,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,60.0,0.9097143411636353,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,61.0,0.9314186573028564,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,visual effects,60.0,0.5198080539703369,person,/m/01vx2h,/m/01g317,visual effect,visual effect,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,person,person,person,person,OTHER
+qFW1t95tWAY,galaxy,59.0,0.913796842098236,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,galaxy,60.0,0.8716837763786316,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,galaxy,61.0,0.7899402976036072,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,astronomical object,59.0,0.8548175692558289,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,astronomical object,60.0,0.8584596514701843,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,astronomical object,61.0,0.7865510582923889,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,constellation,59.0,0.5098002552986145,astronomical object,/m/01m3b,/m/01d9ll,constellation,constellation,LOCATION,,http://dbpedia.org/ontology/Place,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,computer wallpaper,59.0,0.5889157652854919,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,60.0,0.6435344219207764,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,61.0,0.636971116065979,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,screenshot,60.0,0.48280468583107,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,screenshot,61.0,0.4726458787918091,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,special effects,59.0,0.4935383498668671,person,/m/0dxtw,/m/01g317,special effect,special effect,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,special effects,60.0,0.5330355763435364,person,/m/0dxtw,/m/01g317,special effect,special effect,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,celestial event,60.0,0.4564020037651062,event,/m/02rhkz,/m/081pkj,celestial event,celestial event,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+qFW1t95tWAY,celestial event,61.0,0.4530181288719177,event,/m/02rhkz,/m/081pkj,celestial event,celestial event,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+qFW1t95tWAY,sky,59.0,0.6830200552940369,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,60.0,0.6232249736785889,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,61.0,0.6137828826904297,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,astronomy,59.0,0.6984310150146484,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,astronomy,60.0,0.7155855298042297,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,astronomy,61.0,0.7103032469749451,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,darkness,59.0,0.6983780860900879,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,60.0,0.6640865802764893,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,61.0,0.6402938961982727,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere of earth,93.0,0.7970165014266968,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,atmosphere of earth,94.0,0.8157198429107666,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,atmosphere of earth,95.0,0.8190122246742249,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,atmosphere of earth,96.0,0.8046540021896362,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,atmosphere of earth,97.0,0.7981956005096436,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+qFW1t95tWAY,outer space,93.0,0.6471575498580933,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,outer space,94.0,0.7061803936958313,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,outer space,95.0,0.6477454304695129,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,outer space,96.0,0.6178112626075745,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,outer space,97.0,0.6970260143280029,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,outer space,98.0,0.6405745148658752,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,outer space,99.0,0.6175682544708252,astronomical object,/m/01833w,/m/01d9ll,outer space,outer space,PERSON,,http://dbpedia.org/ontology/Person,,LOCATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,93.0,0.6013687252998352,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,94.0,0.576876699924469,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,95.0,0.5211180448532104,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,96.0,0.4266318678855896,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,98.0,0.4593521654605866,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,star,99.0,0.4587856829166413,astronomical object,/m/06ngk,/m/01d9ll,star,star,OTHER,,http://dbpedia.org/ontology/ArtificialSatellite,,PERSON,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,night,93.0,0.4821210205554962,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,night,95.0,0.41499510407447815,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,milky way,93.0,0.4245974719524384,galaxy,/m/07q38c,/m/039b5,milky way,milky way,OTHER,,,,,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,milky way,94.0,0.4402391016483307,galaxy,/m/07q38c,/m/039b5,milky way,milky way,OTHER,,,,,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,milky way,95.0,0.4756217300891876,galaxy,/m/07q38c,/m/039b5,milky way,milky way,OTHER,,,,,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,milky way,98.0,0.4376086890697479,galaxy,/m/07q38c,/m/039b5,milky way,milky way,OTHER,,,,,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,milky way,99.0,0.4413973689079285,galaxy,/m/07q38c,/m/039b5,milky way,milky way,OTHER,,,,,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,phenomenon,93.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,94.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,95.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,96.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,97.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,98.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,phenomenon,99.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,93.0,0.6712498068809509,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,94.0,0.6927536725997925,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,95.0,0.6971405148506165,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,96.0,0.697356104850769,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,97.0,0.7128589749336243,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,98.0,0.6755321025848389,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,space,99.0,0.6724541187286377,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,marine biology,95.0,0.42304855585098267,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+qFW1t95tWAY,marine biology,96.0,0.6048917770385742,biology,/m/050vn,/m/01540,marine biology,marine biology,OTHER,,http://dbpedia.org/ontology/Book,,,biology,biology,biology,biology,OTHER
+qFW1t95tWAY,science,93.0,0.5581532120704651,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,94.0,0.5655791163444519,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,95.0,0.5713675022125244,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,96.0,0.5570235252380371,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,97.0,0.5330032110214233,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,98.0,0.5289162397384644,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,science,99.0,0.5295559763908386,OTHER,/m/06mq7,,science,science,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,midnight,93.0,0.4442701637744904,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,midnight,94.0,0.4343629479408264,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,midnight,95.0,0.4782154262065888,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,organism,95.0,0.6271646022796631,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,organism,96.0,0.7220633029937744,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,organism,97.0,0.6055543422698975,OTHER,/m/05nnm,,organism,organism,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,universe,93.0,0.8701924681663513,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,universe,94.0,0.923663318157196,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,universe,95.0,0.9211887121200562,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,universe,96.0,0.9031744599342346,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,universe,97.0,0.905782163143158,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,universe,98.0,0.8424654603004456,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,universe,99.0,0.8327344655990601,astronomical object,/m/07v7c,/m/01d9ll,universe,universe,OTHER,,,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,93.0,0.7657927870750427,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,94.0,0.8325676321983337,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,95.0,0.8542668223381042,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,96.0,0.8370913863182068,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,97.0,0.8159835338592529,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,98.0,0.8612257838249207,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,nebula,99.0,0.8570023179054259,astronomical object,/m/05fny,/m/01d9ll,nebula,nebula,OTHER,,http://dbpedia.org/ontology/Company,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,atmosphere,93.0,0.8951677680015564,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,94.0,0.934545636177063,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,95.0,0.9360210299491882,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,96.0,0.9061445593833924,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,97.0,0.8971900939941406,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,98.0,0.8416914939880371,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,atmosphere,99.0,0.8298212885856628,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,galaxy,93.0,0.9560465216636658,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,galaxy,94.0,0.9718948602676392,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,galaxy,95.0,0.9779918789863586,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,galaxy,96.0,0.9719053506851196,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,galaxy,97.0,0.9441573023796082,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,galaxy,98.0,0.9431930780410768,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,galaxy,99.0,0.94141286611557,astronomical object,/m/039b5,/m/01d9ll,galaxy,galaxy,OTHER,,,,ORGANIZATION,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,astronomical object,93.0,0.8006016612052917,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,astronomical object,94.0,0.8714116811752319,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,astronomical object,95.0,0.8768534064292908,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,astronomical object,96.0,0.8627229928970337,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,astronomical object,97.0,0.8584699630737305,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,astronomical object,98.0,0.8297826051712036,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,astronomical object,99.0,0.8227400183677673,OTHER,/m/01d9ll,,astronomical object,astronomical object,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,constellation,93.0,0.4190347194671631,astronomical object,/m/01m3b,/m/01d9ll,constellation,constellation,LOCATION,,http://dbpedia.org/ontology/Place,,,astronomical object,astronomical object,astronomical object,astronomical object,OTHER
+qFW1t95tWAY,computer wallpaper,93.0,0.6029236912727356,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,94.0,0.6272103190422058,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,95.0,0.6365962624549866,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,96.0,0.5915906429290771,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,97.0,0.6043747663497925,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,98.0,0.6483784317970276,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,computer wallpaper,99.0,0.6451357007026672,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+qFW1t95tWAY,screenshot,93.0,0.4130514860153198,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,special effects,95.0,0.4430589377880096,person,/m/0dxtw,/m/01g317,special effect,special effect,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,special effects,96.0,0.5041598081588745,person,/m/0dxtw,/m/01g317,special effect,special effect,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,special effects,97.0,0.5701422691345215,person,/m/0dxtw,/m/01g317,special effect,special effect,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,special effects,98.0,0.4932599067687988,person,/m/0dxtw,/m/01g317,special effect,special effect,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,special effects,99.0,0.4905760288238525,person,/m/0dxtw,/m/01g317,special effect,special effect,OTHER,,,,,person,person,person,person,OTHER
+qFW1t95tWAY,spiral galaxy,93.0,0.514943540096283,galaxy,/m/01dgzv,/m/039b5,spiral galaxy,spiral galaxy,OTHER,,,,ORGANIZATION,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,spiral galaxy,94.0,0.6651270985603333,galaxy,/m/01dgzv,/m/039b5,spiral galaxy,spiral galaxy,OTHER,,,,ORGANIZATION,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,spiral galaxy,95.0,0.7361869215965271,galaxy,/m/01dgzv,/m/039b5,spiral galaxy,spiral galaxy,OTHER,,,,ORGANIZATION,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,spiral galaxy,96.0,0.5525595545768738,galaxy,/m/01dgzv,/m/039b5,spiral galaxy,spiral galaxy,OTHER,,,,ORGANIZATION,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,spiral galaxy,98.0,0.6006751656532288,galaxy,/m/01dgzv,/m/039b5,spiral galaxy,spiral galaxy,OTHER,,,,ORGANIZATION,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,spiral galaxy,99.0,0.6209701299667358,galaxy,/m/01dgzv,/m/039b5,spiral galaxy,spiral galaxy,OTHER,,,,ORGANIZATION,galaxy,galaxy,galaxy,galaxy,OTHER
+qFW1t95tWAY,sky,93.0,0.6498514413833618,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,94.0,0.6364883780479431,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,95.0,0.7121561765670776,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,96.0,0.4998323619365692,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,97.0,0.4682754874229431,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,98.0,0.6257137060165405,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,sky,99.0,0.6097110509872437,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+qFW1t95tWAY,astronomy,93.0,0.71306973695755,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,astronomy,94.0,0.7384132742881775,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,astronomy,95.0,0.7382053732872009,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,astronomy,96.0,0.7162567377090454,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,astronomy,97.0,0.6944838166236877,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,astronomy,98.0,0.6303658485412598,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,astronomy,99.0,0.624562680721283,science,/m/0dc_v,/m/06mq7,astronomy,astronomy,OTHER,,http://dbpedia.org/ontology/Book,,,science,science,science,science,OTHER
+qFW1t95tWAY,darkness,93.0,0.6090940833091736,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,94.0,0.6160528063774109,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,95.0,0.7108942866325378,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,96.0,0.614859938621521,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+qFW1t95tWAY,darkness,97.0,0.4299523830413817,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER

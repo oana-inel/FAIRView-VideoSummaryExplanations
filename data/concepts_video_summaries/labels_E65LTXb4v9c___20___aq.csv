@@ -1,0 +1,485 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+E65LTXb4v9c,academic conference,1.0,0.4560196399688721,meeting,/m/07bx10,/m/01h6cb,academic conference,academic conference,EVENT,,http://dbpedia.org/ontology/SocietalEvent,,,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,academic conference,5.0,0.5385334491729736,meeting,/m/07bx10,/m/01h6cb,academic conference,academic conference,EVENT,,http://dbpedia.org/ontology/SocietalEvent,,,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,institution,1.0,0.6602235436439514,organization,/m/01r28c,/m/0qb7t,institution,institution,OTHER,,,,ORGANIZATION,organization,organization,organization,organization,OTHER
+E65LTXb4v9c,institution,2.0,0.6450506448745728,organization,/m/01r28c,/m/0qb7t,institution,institution,OTHER,,,,ORGANIZATION,organization,organization,organization,organization,OTHER
+E65LTXb4v9c,institution,3.0,0.5826258659362793,organization,/m/01r28c,/m/0qb7t,institution,institution,OTHER,,,,ORGANIZATION,organization,organization,organization,organization,OTHER
+E65LTXb4v9c,institution,5.0,0.6889417767524719,organization,/m/01r28c,/m/0qb7t,institution,institution,OTHER,,,,ORGANIZATION,organization,organization,organization,organization,OTHER
+E65LTXb4v9c,technology,2.0,0.6638036966323853,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,technology,3.0,0.6357167363166809,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,investor,3.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,investor,4.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,investor,5.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,1.0,0.4200246036052704,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,3.0,0.44599586725234985,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,4.0,0.4785460531711578,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,5.0,0.5017794966697693,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,crowd,0.0,0.5093045234680176,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,1.0,0.7394086122512817,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,2.0,0.6769730448722839,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,3.0,0.6351455450057983,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,4.0,0.7372913956642151,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,5.0,0.7349335551261902,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,public relations,0.0,0.4758176207542419,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,1.0,0.5450572967529297,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,2.0,0.5130141377449036,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,3.0,0.5582346916198729,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,4.0,0.5572038292884827,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,5.0,0.5926940441131592,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,job,0.0,0.5102314352989197,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,job,1.0,0.5381126403808594,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,job,2.0,0.5044671893119812,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,job,3.0,0.6191967725753784,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,job,4.0,0.5690568685531616,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,job,5.0,0.6230041980743408,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,event,0.0,0.5130437612533569,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,event,1.0,0.4954700171947479,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,event,2.0,0.4478597939014435,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,event,3.0,0.4038005769252777,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,communication,0.0,0.5390121936798096,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,communication,1.0,0.5955796241760254,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,communication,2.0,0.5351237058639526,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,communication,3.0,0.628717839717865,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,communication,4.0,0.5496100783348083,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,communication,5.0,0.6559661030769348,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,electronic device,0.0,0.5188117027282715,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+E65LTXb4v9c,electronic device,1.0,0.509526789188385,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+E65LTXb4v9c,electronic device,2.0,0.5274255871772766,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+E65LTXb4v9c,electronic device,3.0,0.5393373370170593,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+E65LTXb4v9c,audience,1.0,0.6422343850135803,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,2.0,0.487025797367096,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,3.0,0.5147032737731934,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,4.0,0.6147356033325195,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,5.0,0.7305928468704224,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,product,0.0,0.4162389934062958,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,1.0,0.436774343252182,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,2.0,0.6991549134254456,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,3.0,0.5651870965957642,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,4.0,0.6023097634315491,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,5.0,0.5344824194908142,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,convention,1.0,0.5117407441139221,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,2.0,0.4742173254489898,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,4.0,0.42134758830070496,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,5.0,0.5604931116104126,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,conversation,5.0,0.4504503607749939,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+E65LTXb4v9c,news conference,1.0,0.5769480466842651,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+E65LTXb4v9c,news conference,3.0,0.6033064723014832,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+E65LTXb4v9c,news conference,4.0,0.6076002717018127,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+E65LTXb4v9c,news conference,5.0,0.6410518884658813,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+E65LTXb4v9c,stage,25.0,0.7962723374366759,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+E65LTXb4v9c,stage,26.0,0.7840992212295532,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+E65LTXb4v9c,stage,27.0,0.7683835625648499,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+E65LTXb4v9c,stage,28.0,0.7931172251701355,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+E65LTXb4v9c,stage,29.0,0.8312808275222778,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+E65LTXb4v9c,community,24.0,0.8109000325202942,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,academic conference,24.0,0.6522390246391296,meeting,/m/07bx10,/m/01h6cb,academic conference,academic conference,EVENT,,http://dbpedia.org/ontology/SocietalEvent,,,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,academic conference,27.0,0.4775005280971527,meeting,/m/07bx10,/m/01h6cb,academic conference,academic conference,EVENT,,http://dbpedia.org/ontology/SocietalEvent,,,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,performance art,25.0,0.5919899344444275,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,performance art,26.0,0.6142124533653259,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,performance art,28.0,0.5482224225997925,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,institution,24.0,0.7130102515220642,organization,/m/01r28c,/m/0qb7t,institution,institution,OTHER,,,,ORGANIZATION,organization,organization,organization,organization,OTHER
+E65LTXb4v9c,performance,25.0,0.94917893409729,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+E65LTXb4v9c,performance,26.0,0.9511866569519044,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+E65LTXb4v9c,performance,27.0,0.9251068830490112,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+E65LTXb4v9c,performance,28.0,0.9383076429367064,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+E65LTXb4v9c,performance,29.0,0.9171236157417296,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+E65LTXb4v9c,education,24.0,0.5410403609275818,OTHER,/m/02jfc,,education,education,OTHER,,http://dbpedia.org/ontology/Election,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,business,24.0,0.42452025413513184,organization,/m/09s1f,/m/0qb7t,business,business,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,technology,24.0,0.82481449842453,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,collaboration,24.0,0.4601123631000519,OTHER,/m/01s560,,collaboration,collaboration,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,investor,24.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,song,25.0,0.4722219407558441,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+E65LTXb4v9c,song,26.0,0.4686723351478577,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+E65LTXb4v9c,song,27.0,0.4496236741542816,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+E65LTXb4v9c,song,28.0,0.4704781770706177,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+E65LTXb4v9c,song,29.0,0.4273209273815155,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+E65LTXb4v9c,fashion,28.0,0.7178389430046082,OTHER,/m/032tl,,fashion,fashion,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,professional,24.0,0.6533575654029846,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,phenomenon,26.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,phenomenon,27.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,phenomenon,28.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,official,24.0,0.5489751696586609,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,official,27.0,0.4898529052734375,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,crowd,24.0,0.6948373317718506,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,25.0,0.981412708759308,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,26.0,0.9730817079544068,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,27.0,0.9790573120117188,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,28.0,0.9740432500839232,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,crowd,29.0,0.9464852809906006,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,student,24.0,0.4266970753669739,person,/m/014cnc,/m/01g317,student,student,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,training,24.0,0.4236615896224976,service,/m/014jg3,/m/018tkd,training,training,OTHER,,,,,service,service,service,service,OTHER
+E65LTXb4v9c,entertainment,25.0,0.8095154762268066,OTHER,/m/02jjt,,entertainment,entertainment,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,entertainment,26.0,0.8654967546463013,OTHER,/m/02jjt,,entertainment,entertainment,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,entertainment,27.0,0.8544619083404541,OTHER,/m/02jjt,,entertainment,entertainment,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,entertainment,28.0,0.8289150595664978,OTHER,/m/02jjt,,entertainment,entertainment,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,entertainment,29.0,0.7909659147262573,OTHER,/m/02jjt,,entertainment,entertainment,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,singing,25.0,0.6842429041862488,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+E65LTXb4v9c,singing,26.0,0.6702622771263123,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+E65LTXb4v9c,singing,28.0,0.4935939013957977,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+E65LTXb4v9c,singing,29.0,0.481871098279953,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+E65LTXb4v9c,public relations,24.0,0.6484794020652771,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,25.0,0.4336888194084168,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,26.0,0.42964452505111694,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,27.0,0.4823956191539765,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,job,24.0,0.6482956409454346,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,customer,24.0,0.6789937019348145,person,/m/01j0mk,/m/01g317,customer,customer,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,learning,24.0,0.5987536311149597,person,/m/0191f8,/m/01g317,learn,learn,OTHER,,http://dbpedia.org/ontology/Band,,,person,person,person,person,OTHER
+E65LTXb4v9c,concert,25.0,0.6457750797271729,performance,/m/01jddz,/m/01gq53,concert,concert,OTHER,,http://dbpedia.org/ontology/Album,,,performance,performance,EVENT,performance,EVENT
+E65LTXb4v9c,concert,26.0,0.680044412612915,performance,/m/01jddz,/m/01gq53,concert,concert,OTHER,,http://dbpedia.org/ontology/Album,,,performance,performance,EVENT,performance,EVENT
+E65LTXb4v9c,concert,27.0,0.5313894748687744,performance,/m/01jddz,/m/01gq53,concert,concert,OTHER,,http://dbpedia.org/ontology/Album,,,performance,performance,EVENT,performance,EVENT
+E65LTXb4v9c,concert,28.0,0.4600349962711334,performance,/m/01jddz,/m/01gq53,concert,concert,OTHER,,http://dbpedia.org/ontology/Album,,,performance,performance,EVENT,performance,EVENT
+E65LTXb4v9c,concert,29.0,0.6058754324913025,performance,/m/01jddz,/m/01gq53,concert,concert,OTHER,,http://dbpedia.org/ontology/Album,,,performance,performance,EVENT,performance,EVENT
+E65LTXb4v9c,performing arts,25.0,0.5237994194030762,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,performing arts,26.0,0.6757016777992249,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,performing arts,27.0,0.4476153850555421,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,performing arts,28.0,0.523763120174408,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,performing arts,29.0,0.5186869502067566,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,event,25.0,0.468347042798996,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,event,26.0,0.4026713371276856,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,event,27.0,0.5423250198364258,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,event,28.0,0.5884272456169128,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,event,29.0,0.4297708868980408,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,musical ensemble,25.0,0.5738440155982971,musician,/m/05229,/m/09jwl,musical ensemble,musical ensemble,OTHER,,http://dbpedia.org/ontology/Band,,,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,musical ensemble,26.0,0.5166613459587097,musician,/m/05229,/m/09jwl,musical ensemble,musical ensemble,OTHER,,http://dbpedia.org/ontology/Band,,,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,musical ensemble,29.0,0.42441093921661377,musician,/m/05229,/m/09jwl,musical ensemble,musical ensemble,OTHER,,http://dbpedia.org/ontology/Band,,,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,communication,24.0,0.781457245349884,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,electronic device,24.0,0.8067368268966675,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+E65LTXb4v9c,management,24.0,0.4235645234584808,OTHER,/m/04_tv,,management,management,OTHER,,http://dbpedia.org/ontology/Disease,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,applause,25.0,0.6296942234039307,person,/m/028ght,/m/01g317,applause,applause,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,applause,26.0,0.5969379544258118,person,/m/028ght,/m/01g317,applause,applause,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,applause,27.0,0.637748658657074,person,/m/028ght,/m/01g317,applause,applause,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,applause,28.0,0.5808252692222595,person,/m/028ght,/m/01g317,applause,applause,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,applause,29.0,0.6090859770774841,person,/m/028ght,/m/01g317,applause,applause,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,social group,25.0,0.9548251628875732,OTHER,/m/01b4q9,,social group,social group,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,social group,26.0,0.9340941905975342,OTHER,/m/01b4q9,,social group,social group,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,social group,27.0,0.908412754535675,OTHER,/m/01b4q9,,social group,social group,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,social group,28.0,0.9376835823059082,OTHER,/m/01b4q9,,social group,social group,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,theatre,26.0,0.4889915883541107,building,/m/05npqn,/m/0cgh4,theatre,theatre,OTHER,,,,LOCATION,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,theatre,27.0,0.4245845079421997,building,/m/05npqn,/m/0cgh4,theatre,theatre,OTHER,,,,LOCATION,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,theatre,28.0,0.4654321372509002,building,/m/05npqn,/m/0cgh4,theatre,theatre,OTHER,,,,LOCATION,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,theatre,29.0,0.436184823513031,building,/m/05npqn,/m/0cgh4,theatre,theatre,OTHER,,,,LOCATION,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,audience,24.0,0.7247523069381714,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,25.0,0.986936330795288,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,26.0,0.9868333339691162,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,27.0,0.98699951171875,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,28.0,0.9868404269218444,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,audience,29.0,0.9852651357650756,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,profession,25.0,0.5948092937469482,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,musical theatre,25.0,0.8315075635910034,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+E65LTXb4v9c,musical theatre,26.0,0.8489900231361389,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+E65LTXb4v9c,musical theatre,27.0,0.7626816034317017,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+E65LTXb4v9c,musical theatre,28.0,0.8072175383567809,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+E65LTXb4v9c,musical theatre,29.0,0.7646747827529907,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+E65LTXb4v9c,fun,25.0,0.6490890383720398,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,fun,26.0,0.5866299271583557,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,fun,27.0,0.6125063300132751,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,fun,28.0,0.6604229807853699,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,fun,29.0,0.4714567363262177,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,24.0,0.5039716958999634,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,26.0,0.4027363955974579,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,27.0,0.6091911196708679,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,convention,25.0,0.804193913936615,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,26.0,0.8475674986839294,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,27.0,0.9076448082923888,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,28.0,0.888213574886322,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,29.0,0.7190430760383606,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,rock concert,25.0,0.6412836909294128,concert,/m/06mg_j,/m/01jddz,rock concert,rock concert,OTHER,,http://dbpedia.org/ontology/Album,,,concert,concert,EVENT,concert,EVENT
+E65LTXb4v9c,rock concert,26.0,0.6144736409187317,concert,/m/06mg_j,/m/01jddz,rock concert,rock concert,OTHER,,http://dbpedia.org/ontology/Album,,,concert,concert,EVENT,concert,EVENT
+E65LTXb4v9c,rock concert,27.0,0.4671183824539185,concert,/m/06mg_j,/m/01jddz,rock concert,rock concert,OTHER,,http://dbpedia.org/ontology/Album,,,concert,concert,EVENT,concert,EVENT
+E65LTXb4v9c,rock concert,28.0,0.44853442907333374,concert,/m/06mg_j,/m/01jddz,rock concert,rock concert,OTHER,,http://dbpedia.org/ontology/Album,,,concert,concert,EVENT,concert,EVENT
+E65LTXb4v9c,passenger,24.0,0.6319780349731445,person,/m/0cb0xm,/m/01g317,passenger,passenger,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,auditorium,25.0,0.7114998102188109,building,/m/039l3v,/m/0cgh4,auditorium,auditorium,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,auditorium,26.0,0.781869649887085,building,/m/039l3v,/m/0cgh4,auditorium,auditorium,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,auditorium,27.0,0.8614219427108765,building,/m/039l3v,/m/0cgh4,auditorium,auditorium,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,auditorium,28.0,0.8562899827957153,building,/m/039l3v,/m/0cgh4,auditorium,auditorium,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,auditorium,29.0,0.7026938796043396,building,/m/039l3v,/m/0cgh4,auditorium,auditorium,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,opera,29.0,0.422929584980011,entertainment,/m/05lls,/m/02jjt,opera,opera,OTHER,,,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,conversation,24.0,0.6203808188438416,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+E65LTXb4v9c,theatre,25.0,0.6550042033195496,entertainment,/m/03qsdpk,/m/02jjt,theatre,theatre,OTHER,,,,LOCATION,LOCATION,entertainment,EVENT,entertainment,LOCATION
+E65LTXb4v9c,theatre,26.0,0.7170847654342651,entertainment,/m/03qsdpk,/m/02jjt,theatre,theatre,OTHER,,,,LOCATION,LOCATION,entertainment,EVENT,entertainment,LOCATION
+E65LTXb4v9c,theatre,27.0,0.5411416292190552,entertainment,/m/03qsdpk,/m/02jjt,theatre,theatre,OTHER,,,,LOCATION,LOCATION,entertainment,EVENT,entertainment,LOCATION
+E65LTXb4v9c,theatre,28.0,0.7080104351043701,entertainment,/m/03qsdpk,/m/02jjt,theatre,theatre,OTHER,,,,LOCATION,LOCATION,entertainment,EVENT,entertainment,LOCATION
+E65LTXb4v9c,theatre,29.0,0.5013173222541809,entertainment,/m/03qsdpk,/m/02jjt,theatre,theatre,OTHER,,,,LOCATION,LOCATION,entertainment,EVENT,entertainment,LOCATION
+E65LTXb4v9c,employment,24.0,0.44409340620040894,OTHER,/m/01tqrk,,employment,employment,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,news conference,24.0,0.5869380831718445,event,/m/01s8fx,/m/081pkj,news conference,news conference,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,event,event,OTHER
+E65LTXb4v9c,meeting,24.0,0.4374828040599823,event,/m/01h6cb,/m/081pkj,meeting,meeting,OTHER,,,,"ORGANIZATION, EVENT, LOCATION",event,event,EVENT,event,EVENT
+E65LTXb4v9c,people,25.0,0.9796396493911744,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,people,26.0,0.9777822494506836,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,people,27.0,0.979482889175415,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,people,28.0,0.9769991040229796,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,people,29.0,0.9714468717575072,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,darkness,25.0,0.4474497735500336,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,darkness,28.0,0.41359877586364746,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,orchestra,25.0,0.4378069043159485,musician,/m/05pd6,/m/09jwl,orchestra,orchestra,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,orchestra,26.0,0.479410856962204,musician,/m/05pd6,/m/09jwl,orchestra,orchestra,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,choir,25.0,0.7653118968009949,musician,/m/0l14jd,/m/09jwl,choir,choir,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,choir,26.0,0.6700081825256348,musician,/m/0l14jd,/m/09jwl,choir,choir,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,choir,27.0,0.4108186662197113,musician,/m/0l14jd,/m/09jwl,choir,choir,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,choir,28.0,0.5651143193244934,musician,/m/0l14jd,/m/09jwl,choir,choir,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,choir,29.0,0.6632265448570251,musician,/m/0l14jd,/m/09jwl,choir,choir,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,stage,29.0,0.8312808275222778,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+E65LTXb4v9c,newsreader,30.0,0.7638612389564514,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newsreader,31.0,0.4935971200466156,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newsreader,33.0,0.4766444265842438,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newsreader,34.0,0.6765854358673096,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newsreader,35.0,0.5536765456199646,person,/m/03tpc9,/m/01g317,newsreader,newsreader,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,performance,29.0,0.9171236157417296,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+E65LTXb4v9c,television presenter,30.0,0.6448970437049866,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,television presenter,31.0,0.4690636992454529,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,television presenter,33.0,0.488929808139801,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,television presenter,34.0,0.6564972400665283,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,television presenter,35.0,0.5062946081161499,person,/m/0vpsd3h,/m/01g317,television presenter,television presenter,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,television program,30.0,0.5441892147064209,OTHER,/m/0f2f9,,television program,television program,OTHER,,http://dbpedia.org/ontology/TelevisionEpisode,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,television program,34.0,0.6488355994224548,OTHER,/m/0f2f9,,television program,television program,OTHER,,http://dbpedia.org/ontology/TelevisionEpisode,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,investor,30.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,investor,31.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,investor,32.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,investor,33.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,investor,34.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,investor,35.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,investor,36.0,0.4622620940208435,person,/m/025sppp,/m/01g317,investor,investor,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,song,29.0,0.4273209273815155,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+E65LTXb4v9c,professional,30.0,0.5984373688697815,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,31.0,0.5450345277786255,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,32.0,0.5080735087394714,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,33.0,0.58933025598526,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,34.0,0.5817581415176392,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,35.0,0.5498537421226501,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,professional,36.0,0.4909461140632629,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,space,30.0,0.4298197627067566,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,space,33.0,0.4107628464698792,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,space,34.0,0.4001404643058777,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,space,35.0,0.4062661528587341,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,orator,30.0,0.8382928371429443,person,/m/0hpjt,/m/01g317,orator,orator,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,orator,31.0,0.8093017339706421,person,/m/0hpjt,/m/01g317,orator,orator,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,orator,32.0,0.8056105375289917,person,/m/0hpjt,/m/01g317,orator,orator,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,orator,33.0,0.8031179308891296,person,/m/0hpjt,/m/01g317,orator,orator,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,orator,34.0,0.7768380641937256,person,/m/0hpjt,/m/01g317,orator,orator,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,orator,35.0,0.7615642547607422,person,/m/0hpjt,/m/01g317,orator,orator,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,orator,36.0,0.6499556303024292,person,/m/0hpjt,/m/01g317,orator,orator,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,official,30.0,0.7140271663665771,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,official,31.0,0.608379065990448,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,official,32.0,0.555834949016571,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,official,33.0,0.5955526232719421,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,official,34.0,0.5342951416969299,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,official,35.0,0.5773262977600098,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,official,36.0,0.4071668684482575,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,business development,33.0,0.4083839654922485,person,/m/0c6zkt,/m/01g317,business development,business development,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,crowd,29.0,0.9464852809906006,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,speaker,30.0,0.5850890874862671,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,speaker,31.0,0.5178754329681396,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,speaker,32.0,0.5597057938575745,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,speaker,33.0,0.4924938678741455,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,speaker,34.0,0.5250835418701172,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,speaker,35.0,0.533862292766571,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,speaker,36.0,0.4190048575401306,person,/m/02079p,/m/01g317,speaker,speaker,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,entertainment,29.0,0.7909659147262573,OTHER,/m/02jjt,,entertainment,entertainment,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,energy,30.0,0.5413608551025391,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,energy,31.0,0.5228628516197205,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,energy,32.0,0.4705389738082886,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,energy,33.0,0.5431972146034241,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,energy,34.0,0.5361840128898621,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,energy,35.0,0.5506020188331604,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,energy,36.0,0.47602325677871704,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,public speaking,30.0,0.9684961438179016,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,public speaking,31.0,0.9550387263298036,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,public speaking,32.0,0.953986883163452,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,public speaking,33.0,0.951654016971588,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,public speaking,34.0,0.947044551372528,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,public speaking,35.0,0.9493874907493592,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,public speaking,36.0,0.9099718332290648,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,singing,29.0,0.481871098279953,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+E65LTXb4v9c,public relations,30.0,0.6478223204612732,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,31.0,0.6731624603271484,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,32.0,0.6718242168426514,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,33.0,0.6932845711708069,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,34.0,0.6997067928314209,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,35.0,0.6450082063674927,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,public relations,36.0,0.6052522659301758,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+E65LTXb4v9c,concert,29.0,0.6058754324913025,performance,/m/01jddz,/m/01gq53,concert,concert,OTHER,,http://dbpedia.org/ontology/Album,,,performance,performance,EVENT,performance,EVENT
+E65LTXb4v9c,performing arts,29.0,0.5186869502067566,entertainment,/m/05qjc,/m/02jjt,perform art,perform art,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,event,29.0,0.4297708868980408,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,musical ensemble,29.0,0.42441093921661377,musician,/m/05229,/m/09jwl,musical ensemble,musical ensemble,OTHER,,http://dbpedia.org/ontology/Band,,,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,communication,31.0,0.5496525168418884,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,communication,32.0,0.5192925930023193,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,communication,33.0,0.59724360704422,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,spokesperson,30.0,0.8741205930709839,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,spokesperson,31.0,0.851658284664154,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,spokesperson,32.0,0.8296443223953247,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,spokesperson,33.0,0.8550642132759094,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,spokesperson,34.0,0.8449144959449768,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,spokesperson,35.0,0.8642342686653137,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,spokesperson,36.0,0.8233331441879272,person,/m/01xr66,/m/01g317,spokesperson,spokesperson,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,formal wear,30.0,0.4135023057460785,clothing,/m/02w3_2,/m/09j2d,formal wear,formal wear,OTHER,,http://dbpedia.org/ontology/Country,,,clothing,clothing,clothing,clothing,OTHER
+E65LTXb4v9c,entrepreneur,30.0,0.5924994349479675,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,entrepreneur,31.0,0.6260812282562256,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,entrepreneur,32.0,0.5757235288619995,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,entrepreneur,33.0,0.6283234357833862,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,entrepreneur,34.0,0.6296516060829163,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,entrepreneur,35.0,0.5937721133232117,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,entrepreneur,36.0,0.5792427659034729,person,/m/09x_r,/m/01g317,entrepreneur,entrepreneur,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,applause,29.0,0.6090859770774841,person,/m/028ght,/m/01g317,applause,applause,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,media,33.0,0.412021279335022,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,media,34.0,0.4280261099338532,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,theatre,29.0,0.436184823513031,building,/m/05npqn,/m/0cgh4,theatre,theatre,OTHER,,,,LOCATION,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,audience,29.0,0.9852651357650756,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+E65LTXb4v9c,profession,30.0,0.606855571269989,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,profession,31.0,0.4418874680995941,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,profession,32.0,0.4447634816169739,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,profession,33.0,0.410879909992218,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,profession,34.0,0.4613834321498871,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,profession,35.0,0.4787067472934723,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,profession,36.0,0.48398357629776,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,musical theatre,29.0,0.7646747827529907,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+E65LTXb4v9c,fun,29.0,0.4714567363262177,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,convention,29.0,0.7190430760383606,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,31.0,0.432854950428009,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,32.0,0.4151566922664641,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,33.0,0.4168151319026947,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,convention,34.0,0.40189287066459656,meeting,/m/09cynt,/m/01h6cb,convention,convention,OTHER,,,,ORGANIZATION,meeting,meeting,EVENT,meeting,EVENT
+E65LTXb4v9c,auditorium,29.0,0.7026938796043396,building,/m/039l3v,/m/0cgh4,auditorium,auditorium,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+E65LTXb4v9c,opera,29.0,0.422929584980011,entertainment,/m/05lls,/m/02jjt,opera,opera,OTHER,,,,,entertainment,entertainment,EVENT,entertainment,EVENT
+E65LTXb4v9c,motivational speaker,30.0,0.8398612141609192,person,/m/05kb8h,/m/01g317,motivational speaker,motivational speaker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,motivational speaker,31.0,0.8692132234573364,person,/m/05kb8h,/m/01g317,motivational speaker,motivational speaker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,motivational speaker,32.0,0.8647447824478149,person,/m/05kb8h,/m/01g317,motivational speaker,motivational speaker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,motivational speaker,33.0,0.8618813753128052,person,/m/05kb8h,/m/01g317,motivational speaker,motivational speaker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,motivational speaker,34.0,0.8685742616653442,person,/m/05kb8h,/m/01g317,motivational speaker,motivational speaker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,motivational speaker,35.0,0.8339932560920715,person,/m/05kb8h,/m/01g317,motivational speaker,motivational speaker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,motivational speaker,36.0,0.6807853579521179,person,/m/05kb8h,/m/01g317,motivational speaker,motivational speaker,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+E65LTXb4v9c,theatre,29.0,0.5013173222541809,entertainment,/m/03qsdpk,/m/02jjt,theatre,theatre,OTHER,,,,LOCATION,LOCATION,entertainment,EVENT,entertainment,LOCATION
+E65LTXb4v9c,company,30.0,0.4675114452838898,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,company,31.0,0.4758774340152741,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,company,32.0,0.4658583402633667,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,company,33.0,0.4776337742805481,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,company,34.0,0.4793241918087006,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,company,35.0,0.4732508063316345,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,newscaster,30.0,0.7732716202735901,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newscaster,31.0,0.6697549223899841,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newscaster,32.0,0.5851036310195923,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newscaster,33.0,0.6862416863441467,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newscaster,34.0,0.7430908083915709,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newscaster,35.0,0.7024379968643188,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,newscaster,36.0,0.5986929535865784,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,speech,30.0,0.951743185520172,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,speech,31.0,0.9443123936653136,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,speech,32.0,0.949877679347992,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,speech,33.0,0.9394906759262084,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,speech,34.0,0.9323908686637878,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,speech,35.0,0.938604474067688,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,speech,36.0,0.8976860642433167,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,presentation,30.0,0.5417132973670961,person,/m/02y3rj,/m/01g317,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,presentation,31.0,0.6788009405136108,person,/m/02y3rj,/m/01g317,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,presentation,32.0,0.6029773950576782,person,/m/02y3rj,/m/01g317,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,presentation,33.0,0.7496328949928284,person,/m/02y3rj,/m/01g317,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,presentation,34.0,0.6201551556587219,person,/m/02y3rj,/m/01g317,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,presentation,35.0,0.5072713494300842,person,/m/02y3rj,/m/01g317,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,business executive,30.0,0.4450515806674957,person,/m/0n5szg6,/m/01g317,business executive,business executive,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,business executive,34.0,0.4290144741535187,person,/m/0n5szg6,/m/01g317,business executive,business executive,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,people,29.0,0.9714468717575072,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+E65LTXb4v9c,expert,30.0,0.4238888919353485,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,expert,31.0,0.453505665063858,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,expert,32.0,0.43500667810440063,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,expert,33.0,0.43943905830383295,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,expert,34.0,0.4390300512313843,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,expert,35.0,0.4368472695350647,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,expert,36.0,0.4079182744026184,person,/m/02pkl,/m/01g317,expert,expert,OTHER,,,,PERSON,person,person,person,person,OTHER
+E65LTXb4v9c,choir,29.0,0.6632265448570251,musician,/m/0l14jd,/m/09jwl,choir,choir,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,musician,PERSON,musician,musician,PERSON
+E65LTXb4v9c,brand,89.0,0.6047346591949463,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,brand,90.0,0.6298874616622925,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,brand,91.0,0.6202733516693115,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,brand,92.0,0.6147875785827637,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,brand,93.0,0.6331834197044373,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,brand,94.0,0.6332453489303589,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,brand,95.0,0.6236375570297241,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,signage,94.0,0.4094575941562653,OTHER,/m/0bkqqh,,signage,signage,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,graphics,89.0,0.5165776610374451,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,graphics,90.0,0.5360726118087769,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,graphics,91.0,0.4898707866668701,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,graphics,92.0,0.5167451500892639,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,graphics,93.0,0.5503575205802917,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,graphics,94.0,0.5422937273979187,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,graphics,95.0,0.4820540547370911,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,text,89.0,0.8670971989631653,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,text,90.0,0.8724852204322815,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,text,91.0,0.8471402525901794,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,text,92.0,0.8592434525489807,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,text,93.0,0.8790088295936584,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,text,94.0,0.8955568075180054,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,text,95.0,0.8357206583023071,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,flag,93.0,0.4467575252056122,OTHER,/m/03120,,flag,flag,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,flag,95.0,0.4020358622074127,OTHER,/m/03120,,flag,flag,OTHER,,http://dbpedia.org/ontology/MusicalWork,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,logo,90.0,0.4019637703895569,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+E65LTXb4v9c,logo,94.0,0.413316547870636,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+E65LTXb4v9c,stock photography,89.0,0.4229511320590973,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+E65LTXb4v9c,website,89.0,0.4206394255161285,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,website,90.0,0.4382848143577576,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+E65LTXb4v9c,graphic design,89.0,0.4115263223648071,artwork,/m/03c31,/m/0dgsmq8,graphic design,graphic design,OTHER,,http://dbpedia.org/ontology/Election,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,graphic design,90.0,0.47002696990966797,artwork,/m/03c31,/m/0dgsmq8,graphic design,graphic design,OTHER,,http://dbpedia.org/ontology/Election,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,graphic design,93.0,0.4065832495689392,artwork,/m/03c31,/m/0dgsmq8,graphic design,graphic design,OTHER,,http://dbpedia.org/ontology/Election,,,artwork,artwork,artwork,artwork,OTHER
+E65LTXb4v9c,digital compositing,90.0,0.44285231828689575,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,digital compositing,92.0,0.4004920721054077,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,digital compositing,93.0,0.4117792248725891,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,media,89.0,0.4575416147708893,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,media,91.0,0.41916677355766296,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,media,93.0,0.4287380874156952,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,media,94.0,0.5256268978118896,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,banner,89.0,0.5084332227706909,advertising,/m/0m9cj,/m/011s0,banner,banner,OTHER,,http://dbpedia.org/ontology/Album,,,advertising,advertising,advertising,advertising,OTHER
+E65LTXb4v9c,banner,90.0,0.4604071080684662,advertising,/m/0m9cj,/m/011s0,banner,banner,OTHER,,http://dbpedia.org/ontology/Album,,,advertising,advertising,advertising,advertising,OTHER
+E65LTXb4v9c,banner,91.0,0.4939355552196503,advertising,/m/0m9cj,/m/011s0,banner,banner,OTHER,,http://dbpedia.org/ontology/Album,,,advertising,advertising,advertising,advertising,OTHER
+E65LTXb4v9c,banner,92.0,0.4470140337944031,advertising,/m/0m9cj,/m/011s0,banner,banner,OTHER,,http://dbpedia.org/ontology/Album,,,advertising,advertising,advertising,advertising,OTHER
+E65LTXb4v9c,banner,93.0,0.469640463590622,advertising,/m/0m9cj,/m/011s0,banner,banner,OTHER,,http://dbpedia.org/ontology/Album,,,advertising,advertising,advertising,advertising,OTHER
+E65LTXb4v9c,banner,94.0,0.4669400155544281,advertising,/m/0m9cj,/m/011s0,banner,banner,OTHER,,http://dbpedia.org/ontology/Album,,,advertising,advertising,advertising,advertising,OTHER
+E65LTXb4v9c,poster,89.0,0.5337964296340942,OTHER,/m/01n5jq,,poster,poster,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,poster,90.0,0.5910396575927734,OTHER,/m/01n5jq,,poster,poster,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,poster,91.0,0.5357614755630493,OTHER,/m/01n5jq,,poster,poster,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,poster,92.0,0.43870866298675537,OTHER,/m/01n5jq,,poster,poster,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,poster,93.0,0.4259164035320282,OTHER,/m/01n5jq,,poster,poster,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,poster,94.0,0.4861323833465576,OTHER,/m/01n5jq,,poster,poster,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,poster,95.0,0.4423199594020844,OTHER,/m/01n5jq,,poster,poster,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,advertising,89.0,0.8515852689743042,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,advertising,90.0,0.8140090703964233,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,advertising,91.0,0.8425834774971008,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,advertising,92.0,0.7561812996864319,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,advertising,93.0,0.7709405422210693,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,advertising,94.0,0.7779051661491394,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,advertising,95.0,0.7382519245147705,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+E65LTXb4v9c,screenshot,92.0,0.406586229801178,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,screenshot,93.0,0.484299898147583,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,screenshot,94.0,0.4009324014186859,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,computer wallpaper,89.0,0.4961544871330261,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,computer wallpaper,90.0,0.5068584084510803,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,computer wallpaper,91.0,0.5046392679214478,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,computer wallpaper,92.0,0.4999430179595947,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,computer wallpaper,93.0,0.5213189125061035,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,computer wallpaper,94.0,0.5169751048088074,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,computer wallpaper,95.0,0.4584313631057739,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,font,89.0,0.5747713446617126,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,font,90.0,0.6321961283683777,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,font,91.0,0.5032011866569519,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,font,92.0,0.5344139337539673,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,font,93.0,0.5756117701530457,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,font,94.0,0.5939802527427673,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,font,95.0,0.5425638556480408,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+E65LTXb4v9c,product,90.0,0.4453948438167572,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,product,95.0,0.4226009249687195,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,company,91.0,0.4402261078357697,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,company,93.0,0.4438118636608124,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,company,94.0,0.4654560983181,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,company,95.0,0.4022931158542633,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+E65LTXb4v9c,presentation,91.0,0.4034568071365357,person,/m/02y3rj,/m/01g317,presentation,presentation,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+E65LTXb4v9c,world,89.0,0.4042239189147949,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,display advertising,89.0,0.6514957547187805,person,/m/02_784,/m/01g317,display advertising,display advertising,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,display advertising,90.0,0.6045207381248474,person,/m/02_784,/m/01g317,display advertising,display advertising,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,display advertising,91.0,0.6604198217391968,person,/m/02_784,/m/01g317,display advertising,display advertising,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,display advertising,92.0,0.6540987491607666,person,/m/02_784,/m/01g317,display advertising,display advertising,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,display advertising,93.0,0.7025489211082458,person,/m/02_784,/m/01g317,display advertising,display advertising,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,display advertising,94.0,0.7308010458946228,person,/m/02_784,/m/01g317,display advertising,display advertising,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,display advertising,95.0,0.5093555450439453,person,/m/02_784,/m/01g317,display advertising,display advertising,OTHER,,,,,person,person,person,person,OTHER
+E65LTXb4v9c,adaptation,89.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,adaptation,90.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,adaptation,91.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,adaptation,92.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,adaptation,93.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,adaptation,95.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+E65LTXb4v9c,photo caption,89.0,0.4205951988697052,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+E65LTXb4v9c,photo caption,90.0,0.4739158153533936,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER

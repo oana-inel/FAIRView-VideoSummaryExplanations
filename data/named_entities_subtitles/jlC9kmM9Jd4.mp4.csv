@@ -1,0 +1,19 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+jlC9kmM9Jd4,anything,OTHER,,,anything,42,0.0,0.0,COMMON,0.4514627158641815,0.0,0.0,anything,anything,,,,,,OTHER,OTHER,OTHER
+jlC9kmM9Jd4,Rick Perry,PERSON,/m/02nlj_,https://en.wikipedia.org/wiki/Rick_Perry,Rick Perry,440,0.0,0.0,PROPER,0.1411435604095459,1.0,0.30000001192092896,Rick Perry,rick perry,,,,,,PERSON,PERSON,PERSON
+jlC9kmM9Jd4,Rick Perry,PERSON,/m/02nlj_,https://en.wikipedia.org/wiki/Rick_Perry,Rick,526,0.8999999761581421,0.8999999761581421,PROPER,0.1411435604095459,1.0,0.30000001192092896,Rick Perry,rick perry,,,,,,PERSON,PERSON,PERSON
+jlC9kmM9Jd4,Rahm Emanuel,PERSON,/m/0256f7,https://en.wikipedia.org/wiki/Rahm_Emanuel,Rahm Emanuel,297,0.0,0.0,PROPER,0.07092437893152237,0.10000000149011612,0.0,Rahm Emanuel,rahm emanuel,,,,,,PERSON,PERSON,PERSON
+jlC9kmM9Jd4,Rahm Emanuel,PERSON,/m/0256f7,https://en.wikipedia.org/wiki/Rahm_Emanuel,mayor,291,0.10000000149011612,0.10000000149011612,COMMON,0.07092437893152237,0.10000000149011612,0.0,Rahm Emanuel,rahm emanuel,,,,,,PERSON,PERSON,PERSON
+jlC9kmM9Jd4,shoe,CONSUMER_GOOD,,,shoe,126,0.0,0.0,COMMON,0.046143248677253716,0.0,0.0,shoe,shoe,,,,,,OTHER,OTHER,OTHER
+jlC9kmM9Jd4,Chicago,LOCATION,/m/01_d4,https://en.wikipedia.org/wiki/Chicago,Chicago,368,0.0,0.0,PROPER,0.03463776782155037,0.10000000149011612,0.0,Chicago,chicago,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+jlC9kmM9Jd4,picture,WORK_OF_ART,,,picture,167,0.8999999761581421,0.8999999761581421,COMMON,0.03300546109676361,0.8999999761581421,0.8999999761581421,picture,picture,,,,,,WORK_OF_ART,WORK_OF_ART,EVENT
+jlC9kmM9Jd4,legacy,OTHER,,,legacy,266,0.0,0.0,COMMON,0.03131754323840141,0.0,0.0,legacy,legacy,,,,,,OTHER,OTHER,OTHER
+jlC9kmM9Jd4,press conference,EVENT,,,press conference,136,0.0,0.0,COMMON,0.031200090423226363,0.0,0.0,press conference,press conference,,,,,,EVENT,EVENT,EVENT
+jlC9kmM9Jd4,Hillary,PERSON,/m/0d06m5,https://en.wikipedia.org/wiki/Hillary_Clinton,Hillary,96,0.0,0.0,PROPER,0.02980441227555275,0.0,0.0,Hillary,hillary,,,,,PERSON,PERSON,PERSON,PERSON
+jlC9kmM9Jd4,high school,ORGANIZATION,,,high school,344,0.0,0.0,COMMON,0.02866588905453682,0.0,0.0,high school,high school,,,,,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION
+jlC9kmM9Jd4,thing,OTHER,,,thing,488,0.0,0.0,COMMON,0.021574124693870544,0.0,0.0,thing,thing,,,,,EVENT,OTHER,OTHER,OTHER
+jlC9kmM9Jd4,campaign,EVENT,,,campaign,221,0.0,0.0,COMMON,0.018036365509033203,0.0,0.0,campaign,campaign,,,,,EVENT,EVENT,EVENT,EVENT
+jlC9kmM9Jd4,look,OTHER,,,look,510,0.10000000149011612,-0.10000000149011612,COMMON,0.017297836020588875,0.10000000149011612,-0.10000000149011612,look,look,,,,,,OTHER,OTHER,OTHER
+jlC9kmM9Jd4,some,PERSON,,,some,273,0.10000000149011612,0.10000000149011612,COMMON,0.016962474212050438,0.10000000149011612,0.10000000149011612,some,some,,,,,,PERSON,PERSON,PERSON
+jlC9kmM9Jd4,lot,OTHER,,,lot,544,0.0,0.0,COMMON,0.015058820135891438,0.0,0.0,lot,lot,,,,,"LOCATION, ORGANIZATION, PERSON",OTHER,OTHER,OTHER
+jlC9kmM9Jd4,Texas,LOCATION,/m/07b_l,https://en.wikipedia.org/wiki/Texas,Texas,497,0.0,0.0,PROPER,0.012765314429998398,0.0,0.0,Texas,texas,,,,,LOCATION,LOCATION,LOCATION,LOCATION

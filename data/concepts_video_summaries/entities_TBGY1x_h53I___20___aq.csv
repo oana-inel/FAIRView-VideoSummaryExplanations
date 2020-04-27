@@ -1,0 +1,5 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+TBGY1x_h53I,citizens,PERSON,,,citizens,1615,0.10000000149011612,-0.10000000149011612,COMMON,0.00870518758893013,0.4000000059604645,0.0,citizen,citizen,,,,,PERSON,PERSON,PERSON,PERSON
+TBGY1x_h53I,people,PERSON,,,people,1586,0.10000000149011612,0.10000000149011612,COMMON,0.006750547327101232,0.5,0.0,people,people,,,,,ORGANIZATION,PERSON,PERSON,PERSON
+TBGY1x_h53I,sleep,OTHER,,,sleep,1470,0.0,0.0,COMMON,0.0023619376588612795,0.0,0.0,sleep,sleep,,,,,,OTHER,OTHER,OTHER
+TBGY1x_h53I,opportunity,OTHER,,,opportunity,1530,0.8000000119209291,0.8000000119209291,COMMON,0.0018240840872749688,0.8000000119209291,0.8000000119209291,opportunity,opportunity,,,,,,OTHER,OTHER,OTHER

@@ -1,0 +1,15 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+PmFKZFlyExc,key,OTHER,,,key,18,0.0,0.0,COMMON,0.04575003683567047,0.0,0.0,key,key,,,,,"PERSON, LOCATION",OTHER,OTHER,OTHER
+PmFKZFlyExc,mystery,OTHER,,,mystery,37,0.0,0.0,COMMON,0.04575003683567047,0.0,0.0,mystery,mystery,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,evidence,OTHER,,,evidence,408,0.10000000149011612,0.10000000149011612,COMMON,0.050220649689435966,0.30000001192092896,0.10000000149011612,evidence,evidence,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,pieces,WORK_OF_ART,,,pieces,398,0.0,0.0,COMMON,0.03683215752243997,0.0,0.0,piece,piece,,,,,EVENT,WORK_OF_ART,WORK_OF_ART,EVENT
+PmFKZFlyExc,sea,LOCATION,,,sea,375,0.10000000149011612,0.10000000149011612,COMMON,0.010490598157048224,0.10000000149011612,0.10000000149011612,sea,sea,,,,,,LOCATION,LOCATION,LOCATION
+PmFKZFlyExc,flight data recorder,OTHER,,,flight data recorder,460,0.0,0.0,COMMON,0.008899231441318989,0.0,0.0,flight datum recorder,flight datum recorder,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,evidence,OTHER,,,evidence,443,0.0,0.0,COMMON,0.007047243881970644,0.0,0.0,evidence,evidence,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,cameras,CONSUMER_GOOD,,,cameras,901,0.20000000298023224,-0.20000000298023224,COMMON,0.012780812568962574,0.4000000059604645,-0.20000000298023224,camera,camera,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,Bridge Auto V,OTHER,,,Bridge Auto V,861,0.0,0.0,PROPER,0.011608816683292387,0.10000000149011612,0.0,Bridge Auto V,bridge auto v,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,pilot Monitor,CONSUMER_GOOD,,,pilot Monitor,934,0.10000000149011612,-0.10000000149011612,COMMON,0.005883845034986734,0.10000000149011612,-0.10000000149011612,pilot Monitor,pilot monitor,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,cameras,CONSUMER_GOOD,,,cameras,912,0.0,0.0,COMMON,0.005883845034986734,0.0,0.0,camera,camera,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,ROV,LOCATION,/m/01rqbh,https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle,ROV,880,0.0,0.0,PROPER,0.0040962290950119495,0.0,0.0,ROV,rov,,,,,,LOCATION,LOCATION,LOCATION
+PmFKZFlyExc,task,OTHER,,,task,1482,0.0,0.0,COMMON,0.002717740600928664,0.0,0.0,task,task,,,,,,OTHER,OTHER,OTHER
+PmFKZFlyExc,Indian Ocean,LOCATION,/m/03rz4,https://en.wikipedia.org/wiki/Indian_Ocean,Indian Ocean,1506,0.0,0.0,PROPER,0.001931775244884193,0.0,0.0,Indian Ocean,indian ocean,,,,,,LOCATION,LOCATION,LOCATION

@@ -1,0 +1,146 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+PmFKZFlyExc,machine,0.0,0.40111958980560297,OTHER,/m/0dkw5,,machine,machine,OTHER,,http://dbpedia.org/ontology/Software,,"PERSON, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,machine,2.0,0.4114707410335541,OTHER,/m/0dkw5,,machine,machine,OTHER,,http://dbpedia.org/ontology/Software,,"PERSON, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,machine,3.0,0.4484821856021881,OTHER,/m/0dkw5,,machine,machine,OTHER,,http://dbpedia.org/ontology/Software,,"PERSON, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,product,1.0,0.4103096723556519,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,vehicle,0.0,0.5937353372573853,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,vehicle,1.0,0.6676853895187378,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,vehicle,2.0,0.6968390345573425,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,vehicle,3.0,0.5409339666366577,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,company,1.0,0.43278929591178894,organization,/m/03bxgrp,/m/0qb7t,company,company,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, PERSON",organization,organization,organization,ORGANIZATION,ORGANIZATION
+PmFKZFlyExc,freight transport,0.0,0.6778643131256104,transport,/m/070qm,/m/07bsy,freight transport,freight transport,OTHER,,http://dbpedia.org/ontology/Election,,,transport,transport,transport,transport,OTHER
+PmFKZFlyExc,freight transport,1.0,0.6632878184318542,transport,/m/070qm,/m/07bsy,freight transport,freight transport,OTHER,,http://dbpedia.org/ontology/Election,,,transport,transport,transport,transport,OTHER
+PmFKZFlyExc,freight transport,2.0,0.7034920454025269,transport,/m/070qm,/m/07bsy,freight transport,freight transport,OTHER,,http://dbpedia.org/ontology/Election,,,transport,transport,transport,transport,OTHER
+PmFKZFlyExc,freight transport,3.0,0.659969687461853,transport,/m/070qm,/m/07bsy,freight transport,freight transport,OTHER,,http://dbpedia.org/ontology/Election,,,transport,transport,transport,transport,OTHER
+PmFKZFlyExc,technology,2.0,0.5968441963195801,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,technology,3.0,0.6107100248336792,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,rescue,3.0,0.4498335123062134,OTHER,/m/01_p8q,,rescue,rescue,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+PmFKZFlyExc,transport,1.0,0.838403046131134,OTHER,/m/07bsy,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,public utility,0.0,0.4623622000217438,organization,/m/016znt,/m/0qb7t,public utility,public utility,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,organization,OTHER
+PmFKZFlyExc,public utility,1.0,0.5219203233718872,organization,/m/016znt,/m/0qb7t,public utility,public utility,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,organization,OTHER
+PmFKZFlyExc,public utility,2.0,0.4971588850021362,organization,/m/016znt,/m/0qb7t,public utility,public utility,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,organization,OTHER
+PmFKZFlyExc,public utility,3.0,0.4127534031867981,organization,/m/016znt,/m/0qb7t,public utility,public utility,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,organization,OTHER
+PmFKZFlyExc,stevedore,0.0,0.4056591987609863,person,/m/02lrkj,/m/01g317,stevedore,stevedore,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+PmFKZFlyExc,stevedore,3.0,0.4240085184574127,person,/m/02lrkj,/m/01g317,stevedore,stevedore,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+PmFKZFlyExc,mode of transport,2.0,0.8751770853996277,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,construction equipment,0.0,0.6528262495994568,vehicle,/m/02gx17,/m/07yv9,construction equipment,construction equipment,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,construction equipment,1.0,0.7778404355049133,vehicle,/m/02gx17,/m/07yv9,construction equipment,construction equipment,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,construction equipment,2.0,0.8317269682884216,vehicle,/m/02gx17,/m/07yv9,construction equipment,construction equipment,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,construction equipment,3.0,0.6890754699707031,vehicle,/m/02gx17,/m/07yv9,construction equipment,construction equipment,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,crane,0.0,0.6610022783279419,vehicle,/m/01v50j,/m/07yv9,crane,crane,OTHER,,,,PERSON,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,crane,1.0,0.7279651165008545,vehicle,/m/01v50j,/m/07yv9,crane,crane,OTHER,,,,PERSON,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,crane,2.0,0.7812867164611816,vehicle,/m/01v50j,/m/07yv9,crane,crane,OTHER,,,,PERSON,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,crane,3.0,0.6773689389228821,vehicle,/m/01v50j,/m/07yv9,crane,crane,OTHER,,,,PERSON,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,electronic instrument,43.0,0.4878368377685547,OTHER,/m/0121tl,,electronic instrument,electronic instrument,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,electronic instrument,44.0,0.44595056772232056,OTHER,/m/0121tl,,electronic instrument,electronic instrument,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,led display,42.0,0.5791748762130737,technology,/m/04gvls_,/m/07c1v,lead display,lead display,OTHER,,,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,dock landing ship,39.0,0.5467556715011597,ship,/m/02zqjy,/m/06q74,dock land ship,dock land ship,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,lighter aboard ship,39.0,0.4656238555908203,ship,/m/07bsk8,/m/06q74,lighter aboard ship,lighter aboard ship,OTHER,,,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,casino,40.0,0.6731296181678772,building,/m/01lq3,/m/0cgh4,casino,casino,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,building,building,building,LOCATION
+PmFKZFlyExc,casino,41.0,0.5348489284515381,building,/m/01lq3,/m/0cgh4,casino,casino,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,,LOCATION,building,building,building,LOCATION
+PmFKZFlyExc,arcade game,40.0,0.4058307409286499,games,/m/0d76r,/m/03bt1gh,arcade game,arcade game,OTHER,,http://dbpedia.org/ontology/Software,,,games,games,EVENT,games,EVENT
+PmFKZFlyExc,space,40.0,0.4036809504032135,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,space,42.0,0.4583735764026642,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,computer hardware,43.0,0.5421676635742188,computer,/m/01mfj,/m/01m3v,computer hardware,computer hardware,OTHER,,http://dbpedia.org/ontology/Book,,,computer,computer,computer,computer,OTHER
+PmFKZFlyExc,water transportation,39.0,0.9239243865013124,transport,/m/08rrcl,/m/07bsy,water transportation,water transportation,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,transport,transport,transport,transport,OTHER
+PmFKZFlyExc,passenger ship,38.0,0.5758738517761229,ship,/m/020dwk,/m/06q74,passenger ship,passenger ship,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,passenger ship,39.0,0.5508404374122621,ship,/m/020dwk,/m/06q74,passenger ship,passenger ship,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,floating production storage and offloading,39.0,0.4844087660312653,vehicle,/m/03q_l4,/m/07yv9,float production storage and offload,float production storage and offload,OTHER,,http://dbpedia.org/ontology/Ship,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,text,42.0,0.7517150640487671,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,flat panel display,42.0,0.5054970383644104,technology,/m/01qwsw,/m/07c1v,flat panel display,flat panel display,OTHER,,,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,trade,43.0,0.4018256962299347,OTHER,/m/07br0,,trade,trade,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,recreation room,40.0,0.4596459567546845,room,/m/03f6tc,/m/06ht1,recreation room,recreation room,OTHER,,,,,LOCATION,room,room,room,LOCATION
+PmFKZFlyExc,product,41.0,0.5447695255279541,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,professional,40.0,0.4804118275642395,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+PmFKZFlyExc,professional,41.0,0.5616847276687622,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+PmFKZFlyExc,television,40.0,0.6358615756034851,media,/m/07c52,/m/03qh03g,television,television,OTHER,,,,,media,media,media,media,OTHER
+PmFKZFlyExc,television,41.0,0.4837169945240021,media,/m/07c52,/m/03qh03g,television,television,OTHER,,,,,media,media,media,media,OTHER
+PmFKZFlyExc,television,43.0,0.4721535444259644,media,/m/07c52,/m/03qh03g,television,television,OTHER,,,,,media,media,media,media,OTHER
+PmFKZFlyExc,television,44.0,0.448377937078476,media,/m/07c52,/m/03qh03g,television,television,OTHER,,,,,media,media,media,media,OTHER
+PmFKZFlyExc,audio engineer,43.0,0.4399248659610748,person,/m/02tx6q,/m/01g317,audio engineer,audio engineer,OTHER,,,,,person,person,person,person,OTHER
+PmFKZFlyExc,motor ship,38.0,0.5680508017539978,ship,/m/093q8j,/m/06q74,motor ship,motor ship,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,motor ship,39.0,0.6660900115966797,ship,/m/093q8j,/m/06q74,motor ship,motor ship,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,media,40.0,0.6082971096038818,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,media,41.0,0.5320830345153809,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,media,42.0,0.5345778465270996,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,media,43.0,0.5724400281906128,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,media,44.0,0.5431568026542664,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,anchor handling tug supply vessel,39.0,0.4259364306926727,ship,/m/03r5_l,/m/06q74,anchor handle tug supply vessel,anchor handle tug supply vessel,OTHER,,,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,replenishment oiler,39.0,0.4016982614994049,ship,/m/05d283,/m/06q74,replenishment oiler,replenishment oiler,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,stage,42.0,0.5588083863258362,location,/m/04_5hy,/m/078x4m,stage,stage,OTHER,,,,LOCATION,LOCATION,location,location,location,LOCATION
+PmFKZFlyExc,communication,40.0,0.5343700051307678,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+PmFKZFlyExc,communication,43.0,0.5426031947135925,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+PmFKZFlyExc,world,42.0,0.4041388630867005,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,electronic signage,42.0,0.45757195353508,OTHER,/m/0522cz4,,electronic signage,electronic signage,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,multimedia,40.0,0.6244942545890808,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,multimedia,41.0,0.4965760111808777,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,multimedia,42.0,0.6044820547103882,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,multimedia,43.0,0.6623863577842712,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,multimedia,44.0,0.6045734286308289,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,freight transport,38.0,0.6432322859764099,transport,/m/070qm,/m/07bsy,freight transport,freight transport,OTHER,,http://dbpedia.org/ontology/Election,,,transport,transport,transport,transport,OTHER
+PmFKZFlyExc,freight transport,39.0,0.620273232460022,transport,/m/070qm,/m/07bsy,freight transport,freight transport,OTHER,,http://dbpedia.org/ontology/Election,,,transport,transport,transport,transport,OTHER
+PmFKZFlyExc,technology,40.0,0.9097038507461548,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,technology,41.0,0.8429074883460999,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,technology,42.0,0.8573052883148193,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,technology,43.0,0.8719357848167419,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,technology,44.0,0.8577784299850464,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,personal computer,40.0,0.4630813002586365,computer,/m/0643t,/m/01m3v,personal computer,personal computer,OTHER,,http://dbpedia.org/ontology/InformationAppliance,,,computer,computer,computer,computer,OTHER
+PmFKZFlyExc,personal computer,43.0,0.5655495524406433,computer,/m/0643t,/m/01m3v,personal computer,personal computer,OTHER,,http://dbpedia.org/ontology/InformationAppliance,,,computer,computer,computer,computer,OTHER
+PmFKZFlyExc,personal computer,44.0,0.4017216861248016,computer,/m/0643t,/m/01m3v,personal computer,personal computer,OTHER,,http://dbpedia.org/ontology/InformationAppliance,,,computer,computer,computer,computer,OTHER
+PmFKZFlyExc,technical director,43.0,0.5258620977401733,person,/m/033smt,/m/01g317,technical director,technical director,OTHER,,,,,person,person,person,person,OTHER
+PmFKZFlyExc,technical director,44.0,0.525861918926239,person,/m/033smt,/m/01g317,technical director,technical director,OTHER,,,,,person,person,person,person,OTHER
+PmFKZFlyExc,slot machine,40.0,0.5099269151687622,machine,/m/077hz,/m/0dkw5,slot machine,slot machine,OTHER,,http://dbpedia.org/ontology/Software,,,machine,machine,machine,machine,OTHER
+PmFKZFlyExc,advertising,42.0,0.5359759330749512,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+PmFKZFlyExc,research vessel,39.0,0.45882648229599,ship,/m/058zpf,/m/06q74,research vessel,research vessel,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,watercraft,38.0,0.6189419627189636,vehicle,/m/01rzcn,/m/07yv9,watercraft,watercraft,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,watercraft,39.0,0.7102867364883423,vehicle,/m/01rzcn,/m/07yv9,watercraft,watercraft,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,brand,42.0,0.43083804845809937,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,display device,40.0,0.6801126599311829,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,display device,41.0,0.5465075969696045,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,display device,42.0,0.8743295073509216,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,display device,43.0,0.6722028255462646,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,display device,44.0,0.5688171982765198,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,frigate,39.0,0.414700448513031,ship,/m/031dt,/m/06q74,frigate,frigate,OTHER,,,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,learning,40.0,0.5050152540206909,person,/m/0191f8,/m/01g317,learn,learn,OTHER,,http://dbpedia.org/ontology/Band,,,person,person,person,person,OTHER
+PmFKZFlyExc,system,43.0,0.4814617335796356,OTHER,/m/0bj6r,,system,system,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,heavy lift ship,38.0,0.5842663645744324,ship,/m/03m4yz0,/m/06q74,heavy lift ship,heavy lift ship,OTHER,,,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,heavy lift ship,39.0,0.6690346002578735,ship,/m/03m4yz0,/m/06q74,heavy lift ship,heavy lift ship,OTHER,,,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,public relations,40.0,0.4680514931678772,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+PmFKZFlyExc,public relations,41.0,0.518031120300293,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+PmFKZFlyExc,broadcasting,43.0,0.600414514541626,person,/m/07z226,/m/01g317,broadcasting,broadcasting,OTHER,,http://dbpedia.org/ontology/Software,,,person,person,person,person,OTHER
+PmFKZFlyExc,broadcasting,44.0,0.4846064448356629,person,/m/07z226,/m/01g317,broadcasting,broadcasting,OTHER,,http://dbpedia.org/ontology/Software,,,person,person,person,person,OTHER
+PmFKZFlyExc,sound design,43.0,0.4669942855834961,person,/m/02gjdn,/m/01g317,sound design,sound design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+PmFKZFlyExc,job,41.0,0.558411180973053,person,/m/04115t2,/m/01g317,job,job,OTHER,,,,PERSON,person,person,person,person,OTHER
+PmFKZFlyExc,television studio,40.0,0.4218946099281311,building,/m/05b086,/m/0cgh4,television studio,television studio,OTHER,,http://dbpedia.org/ontology/MilitaryStructure,,,LOCATION,building,building,building,LOCATION
+PmFKZFlyExc,indoor games and sports,40.0,0.5039755702018738,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+PmFKZFlyExc,indoor games and sports,41.0,0.504719614982605,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+PmFKZFlyExc,cable layer,39.0,0.4342872798442841,ship,/m/04swq2,/m/06q74,cable layer,cable layer,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,cruise ship,38.0,0.4250514209270477,ship,/m/01tq2l,/m/06q74,cruise ship,cruise ship,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,play,40.0,0.4736670255661011,person,/m/06wtgq,/m/01g317,play,play,OTHER,,,,EVENT,person,person,person,person,OTHER
+PmFKZFlyExc,naval architecture,38.0,0.7629211544990541,person,/m/0k5qm,/m/01g317,naval architecture,naval architecture,OTHER,,http://dbpedia.org/ontology/Sport,,,person,person,person,person,OTHER
+PmFKZFlyExc,naval architecture,39.0,0.7856066226959229,person,/m/0k5qm,/m/01g317,naval architecture,naval architecture,OTHER,,http://dbpedia.org/ontology/Sport,,,person,person,person,person,OTHER
+PmFKZFlyExc,amphibious transport dock,39.0,0.5037482380867004,ship,/m/01hxrs,/m/06q74,amphibious transport dock,amphibious transport dock,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,software,43.0,0.7981478571891785,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,software,44.0,0.715567946434021,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,display advertising,42.0,0.4836255609989166,person,/m/02_784,/m/01g317,display advertising,display advertising,OTHER,,,,,person,person,person,person,OTHER
+PmFKZFlyExc,electronic device,40.0,0.8281580209732056,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,electronic device,41.0,0.6469056010246277,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,electronic device,42.0,0.6642757058143616,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,electronic device,43.0,0.8925699591636658,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,electronic device,44.0,0.8837140202522278,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,navy,39.0,0.4183243215084076,organization,/m/05dlb,/m/0qb7t,navy,navy,OTHER,,http://dbpedia.org/ontology/Train,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+PmFKZFlyExc,electronics,40.0,0.5705052614212036,technology,/m/02mrp,/m/07c1v,electronics,electronics,OTHER,,http://dbpedia.org/ontology/Work,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,electronics,41.0,0.5219899415969849,technology,/m/02mrp,/m/07c1v,electronics,electronics,OTHER,,http://dbpedia.org/ontology/Work,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,electronics,43.0,0.7921848893165588,technology,/m/02mrp,/m/07c1v,electronics,electronics,OTHER,,http://dbpedia.org/ontology/Work,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,electronics,44.0,0.7641389966011047,technology,/m/02mrp,/m/07c1v,electronics,electronics,OTHER,,http://dbpedia.org/ontology/Work,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,screenshot,42.0,0.4002036750316621,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+PmFKZFlyExc,icebreaker,39.0,0.4788742959499359,ship,/m/02fx5l,/m/06q74,icebreaker,icebreaker,OTHER,,http://dbpedia.org/ontology/Ship,,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,gadget,43.0,0.4744342267513275,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,gadget,44.0,0.4764584600925446,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+PmFKZFlyExc,games,40.0,0.648212730884552,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+PmFKZFlyExc,games,41.0,0.5681296586990356,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+PmFKZFlyExc,ship,38.0,0.7871488332748413,vehicle,/m/06q74,/m/07yv9,ship,ship,OTHER,,http://dbpedia.org/ontology/Ship,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,ship,39.0,0.8285567164421082,vehicle,/m/06q74,/m/07yv9,ship,ship,OTHER,,http://dbpedia.org/ontology/Ship,,,vehicle,vehicle,vehicle,vehicle,OTHER
+PmFKZFlyExc,container ship,38.0,0.7559352517127991,ship,/m/01mwy7,/m/06q74,container ship,container ship,OTHER,,"http://dbpedia.org/ontology/MeanOfTransportation, http://dbpedia.org/ontology/Ship, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact",,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,container ship,39.0,0.8438720703125,ship,/m/01mwy7,/m/06q74,container ship,container ship,OTHER,,"http://dbpedia.org/ontology/MeanOfTransportation, http://dbpedia.org/ontology/Ship, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact",,,ship,ship,ship,ship,OTHER
+PmFKZFlyExc,heavy cruiser,39.0,0.4350763857364655,cruiser,/m/01c3xv,/m/020fx,heavy cruiser,heavy cruiser,OTHER,,http://dbpedia.org/ontology/Ship,,,cruiser,cruiser,cruiser,cruiser,OTHER

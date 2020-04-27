@@ -1,0 +1,12 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+BiR7jggHWm4,name,OTHER,,,name,33,0.0,0.0,COMMON,0.05633038654923439,0.0,0.0,name,name,,,,,"ORGANIZATION, PERSON",OTHER,OTHER,OTHER
+BiR7jggHWm4,everyone,PERSON,,,everyone,20,0.0,0.0,COMMON,0.0470680370926857,0.0,0.0,everyone,everyone,,,,,,PERSON,PERSON,PERSON
+BiR7jggHWm4,Bassem Youssef,PERSON,/m/0h7l2n0,https://en.wikipedia.org/wiki/Bassem_Youssef,Bassem Youssef,41,0.0,0.0,PROPER,0.035514932125806815,0.0,0.0,Bassem Youssef,bassem youssef,,,,,,PERSON,PERSON,PERSON
+BiR7jggHWm4,viewers,PERSON,,,viewers,318,0.0,0.0,COMMON,0.017636319622397426,0.0,0.0,viewer,viewer,,,,,"ORGANIZATION, PERSON",PERSON,PERSON,PERSON
+BiR7jggHWm4,bottom,OTHER,,,bottom,503,0.0,0.0,COMMON,0.011873289942741394,0.0,0.0,bottom,bottom,,,,,LOCATION,OTHER,OTHER,OTHER
+BiR7jggHWm4,question,OTHER,,,question,610,0.8999999761581421,-0.8999999761581421,COMMON,0.016831329092383385,0.8999999761581421,-0.8999999761581421,question,question,,,,,,OTHER,OTHER,OTHER
+BiR7jggHWm4,Isis,ORGANIZATION,/m/027x630,https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant,Isis,619,0.8999999761581421,-0.8999999761581421,PROPER,0.007005014456808567,0.8999999761581421,-0.8999999761581421,Isis,isi,,,,,"PERSON, ORGANIZATION",ORGANIZATION,ORGANIZATION,ORGANIZATION
+BiR7jggHWm4,something,OTHER,,,something,776,0.10000000149011612,-0.10000000149011612,COMMON,0.030512785539031032,0.20000000298023224,-0.10000000149011612,something,something,,,,,,OTHER,OTHER,OTHER
+BiR7jggHWm4,industry,OTHER,,,industry,753,0.6000000238418579,-0.6000000238418579,COMMON,0.012577899731695652,0.6000000238418579,-0.6000000238418579,industry,industry,,,,,ORGANIZATION,OTHER,OTHER,OTHER
+BiR7jggHWm4,death,EVENT,,,death,817,0.0,0.0,COMMON,0.011974407359957695,0.0,0.0,death,death,,,,,"EVENT, PERSON",EVENT,EVENT,EVENT
+BiR7jggHWm4,least,OTHER,,,least,851,0.0,0.0,COMMON,0.010978288948535921,0.0,0.0,least,least,,,,,,OTHER,OTHER,OTHER

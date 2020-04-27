@@ -1,0 +1,562 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,WordNet Type Type,WordNet Type,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,type_v1,type_v2,type_v3,type_v4,type_v5
+lVMN_iO62Dc,classic car,0.0,0.4797309339046478,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,1.0,0.5332778096199036,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,2.0,0.5009489059448242,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,motor vehicle,0.0,0.7894240021705627,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,1.0,0.8815415501594543,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,2.0,0.8779858350753784,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,vintage car,1.0,0.4386858940124512,car,/m/01xq49,/m/0k4j,OTHER,,vintage car,vintage car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,vintage car,2.0,0.5210548043251038,car,/m/01xq49,/m/0k4j,OTHER,,vintage car,vintage car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,0.0,0.5302827358245851,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,1.0,0.5737111568450928,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,2.0,0.5425146818161011,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,personal luxury car,2.0,0.6370735168457031,car,/m/01w71f,/m/0k4j,OTHER,,personal luxury car,personal luxury car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,hood,0.0,0.4289514720439911,none,/m/02df64,none,OTHER,"PERSON, ORGANIZATION",hood,hood,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,hood,1.0,0.4138453602790833,none,/m/02df64,none,OTHER,"PERSON, ORGANIZATION",hood,hood,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,hood,2.0,0.413688600063324,none,/m/02df64,none,OTHER,"PERSON, ORGANIZATION",hood,hood,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,0.0,0.7944652438163757,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,1.0,0.7854254841804504,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,2.0,0.7868894934654236,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,0.0,0.8755592703819275,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,1.0,0.8652387857437134,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,2.0,0.8642634153366089,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,performance car,0.0,0.6914281249046326,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,1.0,0.6840336322784424,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,2.0,0.6592515707015991,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,convertible,0.0,0.4404419362545013,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,convertible,1.0,0.4436442255973816,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,convertible,2.0,0.5954100489616394,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,0.0,0.8009926080703735,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,1.0,0.6845762133598328,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,2.0,0.7595034241676331,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,0.0,0.6820623278617859,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,1.0,0.5844568014144897,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,2.0,0.6603153944015503,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,automotive exterior,0.0,0.6223903298377991,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,1.0,0.6817572116851807,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,2.0,0.6512462496757507,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,hardtop,1.0,0.4212969243526459,none,/m/03m7v4,none,OTHER,,hardtop,hardtop,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,car,0.0,0.9829573035240172,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,1.0,0.977352499961853,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,2.0,0.9825685620307922,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,profession,15.0,0.4806147217750549,person,/m/063km,/m/01g317,OTHER,ORGANIZATION,profession,profession,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,classic car,16.0,0.6983296275138855,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,17.0,0.6477122306823729,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,15.0,0.9163157939910888,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,15.0,0.5507273077964783,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,motor vehicle,15.0,0.9466978311538696,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,17.0,0.6949692368507385,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,full size car,17.0,0.4723743796348572,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,car seat,15.0,0.4347992241382599,none,/m/0268t21,none,OTHER,,car seat,car seat,OTHER,,http://dbpedia.org/ontology/Settlement,,none,none,none,none,OTHER
+lVMN_iO62Dc,sedan,15.0,0.5814452767372131,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,auto show,15.0,0.6018182039260864,car,/m/03y_qy,/m/0k4j,OTHER,,auto show,auto show,OTHER,,http://dbpedia.org/ontology/Convention,,car,car,EVENT,car,EVENT
+lVMN_iO62Dc,land vehicle,15.0,0.980633020401001,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,automotive design,15.0,0.8486851453781128,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,16.0,0.7631803750991821,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,17.0,0.7594846487045288,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,professional,15.0,0.8502458930015564,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,vehicle,15.0,0.9586958289146424,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,16.0,0.8728834390640259,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,17.0,0.8611065149307251,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,official,15.0,0.8408003449440002,person,/m/035y33,/m/01g317,OTHER,PERSON,official,official,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,performance car,16.0,0.6655938625335693,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,17.0,0.6011874079704285,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,mode of transport,15.0,0.8752052187919617,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,businessperson,15.0,0.462253600358963,person,/m/012t_z,/m/01g317,OTHER,PERSON,businessperson,businessperson,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,salaryman,15.0,0.4704811275005341,person,/m/02fd6j,/m/01g317,OTHER,,salaryman,salaryman,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,city car,15.0,0.7269136905670166,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,16.0,0.5232875943183899,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,17.0,0.453395426273346,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,16.0,0.7495087981224059,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,17.0,0.7939396500587463,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,suit,15.0,0.8189482688903809,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,crossover suv,15.0,0.4009156227111816,car,/m/03p66g,/m/0k4j,OTHER,,crossover suv,crossover suv,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,16.0,0.5707701444625854,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,17.0,0.6550933122634888,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,automotive exterior,16.0,0.6164759397506714,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,17.0,0.6003180146217346,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,sport utility vehicle,15.0,0.5449750423431396,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,minivan,15.0,0.4116283059120178,car,/m/057gn,/m/0k4j,OTHER,,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,hybrid vehicle,15.0,0.4314261972904205,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,electric car,15.0,0.4163084924221039,car,/m/03nlf2w,/m/0k4j,OTHER,,electric car,electric car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,driving,15.0,0.7328088879585266,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,family car,15.0,0.8863726258277893,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,car,15.0,0.9861733913421632,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,16.0,0.9818803668022156,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,17.0,0.98472398519516,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,executive car,15.0,0.4194073379039765,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,fender,38.0,0.6634104251861572,none,/m/0d74dx,none,OTHER,,fender,fender,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,fender,39.0,0.6487531661987305,none,/m/0d74dx,none,OTHER,,fender,fender,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,grille,38.0,0.4907248020172119,none,/m/03_qhc,none,OTHER,,grille,grille,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+lVMN_iO62Dc,grille,39.0,0.5222430229187012,none,/m/03_qhc,none,OTHER,,grille,grille,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+lVMN_iO62Dc,chevrolet silverado,39.0,0.4468896090984345,chevrolet,/m/03jqf3,/m/0xm0m9r,OTHER,,chevrolet silverado,chevrolet silverado,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,mini sport utility vehicle,38.0,0.4533868432044983,car,/m/0cbkkk,/m/0k4j,OTHER,,mini sport utility vehicle,mini sport utility vehicle,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,mini sport utility vehicle,39.0,0.4394474923610687,car,/m/0cbkkk,/m/0k4j,OTHER,,mini sport utility vehicle,mini sport utility vehicle,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,transport,38.0,0.95375657081604,none,/m/07bsy,none,OTHER,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,none,none,none,none,OTHER
+lVMN_iO62Dc,transport,39.0,0.950386643409729,none,/m/07bsy,none,OTHER,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,none,none,none,none,OTHER
+lVMN_iO62Dc,tire,38.0,0.9280446767807008,none,/m/0h9mv,none,OTHER,,tire,tire,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,tire,39.0,0.9121884703636168,none,/m/0h9mv,none,OTHER,,tire,tire,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,classic car,37.0,0.4349443912506104,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,38.0,0.9066917300224304,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,39.0,0.9058408141136168,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,motor vehicle,37.0,0.9748457074165344,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,38.0,0.9796865582466124,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,39.0,0.979619562625885,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,traffic,38.0,0.4409609436988831,none,/m/0btp2,none,OTHER,ORGANIZATION,traffic,traffic,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,traffic,39.0,0.4313402771949768,none,/m/0btp2,none,OTHER,ORGANIZATION,traffic,traffic,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,full size car,37.0,0.4545256495475769,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,38.0,0.637914776802063,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,39.0,0.6693259477615356,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,road,38.0,0.9574598073959352,none,/m/06gfj,none,OTHER,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,none,none,none,LOCATION
+lVMN_iO62Dc,road,39.0,0.956449031829834,none,/m/06gfj,none,OTHER,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,none,none,none,LOCATION
+lVMN_iO62Dc,chevrolet corvette,37.0,0.5170945525169373,"sports car, chevrolet",/m/01g8dv,"/m/012mq4, /m/0xm0m9r",OTHER,,chevrolet corvette,chevrolet corvette,OTHER,,,,"sports car, chevrolet","sports car, chevrolet","sports car, chevrolet","sports car, chevrolet",OTHER
+lVMN_iO62Dc,infrastructure,38.0,0.8867579102516174,none,/m/017kvv,none,OTHER,,infrastructure,infrastructure,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,infrastructure,39.0,0.8878265619277954,none,/m/017kvv,none,OTHER,,infrastructure,infrastructure,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,hood,38.0,0.5801849365234375,none,/m/02df64,none,OTHER,"PERSON, ORGANIZATION",hood,hood,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,hood,39.0,0.5728815197944641,none,/m/02df64,none,OTHER,"PERSON, ORGANIZATION",hood,hood,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,race car,37.0,0.4193952083587647,sports car,/m/0ncqpsr,/m/012mq4,OTHER,,race car,race car,OTHER,,,,sports car,sports car,sports car,sports car,OTHER
+lVMN_iO62Dc,land vehicle,37.0,0.9793388247489928,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,automotive design,37.0,0.8324466943740845,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,asphalt,38.0,0.7801744937896729,none,/m/0hr8,none,OTHER,,asphalt,asphalt,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,asphalt,39.0,0.7601128816604614,none,/m/0hr8,none,OTHER,,asphalt,asphalt,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,37.0,0.9533405303955078,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,38.0,0.9320704340934752,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,39.0,0.9377626776695251,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,landscape,38.0,0.655051052570343,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,landscape,39.0,0.6344696879386902,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,automotive wheel system,38.0,0.8167160153388977,none,/m/0h8ly30,none,OTHER,,automotive wheel system,automotive wheel system,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive wheel system,39.0,0.8112560510635376,none,/m/0h8ly30,none,OTHER,,automotive wheel system,automotive wheel system,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,chevrolet corvette c6 zr1,37.0,0.7359879612922668,"sports car, chevrolet",/m/03hhqs7,"/m/012mq4, /m/0xm0m9r",OTHER,,chevrolet corvette c6 zr1,chevrolet corvette c6 zr1,OTHER,,,,"sports car, chevrolet","sports car, chevrolet","sports car, chevrolet","sports car, chevrolet",OTHER
+lVMN_iO62Dc,performance car,37.0,0.5888326168060303,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,mode of transport,38.0,0.8752531409263611,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,mode of transport,39.0,0.8752540349960327,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,parking,38.0,0.7520893216133118,person,/m/01jp76,/m/01g317,OTHER,,parking,parking,OTHER,,http://dbpedia.org/ontology/Band,,person,person,person,person,OTHER
+lVMN_iO62Dc,parking,39.0,0.7306552529335022,person,/m/01jp76,/m/01g317,OTHER,,parking,parking,OTHER,,http://dbpedia.org/ontology/Band,,person,person,person,person,OTHER
+lVMN_iO62Dc,compact sport utility vehicle,38.0,0.4877013564109802,car,/m/0539n0,/m/0k4j,OTHER,,compact sport utility vehicle,compact sport utility vehicle,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact sport utility vehicle,39.0,0.4940948486328125,car,/m/0539n0,/m/0k4j,OTHER,,compact sport utility vehicle,compact sport utility vehicle,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,37.0,0.4497276544570923,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,chevrolet tahoe,38.0,0.4662787020206451,chevrolet,/m/03sdtk,/m/0xm0m9r,OTHER,,chevrolet tahoe,chevrolet tahoe,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,chevrolet tahoe,39.0,0.4912368357181549,chevrolet,/m/03sdtk,/m/0xm0m9r,OTHER,,chevrolet tahoe,chevrolet tahoe,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,road trip,38.0,0.7147743701934814,none,/m/0cnfpz,none,OTHER,,road trip,road trip,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+lVMN_iO62Dc,road trip,39.0,0.7097921371459961,none,/m/0cnfpz,none,OTHER,,road trip,road trip,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+lVMN_iO62Dc,convertible,37.0,0.4364900290966034,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,37.0,0.8690486550331116,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,wheel,37.0,0.4149082899093628,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,wheel,38.0,0.8195334672927856,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,wheel,39.0,0.7945725321769714,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,bumper,38.0,0.7965980768203735,none,/m/02mnkq,none,OTHER,,bumper,bumper,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,bumper,39.0,0.7867360115051271,none,/m/02mnkq,none,OTHER,,bumper,bumper,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,street,38.0,0.5095535516738892,road,/m/01c8br,/m/06gfj,OTHER,ORGANIZATION,street,street,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,road,road,road,LOCATION
+lVMN_iO62Dc,street,39.0,0.5160112977027893,road,/m/01c8br,/m/06gfj,OTHER,ORGANIZATION,street,street,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,road,road,road,LOCATION
+lVMN_iO62Dc,chevrolet suburban,38.0,0.5875489711761475,chevrolet,/m/03sds0,/m/0xm0m9r,OTHER,,chevrolet suburban,chevrolet suburban,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,chevrolet suburban,39.0,0.60860276222229,chevrolet,/m/03sds0,/m/0xm0m9r,OTHER,,chevrolet suburban,chevrolet suburban,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,automotive window part,38.0,0.467251569032669,none,/m/0h8lhq_,none,OTHER,,automotive window part,automotive window part,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive window part,39.0,0.4639825522899628,none,/m/0h8lhq_,none,OTHER,,automotive window part,automotive window part,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,muscle car,37.0,0.7720726728439331,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,gmc,38.0,0.6135013699531555,car,/m/0j72pxm,/m/0k4j,OTHER,,gmc,gmc,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,gmc,39.0,0.6696508526802063,car,/m/0j72pxm,/m/0k4j,OTHER,,gmc,gmc,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,rim,38.0,0.6748390793800354,none,/m/047vmg8,none,OTHER,,rim,rim,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,rim,39.0,0.6276370882987976,none,/m/047vmg8,none,OTHER,,rim,rim,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,37.0,0.6673884987831116,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,38.0,0.8200199007987976,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,39.0,0.8166131377220154,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,chevrolet avalanche,38.0,0.4899868965148926,chevrolet,/m/01vkfc,/m/0xm0m9r,OTHER,,chevrolet avalanche,chevrolet avalanche,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,chevrolet avalanche,39.0,0.5244238376617432,chevrolet,/m/01vkfc,/m/0xm0m9r,OTHER,,chevrolet avalanche,chevrolet avalanche,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,automotive tire,38.0,0.9311910271644592,none,/m/0h8pb3l,none,OTHER,,automotive tire,automotive tire,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive tire,39.0,0.9225642681121826,none,/m/0h8pb3l,none,OTHER,,automotive tire,automotive tire,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,sport utility vehicle,38.0,0.7409690618515015,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,sport utility vehicle,39.0,0.7342972159385681,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,minivan,38.0,0.4233251512050629,car,/m/057gn,/m/0k4j,OTHER,,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,minivan,39.0,0.43960386514663696,car,/m/057gn,/m/0k4j,OTHER,,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,windshield,38.0,0.5073444843292236,"glass, window",/m/01lrnl,"/m/039jq, /m/0d4v4",OTHER,,windshield,windshield,OTHER,,http://dbpedia.org/ontology/Company,,"glass, window","glass, window","glass, window","glass, window",OTHER
+lVMN_iO62Dc,windshield,39.0,0.501728355884552,"glass, window",/m/01lrnl,"/m/039jq, /m/0d4v4",OTHER,,windshield,windshield,OTHER,,http://dbpedia.org/ontology/Company,,"glass, window","glass, window","glass, window","glass, window",OTHER
+lVMN_iO62Dc,tree,38.0,0.8493360877037048,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+lVMN_iO62Dc,tree,39.0,0.8307519555091858,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+lVMN_iO62Dc,driving,38.0,0.4174308180809021,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,driving,39.0,0.4083878695964813,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,family car,38.0,0.6917766928672789,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,family car,39.0,0.6969625353813171,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,chevrolet,37.0,0.6196483969688416,car,/m/0xm0m9r,/m/0k4j,OTHER,,chevrolet,chevrolet,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,chevrolet,38.0,0.5646464824676514,car,/m/0xm0m9r,/m/0k4j,OTHER,,chevrolet,chevrolet,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,chevrolet,39.0,0.6197195649147034,car,/m/0xm0m9r,/m/0k4j,OTHER,,chevrolet,chevrolet,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,truck,38.0,0.4216419458389282,vehicle,/m/07r04,/m/07yv9,OTHER,,truck,truck,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,truck,39.0,0.4498521685600281,vehicle,/m/07r04,/m/07yv9,OTHER,,truck,truck,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,37.0,0.9865207076072692,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,39.0,0.9123902916908264,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,parking lot,38.0,0.43311449885368347,location,/m/02jxn5,/m/078x4m,OTHER,LOCATION,parking lot,parking lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,location,location,location,LOCATION
+lVMN_iO62Dc,parking lot,39.0,0.4017483294010161,location,/m/02jxn5,/m/078x4m,OTHER,LOCATION,parking lot,parking lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,location,location,location,LOCATION
+lVMN_iO62Dc,brand,37.0,0.5004530549049377,none,/m/01cd9,none,OTHER,,brand,brand,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,fender,39.0,0.6487531661987305,none,/m/0d74dx,none,OTHER,,fender,fender,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,grille,39.0,0.5222430229187012,none,/m/03_qhc,none,OTHER,,grille,grille,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,none,none,none,none,OTHER
+lVMN_iO62Dc,chevrolet silverado,39.0,0.4468896090984345,chevrolet,/m/03jqf3,/m/0xm0m9r,OTHER,,chevrolet silverado,chevrolet silverado,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,mini sport utility vehicle,39.0,0.4394474923610687,car,/m/0cbkkk,/m/0k4j,OTHER,,mini sport utility vehicle,mini sport utility vehicle,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,transport,39.0,0.950386643409729,none,/m/07bsy,none,OTHER,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,none,none,none,none,OTHER
+lVMN_iO62Dc,tire,39.0,0.9121884703636168,none,/m/0h9mv,none,OTHER,,tire,tire,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,classic car,40.0,0.44926103949546814,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,41.0,0.43289485573768616,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,42.0,0.5284451842308044,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,39.0,0.9058408141136168,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,motor vehicle,39.0,0.979619562625885,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,40.0,0.6654288172721863,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,41.0,0.7748017907142639,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,traffic,39.0,0.4313402771949768,none,/m/0btp2,none,OTHER,ORGANIZATION,traffic,traffic,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,full size car,39.0,0.6693259477615356,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,41.0,0.5280260443687439,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,road,39.0,0.956449031829834,none,/m/06gfj,none,OTHER,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,none,none,none,LOCATION
+lVMN_iO62Dc,chevrolet corvette,40.0,0.4062768220901489,"sports car, chevrolet",/m/01g8dv,"/m/012mq4, /m/0xm0m9r",OTHER,,chevrolet corvette,chevrolet corvette,OTHER,,,,"sports car, chevrolet","sports car, chevrolet","sports car, chevrolet","sports car, chevrolet",OTHER
+lVMN_iO62Dc,infrastructure,39.0,0.8878265619277954,none,/m/017kvv,none,OTHER,,infrastructure,infrastructure,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,personal luxury car,41.0,0.5994395017623901,car,/m/01w71f,/m/0k4j,OTHER,,personal luxury car,personal luxury car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,hood,39.0,0.5728815197944641,none,/m/02df64,none,OTHER,"PERSON, ORGANIZATION",hood,hood,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,40.0,0.7841720581054688,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,41.0,0.808877170085907,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,42.0,0.7732512354850769,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,asphalt,39.0,0.7601128816604614,none,/m/0hr8,none,OTHER,,asphalt,asphalt,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,39.0,0.9377626776695251,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,40.0,0.9141591191291808,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,41.0,0.8631924986839294,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,42.0,0.9065795540809632,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,landscape,39.0,0.6344696879386902,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,automotive wheel system,39.0,0.8112560510635376,none,/m/0h8ly30,none,OTHER,,automotive wheel system,automotive wheel system,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,performance car,40.0,0.7320784330368042,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,41.0,0.7673797607421875,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,42.0,0.7220024466514587,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,mode of transport,39.0,0.8752540349960327,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,parking,39.0,0.7306552529335022,person,/m/01jp76,/m/01g317,OTHER,,parking,parking,OTHER,,http://dbpedia.org/ontology/Band,,person,person,person,person,OTHER
+lVMN_iO62Dc,compact sport utility vehicle,39.0,0.4940948486328125,car,/m/0539n0,/m/0k4j,OTHER,,compact sport utility vehicle,compact sport utility vehicle,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,40.0,0.42155107855796814,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,42.0,0.4140666425228119,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,chevrolet tahoe,39.0,0.4912368357181549,chevrolet,/m/03sdtk,/m/0xm0m9r,OTHER,,chevrolet tahoe,chevrolet tahoe,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,road trip,39.0,0.7097921371459961,none,/m/0cnfpz,none,OTHER,,road trip,road trip,OTHER,,http://dbpedia.org/ontology/Work,,none,none,none,none,OTHER
+lVMN_iO62Dc,convertible,40.0,0.5196681618690491,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,40.0,0.8621383309364319,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,41.0,0.8787916302680969,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,42.0,0.7917925119400024,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,wheel,39.0,0.7945725321769714,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,wheel,41.0,0.412775069475174,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,bumper,39.0,0.7867360115051271,none,/m/02mnkq,none,OTHER,,bumper,bumper,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,street,39.0,0.5160112977027893,road,/m/01c8br,/m/06gfj,OTHER,ORGANIZATION,street,street,OTHER,,http://dbpedia.org/ontology/Road,,LOCATION,road,road,road,LOCATION
+lVMN_iO62Dc,chevrolet suburban,39.0,0.60860276222229,chevrolet,/m/03sds0,/m/0xm0m9r,OTHER,,chevrolet suburban,chevrolet suburban,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,automotive window part,39.0,0.4639825522899628,none,/m/0h8lhq_,none,OTHER,,automotive window part,automotive window part,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,muscle car,40.0,0.7718703746795654,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,41.0,0.7664602398872375,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,42.0,0.5913126468658447,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,gmc,39.0,0.6696508526802063,car,/m/0j72pxm,/m/0k4j,OTHER,,gmc,gmc,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,rim,39.0,0.6276370882987976,none,/m/047vmg8,none,OTHER,,rim,rim,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,39.0,0.8166131377220154,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,40.0,0.6228699684143066,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,41.0,0.6002297401428223,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,42.0,0.6012165546417236,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,chevrolet avalanche,39.0,0.5244238376617432,chevrolet,/m/01vkfc,/m/0xm0m9r,OTHER,,chevrolet avalanche,chevrolet avalanche,OTHER,,,,chevrolet,chevrolet,chevrolet,chevrolet,OTHER
+lVMN_iO62Dc,automotive tire,39.0,0.9225642681121826,none,/m/0h8pb3l,none,OTHER,,automotive tire,automotive tire,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,sport utility vehicle,39.0,0.7342972159385681,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,minivan,39.0,0.43960386514663696,car,/m/057gn,/m/0k4j,OTHER,,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,windshield,39.0,0.501728355884552,"glass, window",/m/01lrnl,"/m/039jq, /m/0d4v4",OTHER,,windshield,windshield,OTHER,,http://dbpedia.org/ontology/Company,,"glass, window","glass, window","glass, window","glass, window",OTHER
+lVMN_iO62Dc,tree,39.0,0.8307519555091858,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+lVMN_iO62Dc,driving,39.0,0.4083878695964813,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,family car,39.0,0.6969625353813171,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,chevrolet,39.0,0.6197195649147034,car,/m/0xm0m9r,/m/0k4j,OTHER,,chevrolet,chevrolet,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,chevrolet,40.0,0.4337257742881775,car,/m/0xm0m9r,/m/0k4j,OTHER,,chevrolet,chevrolet,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,truck,39.0,0.4498521685600281,vehicle,/m/07r04,/m/07yv9,OTHER,,truck,truck,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,39.0,0.9123902916908264,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,40.0,0.9854557514190674,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,41.0,0.9843514561653136,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,42.0,0.9852131605148317,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,parking lot,39.0,0.4017483294010161,location,/m/02jxn5,/m/078x4m,OTHER,LOCATION,parking lot,parking lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,location,location,location,LOCATION
+lVMN_iO62Dc,lawn,50.0,0.9379354119300842,none,/m/01v327,none,OTHER,LOCATION,lawn,lawn,LOCATION,,http://dbpedia.org/ontology/Place,,none,none,none,none,OTHER
+lVMN_iO62Dc,lawn,51.0,0.9145203828811646,none,/m/01v327,none,OTHER,LOCATION,lawn,lawn,LOCATION,,http://dbpedia.org/ontology/Place,,none,none,none,none,OTHER
+lVMN_iO62Dc,luxury vehicle,49.0,0.8424581289291382,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,yard,50.0,0.6978673934936523,garden,/m/049_3v,/m/0bl0l,ORGANIZATION,LOCATION,yard,yard,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,garden,garden,garden,LOCATION
+lVMN_iO62Dc,yard,51.0,0.4164569675922394,garden,/m/049_3v,/m/0bl0l,ORGANIZATION,LOCATION,yard,yard,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,garden,garden,garden,LOCATION
+lVMN_iO62Dc,compact car,49.0,0.5305217504501343,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,51.0,0.5071629881858826,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,motor vehicle,49.0,0.9037703275680542,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,51.0,0.7349408268928528,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,landscaping,50.0,0.4095333814620972,none,/m/025sv9y,none,OTHER,,landscape,landscape,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,plant,50.0,0.8214176297187805,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+lVMN_iO62Dc,plant,51.0,0.8436540961265564,none,/m/05s2s,none,OTHER,PERSON,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,none,none,none,none,OTHER
+lVMN_iO62Dc,grass,50.0,0.9080087542533876,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+lVMN_iO62Dc,grass,51.0,0.8897375464439392,plant,/m/08t9c_,/m/05s2s,PERSON,PERSON,grass,grass,OTHER,,,,plant,plant,plant,plant,OTHER
+lVMN_iO62Dc,car seat,49.0,0.4161898195743561,none,/m/0268t21,none,OTHER,,car seat,car seat,OTHER,,http://dbpedia.org/ontology/Settlement,,none,none,none,none,OTHER
+lVMN_iO62Dc,sedan,49.0,0.4797350764274597,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,farm,50.0,0.4058094024658203,building,/m/0g8p9,/m/0cgh4,ORGANIZATION,,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+lVMN_iO62Dc,subcompact car,51.0,0.4100181460380554,car,/m/03txxp,/m/0k4j,OTHER,,subcompact car,subcompact car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,auto show,49.0,0.6968770027160645,car,/m/03y_qy,/m/0k4j,OTHER,,auto show,auto show,OTHER,,http://dbpedia.org/ontology/Convention,,car,car,EVENT,car,EVENT
+lVMN_iO62Dc,land vehicle,49.0,0.9764267802238464,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,artificial landforms,50.0,0.4003335535526276,geographical feature,/g/1ygyqpl7p,/m/043rvww,OTHER,,artificial landforms,artificial landforms,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,automotive design,49.0,0.8396274447441101,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,asphalt,51.0,0.5453612208366394,none,/m/0hr8,none,OTHER,,asphalt,asphalt,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,camping,50.0,0.470338761806488,none,/m/01h6d4,none,OTHER,,camp,camp,OTHER,,http://dbpedia.org/ontology/Sport,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,professional,49.0,0.7320297360420227,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,vehicle,49.0,0.9569041132926941,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,51.0,0.7308687567710876,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,landscape,50.0,0.6764435768127441,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,landscape,51.0,0.651707649230957,geographical feature,/m/025s3q0,/m/043rvww,OTHER,LOCATION,landscape,landscape,OTHER,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,official,49.0,0.4922632277011871,person,/m/035y33,/m/01g317,OTHER,PERSON,official,official,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,grassland,50.0,0.7124448418617249,geographical feature,/m/01c7cq,/m/043rvww,OTHER,LOCATION,grassland,grassland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,pasture,50.0,0.8392957448959351,geographical feature,/m/01gd91,/m/043rvww,OTHER,LOCATION,pasture,pasture,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,pasture,51.0,0.4799987375736237,geographical feature,/m/01gd91,/m/043rvww,OTHER,LOCATION,pasture,pasture,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,house,50.0,0.6275054812431335,building,/m/03jm5,/m/0cgh4,ORGANIZATION,"ORGANIZATION, LOCATION",house,house,OTHER,,http://dbpedia.org/ontology/Building,,LOCATION,building,building,building,LOCATION
+lVMN_iO62Dc,land lot,50.0,0.8090142607688904,building,/m/0gs32y,/m/0cgh4,ORGANIZATION,,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+lVMN_iO62Dc,land lot,51.0,0.6556150913238525,building,/m/0gs32y,/m/0cgh4,ORGANIZATION,,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,building,building,building,LOCATION
+lVMN_iO62Dc,city car,49.0,0.6966368556022644,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,51.0,0.40843135118484497,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,tent,50.0,0.6493082642555237,none,/m/01j61q,none,OTHER,,tent,tent,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,LOCATION,none,none,none,LOCATION
+lVMN_iO62Dc,park,50.0,0.6980830430984497,none,/m/0166ls,none,OTHER,"LOCATION, PERSON",park,park,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,none,EVENT,none,LOCATION
+lVMN_iO62Dc,park,51.0,0.5079731941223145,none,/m/0166ls,none,OTHER,"LOCATION, PERSON",park,park,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,none,EVENT,none,LOCATION
+lVMN_iO62Dc,suit,49.0,0.7292013168334961,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,recreation,50.0,0.6152176260948181,none,/m/06bm2,none,OTHER,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,none,none,none,none,OTHER
+lVMN_iO62Dc,recreation,51.0,0.5090690851211548,none,/m/06bm2,none,OTHER,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,none,none,none,none,OTHER
+lVMN_iO62Dc,backyard,50.0,0.534520149230957,none,/m/0hrcj2p,none,OTHER,,backyard,backyard,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,LOCATION,none,none,none,LOCATION
+lVMN_iO62Dc,field,50.0,0.5887776017189026,none,/m/0brn2d,none,OTHER,"LOCATION, ORGANIZATION",field,field,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,51.0,0.6218661665916443,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,artificial turf,50.0,0.41867074370384216,grass,/m/04bzth,/m/08t9c_,PERSON,,artificial turf,artificial turf,OTHER,,http://dbpedia.org/ontology/Bone,,grass,grass,grass,grass,OTHER
+lVMN_iO62Dc,sport utility vehicle,49.0,0.4468289613723755,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,hybrid vehicle,49.0,0.4367703199386597,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,electric car,49.0,0.43166327476501465,car,/m/03nlf2w,/m/0k4j,OTHER,,electric car,electric car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,leisure,50.0,0.42712879180908203,none,/m/04g3r,none,OTHER,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,none,none,none,none,OTHER
+lVMN_iO62Dc,tree,50.0,0.7751710414886475,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+lVMN_iO62Dc,tree,51.0,0.6219006180763245,plant,/m/07j7r,/m/05s2s,PERSON,PERSON,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,plant,plant,plant,plant,OTHER
+lVMN_iO62Dc,driving,49.0,0.5710378885269165,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,family car,49.0,0.7622824907302856,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,car,49.0,0.9861519932746888,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,51.0,0.8819005489349365,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,meadow,50.0,0.7614466547966003,geographical feature,/m/025st_8,/m/043rvww,OTHER,LOCATION,meadow,meadow,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,meadow,51.0,0.6259540319442749,geographical feature,/m/025st_8,/m/043rvww,OTHER,LOCATION,meadow,meadow,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,plain,50.0,0.4874542653560638,geographical feature,/m/05sm1,/m/043rvww,OTHER,,plain,plain,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+lVMN_iO62Dc,executive car,49.0,0.4635509848594666,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,61.0,0.9270604848861694,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,62.0,0.8148604035377502,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,63.0,0.7913411259651184,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,64.0,0.826549768447876,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,65.0,0.8305481672286987,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,66.0,0.8272950649261475,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,62.0,0.5254645943641663,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,63.0,0.5353837609291077,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,64.0,0.5446745157241821,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,65.0,0.5399291515350342,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,66.0,0.5274517536163329,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,motor vehicle,61.0,0.8133692145347595,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,62.0,0.8605545163154602,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,63.0,0.8689277768135071,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,64.0,0.8862945437431335,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,65.0,0.8476913571357727,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,66.0,0.9135534763336182,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,bodyguard,64.0,0.4152570962905884,person,/m/012q9c,/m/01g317,OTHER,"PERSON, ORGANIZATION",bodyguard,bodyguard,OTHER,,http://dbpedia.org/ontology/AmericanFootballPlayer,,person,person,person,person,OTHER
+lVMN_iO62Dc,car seat,61.0,0.4623601734638214,none,/m/0268t21,none,OTHER,,car seat,car seat,OTHER,,http://dbpedia.org/ontology/Settlement,,none,none,none,none,OTHER
+lVMN_iO62Dc,car seat,62.0,0.4926562607288361,none,/m/0268t21,none,OTHER,,car seat,car seat,OTHER,,http://dbpedia.org/ontology/Settlement,,none,none,none,none,OTHER
+lVMN_iO62Dc,car seat,63.0,0.4514486491680145,none,/m/0268t21,none,OTHER,,car seat,car seat,OTHER,,http://dbpedia.org/ontology/Settlement,,none,none,none,none,OTHER
+lVMN_iO62Dc,car seat,64.0,0.4484352469444275,none,/m/0268t21,none,OTHER,,car seat,car seat,OTHER,,http://dbpedia.org/ontology/Settlement,,none,none,none,none,OTHER
+lVMN_iO62Dc,sedan,61.0,0.5342255234718323,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sedan,62.0,0.4318986535072327,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sedan,63.0,0.4515972137451172,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sedan,64.0,0.4643993675708771,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sedan,65.0,0.4446046054363251,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sedan,66.0,0.4840922951698303,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,personal luxury car,61.0,0.5732299089431763,car,/m/01w71f,/m/0k4j,OTHER,,personal luxury car,personal luxury car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,subcompact car,63.0,0.40031081438064575,car,/m/03txxp,/m/0k4j,OTHER,,subcompact car,subcompact car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,toyota,62.0,0.4488012492656708,car,/m/0h5y1j0,/m/0k4j,OTHER,LOCATION,toyota,toyota,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,toyota,63.0,0.4002694189548493,car,/m/0h5y1j0,/m/0k4j,OTHER,LOCATION,toyota,toyota,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,toyota,64.0,0.4004127979278565,car,/m/0h5y1j0,/m/0k4j,OTHER,LOCATION,toyota,toyota,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,toyota,66.0,0.4327767491340637,car,/m/0h5y1j0,/m/0k4j,OTHER,LOCATION,toyota,toyota,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,land vehicle,61.0,0.9866883158683776,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,land vehicle,62.0,0.9717249274253844,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,land vehicle,63.0,0.9773361682891846,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,land vehicle,64.0,0.969870388507843,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,land vehicle,65.0,0.9733625650405884,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,land vehicle,66.0,0.9709473252296448,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,automotive design,61.0,0.833587646484375,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,62.0,0.7856346964836121,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,63.0,0.7866596579551697,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,64.0,0.7787207961082458,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,65.0,0.7891003489494324,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,66.0,0.7808625102043152,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,professional,61.0,0.5384123921394348,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,professional,62.0,0.5731912851333618,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,professional,63.0,0.5745664834976196,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,professional,64.0,0.5852031707763672,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,professional,65.0,0.5843730568885803,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,professional,66.0,0.6231552958488464,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,vehicle,61.0,0.9689232110977172,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,62.0,0.9573855996131896,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,63.0,0.9581239223480223,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,64.0,0.9529116153717041,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,65.0,0.9518840312957764,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,66.0,0.9476171731948853,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,official,61.0,0.4686965942382813,person,/m/035y33,/m/01g317,OTHER,PERSON,official,official,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,official,62.0,0.4106563329696655,person,/m/035y33,/m/01g317,OTHER,PERSON,official,official,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,official,66.0,0.4626576900482178,person,/m/035y33,/m/01g317,OTHER,PERSON,official,official,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,mode of transport,62.0,0.8751968741416931,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,mode of transport,63.0,0.8749349117279053,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,mode of transport,64.0,0.8750838041305542,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,mode of transport,65.0,0.8748655319213867,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,mode of transport,66.0,0.8749460577964783,none,/m/079bkr,none,OTHER,,mode of transport,mode of transport,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,city car,61.0,0.6668570041656494,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,62.0,0.7509431242942809,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,63.0,0.7586204409599304,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,64.0,0.7649561762809753,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,65.0,0.7721807360649109,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,city car,66.0,0.7394697070121765,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,suit,61.0,0.7491199374198914,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,suit,62.0,0.4615379869937897,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,suit,63.0,0.4566364884376526,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,suit,64.0,0.5688404440879822,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,suit,65.0,0.637976884841919,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,suit,66.0,0.5044652819633484,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,crossover suv,62.0,0.4390403628349304,car,/m/03p66g,/m/0k4j,OTHER,,crossover suv,crossover suv,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,crossover suv,63.0,0.43095314502716064,car,/m/03p66g,/m/0k4j,OTHER,,crossover suv,crossover suv,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,crossover suv,64.0,0.4468633234500885,car,/m/03p66g,/m/0k4j,OTHER,,crossover suv,crossover suv,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,crossover suv,65.0,0.4027894735336304,car,/m/03p66g,/m/0k4j,OTHER,,crossover suv,crossover suv,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,crossover suv,66.0,0.4402182996273041,car,/m/03p66g,/m/0k4j,OTHER,,crossover suv,crossover suv,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,automotive exterior,62.0,0.6056380271911621,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,63.0,0.5974278450012207,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,64.0,0.5832316279411316,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,66.0,0.6018824577331543,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,sport utility vehicle,61.0,0.4991614818572998,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,sport utility vehicle,62.0,0.5087034702301025,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,sport utility vehicle,63.0,0.4825298488140106,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,sport utility vehicle,64.0,0.5185067653656006,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,sport utility vehicle,65.0,0.4862962365150452,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,sport utility vehicle,66.0,0.5743958353996277,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,hybrid vehicle,61.0,0.4430412948131561,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,hybrid vehicle,62.0,0.4508108794689178,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,hybrid vehicle,63.0,0.4390256404876709,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,hybrid vehicle,64.0,0.4306371808052063,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,hybrid vehicle,65.0,0.4323448836803436,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,hybrid vehicle,66.0,0.441103458404541,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,electric car,63.0,0.4131952822208405,car,/m/03nlf2w,/m/0k4j,OTHER,,electric car,electric car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,electric car,64.0,0.40549781918525696,car,/m/03nlf2w,/m/0k4j,OTHER,,electric car,electric car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,electric car,66.0,0.4127704501152039,car,/m/03nlf2w,/m/0k4j,OTHER,,electric car,electric car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,driving,61.0,0.6849382519721985,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,driving,62.0,0.6590644121170044,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,driving,63.0,0.6053815484046936,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,driving,64.0,0.5997796654701233,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,driving,65.0,0.6300987005233765,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,driving,66.0,0.6122129559516907,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,family car,61.0,0.7811030149459839,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,family car,62.0,0.7869135141372681,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,family car,63.0,0.8008792996406555,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,family car,64.0,0.7820505499839783,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,family car,65.0,0.8345397710800171,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,family car,66.0,0.7742444276809692,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,car,61.0,0.9865286946296692,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,62.0,0.98495751619339,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,63.0,0.9857553839683532,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,64.0,0.9849044680595398,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,65.0,0.9853517413139344,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,66.0,0.98467618227005,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,executive car,61.0,0.4486941397190094,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,executive car,62.0,0.4894051253795624,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,executive car,63.0,0.4660429060459137,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,executive car,64.0,0.4588778913021088,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,executive car,65.0,0.4481277763843536,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,executive car,66.0,0.4542073011398315,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,mid size car,74.0,0.5599287748336792,car,/m/03vnt4,/m/0k4j,OTHER,,mid size car,mid size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,bmw,74.0,0.4471403658390045,car,/m/0h6dlrc,/m/0k4j,OTHER,,bmw,bmw,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,75.0,0.5821523666381836,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,76.0,0.643133282661438,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,77.0,0.5405034422874451,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,luxury vehicle,74.0,0.9141784906387328,car,/m/01lcwm,/m/0k4j,OTHER,,luxury vehicle,luxury vehicle,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,74.0,0.5391425490379333,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,motor vehicle,74.0,0.9293513894081116,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,vintage car,75.0,0.4652309715747833,car,/m/01xq49,/m/0k4j,OTHER,,vintage car,vintage car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,75.0,0.4890934526920319,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,76.0,0.462869256734848,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,77.0,0.4942982196807861,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,car seat,74.0,0.5996965765953064,none,/m/0268t21,none,OTHER,,car seat,car seat,OTHER,,http://dbpedia.org/ontology/Settlement,,none,none,none,none,OTHER
+lVMN_iO62Dc,sedan,74.0,0.5473118424415588,car,/m/021mp2,/m/0k4j,OTHER,,sedan,sedan,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,supercar,76.0,0.5968713164329529,sports car,/m/014f__,/m/012mq4,OTHER,,supercar,supercar,OTHER,,,,sports car,sports car,sports car,sports car,OTHER
+lVMN_iO62Dc,personal luxury car,74.0,0.626168966293335,car,/m/01w71f,/m/0k4j,OTHER,,personal luxury car,personal luxury car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,personal luxury car,76.0,0.6185228228569031,car,/m/01w71f,/m/0k4j,OTHER,,personal luxury car,personal luxury car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,personal luxury car,77.0,0.7095507383346558,car,/m/01w71f,/m/0k4j,OTHER,,personal luxury car,personal luxury car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,subcompact car,74.0,0.4245780408382416,car,/m/03txxp,/m/0k4j,OTHER,,subcompact car,subcompact car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,toyota,74.0,0.4408033788204193,car,/m/0h5y1j0,/m/0k4j,OTHER,LOCATION,toyota,toyota,"PERSON, ORGANIZATION",,"http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent, http://dbpedia.org/ontology/Company, http://dbpedia.org/ontology/Agent, http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson, http://dbpedia.org/ontology/Organisation",,car,car,car,car,OTHER
+lVMN_iO62Dc,auto show,74.0,0.4054006338119507,car,/m/03y_qy,/m/0k4j,OTHER,,auto show,auto show,OTHER,,http://dbpedia.org/ontology/Convention,,car,car,EVENT,car,EVENT
+lVMN_iO62Dc,race car,75.0,0.4804661571979522,sports car,/m/0ncqpsr,/m/012mq4,OTHER,,race car,race car,OTHER,,,,sports car,sports car,sports car,sports car,OTHER
+lVMN_iO62Dc,race car,76.0,0.4875058233737946,sports car,/m/0ncqpsr,/m/012mq4,OTHER,,race car,race car,OTHER,,,,sports car,sports car,sports car,sports car,OTHER
+lVMN_iO62Dc,race car,77.0,0.4751637876033783,sports car,/m/0ncqpsr,/m/012mq4,OTHER,,race car,race car,OTHER,,,,sports car,sports car,sports car,sports car,OTHER
+lVMN_iO62Dc,land vehicle,74.0,0.9816222190856934,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,land vehicle,76.0,0.9825409054756165,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,land vehicle,77.0,0.9603426456451416,vehicle,/m/01prls,/m/07yv9,OTHER,,land vehicle,land vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,automotive design,74.0,0.8369739055633545,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,75.0,0.8018960356712341,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,76.0,0.7878682017326355,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,77.0,0.8042756915092468,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,professional,74.0,0.632249653339386,person,/m/01qkbx,/m/01g317,OTHER,PERSON,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,person,person,person,person,OTHER
+lVMN_iO62Dc,vehicle,74.0,0.9630548357963562,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,75.0,0.9078049659729004,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,76.0,0.9459403157234192,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,77.0,0.919982373714447,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,official,74.0,0.4217762649059296,person,/m/035y33,/m/01g317,OTHER,PERSON,official,official,OTHER,,,,person,person,person,person,OTHER
+lVMN_iO62Dc,performance car,75.0,0.8037553429603577,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,76.0,0.8118696808815002,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,77.0,0.8177120089530945,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,electric vehicle,74.0,0.4297419786453247,vehicle,/m/01pmdg,/m/07yv9,OTHER,,electric vehicle,electric vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,city car,74.0,0.7100758552551271,car,/m/0369ss,/m/0k4j,OTHER,,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,convertible,75.0,0.4782120883464813,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,convertible,76.0,0.4378727674484253,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,convertible,77.0,0.433351993560791,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,75.0,0.6866422295570374,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,76.0,0.7905440330505371,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,77.0,0.7568516135215759,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,suit,74.0,0.749989926815033,clothing,/m/01xyhv,/m/09j2d,OTHER,PERSON,suit,suit,OTHER,,,,clothing,clothing,clothing,clothing,OTHER
+lVMN_iO62Dc,wheel,75.0,0.5446885824203491,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,wheel,77.0,0.4952565729618073,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,tuxedo,74.0,0.4137436747550965,suit,/m/0280yrc,/m/01xyhv,PERSON,,tuxedo,tuxedo,OTHER,,http://dbpedia.org/ontology/ComicsCharacter,,suit,suit,suit,suit,OTHER
+lVMN_iO62Dc,crossover suv,74.0,0.4666763246059418,car,/m/03p66g,/m/0k4j,OTHER,,crossover suv,crossover suv,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact mpv,74.0,0.4107102751731873,car,/m/0cfzkp,/m/0k4j,OTHER,,compact mpv,compact mpv,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,76.0,0.4719313383102417,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,77.0,0.4507263898849487,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sport utility vehicle,74.0,0.5425118207931519,car,/m/0ctrp,/m/0k4j,OTHER,,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,minivan,74.0,0.4258151948451996,car,/m/057gn,/m/0k4j,OTHER,,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,hybrid vehicle,74.0,0.4657635688781738,vehicle,/m/014rrf,/m/07yv9,OTHER,,hybrid vehicle,hybrid vehicle,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,electric car,74.0,0.4588722884654999,car,/m/03nlf2w,/m/0k4j,OTHER,,electric car,electric car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,driving,74.0,0.7036798596382141,none,/m/0kw6d,none,OTHER,,drive,drive,OTHER,,,,none,none,EVENT,none,EVENT
+lVMN_iO62Dc,family car,74.0,0.7679727673530579,car,/m/088l6h,/m/0k4j,OTHER,,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,car,74.0,0.9861695766448976,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,75.0,0.9843122363090516,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,76.0,0.986221969127655,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,77.0,0.9854490160942078,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,jensen interceptor,75.0,0.4565422534942627,"sports car, convertible",/m/03m8d2,"/m/012mq4, /m/019qw9",OTHER,,jensen interceptor,jensen interceptor,OTHER,,,,"sports car, convertible","sports car, convertible","sports car, convertible","sports car, convertible",OTHER
+lVMN_iO62Dc,executive car,74.0,0.5081167221069336,car,/m/0crtnw,/m/0k4j,OTHER,,executive car,executive car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,81.0,0.4277431070804596,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,82.0,0.40444186329841614,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,classic car,83.0,0.6638025641441345,car,/m/01xsb3,/m/0k4j,OTHER,,classic car,classic car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,compact car,83.0,0.5072746872901917,car,/m/02swz_,/m/0k4j,OTHER,,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,motor vehicle,81.0,0.9619541764259338,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,82.0,0.9523226618766784,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,motor vehicle,83.0,0.9039373993873596,vehicle,/m/012f08,/m/07yv9,OTHER,,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,vintage car,81.0,0.4202508330345154,car,/m/01xq49,/m/0k4j,OTHER,,vintage car,vintage car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,vintage car,82.0,0.4081989824771881,car,/m/01xq49,/m/0k4j,OTHER,,vintage car,vintage car,OTHER,,http://dbpedia.org/ontology/Automobile,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,81.0,0.4816995561122894,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,82.0,0.5009487867355347,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,full size car,83.0,0.5099903345108032,car,/m/03vntj,/m/0k4j,OTHER,,full size car,full size car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,personal luxury car,83.0,0.5712705850601196,car,/m/01w71f,/m/0k4j,OTHER,,personal luxury car,personal luxury car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,car,car,car,car,OTHER
+lVMN_iO62Dc,hood,81.0,0.4590544402599335,none,/m/02df64,none,OTHER,"PERSON, ORGANIZATION",hood,hood,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,hood,82.0,0.4424935877323151,none,/m/02df64,none,OTHER,"PERSON, ORGANIZATION",hood,hood,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,81.0,0.7906357645988464,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,82.0,0.779224157333374,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive design,83.0,0.7709371447563171,none,/m/068mqj,none,OTHER,,automotive design,automotive design,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,81.0,0.8555122613906859,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,82.0,0.8690108060836792,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,vehicle,83.0,0.8742052912712097,none,/m/07yv9,none,OTHER,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive wheel system,81.0,0.4402434527873993,none,/m/0h8ly30,none,OTHER,,automotive wheel system,automotive wheel system,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive wheel system,82.0,0.4331834614276886,none,/m/0h8ly30,none,OTHER,,automotive wheel system,automotive wheel system,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,performance car,81.0,0.6098836064338684,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,82.0,0.670953094959259,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,performance car,83.0,0.6949177384376526,car,/m/06j11d,/m/0k4j,OTHER,,performance car,performance car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,convertible,81.0,0.7273179292678833,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,convertible,82.0,0.6717117428779602,car,/m/019qw9,/m/0k4j,OTHER,,convertible,convertible,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,81.0,0.7670537829399109,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,82.0,0.7658293843269348,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,sports car,83.0,0.5122604370117188,car,/m/012mq4,/m/0k4j,OTHER,,sport car,sport car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,wheel,81.0,0.43351095914840704,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,wheel,82.0,0.4030199646949768,none,/m/083wq,none,OTHER,,wheel,wheel,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,none,none,none,none,OTHER
+lVMN_iO62Dc,bumper,83.0,0.4503556191921234,none,/m/02mnkq,none,OTHER,,bumper,bumper,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,muscle car,81.0,0.5841192603111267,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,muscle car,82.0,0.6343022584915161,car,/m/01h80k,/m/0k4j,OTHER,,muscle car,muscle car,OTHER,,,,car,car,car,car,OTHER
+lVMN_iO62Dc,automotive exterior,81.0,0.7138978838920593,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,82.0,0.6957159042358398,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,automotive exterior,83.0,0.6540242433547974,none,/m/0h8ls87,none,OTHER,,automotive exterior,automotive exterior,OTHER,,,,none,none,none,none,OTHER
+lVMN_iO62Dc,car,81.0,0.9828397035598756,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,82.0,0.9838770627975464,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+lVMN_iO62Dc,car,83.0,0.9814735651016236,vehicle,/m/0k4j,/m/07yv9,OTHER,,car,car,OTHER,,,,vehicle,vehicle,vehicle,vehicle,OTHER

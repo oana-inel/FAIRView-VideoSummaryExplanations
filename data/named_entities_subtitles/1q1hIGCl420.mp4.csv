@@ -1,0 +1,5 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+1q1hIGCl420,calculator,OTHER,,,calculator,20,0.20000000298023224,-0.20000000298023224,COMMON,0.7695800662040709,0.20000000298023224,0.0,calculator,calculator,OTHER,OTHER,http://dbpedia.org/ontology/Device,"VideoGame, Thing",PERSON,OTHER,OTHER,OTHER
+1q1hIGCl420,torch,OTHER,,,torch,60,0.10000000149011612,-0.10000000149011612,COMMON,0.10410263389348984,0.10000000149011612,-0.10000000149011612,torch,torch,OTHER,OTHER,http://dbpedia.org/ontology/Food,"MusicGroup, Thing",,OTHER,OTHER,OTHER
+1q1hIGCl420,power,OTHER,,,power,91,0.0,0.0,COMMON,0.07426244020462036,0.0,0.0,power,power,OTHER,ORGANIZATION,,"Thing, Corporation, Organization, Movie, TVSeries","PERSON, ORGANIZATION",OTHER,OTHER,OTHER
+1q1hIGCl420,stove,OTHER,,,stove,106,0.0,0.0,COMMON,0.05205484479665756,0.0,0.0,stove,stove,OTHER,OTHER,,Thing,,OTHER,OTHER,OTHER

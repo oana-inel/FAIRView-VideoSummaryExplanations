@@ -1,0 +1,136 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+seNG9-EdDZI,ice,2.0,0.5931522250175476,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,ice,3.0,0.6042545437812805,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,ice,4.0,0.6282457709312439,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,ice,5.0,0.6304709911346436,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,ice,6.0,0.5767245292663574,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,ice,7.0,0.5894625782966614,OTHER,/m/03vtj,,ice,ice,OTHER,,http://dbpedia.org/ontology/Building,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,monument,3.0,0.4447828531265259,OTHER,/m/02ljgl,,monument,monument,OTHER,,http://dbpedia.org/ontology/Building,,LOCATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,sidewalk,3.0,0.4363249242305756,city,/m/0dnhy,/m/01n32,sidewalk,sidewalk,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,city,city,city,LOCATION
+seNG9-EdDZI,fun,2.0,0.5818796157836914,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,3.0,0.447269469499588,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,4.0,0.5351677536964417,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,5.0,0.4963692128658295,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,6.0,0.5463281869888306,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,7.0,0.548981249332428,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,blizzard,2.0,0.5537868738174438,"event, weather",/m/01g81,"/m/081pkj, /m/0866r",blizzard,blizzard,OTHER,,,,ORGANIZATION,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,blizzard,3.0,0.5458795428276062,"event, weather",/m/01g81,"/m/081pkj, /m/0866r",blizzard,blizzard,OTHER,,,,ORGANIZATION,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,blizzard,4.0,0.5923606753349304,"event, weather",/m/01g81,"/m/081pkj, /m/0866r",blizzard,blizzard,OTHER,,,,ORGANIZATION,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,blizzard,5.0,0.5354560613632202,"event, weather",/m/01g81,"/m/081pkj, /m/0866r",blizzard,blizzard,OTHER,,,,ORGANIZATION,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,blizzard,6.0,0.4891460537910461,"event, weather",/m/01g81,"/m/081pkj, /m/0866r",blizzard,blizzard,OTHER,,,,ORGANIZATION,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,blizzard,7.0,0.4965577721595764,"event, weather",/m/01g81,"/m/081pkj, /m/0866r",blizzard,blizzard,OTHER,,,,ORGANIZATION,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,urban area,4.0,0.7954403162002563,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+seNG9-EdDZI,freezing,2.0,0.7947918772697449,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,freezing,3.0,0.7914026975631714,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,freezing,4.0,0.851658046245575,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,freezing,5.0,0.8289028406143188,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,freezing,6.0,0.8228145241737366,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,freezing,7.0,0.8168026804924011,OTHER,/m/01c791,,freeze,freeze,OTHER,,http://dbpedia.org/ontology/LacrossePlayer,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,recreation,2.0,0.5092237591743469,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,tree,2.0,0.8428986072540283,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+seNG9-EdDZI,tree,3.0,0.8645475506782532,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+seNG9-EdDZI,tree,4.0,0.8641877174377441,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+seNG9-EdDZI,tree,5.0,0.8669907450675964,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+seNG9-EdDZI,tree,6.0,0.8534584045410156,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+seNG9-EdDZI,tree,7.0,0.8707513213157654,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+seNG9-EdDZI,snow,2.0,0.9715911746025084,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+seNG9-EdDZI,snow,3.0,0.967373549938202,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+seNG9-EdDZI,snow,4.0,0.9784653782844543,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+seNG9-EdDZI,snow,5.0,0.9758127927780152,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+seNG9-EdDZI,snow,6.0,0.9723384380340576,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+seNG9-EdDZI,snow,7.0,0.9728345274925232,weather,/m/06_dn,/m/0866r,snow,snow,OTHER,,,,PERSON,weather,weather,weather,weather,OTHER
+seNG9-EdDZI,winter storm,2.0,0.40348467230796814,"event, weather",/m/01kgp6,"/m/081pkj, /m/0866r",winter storm,winter storm,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,winter storm,3.0,0.40048226714134216,"event, weather",/m/01kgp6,"/m/081pkj, /m/0866r",winter storm,winter storm,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,winter storm,4.0,0.4512312710285187,"event, weather",/m/01kgp6,"/m/081pkj, /m/0866r",winter storm,winter storm,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,"event, weather","event, weather",EVENT,"event, weather",EVENT
+seNG9-EdDZI,pedestrian,3.0,0.4329148232936859,person,/m/017r8p,/m/01g317,pedestrian,pedestrian,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+seNG9-EdDZI,winter,2.0,0.9434614181518556,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+seNG9-EdDZI,winter,3.0,0.9360300898551941,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+seNG9-EdDZI,winter,4.0,0.9520667195320128,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+seNG9-EdDZI,winter,5.0,0.9421027898788452,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+seNG9-EdDZI,winter,6.0,0.94875168800354,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+seNG9-EdDZI,winter,7.0,0.9531666040420532,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+seNG9-EdDZI,road,2.0,0.5408589243888855,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,road,3.0,0.6141201257705688,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,road,4.0,0.6129858493804932,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,road,5.0,0.4829251170158386,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,road,6.0,0.5058990120887756,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,road,7.0,0.5606650710105896,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,street,2.0,0.5422610640525818,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+seNG9-EdDZI,street,3.0,0.568674623966217,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+seNG9-EdDZI,street,4.0,0.5842002630233765,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+seNG9-EdDZI,street,5.0,0.5174009799957275,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+seNG9-EdDZI,street,6.0,0.4921956062316895,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+seNG9-EdDZI,street,7.0,0.5251718163490295,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+seNG9-EdDZI,event,2.0,0.4474756419658661,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,event,5.0,0.4196485877037048,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,tourism,2.0,0.4383043646812439,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,tourism,3.0,0.4435501098632813,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,tourism,4.0,0.4336064755916596,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,tourism,6.0,0.4291079640388489,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,tourism,7.0,0.4241853952407837,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+seNG9-EdDZI,city,2.0,0.413829892873764,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+seNG9-EdDZI,planet,70.0,0.7831259965896606,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+seNG9-EdDZI,planet,71.0,0.5990679860115051,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+seNG9-EdDZI,planet,72.0,0.5264472365379333,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+seNG9-EdDZI,planet,73.0,0.6866082549095154,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+seNG9-EdDZI,planet,74.0,0.5727855563163757,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+seNG9-EdDZI,planet,75.0,0.5710129737854004,astronomical object,/m/05qc_,/m/01d9ll,planet,planet,OTHER,,,,PERSON,LOCATION,astronomical object,astronomical object,astronomical object,LOCATION
+seNG9-EdDZI,world,70.0,0.7222009897232056,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,world,71.0,0.6999329328536987,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,world,72.0,0.7064351439476013,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,world,73.0,0.6933542490005493,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,world,74.0,0.6912282705307007,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,world,75.0,0.6913895606994629,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,water,70.0,0.8076685070991516,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,water,71.0,0.8988203406333923,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,water,72.0,0.7236664295196533,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,water,73.0,0.8504976034164429,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,water,74.0,0.8211963176727295,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,water,75.0,0.7040137052536011,OTHER,/m/0838f,,water,water,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,technology,73.0,0.6090331077575684,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,technology,75.0,0.64356529712677,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,70.0,0.41174063086509705,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,71.0,0.4253210127353668,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,72.0,0.5656875371932983,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,73.0,0.5665600299835205,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,fun,74.0,0.5195925235748291,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,globe,70.0,0.9171181917190552,OTHER,/m/01q_cy,,globe,globe,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,globe,71.0,0.7373198866844177,OTHER,/m/01q_cy,,globe,globe,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,globe,72.0,0.8045792579650879,OTHER,/m/01q_cy,,globe,globe,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,globe,73.0,0.7729766964912415,OTHER,/m/01q_cy,,globe,globe,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,globe,74.0,0.8366832733154297,OTHER,/m/01q_cy,,globe,globe,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,globe,75.0,0.8125671744346619,OTHER,/m/01q_cy,,globe,globe,PERSON,,http://dbpedia.org/ontology/Person,,,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,sky,70.0,0.6037713885307312,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,sky,71.0,0.536730170249939,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,sky,72.0,0.6146531701087952,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,sky,73.0,0.6156172156333923,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,sky,74.0,0.5686240196228027,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,sky,75.0,0.4750848710536957,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+seNG9-EdDZI,computer wallpaper,70.0,0.5070092678070068,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+seNG9-EdDZI,computer wallpaper,71.0,0.5006358027458191,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+seNG9-EdDZI,computer wallpaper,72.0,0.5552928447723389,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+seNG9-EdDZI,computer wallpaper,73.0,0.5656615495681763,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+seNG9-EdDZI,computer wallpaper,74.0,0.4957362115383148,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+seNG9-EdDZI,computer wallpaper,75.0,0.5313411951065063,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+seNG9-EdDZI,earth,70.0,0.8328123688697815,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+seNG9-EdDZI,earth,71.0,0.7553635239601135,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+seNG9-EdDZI,earth,72.0,0.7236128449440002,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+seNG9-EdDZI,earth,73.0,0.7500908970832825,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+seNG9-EdDZI,earth,74.0,0.7471809983253479,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+seNG9-EdDZI,earth,75.0,0.7398885488510132,planet,/m/02j71,/m/05qc_,earth,earth,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Planet, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/CelestialBody",,LOCATION,LOCATION,planet,planet,planet,LOCATION
+seNG9-EdDZI,space,70.0,0.5877951979637146,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,space,71.0,0.5125514864921571,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,space,72.0,0.5277896523475647,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,space,73.0,0.5592570900917053,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,space,74.0,0.5493655800819397,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,space,75.0,0.5432824492454529,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,sphere,70.0,0.4137417376041413,shape,/m/06y47,/m/016nqd,sphere,sphere,OTHER,,http://dbpedia.org/ontology/Bone,,LOCATION,shape,shape,shape,shape,OTHER
+seNG9-EdDZI,sphere,71.0,0.4192231893539429,shape,/m/06y47,/m/016nqd,sphere,sphere,OTHER,,http://dbpedia.org/ontology/Bone,,LOCATION,shape,shape,shape,shape,OTHER
+seNG9-EdDZI,graphics,72.0,0.4505641162395477,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+seNG9-EdDZI,graphics,75.0,0.4690216481685638,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+seNG9-EdDZI,energy,70.0,0.4837362468242645,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,energy,71.0,0.5338017940521239,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,energy,72.0,0.5518072843551636,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,energy,73.0,0.4948657751083374,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,energy,74.0,0.4965837597846985,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+seNG9-EdDZI,energy,75.0,0.5534328818321228,OTHER,/m/02mm_,,energy,energy,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER

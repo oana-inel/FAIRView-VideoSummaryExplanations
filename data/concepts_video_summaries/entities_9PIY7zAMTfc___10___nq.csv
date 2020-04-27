@@ -1,0 +1,8 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+9PIY7zAMTfc,Obama,PERSON,/m/02mjmr,https://en.wikipedia.org/wiki/Barack_Obama,Obama,992,0.10000000149011612,-0.10000000149011612,PROPER,0.7767513394355774,7.699999809265138,0.0,Obama,obama,,,,,,PERSON,PERSON,PERSON
+9PIY7zAMTfc,Obama,PERSON,/m/02mjmr,https://en.wikipedia.org/wiki/Barack_Obama,President,982,0.0,0.0,COMMON,0.7767513394355774,7.699999809265138,0.0,Obama,obama,,,,,,PERSON,PERSON,PERSON
+9PIY7zAMTfc,No More Drama,WORK_OF_ART,/g/1s05vvwh9,,election,926,0.0,0.0,COMMON,0.02974630892276764,0.5,0.0,No More Drama,no more drama,,,,,,WORK_OF_ART,WORK_OF_ART,EVENT
+9PIY7zAMTfc,No More Drama,WORK_OF_ART,/g/1s05vvwh9,,campaign theme song,958,0.0,0.0,COMMON,0.02974630892276764,0.5,0.0,No More Drama,no more drama,,,,,,WORK_OF_ART,WORK_OF_ART,EVENT
+9PIY7zAMTfc,No More Drama,WORK_OF_ART,/g/1s05vvwh9,,No More Drama,999,0.0,0.0,PROPER,0.02974630892276764,0.5,0.0,No More Drama,no more drama,,,,,,WORK_OF_ART,WORK_OF_ART,EVENT
+9PIY7zAMTfc,drama,OTHER,,,drama,839,0.10000000149011612,0.10000000149011612,COMMON,0.0036474366206675772,0.30000001192092896,0.0,drama,drama,,,,,EVENT,OTHER,OTHER,OTHER
+9PIY7zAMTfc,hits,OTHER,,,hits,823,0.0,0.0,COMMON,0.0006137285381555557,0.0,0.0,hit,hit,,,,,EVENT,OTHER,OTHER,OTHER

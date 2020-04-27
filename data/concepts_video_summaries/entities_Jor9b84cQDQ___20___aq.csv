@@ -1,0 +1,5 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+Jor9b84cQDQ,home,LOCATION,,,home,489,0.10000000149011612,-0.10000000149011612,COMMON,0.00811193510890007,0.10000000149011612,-0.10000000149011612,home,home,,,,,"LOCATION, ORGANIZATION",LOCATION,LOCATION,LOCATION
+Jor9b84cQDQ,auction,EVENT,,,auction,541,0.10000000149011612,0.10000000149011612,COMMON,0.0039924574084579945,0.10000000149011612,0.10000000149011612,auction,auction,,,,,,EVENT,EVENT,EVENT
+Jor9b84cQDQ,no one,PERSON,,,no one,585,0.5,-0.5,COMMON,0.003507133340463043,0.5,-0.5,no one,no one,,,,,,PERSON,PERSON,PERSON
+Jor9b84cQDQ,Reserve,PERSON,,,Reserve,549,0.10000000149011612,0.10000000149011612,PROPER,0.002344668144360185,0.10000000149011612,0.10000000149011612,Reserve,reserve,,,,,"PERSON, LOCATION, ORGANIZATION",PERSON,PERSON,PERSON

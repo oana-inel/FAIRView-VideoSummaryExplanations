@@ -1,0 +1,114 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+Y2zj-LvUjn0,pedestrian,27.0,0.479367196559906,person,/m/017r8p,/m/01g317,pedestrian,pedestrian,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+Y2zj-LvUjn0,facade,28.0,0.6101738214492798,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,facade,29.0,0.6071358919143677,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,facade,30.0,0.617473304271698,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,landmark,28.0,0.9377068281173706,geographical feature,/m/05_5t0l,/m/043rvww,landmark,landmark,OTHER,,http://dbpedia.org/ontology/Work,,"LOCATION, EVENT",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,landmark,29.0,0.9358532428741456,geographical feature,/m/05_5t0l,/m/043rvww,landmark,landmark,OTHER,,http://dbpedia.org/ontology/Work,,"LOCATION, EVENT",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,landmark,30.0,0.9543898105621338,geographical feature,/m/05_5t0l,/m/043rvww,landmark,landmark,OTHER,,http://dbpedia.org/ontology/Work,,"LOCATION, EVENT",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,basilica,28.0,0.7771269083023071,church,/m/0f85g,/m/01wb7,basilica,basilica,OTHER,,,,,LOCATION,church,church,church,LOCATION
+Y2zj-LvUjn0,basilica,29.0,0.7600979208946228,church,/m/0f85g,/m/01wb7,basilica,basilica,OTHER,,,,,LOCATION,church,church,church,LOCATION
+Y2zj-LvUjn0,basilica,30.0,0.792927622795105,church,/m/0f85g,/m/01wb7,basilica,basilica,OTHER,,,,,LOCATION,church,church,church,LOCATION
+Y2zj-LvUjn0,place of worship,28.0,0.6031535863876343,building,/m/02nvjx,/m/0cgh4,place of worship,place of worship,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,place of worship,29.0,0.6822319030761719,building,/m/02nvjx,/m/0cgh4,place of worship,place of worship,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,place of worship,30.0,0.7440693378448486,building,/m/02nvjx,/m/0cgh4,place of worship,place of worship,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,steeple,28.0,0.5809239149093628,tower,/m/051rmm,/m/01fdzj,steeple,steeple,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,tower,tower,tower,LOCATION
+Y2zj-LvUjn0,steeple,29.0,0.5915993452072144,tower,/m/051rmm,/m/01fdzj,steeple,steeple,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,tower,tower,tower,LOCATION
+Y2zj-LvUjn0,steeple,30.0,0.5660158395767212,tower,/m/051rmm,/m/01fdzj,steeple,steeple,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,tower,tower,tower,LOCATION
+Y2zj-LvUjn0,historic site,28.0,0.6907958388328552,location,/m/07yr8h,/m/078x4m,historic site,historic site,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,location,location,location,LOCATION
+Y2zj-LvUjn0,historic site,29.0,0.776889443397522,location,/m/07yr8h,/m/078x4m,historic site,historic site,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,location,location,location,LOCATION
+Y2zj-LvUjn0,historic site,30.0,0.8638473153114319,location,/m/07yr8h,/m/078x4m,historic site,historic site,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,location,location,location,LOCATION
+Y2zj-LvUjn0,protest,27.0,0.8574357032775879,event,/m/01nd_n,/m/081pkj,protest,protest,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,event,event,EVENT,event,EVENT
+Y2zj-LvUjn0,audience,27.0,0.7252062559127808,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+Y2zj-LvUjn0,crowd,27.0,0.9817745685577391,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+Y2zj-LvUjn0,tourist attraction,28.0,0.7715240120887756,location,/m/0pgl9,/m/078x4m,tourist attraction,tourist attraction,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,location,location,location,LOCATION
+Y2zj-LvUjn0,tourist attraction,29.0,0.7267754673957825,location,/m/0pgl9,/m/078x4m,tourist attraction,tourist attraction,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,location,location,location,LOCATION
+Y2zj-LvUjn0,tourist attraction,30.0,0.7703189849853516,location,/m/0pgl9,/m/078x4m,tourist attraction,tourist attraction,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,location,location,location,LOCATION
+Y2zj-LvUjn0,baptistery,28.0,0.5534754395484924,building,/m/044p4l,/m/0cgh4,baptistery,baptistery,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,baptistery,29.0,0.6582710146903992,building,/m/044p4l,/m/0cgh4,baptistery,baptistery,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,baptistery,30.0,0.6955385208129883,building,/m/044p4l,/m/0cgh4,baptistery,baptistery,OTHER,,,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,symmetry,29.0,0.4460273385047913,OTHER,/m/0f28m,,symmetry,symmetry,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+Y2zj-LvUjn0,symmetry,30.0,0.5211062431335449,OTHER,/m/0f28m,,symmetry,symmetry,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+Y2zj-LvUjn0,mosque,30.0,0.4582541286945343,building,/m/04_xn,/m/0cgh4,mosque,mosque,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,tower,28.0,0.6929795145988464,OTHER,/m/01fdzj,,tower,tower,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+Y2zj-LvUjn0,tower,29.0,0.4763172864913941,OTHER,/m/01fdzj,,tower,tower,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+Y2zj-LvUjn0,government,28.0,0.4081074893474579,organization,/m/036nz,/m/0qb7t,government,government,OTHER,,,,ORGANIZATION,organization,organization,organization,ORGANIZATION,ORGANIZATION
+Y2zj-LvUjn0,plaza,28.0,0.4611929953098297,city,/m/01klb9,/m/01n32,plaza,plaza,OTHER,,,,LOCATION,LOCATION,city,city,city,LOCATION
+Y2zj-LvUjn0,religion,30.0,0.5283188223838806,OTHER,/m/06bvp,,religion,religion,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+Y2zj-LvUjn0,byzantine architecture,28.0,0.6590096354484558,architecture,/m/01sqnx,/m/03nfmq,byzantine architecture,byzantine architecture,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,byzantine architecture,29.0,0.7664241194725037,architecture,/m/01sqnx,/m/03nfmq,byzantine architecture,byzantine architecture,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,byzantine architecture,30.0,0.8719993829727173,architecture,/m/01sqnx,/m/03nfmq,byzantine architecture,byzantine architecture,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,arch,28.0,0.5483561158180237,architecture,/m/0dpvm,/m/03nfmq,arch,arch,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,arch,29.0,0.6785009503364563,architecture,/m/0dpvm,/m/03nfmq,arch,arch,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,arch,30.0,0.7005557417869568,architecture,/m/0dpvm,/m/03nfmq,arch,arch,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,street,27.0,0.6120855212211609,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+Y2zj-LvUjn0,medieval architecture,28.0,0.7812064290046692,architecture,/m/01ht1r,/m/03nfmq,medieval architecture,medieval architecture,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,medieval architecture,29.0,0.7618963718414307,architecture,/m/01ht1r,/m/03nfmq,medieval architecture,medieval architecture,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,medieval architecture,30.0,0.7947690486907959,architecture,/m/01ht1r,/m/03nfmq,medieval architecture,medieval architecture,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,people,27.0,0.97097247838974,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+Y2zj-LvUjn0,walking,27.0,0.4158802032470703,sports,/m/083mg,/m/06ntj,walk,walk,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+Y2zj-LvUjn0,building,28.0,0.8276856541633606,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+Y2zj-LvUjn0,building,29.0,0.8738002181053162,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+Y2zj-LvUjn0,building,30.0,0.8993066549301147,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+Y2zj-LvUjn0,tourism,28.0,0.5173854231834412,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+Y2zj-LvUjn0,tourism,29.0,0.5062606930732727,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+Y2zj-LvUjn0,tourism,30.0,0.5778151154518127,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+Y2zj-LvUjn0,metropolis,28.0,0.7267365455627441,city,/m/056mk,/m/01n32,metropolis,metropolis,OTHER,,http://dbpedia.org/ontology/City,,"LOCATION, ORGANIZATION",LOCATION,city,city,city,LOCATION
+Y2zj-LvUjn0,metropolis,29.0,0.7212443351745605,city,/m/056mk,/m/01n32,metropolis,metropolis,OTHER,,http://dbpedia.org/ontology/City,,"LOCATION, ORGANIZATION",LOCATION,city,city,city,LOCATION
+Y2zj-LvUjn0,metropolis,30.0,0.7364176511764526,city,/m/056mk,/m/01n32,metropolis,metropolis,OTHER,,http://dbpedia.org/ontology/City,,"LOCATION, ORGANIZATION",LOCATION,city,city,city,LOCATION
+Y2zj-LvUjn0,event,27.0,0.8555998206138611,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+Y2zj-LvUjn0,evening,30.0,0.4285985827445984,OTHER,/m/04mx32,,even,even,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,EVENT,OTHER,EVENT
+Y2zj-LvUjn0,cathedral,28.0,0.6424609422683716,building,/m/0cfs8,/m/0cgh4,cathedral,cathedral,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,cathedral,29.0,0.6880388855934143,building,/m/0cfs8,/m/0cgh4,cathedral,cathedral,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,cathedral,30.0,0.7000579237937927,building,/m/0cfs8,/m/0cgh4,cathedral,cathedral,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,demonstration,27.0,0.4296858310699463,education,/m/026yq0z,/m/02jfc,demonstration,demonstration,OTHER,,,,,education,education,education,education,OTHER
+Y2zj-LvUjn0,synagogue,28.0,0.5729255080223083,building,/m/0c_6z,/m/0cgh4,synagogue,synagogue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,synagogue,29.0,0.6183865070343018,building,/m/0c_6z,/m/0cgh4,synagogue,synagogue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,synagogue,30.0,0.6936866641044617,building,/m/0c_6z,/m/0cgh4,synagogue,synagogue,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,dome,28.0,0.6081467270851135,geographical feature,/m/0c85fd,/m/043rvww,dome,dome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,dome,29.0,0.9184449911117554,geographical feature,/m/0c85fd,/m/043rvww,dome,dome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,dome,30.0,0.9185156226158142,geographical feature,/m/0c85fd,/m/043rvww,dome,dome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,stock photography,29.0,0.42963188886642456,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+Y2zj-LvUjn0,stock photography,30.0,0.4564462304115296,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+Y2zj-LvUjn0,recreation,27.0,0.5057854056358337,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+Y2zj-LvUjn0,dome,28.0,0.8356157541275024,building,/m/016br2,/m/0cgh4,dome,dome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,dome,29.0,0.9285765886306764,building,/m/016br2,/m/0cgh4,dome,dome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,dome,30.0,0.9395557641983032,building,/m/016br2,/m/0cgh4,dome,dome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,,LOCATION,building,building,building,LOCATION
+Y2zj-LvUjn0,sky,28.0,0.8668499588966371,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+Y2zj-LvUjn0,sky,29.0,0.8895136117935181,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+Y2zj-LvUjn0,sky,30.0,0.8688408732414246,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+Y2zj-LvUjn0,spire,28.0,0.506752610206604,OTHER,/m/01c6yl,,spire,spire,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+Y2zj-LvUjn0,spire,29.0,0.5918074250221252,OTHER,/m/01c6yl,,spire,spire,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+Y2zj-LvUjn0,spire,30.0,0.5661562085151672,OTHER,/m/01c6yl,,spire,spire,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+Y2zj-LvUjn0,bell tower,28.0,0.538924515247345,tower,/m/02wc6z,/m/01fdzj,bell tower,bell tower,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,tower,tower,tower,LOCATION
+Y2zj-LvUjn0,city,27.0,0.6496171951293945,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,city,28.0,0.6527887582778931,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,city,29.0,0.5901708006858826,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,city,30.0,0.5922920107841492,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+Y2zj-LvUjn0,classical architecture,28.0,0.5150317549705505,architecture,/m/0dvh9,/m/03nfmq,classical architecture,classical architecture,OTHER,,,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,classical architecture,29.0,0.5340858101844788,architecture,/m/0dvh9,/m/03nfmq,classical architecture,classical architecture,OTHER,,,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,classical architecture,30.0,0.6875762939453125,architecture,/m/0dvh9,/m/03nfmq,classical architecture,classical architecture,OTHER,,,,,LOCATION,architecture,architecture,architecture,LOCATION
+Y2zj-LvUjn0,audio,66.0,0.4094979166984558,technology,/m/0h91fqv,/m/07c1v,audio,audio,OTHER,,,,,technology,technology,technology,technology,OTHER
+Y2zj-LvUjn0,human behavior,64.0,0.4187255501747131,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,human behavior,65.0,0.4913220405578613,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,human behavior,67.0,0.5230945944786072,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,human behavior,68.0,0.5052772164344788,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,human behavior,69.0,0.51465904712677,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,human behavior,70.0,0.4279594421386719,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,human behavior,71.0,0.4312964379787445,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,communication,67.0,0.6219449043273926,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+Y2zj-LvUjn0,communication,68.0,0.5543904304504395,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+Y2zj-LvUjn0,arm,66.0,0.6790544986724854,human body,/m/0dzf4,/m/02p0tk3,arm,arm,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+Y2zj-LvUjn0,singer songwriter,66.0,0.4039392471313477,person,/m/016z4k,/m/01g317,singer songwriter,singer songwriter,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,public speaking,67.0,0.4508237242698669,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+Y2zj-LvUjn0,conversation,67.0,0.4454846382141113,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+Y2zj-LvUjn0,singing,66.0,0.41606923937797546,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+Y2zj-LvUjn0,musical instrument,66.0,0.5389802455902101,OTHER,/m/04szw,,musical instrument,musical instrument,OTHER,,http://dbpedia.org/ontology/Agent,,,OTHER,OTHER,OTHER,OTHER,OTHER
+Y2zj-LvUjn0,product,65.0,0.4030191600322723,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+Y2zj-LvUjn0,public relations,66.0,0.4543352425098419,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+Y2zj-LvUjn0,public relations,67.0,0.4735638797283173,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+Y2zj-LvUjn0,public relations,69.0,0.4219774007797241,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+Y2zj-LvUjn0,microphone,66.0,0.4067004323005676,audio,/m/0hg7b,/m/0h91fqv,microphone,microphone,OTHER,,,,,audio,audio,audio,audio,OTHER
+Y2zj-LvUjn0,speech,67.0,0.4259583950042725,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,vocal coach,66.0,0.8384730219841003,person,/m/02743k0,/m/01g317,vocal coach,vocal coach,PERSON,,http://dbpedia.org/ontology/Person,,,person,person,person,person,OTHER
+Y2zj-LvUjn0,songwriter,66.0,0.4161806702613831,person,/m/0nbcg,/m/01g317,songwriter,songwriter,OTHER,,,,PERSON,person,person,person,person,OTHER

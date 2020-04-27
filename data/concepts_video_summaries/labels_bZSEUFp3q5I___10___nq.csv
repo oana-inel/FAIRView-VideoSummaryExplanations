@@ -1,0 +1,90 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+bZSEUFp3q5I,concrete,6.0,0.5176112651824951,material,/m/01mxf,/m/01l0y0,concrete,concrete,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+bZSEUFp3q5I,recreation,6.0,0.4907459914684296,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,recreation,9.0,0.5716386437416077,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,recreation,10.0,0.5810280442237854,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,competition event,8.0,0.4270389974117279,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+bZSEUFp3q5I,competition event,9.0,0.561850368976593,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+bZSEUFp3q5I,competition event,10.0,0.4802302122116089,event,/m/04stdlw,/m/081pkj,competition event,competition event,OTHER,,,,,event,event,event,event,OTHER
+bZSEUFp3q5I,fun,10.0,0.4791195392608642,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,material,5.0,0.5889467597007751,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,material,6.0,0.5871029496192932,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,vacation,10.0,0.4126549959182739,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+bZSEUFp3q5I,horse like mammal,8.0,0.5116066932678223,mammal,/m/02s3y,/m/04rky,horse like mammal,horse like mammal,OTHER,,,,,mammal,mammal,mammal,mammal,OTHER
+bZSEUFp3q5I,pack animal,8.0,0.7081656455993652,mammal,/m/0464z4,/m/04rky,pack animal,pack animal,PERSON,,http://dbpedia.org/ontology/Person,,,mammal,mammal,mammal,mammal,OTHER
+bZSEUFp3q5I,asphalt,6.0,0.4049057066440582,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,vehicle,5.0,0.8298321366310121,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,vehicle,6.0,0.7416573762893677,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,vehicle,7.0,0.7556219696998596,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,vehicle,10.0,0.676366925239563,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,photo caption,8.0,0.4764961898326874,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+bZSEUFp3q5I,car,5.0,0.6454505920410156,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+bZSEUFp3q5I,spring break,10.0,0.4679838716983795,event,/m/02dy7v,/m/081pkj,spring break,spring break,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+bZSEUFp3q5I,adaptation,8.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,adaptation,9.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,world,9.0,0.43605318665504456,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,tourism,9.0,0.4001357257366181,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,tourism,10.0,0.4662985503673554,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,bricklayer,6.0,0.5025338530540466,person,/m/02cc0w,/m/01g317,bricklayer,bricklayer,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+bZSEUFp3q5I,adventure,9.0,0.5278863310813904,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,livestock,8.0,0.6182565093040466,animal,/m/0ch8v,/m/0jbk,livestock,livestock,OTHER,,http://dbpedia.org/ontology/Animal,,,animal,animal,animal,animal,OTHER
+bZSEUFp3q5I,tree,7.0,0.6688960790634155,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+bZSEUFp3q5I,tree,8.0,0.6146419048309326,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+bZSEUFp3q5I,tree,9.0,0.7746258378028871,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+bZSEUFp3q5I,hobby,9.0,0.4121431410312653,art,/m/03glg,/m/0jjw,hobby,hobby,OTHER,,http://dbpedia.org/ontology/Sport,,,art,art,art,art,OTHER
+bZSEUFp3q5I,construction worker,6.0,0.4758971035480499,person,/m/047x57,/m/01g317,construction worker,construction worker,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+bZSEUFp3q5I,pet,9.0,0.5519086718559265,animal,/m/068hy,/m/0jbk,pet,pet,OTHER,,http://dbpedia.org/ontology/Animal,,PERSON,animal,animal,animal,animal,OTHER
+bZSEUFp3q5I,product,10.0,0.5175523161888123,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,mode of transport,5.0,0.8752108216285706,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,mode of transport,7.0,0.874984860420227,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,mode of transport,10.0,0.8750065565109253,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,horse,8.0,0.4170812368392944,"mammal, animal",/m/03k3r,"/m/04rky, /m/0jbk",horse,horse,OTHER,,"http://dbpedia.org/ontology/Animal, http://dbpedia.org/ontology/Mammal, http://dbpedia.org/ontology/Species, http://dbpedia.org/ontology/Eukaryote",,ORGANIZATION,"mammal, animal","mammal, animal","mammal, animal","mammal, animal",OTHER
+bZSEUFp3q5I,race,8.0,0.5857851505279541,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,race,9.0,0.6198558807373047,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,race,10.0,0.6645429134368896,OTHER,/m/06d4_,,race,race,OTHER,,,,"EVENT, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,animal,8.0,0.5538533926010132,OTHER,/m/0jbk,,animal,animal,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,crowd,10.0,0.4106378257274628,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+bZSEUFp3q5I,event,7.0,0.4383038878440857,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,event,10.0,0.44012901186943054,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,sand,6.0,0.4865685105323792,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+bZSEUFp3q5I,sand,8.0,0.4333156943321228,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+bZSEUFp3q5I,sand,10.0,0.4019855558872223,material,/m/099fz,/m/01l0y0,sand,sand,OTHER,,,,PERSON,material,material,material,material,OTHER
+bZSEUFp3q5I,recreation,52.0,0.5849610567092896,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,fun,52.0,0.5608362555503845,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,fun,53.0,0.6385648250579834,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,fun,54.0,0.6521087288856506,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,fun,55.0,0.5891778469085693,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,fun,56.0,0.5149052143096924,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,fête,52.0,0.5299085974693298,festival,/m/07bb2_,/m/0hr5k,fête,fête,EVENT,,http://dbpedia.org/ontology/SocietalEvent,,,festival,festival,EVENT,festival,EVENT
+bZSEUFp3q5I,party,54.0,0.4260896146297455,event,/m/05_4_,/m/081pkj,party,party,OTHER,,http://dbpedia.org/ontology/Convention,,"ORGANIZATION, EVENT, PERSON",event,event,EVENT,event,EVENT
+bZSEUFp3q5I,party,55.0,0.4100632071495056,event,/m/05_4_,/m/081pkj,party,party,OTHER,,http://dbpedia.org/ontology/Convention,,"ORGANIZATION, EVENT, PERSON",event,event,EVENT,event,EVENT
+bZSEUFp3q5I,public event,52.0,0.719986617565155,event,/g/116c3n66l,/m/081pkj,public event,public event,OTHER,,,,,event,event,event,event,OTHER
+bZSEUFp3q5I,city,52.0,0.4988431036472321,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+bZSEUFp3q5I,block party,52.0,0.6518881320953369,party,/m/02xx5y,/m/05_4_,block party,block party,OTHER,,http://dbpedia.org/ontology/PoliticalParty,,,party,party,EVENT,party,EVENT
+bZSEUFp3q5I,ceremony,54.0,0.44425320625305176,event,/m/016c4t,/m/081pkj,ceremony,ceremony,EVENT,,http://dbpedia.org/ontology/SportsEvent,,EVENT,event,event,EVENT,event,EVENT
+bZSEUFp3q5I,ceremony,55.0,0.4449019432067871,event,/m/016c4t,/m/081pkj,ceremony,ceremony,EVENT,,http://dbpedia.org/ontology/SportsEvent,,EVENT,event,event,EVENT,event,EVENT
+bZSEUFp3q5I,tradition,53.0,0.5938291549682617,OTHER,/m/07djv,,tradition,tradition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,tradition,54.0,0.6214775443077087,OTHER,/m/07djv,,tradition,tradition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,tradition,55.0,0.6158945560455322,OTHER,/m/07djv,,tradition,tradition,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,audience,52.0,0.9582956433296204,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+bZSEUFp3q5I,audience,53.0,0.429885596036911,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+bZSEUFp3q5I,cheering,52.0,0.463453859090805,person,/m/053hz1,/m/01g317,cheer,cheer,OTHER,,,,,person,person,person,person,OTHER
+bZSEUFp3q5I,product,52.0,0.5972768664360046,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,product,53.0,0.6337444186210632,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,product,54.0,0.5353527665138245,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,product,55.0,0.5257367491722107,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,product,56.0,0.5497534275054932,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+bZSEUFp3q5I,people,52.0,0.9816707372665404,person,/m/09g5pq,/m/01g317,people,people,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+bZSEUFp3q5I,rebellion,52.0,0.4163548946380615,event,/m/02k88w,/m/081pkj,rebellion,rebellion,OTHER,,,,,event,event,event,event,OTHER
+bZSEUFp3q5I,crowd,52.0,0.9886335730552672,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+bZSEUFp3q5I,crowd,53.0,0.5572988390922546,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+bZSEUFp3q5I,crowd,54.0,0.4534197747707367,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+bZSEUFp3q5I,event,52.0,0.7283514738082886,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,event,53.0,0.5748642683029175,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,event,54.0,0.6140728592872621,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,event,55.0,0.6366783380508423,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,event,56.0,0.5397337675094604,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+bZSEUFp3q5I,demonstration,52.0,0.4770103096961975,education,/m/026yq0z,/m/02jfc,demonstration,demonstration,OTHER,,,,,education,education,education,education,OTHER
+bZSEUFp3q5I,stampede,52.0,0.4188943803310394,event,/m/02r9rk,/m/081pkj,stampede,stampede,OTHER,,http://dbpedia.org/ontology/MotorsportSeason,,EVENT,event,event,event,event,OTHER
+bZSEUFp3q5I,festival,52.0,0.6844920516014099,event,/m/0hr5k,/m/081pkj,festival,festival,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,EVENT,event,EVENT
+bZSEUFp3q5I,festival,53.0,0.4345704615116121,event,/m/0hr5k,/m/081pkj,festival,festival,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,event,event,EVENT,event,EVENT

@@ -1,0 +1,507 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+ZRW9VUFXUVQ,midnight,1.0,0.6037274599075317,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,2.0,0.6039260029792786,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,3.0,0.6078663468360901,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,4.0,0.6035300493240356,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,5.0,0.6098743081092834,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,6.0,0.6044266819953918,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,7.0,0.6041854619979858,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,8.0,0.5986993312835693,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,9.0,0.6059237122535706,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,10.0,0.6092684268951416,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,11.0,0.6176954507827759,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,lighting,1.0,0.7207307219505309,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,lighting,5.0,0.7216814756393433,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,lighting,9.0,0.7534849643707275,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,lighting,10.0,0.7188208699226379,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,lighting,11.0,0.8497913479804993,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,film,5.0,0.4159049689769745,entertainment,/m/02vxn,/m/02jjt,film,film,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,entertainment,entertainment,EVENT,entertainment,EVENT
+ZRW9VUFXUVQ,singer songwriter,1.0,0.4505528509616852,person,/m/016z4k,/m/01g317,singer songwriter,singer songwriter,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,singer songwriter,5.0,0.4002512693405152,person,/m/016z4k,/m/01g317,singer songwriter,singer songwriter,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,singer songwriter,6.0,0.4442555904388428,person,/m/016z4k,/m/01g317,singer songwriter,singer songwriter,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,fun,1.0,0.8081271052360535,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,2.0,0.7454905509948729,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,3.0,0.8024100661277771,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,4.0,0.7329424023628235,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,5.0,0.7522988319396973,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,6.0,0.8136762380599976,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,7.0,0.8141053318977356,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,8.0,0.8019466400146484,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,9.0,0.8058471083641052,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,10.0,0.7787771821022034,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,11.0,0.7365081906318665,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,song,2.0,0.4623046517372131,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+ZRW9VUFXUVQ,song,3.0,0.4168328642845154,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+ZRW9VUFXUVQ,song,4.0,0.4309904277324677,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+ZRW9VUFXUVQ,song,5.0,0.5419397354125977,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+ZRW9VUFXUVQ,song,10.0,0.4463255703449249,music,/m/074ft,/m/04rlf,song,song,OTHER,,http://dbpedia.org/ontology/Book,,"EVENT, ORGANIZATION",music,music,music,music,OTHER
+ZRW9VUFXUVQ,newscaster,5.0,0.4397946000099182,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,crowd,11.0,0.7260463833808899,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,profession,1.0,0.8543844819068909,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,2.0,0.8379382491111755,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,3.0,0.8302305936813354,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,4.0,0.8654488921165466,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,5.0,0.8303602933883667,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,6.0,0.8445156812667847,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,7.0,0.8399107456207275,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,8.0,0.8576894998550415,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,9.0,0.8375140428543091,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,10.0,0.7989118099212646,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,sky,11.0,0.6712914109230042,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Album, http://dbpedia.org/ontology/Organisation",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+ZRW9VUFXUVQ,orator,5.0,0.4674346745014191,person,/m/0hpjt,/m/01g317,orator,orator,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,beard,1.0,0.5269973874092102,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,beard,9.0,0.4656014442443848,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,beard,10.0,0.428352952003479,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,event,1.0,0.7443295121192932,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,2.0,0.716582715511322,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,3.0,0.7446305155754089,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,4.0,0.7242749333381653,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,5.0,0.7407990097999573,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,6.0,0.7356542348861694,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,7.0,0.7641642093658447,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,8.0,0.7287157773971558,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,9.0,0.7921546101570129,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,10.0,0.807982861995697,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,11.0,0.8498139977455139,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,night,1.0,0.8587430715560913,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,2.0,0.8096251487731934,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,3.0,0.8872552514076233,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,4.0,0.8103231191635132,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,5.0,0.8131580948829651,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,6.0,0.8308077454566956,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,7.0,0.8486641645431519,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,8.0,0.816969096660614,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,9.0,0.8720864057540894,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,10.0,0.8598601818084717,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,11.0,0.9746798872947692,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fashion,10.0,0.7231075167655945,OTHER,/m/032tl,,fashion,fashion,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,emotion,1.0,0.8045299053192139,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,emotion,6.0,0.8034323453903198,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,emotion,7.0,0.8048657178878784,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,emotion,10.0,0.8018835186958313,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,public speaking,1.0,0.789162278175354,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,2.0,0.8120899796485901,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,3.0,0.6570778489112854,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,4.0,0.8305587768554688,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,5.0,0.8617503643035889,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,6.0,0.8203731179237366,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,7.0,0.7395811676979065,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,8.0,0.7728379368782043,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,9.0,0.6453076601028442,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,10.0,0.6263092756271362,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,facial hair,1.0,0.9108145833015442,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,2.0,0.7045683264732361,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,3.0,0.7861256003379822,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,4.0,0.8172692656517029,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,5.0,0.8609039187431335,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,6.0,0.8444244861602783,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,7.0,0.8285703659057617,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,8.0,0.8579196333885193,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,9.0,0.9012819528579712,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,10.0,0.8958854079246521,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,11.0,0.9509695768356324,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,sign language,5.0,0.4051187038421631,person,/m/06x0q,/m/01g317,sign language,sign language,OTHER,,http://dbpedia.org/ontology/Language,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,nightclub,11.0,0.4886840283870697,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,performance,1.0,0.6533399820327759,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,2.0,0.6196743845939636,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,3.0,0.558271050453186,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,4.0,0.5747256875038147,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,5.0,0.6827626824378967,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,6.0,0.6812382936477661,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,7.0,0.6452323794364929,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,8.0,0.6190560460090637,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,9.0,0.6749323606491089,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,10.0,0.6871446371078491,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,11.0,0.5700444579124451,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,light bulb,11.0,0.5854312777519226,lighting,/m/0h8l4fh,/m/019sc6,light bulb,light bulb,OTHER,,,,,lighting,lighting,lighting,lighting,OTHER
+ZRW9VUFXUVQ,black,11.0,0.9593153595924376,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,evening,11.0,0.5537329316139221,OTHER,/m/04mx32,,even,even,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,music venue,11.0,0.5231707692146301,location,/m/07b2m8,/m/078x4m,music venue,music venue,OTHER,,,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,light,1.0,0.819789469242096,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,2.0,0.8238880038261414,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,3.0,0.8299306631088257,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,4.0,0.8212631940841675,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,5.0,0.8272848129272461,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,6.0,0.8265204429626465,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,7.0,0.8219621181488037,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,8.0,0.8234760761260986,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,9.0,0.833044707775116,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,10.0,0.8287886381149292,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,11.0,0.8744947910308838,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,organ,9.0,0.6664530634880066,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+ZRW9VUFXUVQ,organ,10.0,0.6584346294403076,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+ZRW9VUFXUVQ,atmosphere of earth,11.0,0.7841169834136963,geographical feature,/m/01ctry,/m/043rvww,atmosphere of earth,atmosphere of earth,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+ZRW9VUFXUVQ,mode of transport,11.0,0.8752505779266357,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,1.0,0.8599943518638611,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,2.0,0.8449065089225769,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,3.0,0.8670855164527893,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,4.0,0.8488173484802246,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,5.0,0.8577742576599121,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,6.0,0.8581701517105103,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,7.0,0.85125333070755,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,8.0,0.8296434879302979,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,9.0,0.8770361542701721,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,10.0,0.8681215643882751,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,11.0,0.9271548390388488,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,vigil,11.0,0.4134570062160492,ceremony,/m/057l1r,/m/016c4t,vigil,vigil,OTHER,,http://dbpedia.org/ontology/Country,,,ceremony,ceremony,EVENT,ceremony,EVENT
+ZRW9VUFXUVQ,space,1.0,0.40690040588378906,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,2.0,0.4156225621700287,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,3.0,0.4327632188796997,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,4.0,0.41595518589019775,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,5.0,0.4171673953533173,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,6.0,0.41623201966285706,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,7.0,0.4083295166492462,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,8.0,0.4114992916584015,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,10.0,0.4142225980758667,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,11.0,0.4138379096984863,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,performance art,6.0,0.4103262722492218,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+ZRW9VUFXUVQ,official,1.0,0.8583288192749023,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,2.0,0.8681156039237976,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,3.0,0.8662828803062439,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,4.0,0.8746470212936401,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,5.0,0.8757723569869995,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,6.0,0.8665031790733337,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,7.0,0.8588463068008423,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,8.0,0.8681966662406921,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,9.0,0.8421165943145752,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,10.0,0.8682984709739685,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,phenomenon,1.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,2.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,3.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,4.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,5.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,6.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,7.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,8.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,9.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,10.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,11.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,audience,1.0,0.4862660765647888,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,5.0,0.41402667760849,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,6.0,0.5107475519180298,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,7.0,0.4688498973846436,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,9.0,0.4110328257083893,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,10.0,0.4327261447906494,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,lens flare,11.0,0.6185634136199951,OTHER,/m/017bm6,,lens flare,lens flare,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,speech,1.0,0.8363215923309326,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,2.0,0.8897810578346252,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,3.0,0.8256908059120178,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,4.0,0.8981320858001709,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,5.0,0.9015623331069946,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,6.0,0.8732115626335144,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,7.0,0.8332619071006775,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,8.0,0.8435677289962769,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,9.0,0.7615838646888733,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,10.0,0.7663588523864746,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,ceremony,11.0,0.4180075526237488,event,/m/016c4t,/m/081pkj,ceremony,ceremony,EVENT,,http://dbpedia.org/ontology/SportsEvent,,EVENT,event,event,EVENT,event,EVENT
+ZRW9VUFXUVQ,rock concert,11.0,0.6227468252182007,concert,/m/06mg_j,/m/01jddz,rock concert,rock concert,OTHER,,http://dbpedia.org/ontology/Album,,,concert,concert,EVENT,concert,EVENT
+ZRW9VUFXUVQ,screenshot,2.0,0.4605265557765961,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,screenshot,3.0,0.4677926301956177,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,screenshot,4.0,0.4306676983833313,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,screenshot,5.0,0.4683911502361298,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,screenshot,11.0,0.4119545817375183,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,geological phenomenon,11.0,0.7455582618713379,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,smile,1.0,0.8262927532196045,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,2.0,0.669120728969574,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,3.0,0.7407191395759583,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,4.0,0.7300407886505127,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,5.0,0.7644292116165161,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,6.0,0.8050574660301208,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,7.0,0.8116919994354248,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,8.0,0.7973427176475525,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,9.0,0.7673023343086243,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,10.0,0.7734835147857666,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,recreation,1.0,0.6644312739372253,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,2.0,0.7140562534332275,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,3.0,0.694752037525177,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,4.0,0.7012816071510315,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,5.0,0.6684930324554443,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,6.0,0.6430113315582275,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,7.0,0.6513965725898743,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,8.0,0.6791356801986694,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,9.0,0.6879592537879944,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,10.0,0.6760950088500977,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,cardinal,4.0,0.5250717401504517,person,/m/0jwr9,/m/01g317,cardinal,cardinal,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,cardinal,9.0,0.4133554100990296,person,/m/0jwr9,/m/01g317,cardinal,cardinal,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,person,1.0,0.944580614566803,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,2.0,0.9348606467247008,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,3.0,0.9395900964736938,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,4.0,0.9422052502632141,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,5.0,0.9403665661811828,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,6.0,0.9441398382186892,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,7.0,0.9437503218650818,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,8.0,0.9423339366912842,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,9.0,0.9398071169853208,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,10.0,0.9406214952468872,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,musical theatre,6.0,0.4087841808795929,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+ZRW9VUFXUVQ,musical theatre,7.0,0.4014176428318024,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+ZRW9VUFXUVQ,musical theatre,10.0,0.4181498885154724,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+ZRW9VUFXUVQ,professional,1.0,0.5626676082611084,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,2.0,0.5602225065231323,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,3.0,0.509233832359314,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,4.0,0.6209679245948792,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,5.0,0.6229537129402161,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,6.0,0.5216020345687866,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,7.0,0.4757578670978546,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,8.0,0.5737515687942505,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,9.0,0.4986405968666077,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,10.0,0.5531023144721985,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,singing,1.0,0.5851303935050964,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,singing,3.0,0.4496034979820252,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,singing,5.0,0.4422975480556488,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,singing,6.0,0.6422237753868103,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,singing,7.0,0.5672551393508911,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,singing,8.0,0.511917233467102,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,singing,9.0,0.5397343039512634,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,singing,10.0,0.4298543632030487,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,facial expression,1.0,0.94142884016037,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,3.0,0.9362740516662598,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,4.0,0.936829149723053,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,5.0,0.9377629160881042,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,6.0,0.9403446316719056,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,7.0,0.9405223727226256,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,8.0,0.9396867752075196,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,9.0,0.9377883672714232,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,10.0,0.9388254880905152,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,light fixture,11.0,0.44004255533218384,lighting,/m/08jpwt,/m/019sc6,light fixture,light fixture,OTHER,,http://dbpedia.org/ontology/Device,,,lighting,lighting,lighting,lighting,OTHER
+ZRW9VUFXUVQ,atmosphere,11.0,0.8405634164810181,OTHER,/m/01ctsf,,atmosphere,atmosphere,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,56.0,0.60166996717453,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,57.0,0.6104869842529297,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,58.0,0.6089044213294983,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,59.0,0.6078624129295349,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,60.0,0.6091511845588684,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,61.0,0.6051521897315979,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,62.0,0.5876939296722412,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,63.0,0.5712799429893494,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,64.0,0.5818290114402771,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,midnight,65.0,0.5984784960746765,OTHER,/m/01kv7h,,midnight,midnight,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,lighting,56.0,0.7240735292434692,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,lighting,57.0,0.7314978837966919,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,lighting,58.0,0.7569385170936584,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,lighting,60.0,0.7192433476448059,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,fun,56.0,0.8307141661643982,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,57.0,0.8470468521118164,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,58.0,0.8183786273002625,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,59.0,0.7684601545333862,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,60.0,0.7872998714447021,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,61.0,0.7811757326126099,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,62.0,0.8428858518600464,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,63.0,0.7708812355995178,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,64.0,0.8533606529235841,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fun,65.0,0.8710685968399048,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,newscaster,59.0,0.5057617425918579,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,newscaster,60.0,0.4905628561973572,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,newscaster,61.0,0.4723128378391266,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,newscaster,63.0,0.4272556304931641,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,newscaster,64.0,0.4280405342578888,person,/m/025m070,/m/01g317,newscaster,newscaster,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,crowd,56.0,0.4482557773590088,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,crowd,57.0,0.4724988043308258,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,crowd,58.0,0.5783165097236633,people,/m/03qtwd,/m/09g5pq,crowd,crowd,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,profession,56.0,0.6245609521865845,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,59.0,0.8075910210609436,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,60.0,0.7699581384658813,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,61.0,0.8094443678855896,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,62.0,0.767451822757721,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,63.0,0.8517788648605347,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,64.0,0.7424732446670532,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,profession,65.0,0.6593911051750183,person,/m/063km,/m/01g317,profession,profession,OTHER,,,,ORGANIZATION,person,person,person,person,OTHER
+ZRW9VUFXUVQ,senior citizen,63.0,0.4672529995441437,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,senior citizen,64.0,0.4215811789035797,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,senior citizen,65.0,0.4577542543411255,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,beard,59.0,0.4442296624183655,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,beard,60.0,0.6162838339805603,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,beard,61.0,0.5047447085380554,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,beard,62.0,0.5338231325149536,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,beard,63.0,0.5071514844894409,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,beard,64.0,0.595927357673645,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,beard,65.0,0.6355229020118713,hair,/m/015h_t,/m/03q69,beard,beard,OTHER,,"http://dbpedia.org/ontology/Book, http://dbpedia.org/ontology/AnatomicalStructure",,PERSON,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,event,56.0,0.8161532878875732,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,57.0,0.8148806095123291,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,58.0,0.8358755111694336,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,59.0,0.6142410635948181,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,60.0,0.6910185217857361,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,61.0,0.6645360589027405,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,62.0,0.7395139932632446,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,63.0,0.5653271079063416,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,64.0,0.6667382717132568,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,event,65.0,0.7051528692245483,OTHER,/m/081pkj,,event,event,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,night,56.0,0.8638070821762085,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,57.0,0.9204097986221312,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,58.0,0.9086779356002808,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,59.0,0.8203977346420288,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,60.0,0.8615418672561646,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,61.0,0.8188852071762085,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,62.0,0.6779788732528687,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,63.0,0.6164469122886658,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,64.0,0.7103252410888672,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,night,65.0,0.7982985973358154,OTHER,/m/01d74z,,night,night,OTHER,,http://dbpedia.org/ontology/Country,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fashion,56.0,0.7435270547866821,OTHER,/m/032tl,,fashion,fashion,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fashion,61.0,0.7308147549629211,OTHER,/m/032tl,,fashion,fashion,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,fashion,62.0,0.7259855270385742,OTHER,/m/032tl,,fashion,fashion,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,emotion,62.0,0.8378490209579468,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,emotion,63.0,0.8072477579116821,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,emotion,64.0,0.8236678838729858,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,emotion,65.0,0.8255633115768433,person,/m/02tjx,/m/01g317,emotion,emotion,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,public speaking,63.0,0.41874125599861145,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,public speaking,64.0,0.4265368282794952,person,/m/068k4,/m/01g317,public speaking,public speaking,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+ZRW9VUFXUVQ,facial hair,56.0,0.8601288795471191,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,57.0,0.8655436038970947,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,58.0,0.8509106636047363,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,59.0,0.9102685451507568,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,60.0,0.9422021508216858,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,61.0,0.9158970713615416,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,62.0,0.8835253119468689,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,63.0,0.8888490200042725,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,64.0,0.9111731648445128,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,facial hair,65.0,0.9242640733718872,hair,/m/0ds5b,/m/03q69,facial hair,facial hair,OTHER,,http://dbpedia.org/ontology/Food,,,hair,OTHER,hair,hair,OTHER
+ZRW9VUFXUVQ,sign language,62.0,0.4384020268917084,person,/m/06x0q,/m/01g317,sign language,sign language,OTHER,,http://dbpedia.org/ontology/Language,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,sign language,63.0,0.455275148153305,person,/m/06x0q,/m/01g317,sign language,sign language,OTHER,,http://dbpedia.org/ontology/Language,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,sign language,64.0,0.5186830163002014,person,/m/06x0q,/m/01g317,sign language,sign language,OTHER,,http://dbpedia.org/ontology/Language,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,sign language,65.0,0.5052110552787781,person,/m/06x0q,/m/01g317,sign language,sign language,OTHER,,http://dbpedia.org/ontology/Language,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,nightclub,56.0,0.5568770170211792,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,nightclub,57.0,0.6072559356689453,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,nightclub,58.0,0.6061939001083374,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,nightclub,59.0,0.4103749990463257,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,nightclub,60.0,0.5064744353294373,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,nightclub,61.0,0.4400021433830261,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,nightclub,62.0,0.4174189269542694,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,nightclub,65.0,0.4873088300228119,location,/m/01sg9l,/m/078x4m,nightclub,nightclub,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,performance,56.0,0.7818418741226196,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,57.0,0.7049523591995239,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,58.0,0.5258339047431946,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,60.0,0.4068380296230316,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,61.0,0.4271439015865326,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,62.0,0.44582369923591614,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,performance,65.0,0.4668593108654022,"event, entertainment",/m/01gq53,"/m/081pkj, /m/02jjt",performance,performance,OTHER,,,,,"event, entertainment","event, entertainment",EVENT,"event, entertainment",EVENT
+ZRW9VUFXUVQ,evening,57.0,0.4075760841369629,OTHER,/m/04mx32,,even,even,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,evening,58.0,0.4635561406612396,OTHER,/m/04mx32,,even,even,OTHER,,http://dbpedia.org/ontology/Country,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,hair,62.0,0.9688143134117126,OTHER,/m/03q69,,hair,hair,OTHER,,"http://dbpedia.org/ontology/Nerve, http://dbpedia.org/ontology/AnatomicalStructure",,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,music venue,56.0,0.4393232464790344,location,/m/07b2m8,/m/078x4m,music venue,music venue,OTHER,,,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,music venue,57.0,0.4719167947769165,location,/m/07b2m8,/m/078x4m,music venue,music venue,OTHER,,,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,music venue,58.0,0.4578050374984741,location,/m/07b2m8,/m/078x4m,music venue,music venue,OTHER,,,,,LOCATION,location,location,location,LOCATION
+ZRW9VUFXUVQ,light,56.0,0.8233023881912231,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,57.0,0.8319892287254333,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,light,58.0,0.8272950053215027,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,organ,59.0,0.6839339137077332,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+ZRW9VUFXUVQ,organ,60.0,0.6659111976623535,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+ZRW9VUFXUVQ,organ,61.0,0.6788939237594604,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+ZRW9VUFXUVQ,organ,62.0,0.6882373690605164,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+ZRW9VUFXUVQ,organ,63.0,0.6720742583274841,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+ZRW9VUFXUVQ,organ,64.0,0.658128023147583,human body,/m/013y0j,/m/02p0tk3,organ,organ,OTHER,,,,ORGANIZATION,human body,OTHER,human body,human body,OTHER
+ZRW9VUFXUVQ,games,56.0,0.8495393991470337,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,games,57.0,0.8083671331405641,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,games,58.0,0.7259916663169861,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,games,62.0,0.7167761325836182,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,games,64.0,0.6390754580497742,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,games,65.0,0.5262372493743896,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+ZRW9VUFXUVQ,indoor games and sports,56.0,0.6578319668769836,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,indoor games and sports,57.0,0.5690919756889343,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,indoor games and sports,58.0,0.5532400012016296,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,indoor games and sports,62.0,0.4826206564903259,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,indoor games and sports,64.0,0.472958117723465,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,indoor games and sports,65.0,0.4682551026344299,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,darkness,56.0,0.8603324890136719,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,57.0,0.8901704549789429,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,58.0,0.8918623924255371,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,59.0,0.8478270173072815,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,60.0,0.8504795432090759,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,61.0,0.8225271105766296,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,62.0,0.6761969327926636,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,63.0,0.6962869167327881,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,64.0,0.7086436748504639,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darkness,65.0,0.779769241809845,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,57.0,0.4246498942375183,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,59.0,0.4138579070568085,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,60.0,0.4218446612358093,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,61.0,0.4095645248889923,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,space,62.0,0.4228006005287169,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,performance art,56.0,0.4095372259616852,entertainment,/m/01350r,/m/02jjt,performance art,performance art,OTHER,,http://dbpedia.org/ontology/Album,,,entertainment,entertainment,EVENT,entertainment,EVENT
+ZRW9VUFXUVQ,official,56.0,0.8025879859924316,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,57.0,0.7589938044548035,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,58.0,0.6241832971572876,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,59.0,0.864182710647583,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,60.0,0.8493114709854126,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,61.0,0.8640466928482056,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,62.0,0.8811596035957336,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,63.0,0.8771053552627563,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,64.0,0.8427066206932068,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,official,65.0,0.8557576537132263,person,/m/035y33,/m/01g317,official,official,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,phenomenon,56.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,57.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,58.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,59.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,60.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,61.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,62.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,63.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,64.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,phenomenon,65.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,audience,56.0,0.6617395877838135,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,57.0,0.6045524477958679,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,58.0,0.5328302979469299,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,62.0,0.4628992676734924,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,64.0,0.4611372947692871,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,audience,65.0,0.4715809524059296,people,/m/033lpr,/m/09g5pq,audience,audience,OTHER,,http://dbpedia.org/ontology/Band,,ORGANIZATION,people,PERSON,people,people,PERSON
+ZRW9VUFXUVQ,muscle,59.0,0.6630226969718933,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,muscle,60.0,0.6516197323799133,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,muscle,61.0,0.6428659558296204,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,muscle,62.0,0.6727601289749146,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,muscle,64.0,0.6521126627922058,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,muscle,65.0,0.6415085792541504,OTHER,/m/04_fs,,muscle,muscle,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,speech,59.0,0.5380644202232361,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,60.0,0.4215302467346192,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,61.0,0.5798242092132568,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,62.0,0.56050705909729,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,63.0,0.6267601847648621,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,64.0,0.6743479371070862,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,speech,65.0,0.6480720043182373,person,/m/09x0r,/m/01g317,speech,speech,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,ceremony,58.0,0.4108296036720276,event,/m/016c4t,/m/081pkj,ceremony,ceremony,EVENT,,http://dbpedia.org/ontology/SportsEvent,,EVENT,event,event,EVENT,event,EVENT
+ZRW9VUFXUVQ,screenshot,63.0,0.4530189335346222,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,darts,56.0,0.743407130241394,"games, sports",/m/023hb6,"/m/03bt1gh, /m/06ntj",dart,dart,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,darts,57.0,0.7198919057846069,"games, sports",/m/023hb6,"/m/03bt1gh, /m/06ntj",dart,dart,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,darts,58.0,0.6112229824066162,"games, sports",/m/023hb6,"/m/03bt1gh, /m/06ntj",dart,dart,OTHER,,"http://dbpedia.org/ontology/Activity, http://dbpedia.org/ontology/Sport, http://www.ontologydesignpatterns.org/ont/d0.owl#Activity",,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+ZRW9VUFXUVQ,smile,56.0,0.585792601108551,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,57.0,0.5514627695083618,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,58.0,0.4222603440284729,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,59.0,0.7592492103576659,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,60.0,0.8149793148040771,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,61.0,0.8248394131660461,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,62.0,0.8657729029655457,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,63.0,0.8147369623184204,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,64.0,0.8384925723075867,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,smile,65.0,0.8745537996292114,person,/m/019nj4,/m/01g317,smile,smile,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,person,ORGANIZATION,person,person,ORGANIZATION
+ZRW9VUFXUVQ,recreation,56.0,0.8149440884590149,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,57.0,0.8111143708229065,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,58.0,0.8073517680168152,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,59.0,0.6965568661689758,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,60.0,0.7140165567398071,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,61.0,0.6731027364730835,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,62.0,0.6946876645088196,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,63.0,0.6609247326850891,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,64.0,0.7496528625488281,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,recreation,65.0,0.7634626030921936,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+ZRW9VUFXUVQ,cardinal,63.0,0.5641575455665588,person,/m/0jwr9,/m/01g317,cardinal,cardinal,OTHER,,,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,person,59.0,0.9422326683998108,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,60.0,0.9438509941101074,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,61.0,0.9443420171737672,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,62.0,0.9532932639122008,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,63.0,0.9559091925621032,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,64.0,0.947231650352478,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,person,65.0,0.9397044181823728,OTHER,/m/01g317,,person,person,OTHER,,http://dbpedia.org/ontology/Drug,,,OTHER,PERSON,OTHER,OTHER,PERSON
+ZRW9VUFXUVQ,musical theatre,56.0,0.4505724012851715,theatre,/m/0557q,/m/03qsdpk,musical theatre,musical theatre,OTHER,,,,,LOCATION,theatre,theatre,theatre,LOCATION
+ZRW9VUFXUVQ,professional,59.0,0.6851187348365784,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,60.0,0.6393384337425232,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,61.0,0.7225508689880371,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,62.0,0.7180079221725464,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,63.0,0.7400720715522766,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,64.0,0.659942090511322,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,professional,65.0,0.643208384513855,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+ZRW9VUFXUVQ,singing,56.0,0.4967203140258789,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,singing,57.0,0.4660901427268982,"entertainment, person",/m/015lz1,"/m/02jjt, /m/01g317",singe,singe,OTHER,,http://dbpedia.org/ontology/Band,,,"entertainment, person",PERSON,EVENT,"entertainment, person",EVENT
+ZRW9VUFXUVQ,facial expression,59.0,0.9383650422096252,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,60.0,0.9405801296234132,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,61.0,0.9407200813293456,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,62.0,0.943904995918274,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,63.0,0.9419286847114564,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,64.0,0.9420923590660096,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER
+ZRW9VUFXUVQ,facial expression,65.0,0.94278484582901,person,/m/01k74n,/m/01g317,facial expression,facial expression,OTHER,,,,,person,person,person,person,OTHER

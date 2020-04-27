@@ -1,0 +1,7 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+tGudhuaJqwM,city,LOCATION,,,city,1382,0.0,0.0,COMMON,0.011791732162237169,0.0,0.0,city,city,,,,,"LOCATION, ORGANIZATION",LOCATION,LOCATION,LOCATION
+tGudhuaJqwM,people,PERSON,,,people,1398,0.30000001192092896,-0.30000001192092896,COMMON,0.009852871298789978,0.30000001192092896,-0.30000001192092896,people,people,,,,,ORGANIZATION,PERSON,PERSON,PERSON
+tGudhuaJqwM,mayor,PERSON,,,mayor,1367,0.0,0.0,COMMON,0.007899954915046692,0.0,0.0,mayor,mayor,,,,,PERSON,PERSON,PERSON,PERSON
+tGudhuaJqwM,nothing,OTHER,,,nothing,1444,0.4000000059604645,-0.4000000059604645,COMMON,0.007894066162407398,0.4000000059604645,-0.4000000059604645,nothing,nothing,,,,,,OTHER,OTHER,OTHER
+tGudhuaJqwM,message,OTHER,,,message,1533,0.10000000149011612,0.10000000149011612,COMMON,0.0031301656272262326,0.10000000149011612,0.10000000149011612,message,message,,,,,,OTHER,OTHER,OTHER
+tGudhuaJqwM,things,OTHER,,,things,1513,0.0,0.0,COMMON,0.0029648717027157545,0.0,0.0,thing,thing,,,,,EVENT,OTHER,OTHER,OTHER

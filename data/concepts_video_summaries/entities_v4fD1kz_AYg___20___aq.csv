@@ -1,0 +1,9 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+v4fD1kz_AYg,king,PERSON,,,king,67,0.20000000298023224,-0.20000000298023224,COMMON,0.4917259812355042,0.6000000238418579,-0.10000000149011612,king,king,,,,,PERSON,PERSON,PERSON,PERSON
+v4fD1kz_AYg,people,PERSON,,,people,48,0.0,0.0,COMMON,0.17378215491771698,0.10000000149011612,0.0,people,people,,,,,ORGANIZATION,PERSON,PERSON,PERSON
+v4fD1kz_AYg,devices,CONSUMER_GOOD,,,devices,130,0.0,0.0,COMMON,0.02939380519092083,0.0,0.0,device,device,,,,,,OTHER,OTHER,OTHER
+v4fD1kz_AYg,queen,PERSON,,,queen,76,0.10000000149011612,0.10000000149011612,COMMON,0.02939380519092083,0.10000000149011612,0.10000000149011612,queen,queen,,,,,PERSON,PERSON,PERSON,PERSON
+v4fD1kz_AYg,Twitter,OTHER,/m/0289n8t,https://en.wikipedia.org/wiki/Twitter,Twitter,85,0.0,0.0,PROPER,0.017496274784207344,0.0,0.0,Twitter,twitter,,,,,EVENT,OTHER,OTHER,OTHER
+v4fD1kz_AYg,PC,CONSUMER_GOOD,,,PC,323,0.10000000149011612,0.10000000149011612,COMMON,0.02687067911028862,0.30000001192092896,0.10000000149011612,PC,pc,,,,,,OTHER,OTHER,OTHER
+v4fD1kz_AYg,followers,PERSON,,,followers,351,0.0,0.0,COMMON,0.01284475065767765,0.0,0.0,follower,follower,,,,,"ORGANIZATION, PERSON",PERSON,PERSON,PERSON
+v4fD1kz_AYg,favor,OTHER,,,favor,302,0.0,0.0,COMMON,0.010621742345392704,0.0,0.0,favor,favor,,,,,,OTHER,OTHER,OTHER

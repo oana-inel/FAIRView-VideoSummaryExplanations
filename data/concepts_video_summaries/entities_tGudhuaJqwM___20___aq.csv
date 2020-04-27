@@ -1,0 +1,15 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+tGudhuaJqwM,something,OTHER,,,something,36,0.10000000149011612,0.10000000149011612,COMMON,0.09009533375501633,0.10000000149011612,0.10000000149011612,something,something,,,,,,OTHER,OTHER,OTHER
+tGudhuaJqwM,lot,OTHER,,,lot,48,0.0,0.0,COMMON,0.08032636344432831,0.0,0.0,lot,lot,,,,,"LOCATION, ORGANIZATION, PERSON",OTHER,OTHER,OTHER
+tGudhuaJqwM,fact,OTHER,,,fact,66,0.0,0.0,COMMON,0.07066498696804048,0.0,0.0,fact,fact,,,,,,OTHER,OTHER,OTHER
+tGudhuaJqwM,Massachusetts,LOCATION,/m/05k7sb,https://en.wikipedia.org/wiki/Massachusetts,Massachusetts,133,0.0,0.0,PROPER,0.041954316198825836,0.0,0.0,Massachusetts,massachusetts,,,,,"LOCATION, PERSON",LOCATION,LOCATION,LOCATION
+tGudhuaJqwM,Connecticut,LOCATION,/m/01x73,https://en.wikipedia.org/wiki/Connecticut,Connecticut,102,0.20000000298023224,-0.20000000298023224,PROPER,0.041954316198825836,0.20000000298023224,-0.20000000298023224,Connecticut,connecticut,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+tGudhuaJqwM,Eastern Long Island,LOCATION,/m/04n3l,https://en.wikipedia.org/wiki/Long_Island,Eastern Long Island,78,0.0,0.0,PROPER,0.03894506394863129,0.0,0.0,Eastern Long Island,eastern long island,,,,,,LOCATION,LOCATION,LOCATION
+tGudhuaJqwM,New York City,LOCATION,/m/02_286,https://en.wikipedia.org/wiki/New_York_City,New York City,182,0.0,0.0,PROPER,0.02239822782576084,0.0,0.0,New York City,new york city,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+tGudhuaJqwM,New York City,LOCATION,/m/02_286,https://en.wikipedia.org/wiki/New_York_City,New York city,509,0.0,0.0,PROPER,0.02239822782576084,0.0,0.0,New York City,new york city,,,,,LOCATION,LOCATION,LOCATION,LOCATION
+tGudhuaJqwM,city,LOCATION,,,city,1382,0.0,0.0,COMMON,0.011791732162237169,0.0,0.0,city,city,,,,,"LOCATION, ORGANIZATION",LOCATION,LOCATION,LOCATION
+tGudhuaJqwM,people,PERSON,,,people,1398,0.30000001192092896,-0.30000001192092896,COMMON,0.009852871298789978,0.30000001192092896,-0.30000001192092896,people,people,,,,,ORGANIZATION,PERSON,PERSON,PERSON
+tGudhuaJqwM,mayor,PERSON,,,mayor,1367,0.0,0.0,COMMON,0.007899954915046692,0.0,0.0,mayor,mayor,,,,,PERSON,PERSON,PERSON,PERSON
+tGudhuaJqwM,nothing,OTHER,,,nothing,1444,0.4000000059604645,-0.4000000059604645,COMMON,0.007894066162407398,0.4000000059604645,-0.4000000059604645,nothing,nothing,,,,,,OTHER,OTHER,OTHER
+tGudhuaJqwM,message,OTHER,,,message,1533,0.10000000149011612,0.10000000149011612,COMMON,0.0031301656272262326,0.10000000149011612,0.10000000149011612,message,message,,,,,,OTHER,OTHER,OTHER
+tGudhuaJqwM,things,OTHER,,,things,1513,0.0,0.0,COMMON,0.0029648717027157545,0.0,0.0,thing,thing,,,,,EVENT,OTHER,OTHER,OTHER

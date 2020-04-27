@@ -1,0 +1,6 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+8RVcSU9rwq8,Olympic,EVENT,/m/06vvk,https://en.wikipedia.org/wiki/Summer_Olympic_Games,Olympic,269,0.0,0.0,PROPER,0.18141618371009827,0.6000000238418579,0.0,Olympic,olympic,,,,,,EVENT,EVENT,EVENT
+8RVcSU9rwq8,heart,OTHER,,,heart,223,0.6000000238418579,-0.6000000238418579,COMMON,0.023284748196601868,0.6000000238418579,-0.6000000238418579,heart,heart,,,,,LOCATION,OTHER,OTHER,OTHER
+8RVcSU9rwq8,team,ORGANIZATION,,,team,277,0.0,0.0,COMMON,0.02300726249814033,0.0,0.0,team,team,,,,,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION
+8RVcSU9rwq8,teammates,PERSON,,,teammates,423,0.0,0.0,COMMON,0.010961150750517843,0.0,0.0,teammate,teammate,,,,,PERSON,PERSON,PERSON,PERSON
+8RVcSU9rwq8,fans,PERSON,,,fans,441,0.10000000149011612,-0.10000000149011612,COMMON,0.008783167228102684,0.10000000149011612,-0.10000000149011612,fan,fan,,,,,PERSON,PERSON,PERSON,PERSON

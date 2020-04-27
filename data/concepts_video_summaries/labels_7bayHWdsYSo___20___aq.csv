@@ -1,0 +1,620 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+7bayHWdsYSo,property,0.0,0.8935360312461853,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,1.0,0.8937894105911255,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,2.0,0.8909239768981934,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,3.0,0.8743267059326172,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,landscape,0.0,0.5022215247154236,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,1.0,0.4659837186336517,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,2.0,0.490540087223053,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,3.0,0.4691521525382996,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,recreation,0.0,0.5928995609283447,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,recreation,1.0,0.5871608853340149,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,recreation,2.0,0.6191719174385071,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,recreation,3.0,0.5954189300537109,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,city,0.0,0.5185512900352478,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,city,1.0,0.5001569390296936,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,city,2.0,0.5037503838539124,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,city,3.0,0.4851129651069641,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,roof,0.0,0.6686515212059021,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,1.0,0.6768982410430908,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,2.0,0.6850993037223816,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,3.0,0.6673384308815002,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,facade,0.0,0.7268031239509583,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,1.0,0.7270054817199707,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,2.0,0.7217662930488586,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,3.0,0.6915017366409302,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,neighbourhood,0.0,0.7905870676040649,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,1.0,0.7770974636077881,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,2.0,0.8020930290222168,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,3.0,0.7031506299972534,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,architecture,0.0,0.8430501818656921,OTHER,/m/03nfmq,,architecture,architecture,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,architecture,1.0,0.8448818922042847,OTHER,/m/03nfmq,,architecture,architecture,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,architecture,2.0,0.8357167840003967,OTHER,/m/03nfmq,,architecture,architecture,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,architecture,3.0,0.8162699937820435,OTHER,/m/03nfmq,,architecture,architecture,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,historic site,1.0,0.4599506556987762,location,/m/07yr8h,/m/078x4m,historic site,historic site,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,location,location,location,LOCATION
+7bayHWdsYSo,historic site,2.0,0.4878055155277252,location,/m/07yr8h,/m/078x4m,historic site,historic site,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,location,location,location,LOCATION
+7bayHWdsYSo,window,0.0,0.4375801086425781,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,window,1.0,0.4282541871070862,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,window,2.0,0.4575082361698151,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,window,3.0,0.4555991888046265,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,tours,2.0,0.4729874730110169,tourism,/m/07s3m,/m/07bxq,tour,tour,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Settlement, http://dbpedia.org/ontology/City, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/PopulatedPlace",,LOCATION,tourism,tourism,EVENT,tourism,EVENT
+7bayHWdsYSo,tours,3.0,0.4449809789657593,tourism,/m/07s3m,/m/07bxq,tour,tour,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Settlement, http://dbpedia.org/ontology/City, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/PopulatedPlace",,LOCATION,tourism,tourism,EVENT,tourism,EVENT
+7bayHWdsYSo,concrete,0.0,0.4471291899681091,material,/m/01mxf,/m/01l0y0,concrete,concrete,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+7bayHWdsYSo,concrete,1.0,0.4287098050117493,material,/m/01mxf,/m/01l0y0,concrete,concrete,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+7bayHWdsYSo,concrete,2.0,0.4137494564056397,material,/m/01mxf,/m/01l0y0,concrete,concrete,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+7bayHWdsYSo,concrete,3.0,0.44781333208084106,material,/m/01mxf,/m/01l0y0,concrete,concrete,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+7bayHWdsYSo,wall,0.0,0.9099544882774352,OTHER,/m/09qqq,,wall,wall,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,wall,1.0,0.9145748615264891,OTHER,/m/09qqq,,wall,wall,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,wall,2.0,0.9222620129585266,OTHER,/m/09qqq,,wall,wall,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,wall,3.0,0.9026771187782288,OTHER,/m/09qqq,,wall,wall,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,plaza,1.0,0.4049944281578064,city,/m/01klb9,/m/01n32,plaza,plaza,OTHER,,,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,village,2.0,0.4091198742389679,geographical feature,/m/0f0q9,/m/043rvww,village,village,OTHER,,http://dbpedia.org/ontology/Settlement,,"ORGANIZATION, LOCATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,monument,0.0,0.4620899856090546,OTHER,/m/02ljgl,,monument,monument,OTHER,,http://dbpedia.org/ontology/Building,,LOCATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,monument,1.0,0.5256862044334412,OTHER,/m/02ljgl,,monument,monument,OTHER,,http://dbpedia.org/ontology/Building,,LOCATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,monument,2.0,0.5508604049682617,OTHER,/m/02ljgl,,monument,monument,OTHER,,http://dbpedia.org/ontology/Building,,LOCATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,monument,3.0,0.4848189651966095,OTHER,/m/02ljgl,,monument,monument,OTHER,,http://dbpedia.org/ontology/Building,,LOCATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,town,0.0,0.8953071832656859,geographical feature,/m/0dx1j,/m/043rvww,town,town,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION, PERSON",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,town,1.0,0.9015617370605468,geographical feature,/m/0dx1j,/m/043rvww,town,town,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION, PERSON",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,town,2.0,0.9043246507644652,geographical feature,/m/0dx1j,/m/043rvww,town,town,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION, PERSON",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,town,3.0,0.8640461564064026,geographical feature,/m/0dx1j,/m/043rvww,town,town,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION, PERSON",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,0.0,0.7993817925453186,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,1.0,0.8129881024360657,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,2.0,0.8036829829216003,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,3.0,0.711564838886261,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,public space,0.0,0.8514657020568848,city,/m/01lqfm,/m/01n32,public space,public space,OTHER,,,,,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,public space,1.0,0.8455795049667358,city,/m/01lqfm,/m/01n32,public space,public space,OTHER,,,,,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,bricklayer,0.0,0.5061179399490356,person,/m/02cc0w,/m/01g317,bricklayer,bricklayer,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,bricklayer,1.0,0.4830997586250305,person,/m/02cc0w,/m/01g317,bricklayer,bricklayer,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,bricklayer,2.0,0.550372302532196,person,/m/02cc0w,/m/01g317,bricklayer,bricklayer,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,bricklayer,3.0,0.5383025407791138,person,/m/02cc0w,/m/01g317,bricklayer,bricklayer,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,land lot,0.0,0.4096696674823761,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,construction,0.0,0.4894777834415436,OTHER,/m/01jnzj,,construction,construction,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,construction,1.0,0.4558952748775482,OTHER,/m/01jnzj,,construction,construction,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,construction,3.0,0.4613341689109802,OTHER,/m/01jnzj,,construction,construction,OTHER,,http://dbpedia.org/ontology/Election,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,sidewalk,2.0,0.4037584960460663,city,/m/0dnhy,/m/01n32,sidewalk,sidewalk,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,tourism,0.0,0.4742834866046906,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,1.0,0.5003714561462402,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,2.0,0.5231110453605652,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,3.0,0.43964648246765137,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,street,1.0,0.4157196581363678,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,street,2.0,0.4512221217155457,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,house,0.0,0.6265906691551208,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,1.0,0.6182314157485962,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,2.0,0.6175417304039001,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,3.0,0.5530095100402832,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,0.0,0.7197550535202026,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,1.0,0.7638708353042603,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,2.0,0.7054843306541443,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,structure,0.0,0.787659764289856,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,structure,1.0,0.7938365936279297,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,urban area,0.0,0.8731483221054077,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,urban area,1.0,0.8918649554252625,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,urban area,2.0,0.8807278871536255,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,urban area,3.0,0.8225352168083191,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,walkway,1.0,0.4608378112316132,OTHER,/m/01jm2n,,walkway,walkway,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,walkway,2.0,0.4122428297996521,OTHER,/m/01jm2n,,walkway,walkway,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,ancient history,1.0,0.4288824796676636,history,/m/0djmp,/m/03g3w,ancient history,ancient history,OTHER,,,,,history,history,history,history,OTHER
+7bayHWdsYSo,ancient history,2.0,0.4773357808589935,history,/m/0djmp,/m/03g3w,ancient history,ancient history,OTHER,,,,,history,history,history,history,OTHER
+7bayHWdsYSo,building,0.0,0.529943585395813,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,building,1.0,0.5502801537513733,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,building,2.0,0.5050739645957947,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,building,3.0,0.5076627135276794,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,property,77.0,0.9122297763824464,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,78.0,0.9027255177497864,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,79.0,0.9131008386611938,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,landscape,76.0,0.6282898187637329,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,77.0,0.559695839881897,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,78.0,0.5652558207511902,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,79.0,0.5757431983947754,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,meadow,76.0,0.5092645883560181,geographical feature,/m/025st_8,/m/043rvww,meadow,meadow,OTHER,,http://dbpedia.org/ontology/ProtectedArea,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,estate,77.0,0.570767343044281,building,/m/038t8_,/m/0cgh4,estate,estate,OTHER,,,,ORGANIZATION,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,estate,78.0,0.5438023209571838,building,/m/038t8_,/m/0cgh4,estate,estate,OTHER,,,,ORGANIZATION,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,estate,79.0,0.5549309849739075,building,/m/038t8_,/m/0cgh4,estate,estate,OTHER,,,,ORGANIZATION,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,roof,77.0,0.6918625235557556,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,78.0,0.6063961982727051,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,79.0,0.6727868914604187,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,sky,76.0,0.9072953462600708,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,sky,77.0,0.7098361253738403,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,sky,78.0,0.7325509786605835,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,sky,79.0,0.7190351486206055,OTHER,/m/01bqvp,,sky,sky,ORGANIZATION,,"http://dbpedia.org/ontology/Organisation, http://dbpedia.org/ontology/Album",,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,facade,77.0,0.5009353756904602,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,78.0,0.4654035270214081,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,79.0,0.4766896367073059,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,screenshot,77.0,0.4872463941574097,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,screenshot,78.0,0.5571752190589905,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,77.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,78.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,79.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plain,76.0,0.4918054938316345,geographical feature,/m/05sm1,/m/043rvww,plain,plain,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,plant,76.0,0.462939590215683,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,77.0,0.5021685361862183,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,78.0,0.4185808002948761,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,79.0,0.5016016960144043,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,farm,76.0,0.6223694682121277,building,/m/0g8p9,/m/0cgh4,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,farm,77.0,0.4375456869602203,building,/m/0g8p9,/m/0cgh4,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,farm,78.0,0.4925217032432556,building,/m/0g8p9,/m/0cgh4,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,farm,79.0,0.4173809885978699,building,/m/0g8p9,/m/0cgh4,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,grass family,76.0,0.5289598703384399,plant,/m/0fkrk,/m/05s2s,grass family,grass family,OTHER,,,,,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,village,76.0,0.6898820996284485,geographical feature,/m/0f0q9,/m/043rvww,village,village,OTHER,,http://dbpedia.org/ontology/Settlement,,"ORGANIZATION, LOCATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,village,77.0,0.6418480277061462,geographical feature,/m/0f0q9,/m/043rvww,village,village,OTHER,,http://dbpedia.org/ontology/Settlement,,"ORGANIZATION, LOCATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,village,78.0,0.7028387188911438,geographical feature,/m/0f0q9,/m/043rvww,village,village,OTHER,,http://dbpedia.org/ontology/Settlement,,"ORGANIZATION, LOCATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,village,79.0,0.634513258934021,geographical feature,/m/0f0q9,/m/043rvww,village,village,OTHER,,http://dbpedia.org/ontology/Settlement,,"ORGANIZATION, LOCATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,grass,76.0,0.7042608261108398,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,residential area,76.0,0.782134473323822,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,77.0,0.9373778104782104,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,78.0,0.9268240928649902,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,79.0,0.9314441084861756,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,hill,76.0,0.6735894083976746,geographical feature,/m/04_5sg,/m/043rvww,hill,hill,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,PERSON,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,rural area,76.0,0.8247244358062744,geographical feature,/m/01f4td,/m/043rvww,rural area,rural area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,rural area,78.0,0.676401674747467,geographical feature,/m/01f4td,/m/043rvww,rural area,rural area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,shrubland,76.0,0.5184227228164673,geographical feature,/m/06w1j5,/m/043rvww,shrubland,shrubland,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,tree,76.0,0.8090695142745972,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,77.0,0.8031423091888428,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,78.0,0.7807459831237793,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,79.0,0.7947806119918823,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,land lot,76.0,0.684611976146698,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,land lot,77.0,0.685016930103302,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,land lot,78.0,0.6865606307983398,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,land lot,79.0,0.6835948824882507,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,suburb,76.0,0.6038190722465515,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,77.0,0.9027856588363647,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,78.0,0.8976896405220032,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,79.0,0.8981040120124817,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,field,76.0,0.7156915664672852,OTHER,/m/0brn2d,,field,field,OTHER,,,,"LOCATION, ORGANIZATION",OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,ecoregion,76.0,0.5747534036636353,geographical feature,/m/0cblv,/m/043rvww,ecoregion,ecoregion,OTHER,,,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,cottage,77.0,0.4935249090194702,building,/m/03nxtz,/m/0cgh4,cottage,cottage,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,cottage,78.0,0.4384068250656128,building,/m/03nxtz,/m/0cgh4,cottage,cottage,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,cottage,79.0,0.4738658964633942,building,/m/03nxtz,/m/0cgh4,cottage,cottage,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,grassland,76.0,0.5493879914283752,geographical feature,/m/01c7cq,/m/043rvww,grassland,grassland,OTHER,,http://dbpedia.org/ontology/Settlement,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,house,77.0,0.8480961322784424,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,78.0,0.8168864846229553,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,79.0,0.835270881652832,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,77.0,0.9271077513694764,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,78.0,0.9048739075660706,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,79.0,0.9068437218666076,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,plant community,76.0,0.5146930813789368,geographical feature,/m/06600f2,/m/043rvww,plant community,plant community,OTHER,,http://dbpedia.org/ontology/Book,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,prairie,76.0,0.4989458620548248,geographical feature,/m/0hkvx,/m/043rvww,prairie,prairie,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,real estate,77.0,0.6810179352760315,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,real estate,78.0,0.642758309841156,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,real estate,79.0,0.6711112856864929,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,pasture,76.0,0.4520696103572846,geographical feature,/m/01gd91,/m/043rvww,pasture,pasture,LOCATION,,http://dbpedia.org/ontology/PopulatedPlace,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,building,77.0,0.51219642162323,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,building,78.0,0.4706252813339234,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,building,79.0,0.4769692718982697,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,property,99.0,0.9365276098251344,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,100.0,0.9318962693214417,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,101.0,0.9287757873535156,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,102.0,0.927368700504303,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,landscape,99.0,0.422932893037796,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,compact car,98.0,0.5748355388641357,car,/m/02swz_,/m/0k4j,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,public utility,98.0,0.44883936643600464,organization,/m/016znt,/m/0qb7t,public utility,public utility,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,organization,OTHER
+7bayHWdsYSo,vehicle,98.0,0.9483771920204164,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,vehicle,99.0,0.9278784990310668,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,vehicle,100.0,0.9071285724639891,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,vehicle,101.0,0.8981971144676208,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,vehicle,102.0,0.9080250263214112,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,mid size car,99.0,0.667846143245697,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,mid size car,100.0,0.6088612079620361,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,mid size car,101.0,0.5867888331413269,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,mid size car,102.0,0.5627617835998535,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,minivan,98.0,0.4915033578872681,car,/m/057gn,/m/0k4j,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,minivan,99.0,0.5065552592277527,car,/m/057gn,/m/0k4j,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,minivan,100.0,0.4891126453876496,car,/m/057gn,/m/0k4j,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,minivan,101.0,0.4671397209167481,car,/m/057gn,/m/0k4j,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,minivan,102.0,0.4295719563961029,car,/m/057gn,/m/0k4j,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,siding,99.0,0.440135657787323,material,/m/037cyw,/m/01l0y0,side,side,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+7bayHWdsYSo,roof,99.0,0.7142041921615601,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,100.0,0.5815575122833252,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,101.0,0.5715839266777039,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,102.0,0.5961952209472656,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,traffic,98.0,0.4922568798065186,OTHER,/m/0btp2,,traffic,traffic,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,facade,99.0,0.6918889284133911,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,100.0,0.6740304827690125,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,101.0,0.6834974884986877,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,102.0,0.67448890209198,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,neighbourhood,99.0,0.8859119415283203,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,100.0,0.8690077662467957,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,101.0,0.8892942667007446,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,102.0,0.8862972855567932,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,van,98.0,0.6313921809196472,car,/m/0h2r6,/m/0k4j,van,van,OTHER,,,,ORGANIZATION,car,car,car,car,OTHER
+7bayHWdsYSo,motor vehicle,98.0,0.9434652328491212,vehicle,/m/012f08,/m/07yv9,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,window,99.0,0.6902680993080139,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,window,100.0,0.5979961156845093,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,window,101.0,0.6050718426704407,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,window,102.0,0.5840139985084534,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,transport,98.0,0.8802840709686279,OTHER,/m/07bsy,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,wall,99.0,0.7763361930847168,OTHER,/m/09qqq,,wall,wall,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,sedan,98.0,0.5913745164871216,car,/m/021mp2,/m/0k4j,sedan,sedan,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,sedan,99.0,0.6085132956504822,car,/m/021mp2,/m/0k4j,sedan,sedan,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,sedan,100.0,0.5599156022071838,car,/m/021mp2,/m/0k4j,sedan,sedan,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,sedan,101.0,0.5525346994400024,car,/m/021mp2,/m/0k4j,sedan,sedan,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,sedan,102.0,0.5553948283195496,car,/m/021mp2,/m/0k4j,sedan,sedan,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,asphalt,98.0,0.6186851263046265,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,asphalt,99.0,0.4606512188911438,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,99.0,0.5072664022445679,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,100.0,0.4631029069423676,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,101.0,0.40221646428108215,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,residential area,98.0,0.8208184838294983,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,99.0,0.9467707872390748,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,100.0,0.9080193042755128,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,101.0,0.9085376262664796,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,102.0,0.9147471785545348,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,car,98.0,0.982104241847992,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,car,99.0,0.973473846912384,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,car,100.0,0.9674333333969116,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,car,101.0,0.9638940095901488,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,car,102.0,0.9604495763778688,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,tree,98.0,0.5197845697402954,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,99.0,0.721624493598938,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,100.0,0.6681655645370483,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,101.0,0.6507278680801392,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,102.0,0.6308197379112244,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,luxury vehicle,98.0,0.6953364014625549,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,luxury vehicle,99.0,0.7856692671775818,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,luxury vehicle,100.0,0.7608302235603333,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,luxury vehicle,101.0,0.8051323890686035,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,luxury vehicle,102.0,0.7305057644844055,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,suburb,98.0,0.5476914644241333,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,99.0,0.6851534247398376,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,100.0,0.5789198279380798,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,101.0,0.5973494052886963,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,102.0,0.6326990127563477,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,family car,98.0,0.7849861979484558,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,family car,99.0,0.9224870204925536,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,family car,100.0,0.8998881578445435,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,family car,101.0,0.8982135057449341,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,family car,102.0,0.8997599482536316,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,road,98.0,0.7598699331283569,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road,99.0,0.44506385922431946,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road,100.0,0.4677469730377197,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road,101.0,0.4748361110687256,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road,102.0,0.4598040580749512,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,sport utility vehicle,98.0,0.5550989508628845,car,/m/0ctrp,/m/0k4j,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,mode of transport,98.0,0.8751634359359741,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,street,98.0,0.5108328461647034,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,street,99.0,0.4906064569950104,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,street,100.0,0.5197559595108032,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,street,101.0,0.5414688587188721,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,street,102.0,0.5343845486640929,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,cottage,99.0,0.4347647130489349,building,/m/03nxtz,/m/0cgh4,cottage,cottage,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,cottage,100.0,0.438136488199234,building,/m/03nxtz,/m/0cgh4,cottage,cottage,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,cottage,101.0,0.4012072384357453,building,/m/03nxtz,/m/0cgh4,cottage,cottage,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,city car,99.0,0.5550532937049866,car,/m/0369ss,/m/0k4j,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,,car,car,car,car,OTHER
+7bayHWdsYSo,city car,100.0,0.4663079082965851,car,/m/0369ss,/m/0k4j,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,,car,car,car,car,OTHER
+7bayHWdsYSo,city car,101.0,0.485742062330246,car,/m/0369ss,/m/0k4j,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,,car,car,car,car,OTHER
+7bayHWdsYSo,city car,102.0,0.4640813767910004,car,/m/0369ss,/m/0k4j,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,,car,car,car,car,OTHER
+7bayHWdsYSo,house,98.0,0.4171947836875916,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,99.0,0.8847364187240601,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,100.0,0.8122603893280029,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,101.0,0.8023217916488647,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,102.0,0.8110378384590149,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,99.0,0.9409528374671936,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,100.0,0.8649939298629761,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,101.0,0.8570132255554199,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,102.0,0.8653466701507568,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,apartment,99.0,0.4955906867980957,building,/m/01nblt,/m/0cgh4,apartment,apartment,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,apartment,100.0,0.4304945766925812,building,/m/01nblt,/m/0cgh4,apartment,apartment,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,apartment,101.0,0.4250317215919495,building,/m/01nblt,/m/0cgh4,apartment,apartment,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,coupé,99.0,0.4447856545448303,car,/m/01d1dj,/m/0k4j,coupé,coupé,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,coupé,100.0,0.42726585268974304,car,/m/01d1dj,/m/0k4j,coupé,coupé,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,coupé,101.0,0.4172353148460388,car,/m/01d1dj,/m/0k4j,coupé,coupé,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,coupé,102.0,0.4131998121738434,car,/m/01d1dj,/m/0k4j,coupé,coupé,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,real estate,99.0,0.7076501846313477,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,real estate,100.0,0.6659019589424133,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,real estate,101.0,0.6545217633247375,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,real estate,102.0,0.6410292387008667,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,subcompact car,98.0,0.5006119012832642,car,/m/03txxp,/m/0k4j,subcompact car,subcompact car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,automotive exterior,98.0,0.6795674562454224,OTHER,/m/0h8ls87,,automotive exterior,automotive exterior,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,building,99.0,0.5863584876060486,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,building,100.0,0.5286549329757689,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,building,101.0,0.5328447222709656,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,building,102.0,0.5262171626091003,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,property,102.0,0.927368700504303,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,103.0,0.9396224617958068,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,104.0,0.9188303947448728,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,property,105.0,0.9368414878845216,OTHER,/m/05wrt,,property,property,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,landscape,103.0,0.4202523827552795,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,compact car,105.0,0.5738732218742371,car,/m/02swz_,/m/0k4j,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,compact car,106.0,0.6602098941802979,car,/m/02swz_,/m/0k4j,compact car,compact car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,recreation,104.0,0.7607760429382324,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,city,105.0,0.4570487439632416,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,intersection,106.0,0.7122780084609985,street,/m/014mpm,/m/01c8br,intersection,intersection,OTHER,,,,ORGANIZATION,LOCATION,street,street,street,LOCATION
+7bayHWdsYSo,public utility,104.0,0.47499880194664,organization,/m/016znt,/m/0qb7t,public utility,public utility,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,ORGANIZATION,organization,organization,organization,organization,OTHER
+7bayHWdsYSo,vehicle,102.0,0.9080250263214112,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,vehicle,103.0,0.6525086760520935,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,vehicle,104.0,0.7330490946769714,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,vehicle,105.0,0.8716074228286743,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,vehicle,106.0,0.9346321225166321,OTHER,/m/07yv9,,vehicle,vehicle,OTHER,,http://dbpedia.org/ontology/Software,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,mid size car,102.0,0.5627617835998535,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,mid size car,106.0,0.5774646997451782,car,/m/03vnt4,/m/0k4j,mid size car,mid size car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,estate,103.0,0.5938029289245605,building,/m/038t8_,/m/0cgh4,estate,estate,OTHER,,,,ORGANIZATION,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,parking lot,105.0,0.5545505881309509,location,/m/02jxn5,/m/078x4m,parking lot,parking lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,location,location,location,LOCATION
+7bayHWdsYSo,parking lot,106.0,0.414490669965744,location,/m/02jxn5,/m/078x4m,parking lot,parking lot,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,location,location,location,LOCATION
+7bayHWdsYSo,minivan,102.0,0.4295719563961029,car,/m/057gn,/m/0k4j,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,minivan,105.0,0.4792624115943909,car,/m/057gn,/m/0k4j,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,minivan,106.0,0.5871891379356384,car,/m/057gn,/m/0k4j,minivan,minivan,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,roof,102.0,0.5961952209472656,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,roof,103.0,0.659054696559906,OTHER,/m/06hyd,,roof,roof,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,traffic,105.0,0.4636831879615784,OTHER,/m/0btp2,,traffic,traffic,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,traffic,106.0,0.8440716862678528,OTHER,/m/0btp2,,traffic,traffic,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,facade,102.0,0.67448890209198,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,facade,103.0,0.5682042241096497,building,/m/01x314,/m/0cgh4,facade,facade,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,neighbourhood,102.0,0.8862972855567932,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,103.0,0.9370384812355042,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,104.0,0.9019736051559448,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,105.0,0.9506922960281372,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,neighbourhood,106.0,0.8853775262832642,geographical feature,/m/0180xr,/m/043rvww,neighbourhood,neighbourhood,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,architecture,103.0,0.7919826507568359,OTHER,/m/03nfmq,,architecture,architecture,OTHER,,,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,motor vehicle,106.0,0.9714452624320984,vehicle,/m/012f08,/m/07yv9,motor vehicle,motor vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,public transport,104.0,0.4372966587543488,transport,/m/05zdp,/m/07bsy,public transport,public transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,transport,transport,transport,transport,OTHER
+7bayHWdsYSo,public transport,105.0,0.7209153175354004,transport,/m/05zdp,/m/07bsy,public transport,public transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,transport,transport,transport,transport,OTHER
+7bayHWdsYSo,shed,103.0,0.6148205399513245,building,/m/01n6fd,/m/0cgh4,shed,shed,OTHER,,,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,window,102.0,0.5840139985084534,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,window,105.0,0.6034183502197266,OTHER,/m/0d4v4,,window,window,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,vehicle registration plate,106.0,0.4252946674823761,OTHER,/m/01jfm_,,vehicle registration plate,vehicle registration plate,OTHER,,http://dbpedia.org/ontology/Band,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,signaling device,105.0,0.4344305992126465,weak entity,/m/07q3ylx,/m/0pccj,signal device,signal device,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+7bayHWdsYSo,signaling device,106.0,0.8657681941986084,weak entity,/m/07q3ylx,/m/0pccj,signal device,signal device,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+7bayHWdsYSo,lane,105.0,0.8750438690185547,road,/m/033j3c,/m/06gfj,lane,lane,OTHER,,,,,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,lane,106.0,0.9654210209846495,road,/m/033j3c,/m/06gfj,lane,lane,OTHER,,,,,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,transport,103.0,0.920310080051422,OTHER,/m/07bsy,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,transport,104.0,0.9251476526260376,OTHER,/m/07bsy,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,transport,105.0,0.9659314155578612,OTHER,/m/07bsy,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,transport,106.0,0.9533636569976808,OTHER,/m/07bsy,,transport,transport,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,yard,103.0,0.5058457851409912,garden,/m/049_3v,/m/0bl0l,yard,yard,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,LOCATION,LOCATION,garden,garden,garden,LOCATION
+7bayHWdsYSo,rolling stock,103.0,0.417007178068161,vehicle,/m/025s53m,/m/07yv9,roll stock,roll stock,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,driving,106.0,0.5901642441749573,OTHER,/m/0kw6d,,drive,drive,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,sedan,102.0,0.5553948283195496,car,/m/021mp2,/m/0k4j,sedan,sedan,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,sedan,105.0,0.4373345971107483,car,/m/021mp2,/m/0k4j,sedan,sedan,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,sedan,106.0,0.6581776738166809,car,/m/021mp2,/m/0k4j,sedan,sedan,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,asphalt,103.0,0.44229215383529663,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,asphalt,104.0,0.4474586844444275,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,asphalt,105.0,0.7946435809135437,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,asphalt,106.0,0.8338519334793091,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,103.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,104.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,105.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,106.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,105.0,0.7267690896987915,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,106.0,0.5115224719047546,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,fence,103.0,0.6306720972061157,OTHER,/m/0blz9,,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,fence,104.0,0.6338322162628174,OTHER,/m/0blz9,,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,fence,105.0,0.4544104039669037,OTHER,/m/0blz9,,fence,fence,OTHER,,http://dbpedia.org/ontology/Building,,PERSON,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road trip,106.0,0.6992399096488953,OTHER,/m/0cnfpz,,road trip,road trip,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,traffic light,104.0,0.4938254058361054,"weak entity, lighting",/m/015qff,"/m/0pccj, /m/019sc6",traffic light,traffic light,OTHER,,http://dbpedia.org/ontology/Device,,,"weak entity, lighting","weak entity, lighting","weak entity, lighting","weak entity, lighting",OTHER
+7bayHWdsYSo,traffic light,105.0,0.5171921849250793,"weak entity, lighting",/m/015qff,"/m/0pccj, /m/019sc6",traffic light,traffic light,OTHER,,http://dbpedia.org/ontology/Device,,,"weak entity, lighting","weak entity, lighting","weak entity, lighting","weak entity, lighting",OTHER
+7bayHWdsYSo,traffic light,106.0,0.8779109716415405,"weak entity, lighting",/m/015qff,"/m/0pccj, /m/019sc6",traffic light,traffic light,OTHER,,http://dbpedia.org/ontology/Device,,,"weak entity, lighting","weak entity, lighting","weak entity, lighting","weak entity, lighting",OTHER
+7bayHWdsYSo,highway,106.0,0.8828839063644409,road,/m/0cz_0,/m/06gfj,highway,highway,OTHER,,,,,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,grass,103.0,0.7685073614120483,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,grass,104.0,0.6871707439422607,plant,/m/08t9c_,/m/05s2s,grass,grass,OTHER,,,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,thoroughfare,106.0,0.44036242365837097,OTHER,/m/0bm8qyq,,thoroughfare,thoroughfare,OTHER,,http://dbpedia.org/ontology/Road,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,controlled access highway,106.0,0.6339424848556519,highway,/m/0335j,/m/0cz_0,controlled access highway,controlled access highway,OTHER,,,,,LOCATION,highway,highway,highway,LOCATION
+7bayHWdsYSo,lawn,103.0,0.4081490933895111,OTHER,/m/01v327,,lawn,lawn,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,biome,103.0,0.6854310631752014,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,biome,104.0,0.7038301825523376,geographical feature,/m/01jb4,/m/043rvww,biome,biome,OTHER,,http://dbpedia.org/ontology/MilitaryUnit,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,town,103.0,0.8687043786048889,geographical feature,/m/0dx1j,/m/043rvww,town,town,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION, PERSON",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,town,105.0,0.8217486143112183,geographical feature,/m/0dx1j,/m/043rvww,town,town,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION, PERSON",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,town,106.0,0.8654330968856812,geographical feature,/m/0dx1j,/m/043rvww,town,town,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION, PERSON",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,102.0,0.9147471785545348,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,103.0,0.9770059585571288,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,104.0,0.9605941176414492,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,105.0,0.9740186929702759,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,residential area,106.0,0.9467797875404358,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,pedestrian,106.0,0.6173457503318787,person,/m/017r8p,/m/01g317,pedestrian,pedestrian,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,woody plant,105.0,0.926444172859192,plant,/m/02hnx9,/m/05s2s,woody plant,woody plant,OTHER,,http://dbpedia.org/ontology/Plant,,,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,car,102.0,0.9604495763778688,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,car,105.0,0.8523435592651367,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,car,106.0,0.9855488538742064,vehicle,/m/0k4j,/m/07yv9,car,car,OTHER,,,,,vehicle,vehicle,vehicle,vehicle,OTHER
+7bayHWdsYSo,rural area,103.0,0.757224440574646,geographical feature,/m/01f4td,/m/043rvww,rural area,rural area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,tree,102.0,0.6308197379112244,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,103.0,0.7671157717704773,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,104.0,0.877129852771759,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,105.0,0.964702606201172,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,106.0,0.8545903563499451,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,luxury vehicle,102.0,0.7305057644844055,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,luxury vehicle,105.0,0.4351052045822144,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,luxury vehicle,106.0,0.8152826428413391,car,/m/01lcwm,/m/0k4j,luxury vehicle,luxury vehicle,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,land lot,103.0,0.8801293373107909,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,land lot,104.0,0.8297733068466187,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,land lot,105.0,0.6992412209510803,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,suburb,102.0,0.6326990127563477,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,103.0,0.9598973989486694,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,104.0,0.8173455595970154,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,105.0,0.9195194244384766,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,suburb,106.0,0.8403680324554443,geographical feature,/m/0750y,/m/043rvww,suburb,suburb,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,family car,102.0,0.8997599482536316,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,family car,105.0,0.8495673537254333,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,family car,106.0,0.9286129474639891,car,/m/088l6h,/m/0k4j,family car,family car,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,road,102.0,0.4598040580749512,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road,103.0,0.446268230676651,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road,104.0,0.4230607748031616,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road,105.0,0.973710000514984,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,road,106.0,0.9921800494194032,OTHER,/m/06gfj,,road,road,OTHER,,http://dbpedia.org/ontology/Road,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,sport utility vehicle,106.0,0.4274793863296509,car,/m/0ctrp,/m/0k4j,sport utility vehicle,sport utility vehicle,OTHER,,http://dbpedia.org/ontology/MeanOfTransportation,,,car,car,car,car,OTHER
+7bayHWdsYSo,mode of transport,103.0,0.8752565383911133,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,mode of transport,104.0,0.8752564787864685,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,mode of transport,105.0,0.8752565383911133,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,mode of transport,106.0,0.8752565383911133,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,street,102.0,0.5343845486640929,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,street,105.0,0.7466745376586914,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,street,106.0,0.8744726181030273,road,/m/01c8br,/m/06gfj,street,street,OTHER,,http://dbpedia.org/ontology/Road,,ORGANIZATION,LOCATION,road,road,road,LOCATION
+7bayHWdsYSo,parking,105.0,0.6897214651107788,person,/m/01jp76,/m/01g317,parking,parking,OTHER,,http://dbpedia.org/ontology/Band,,,person,person,person,person,OTHER
+7bayHWdsYSo,city car,102.0,0.4640813767910004,car,/m/0369ss,/m/0k4j,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,,car,car,car,car,OTHER
+7bayHWdsYSo,city car,106.0,0.8070597648620605,car,/m/0369ss,/m/0k4j,city car,city car,OTHER,,http://dbpedia.org/ontology/Automobile,,,car,car,car,car,OTHER
+7bayHWdsYSo,house,102.0,0.8110378384590149,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,house,103.0,0.8245432376861572,building,/m/03jm5,/m/0cgh4,house,house,OTHER,,http://dbpedia.org/ontology/Building,,"ORGANIZATION, LOCATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,shoulder,106.0,0.5638675093650818,road,/m/02mgm6,/m/06gfj,shoulder,shoulder,OTHER,,http://dbpedia.org/ontology/AnatomicalStructure,,,LOCATION,OTHER,road,road,LOCATION
+7bayHWdsYSo,outdoor structure,104.0,0.5842636227607727,OTHER,/m/0h8lhsd,,outdoor structure,outdoor structure,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,games,104.0,0.9243292212486268,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,home,102.0,0.8653466701507568,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,103.0,0.9576483964920044,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,104.0,0.7352441549301147,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,home,105.0,0.8482937216758728,building,/m/01l0mw,/m/0cgh4,home,home,OTHER,,,,"LOCATION, ORGANIZATION",LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,coupé,102.0,0.4131998121738434,car,/m/01d1dj,/m/0k4j,coupé,coupé,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,coupé,106.0,0.4452156722545624,car,/m/01d1dj,/m/0k4j,coupé,coupé,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,infrastructure,105.0,0.8881617784500122,OTHER,/m/017kvv,,infrastructure,infrastructure,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,infrastructure,106.0,0.897053599357605,OTHER,/m/017kvv,,infrastructure,infrastructure,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,structure,103.0,0.8440055251121521,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,structure,104.0,0.7902122735977173,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,structure,105.0,0.798350989818573,OTHER,/m/0n68_,,structure,structure,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,traffic congestion,106.0,0.4387791454792023,event,/m/01j0ry,/m/081pkj,traffic congestion,traffic congestion,OTHER,,http://dbpedia.org/ontology/Disease,,,event,event,event,event,OTHER
+7bayHWdsYSo,urban area,103.0,0.8604080080986023,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,urban area,104.0,0.7951048016548157,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,urban area,105.0,0.837676465511322,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,urban area,106.0,0.8553597331047058,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,light fixture,106.0,0.4789927005767822,lighting,/m/08jpwt,/m/019sc6,light fixture,light fixture,OTHER,,http://dbpedia.org/ontology/Device,,,lighting,lighting,lighting,lighting,OTHER
+7bayHWdsYSo,walkway,104.0,0.6703452467918396,OTHER,/m/01jm2n,,walkway,walkway,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,walkway,105.0,0.6439818739891052,OTHER,/m/01jm2n,,walkway,walkway,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,executive car,105.0,0.4539103209972382,car,/m/0crtnw,/m/0k4j,executive car,executive car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,executive car,106.0,0.6176252961158752,car,/m/0crtnw,/m/0k4j,executive car,executive car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,ecosystem,103.0,0.904792070388794,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,ecosystem,104.0,0.9134680032730104,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,ecosystem,105.0,0.9033750295639038,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,real estate,102.0,0.6410292387008667,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,real estate,103.0,0.763775110244751,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,real estate,105.0,0.6143720149993896,OTHER,/m/023907r,,real estate,real estate,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,subcompact car,106.0,0.5592457056045532,car,/m/03txxp,/m/0k4j,subcompact car,subcompact car,OTHER,,,,,car,car,car,car,OTHER
+7bayHWdsYSo,automotive exterior,106.0,0.6511662006378174,OTHER,/m/0h8ls87,,automotive exterior,automotive exterior,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,building,102.0,0.5262171626091003,OTHER,/m/0cgh4,,building,building,OTHER,,http://dbpedia.org/ontology/Building,,ORGANIZATION,LOCATION,OTHER,EVENT,OTHER,LOCATION
+7bayHWdsYSo,landscape,108.0,0.5215457677841187,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,109.0,0.6200351119041443,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,110.0,0.6166090965270996,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,111.0,0.5269802808761597,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,112.0,0.4437951445579529,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,113.0,0.435790479183197,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,landscape,114.0,0.5084132552146912,geographical feature,/m/025s3q0,/m/043rvww,landscape,landscape,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,recreation,108.0,0.6915875673294067,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,recreation,109.0,0.7863306403160095,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,recreation,110.0,0.7144352793693542,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,recreation,111.0,0.7359224557876587,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,recreation,112.0,0.6294596195220947,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,recreation,114.0,0.6794288158416748,OTHER,/m/06bm2,,recreation,recreation,OTHER,,http://dbpedia.org/ontology/Sport,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,day,109.0,0.8925067186355591,OTHER,/m/02bbq,,day,day,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plantation,109.0,0.4144827723503113,building,/m/011yvr,/m/0cgh4,plantation,plantation,OTHER,,http://dbpedia.org/ontology/MusicalWork,,ORGANIZATION,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,city,110.0,0.4382156431674957,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,city,111.0,0.5623841285705566,geographical feature,/m/01n32,/m/043rvww,city,city,OTHER,,http://dbpedia.org/ontology/Settlement,,"LOCATION, ORGANIZATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,adventure,108.0,0.463969349861145,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,adventure,109.0,0.6945779323577881,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,adventure,110.0,0.5157361030578613,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,adventure,111.0,0.6030487418174744,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,adventure,112.0,0.4160254299640656,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,adventure,114.0,0.5711456537246704,OTHER,/m/0h_m,,adventure,adventure,OTHER,,http://dbpedia.org/ontology/AmusementParkAttraction,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,outerwear,108.0,0.7098034620285034,clothing,/m/047vlmn,/m/09j2d,outerwear,outerwear,OTHER,,,,,clothing,clothing,clothing,clothing,OTHER
+7bayHWdsYSo,human behavior,113.0,0.4335719048976898,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
+7bayHWdsYSo,outdoor recreation,109.0,0.8409234881401062,OTHER,/m/05b0n7k,,outdoor recreation,outdoor recreation,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,photograph,108.0,0.9482239484786988,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,photograph,109.0,0.9515354037284852,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,photograph,111.0,0.9486278891563416,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,photograph,112.0,0.9490581750869752,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,photograph,114.0,0.9537308812141418,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,temple,108.0,0.6633485555648804,OTHER,/m/08g_yr,,temple,temple,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,temple,114.0,0.6609901189804077,OTHER,/m/08g_yr,,temple,temple,OTHER,,http://dbpedia.org/ontology/Building,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,senior citizen,108.0,0.5233414173126221,person,/m/04n7gmg,/m/01g317,senior citizen,senior citizen,OTHER,,,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,tours,109.0,0.618257999420166,tourism,/m/07s3m,/m/07bxq,tour,tour,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Settlement, http://dbpedia.org/ontology/City, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/PopulatedPlace",,LOCATION,tourism,tourism,EVENT,tourism,EVENT
+7bayHWdsYSo,tours,111.0,0.5190313458442688,tourism,/m/07s3m,/m/07bxq,tour,tour,LOCATION,,"http://dbpedia.org/ontology/Location, http://dbpedia.org/ontology/Settlement, http://dbpedia.org/ontology/City, http://dbpedia.org/ontology/Place, http://dbpedia.org/ontology/PopulatedPlace",,LOCATION,tourism,tourism,EVENT,tourism,EVENT
+7bayHWdsYSo,adventurer,113.0,0.4406147003173828,person,/m/029lh1,/m/01g317,adventurer,adventurer,OTHER,,,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,winter,109.0,0.468513160943985,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+7bayHWdsYSo,winter,110.0,0.4983767867088318,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+7bayHWdsYSo,winter,114.0,0.4454740583896637,season,/m/086mh,/m/0754v,winter,winter,OTHER,,http://dbpedia.org/ontology/FootballLeagueSeason,,,season,season,season,season,OTHER
+7bayHWdsYSo,screenshot,113.0,0.5246769189834595,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,screenshot,114.0,0.5148295164108276,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,travel,108.0,0.5863401293754578,OTHER,/m/014dsx,,travel,travel,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,travel,109.0,0.6818790435791016,OTHER,/m/014dsx,,travel,travel,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,travel,110.0,0.6497712135314941,OTHER,/m/014dsx,,travel,travel,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,travel,111.0,0.670557975769043,OTHER,/m/014dsx,,travel,travel,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,travel,112.0,0.5735665559768677,OTHER,/m/014dsx,,travel,travel,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,travel,114.0,0.5612867474555969,OTHER,/m/014dsx,,travel,travel,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,EVENT,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,asphalt,108.0,0.5075467824935913,OTHER,/m/0hr8,,asphalt,asphalt,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,108.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,phenomenon,109.0,0.7547649145126343,OTHER,/m/0gjyk,,phenomenon,phenomenon,OTHER,,,,EVENT,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,walking,109.0,0.4104919135570526,sports,/m/083mg,/m/06ntj,walk,walk,OTHER,,,,,sports,sports,EVENT,sports,EVENT
+7bayHWdsYSo,cable car,109.0,0.5608721971511841,OTHER,/m/02519,,cable car,cable car,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,cable car,110.0,0.4291421473026276,OTHER,/m/02519,,cable car,cable car,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,109.0,0.7330330014228821,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,110.0,0.7290417551994324,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,plant,111.0,0.7131672501564026,OTHER,/m/05s2s,,plant,plant,OTHER,,"http://dbpedia.org/ontology/Eukaryote, http://dbpedia.org/ontology/Species",,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,terrain,109.0,0.6924226880073547,geographical feature,/m/025tn5c,/m/043rvww,terrain,terrain,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,terrain,110.0,0.6427028775215149,geographical feature,/m/025tn5c,/m/043rvww,terrain,terrain,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,soil,108.0,0.7883791327476501,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,soil,109.0,0.7152278423309326,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,soil,110.0,0.6698564291000366,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,soil,111.0,0.6228350400924683,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,soil,112.0,0.7430931329727173,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,soil,114.0,0.6121544241905212,OTHER,/m/09dv7,,soil,soil,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,geological phenomenon,109.0,0.744943380355835,OTHER,/m/07sn5gn,,geological phenomenon,geological phenomenon,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,farm,109.0,0.5326204895973206,building,/m/0g8p9,/m/0cgh4,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,farm,110.0,0.46205657720565796,building,/m/0g8p9,/m/0cgh4,farm,farm,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,fun,108.0,0.7388072013854979,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,fun,109.0,0.7895374894142151,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,fun,110.0,0.6506221294403076,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,fun,111.0,0.7126675844192505,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,fun,112.0,0.6548773646354675,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,fun,113.0,0.4773223996162415,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,fun,114.0,0.7528567314147949,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,village,110.0,0.4001598656177521,geographical feature,/m/0f0q9,/m/043rvww,village,village,OTHER,,http://dbpedia.org/ontology/Settlement,,"ORGANIZATION, LOCATION",LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,world,108.0,0.4439873695373535,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,world,109.0,0.5269688367843628,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,world,110.0,0.4981413185596466,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,world,111.0,0.5278801321983337,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,world,112.0,0.4487710297107697,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,world,113.0,0.4812591373920441,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,world,114.0,0.5598934888839722,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,leisure,109.0,0.6177873611450195,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,leisure,111.0,0.4542961120605469,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,leisure,114.0,0.5024970173835754,OTHER,/m/04g3r,,leisure,leisure,EVENT,,http://dbpedia.org/ontology/SportsEvent,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,residential area,110.0,0.690780520439148,geographical feature,/m/02nfxt,/m/043rvww,residential area,residential area,OTHER,,,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,hill,109.0,0.5381474494934082,geographical feature,/m/04_5sg,/m/043rvww,hill,hill,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,PERSON,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,hill,110.0,0.5042163729667664,geographical feature,/m/04_5sg,/m/043rvww,hill,hill,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,PERSON,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,adaptation,108.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,adaptation,112.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,adaptation,113.0,0.40077000856399536,OTHER,/m/03r_vp,,adaptation,adaptation,OTHER,,http://dbpedia.org/ontology/Disease,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,rural area,109.0,0.7773618698120117,geographical feature,/m/01f4td,/m/043rvww,rural area,rural area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,rural area,110.0,0.7285196781158447,geographical feature,/m/01f4td,/m/043rvww,rural area,rural area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,lama,108.0,0.4316114187240601,person,/m/01k2n4,/m/01g317,lama,lama,OTHER,,,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,hill station,109.0,0.6460026502609253,town,/m/040h04,/m/0dx1j,hill station,hill station,OTHER,,http://dbpedia.org/ontology/Settlement,,,LOCATION,town,town,town,LOCATION
+7bayHWdsYSo,construction worker,108.0,0.6039172410964966,person,/m/047x57,/m/01g317,construction worker,construction worker,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,construction worker,112.0,0.4077903628349304,person,/m/047x57,/m/01g317,construction worker,construction worker,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,construction worker,114.0,0.4059041738510132,person,/m/047x57,/m/01g317,construction worker,construction worker,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,bricklayer,108.0,0.473198801279068,person,/m/02cc0w,/m/01g317,bricklayer,bricklayer,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,bricklayer,114.0,0.4366004467010498,person,/m/02cc0w,/m/01g317,bricklayer,bricklayer,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,tree,108.0,0.7784684300422668,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,109.0,0.8502147197723389,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,110.0,0.8545942902565002,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,111.0,0.8560621738433838,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,112.0,0.7773981690406799,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,113.0,0.6255853176116943,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,tree,114.0,0.7301530838012695,plant,/m/07j7r,/m/05s2s,tree,tree,OTHER,,http://dbpedia.org/ontology/Plant,,PERSON,plant,plant,plant,plant,OTHER
+7bayHWdsYSo,land lot,109.0,0.5190263390541077,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,land lot,110.0,0.5619508028030396,building,/m/0gs32y,/m/0cgh4,land lot,land lot,LOCATION,,http://dbpedia.org/ontology/Place,,,LOCATION,building,building,building,LOCATION
+7bayHWdsYSo,tourism,108.0,0.7605331540107727,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,109.0,0.8791542649269104,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,110.0,0.8388979434967041,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,111.0,0.8255362510681152,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,112.0,0.7271785140037537,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,113.0,0.569988489151001,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,tourism,114.0,0.7182517647743225,OTHER,/m/07bxq,,tourism,tourism,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,EVENT,OTHER,EVENT
+7bayHWdsYSo,mode of transport,108.0,0.8752268552780151,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,mode of transport,109.0,0.8752244114875793,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,mode of transport,110.0,0.8748555183410645,OTHER,/m/079bkr,,mode of transport,mode of transport,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,agriculture,109.0,0.5484879612922668,OTHER,/m/0hkf,,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,agriculture,112.0,0.5062088370323181,OTHER,/m/0hkf,,agriculture,agriculture,OTHER,,http://dbpedia.org/ontology/Company,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+7bayHWdsYSo,mountain,109.0,0.5035097599029541,geographical feature,/m/09d_r,/m/043rvww,mountain,mountain,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,mountain,110.0,0.4422456920146942,geographical feature,/m/09d_r,/m/043rvww,mountain,mountain,LOCATION,,http://dbpedia.org/ontology/NaturalPlace,,,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,urban area,109.0,0.8481158614158629,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,urban area,111.0,0.8112969398498535,city,/m/039jbq,/m/01n32,urban area,urban area,LOCATION,,http://dbpedia.org/ontology/Place,,LOCATION,LOCATION,city,city,city,LOCATION
+7bayHWdsYSo,walkway,109.0,0.44066181778907776,OTHER,/m/01jm2n,,walkway,walkway,LOCATION,,http://dbpedia.org/ontology/HistoricPlace,,,LOCATION,OTHER,OTHER,OTHER,LOCATION
+7bayHWdsYSo,laborer,108.0,0.4375613331794739,person,/m/02vk771,/m/01g317,laborer,laborer,OTHER,,,,PERSON,person,person,person,person,OTHER
+7bayHWdsYSo,vacation,108.0,0.7309583425521851,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+7bayHWdsYSo,vacation,109.0,0.7866825461387634,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+7bayHWdsYSo,vacation,110.0,0.691518247127533,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+7bayHWdsYSo,vacation,111.0,0.7172081470489502,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+7bayHWdsYSo,vacation,112.0,0.6739904284477234,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+7bayHWdsYSo,vacation,113.0,0.6364422440528871,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+7bayHWdsYSo,vacation,114.0,0.7500054836273193,event,/m/02jwqh,/m/081pkj,vacation,vacation,OTHER,,,,,event,event,EVENT,event,EVENT
+7bayHWdsYSo,community,108.0,0.8374235033988953,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+7bayHWdsYSo,community,109.0,0.8600114583969116,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+7bayHWdsYSo,community,110.0,0.8050037026405334,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+7bayHWdsYSo,community,112.0,0.792586624622345,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+7bayHWdsYSo,community,114.0,0.7882287502288818,organization,/m/01qls,/m/0qb7t,community,community,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,"ORGANIZATION, LOCATION",organization,organization,organization,ORGANIZATION,ORGANIZATION
+7bayHWdsYSo,ecosystem,109.0,0.9113250374794006,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,ecosystem,110.0,0.8858285546302795,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION
+7bayHWdsYSo,ecosystem,112.0,0.8942245841026306,geographical feature,/m/02mhj,/m/043rvww,ecosystem,ecosystem,OTHER,,http://dbpedia.org/ontology/Settlement,,ORGANIZATION,LOCATION,geographical feature,geographical feature,geographical feature,LOCATION

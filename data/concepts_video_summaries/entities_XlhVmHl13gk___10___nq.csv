@@ -1,0 +1,4 @@
+storageLink,entity,entity_type,mid,wikipedia_url,entity_mention,begin_offset,mention_sentiment_magnitude,mention_sentiment_score,mention_type,entity_salience,entity_sentiment_magnitude,entity_sentiment_score,entity_lemma,entity_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3
+XlhVmHl13gk,Boeing 737,OTHER,/m/0137k8,https://en.wikipedia.org/wiki/Boeing_737,Boeing 737,733,0.20000000298023224,-0.20000000298023224,PROPER,0.034062936902046204,1.100000023841858,-0.30000001192092896,Boeing 737,boeing 737,,,,,,OTHER,OTHER,OTHER
+XlhVmHl13gk,people,PERSON,,,people,708,0.4000000059604645,-0.4000000059604645,COMMON,0.002710559172555805,0.4000000059604645,-0.4000000059604645,people,people,,,,,ORGANIZATION,PERSON,PERSON,PERSON
+XlhVmHl13gk,gear,CONSUMER_GOOD,,,gear,1148,0.4000000059604645,-0.4000000059604645,COMMON,0.0291560422629118,0.8000000119209291,-0.4000000059604645,gear,gear,,,,,,OTHER,OTHER,OTHER

@@ -1,0 +1,274 @@
+storageLink,label,time_offset,confidence,type,label_entity_id,type_id,label_lemma,label_lemma_lower,dbpedia_type,wikidata_type,all_dbpedia_types,all_wikidata_types,WordNet Type,type_v1,type_v2,type_v3,type_v4,type_v5
+SCOmqmOI72I,circle,0.0,0.4991570115089417,shape,/m/01vkl,/m/016nqd,circle,circle,OTHER,,http://dbpedia.org/ontology/Album,,ORGANIZATION,shape,shape,shape,shape,OTHER
+SCOmqmOI72I,circle,1.0,0.4980446994304657,shape,/m/01vkl,/m/016nqd,circle,circle,OTHER,,http://dbpedia.org/ontology/Album,,ORGANIZATION,shape,shape,shape,shape,OTHER
+SCOmqmOI72I,shadow,0.0,0.5547367334365845,OTHER,/m/01ft8k,,shadow,shadow,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,photography,0.0,0.84830641746521,OTHER,/m/05wkw,,photography,photography,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,photography,1.0,0.8485105633735657,OTHER,/m/05wkw,,photography,photography,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,monochrome photography,0.0,0.9147570729255676,photography,/m/03d49p1,/m/05wkw,monochrome photography,monochrome photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+SCOmqmOI72I,monochrome photography,1.0,0.9233402013778688,photography,/m/03d49p1,/m/05wkw,monochrome photography,monochrome photography,OTHER,,http://dbpedia.org/ontology/Agent,,,photography,photography,photography,photography,OTHER
+SCOmqmOI72I,font,0.0,0.8575909733772278,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,font,1.0,0.7565692663192749,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,black,0.0,0.9611167311668396,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,black,1.0,0.9617595672607422,OTHER,/m/019sc,,black,black,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,pattern,0.0,0.6491076946258545,design,/m/0hwky,/m/02cwm,pattern,pattern,OTHER,,,,LOCATION,design,design,design,design,OTHER
+SCOmqmOI72I,pattern,1.0,0.8281791210174559,design,/m/0hwky,/m/02cwm,pattern,pattern,OTHER,,,,LOCATION,design,design,design,design,OTHER
+SCOmqmOI72I,brand,1.0,0.4696667492389679,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,computer wallpaper,0.0,0.6857723593711853,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,computer wallpaper,1.0,0.6512513160705566,software,/m/03w43x,/m/01mf0,computer wallpaper,computer wallpaper,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,design,0.0,0.6478264331817627,OTHER,/m/02cwm,,design,design,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,design,1.0,0.718139111995697,OTHER,/m/02cwm,,design,design,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,space,0.0,0.5303568840026855,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,space,1.0,0.5511757731437683,OTHER,/m/06wqb,,space,space,OTHER,,http://dbpedia.org/ontology/Disease,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,lighting,0.0,0.7238929271697998,OTHER,/m/019sc6,,light,light,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+SCOmqmOI72I,metal,0.0,0.4793922603130341,material,/m/04t7l,/m/01l0y0,metal,metal,OTHER,,http://dbpedia.org/ontology/ChemicalCompound,,,material,material,material,material,OTHER
+SCOmqmOI72I,darkness,0.0,0.6943238973617554,OTHER,/m/01kyr8,,darkness,darkness,OTHER,,,,LOCATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,angle,0.0,0.5757688879966736,OTHER,/m/0mwc,,angle,angle,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,angle,1.0,0.6032719612121582,OTHER,/m/0mwc,,angle,angle,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,symmetry,0.0,0.7509011030197144,OTHER,/m/0f28m,,symmetry,symmetry,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,symmetry,1.0,0.8825755119323729,OTHER,/m/0f28m,,symmetry,symmetry,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,technology,1.0,0.6531980633735657,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,daylighting,0.0,0.7381463646888733,window,/m/0k2n5,/m/0d4v4,daylighting,daylighting,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,window,window,window,LOCATION
+SCOmqmOI72I,daylighting,1.0,0.8281573653221129,window,/m/0k2n5,/m/0d4v4,daylighting,daylighting,OTHER,,http://dbpedia.org/ontology/Company,,,LOCATION,window,window,window,LOCATION
+SCOmqmOI72I,product design,0.0,0.6358305811882019,person,/m/03y18t,/m/01g317,product design,product design,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+SCOmqmOI72I,stock photography,0.0,0.4885358810424805,photography,/m/036jvk,/m/05wkw,stock photography,stock photography,OTHER,,http://dbpedia.org/ontology/Ship,,,photography,photography,photography,photography,OTHER
+SCOmqmOI72I,tints and shades,1.0,0.4029132723808289,OTHER,/m/02q_bfg,,tint and shade,tint and shade,OTHER,,http://dbpedia.org/ontology/ChemicalSubstance,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,text,0.0,0.9133017659187316,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,text,1.0,0.7712715864181519,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,mesh,0.0,0.651664137840271,material,/m/0413y3,/m/01l0y0,mesh,mesh,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,EVENT,material,material,material,material,OTHER
+SCOmqmOI72I,mesh,1.0,0.5809499025344849,material,/m/0413y3,/m/01l0y0,mesh,mesh,OTHER,,http://dbpedia.org/ontology/ArchitecturalStructure,,EVENT,material,material,material,material,OTHER
+SCOmqmOI72I,texture,0.0,0.7441766262054443,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,texture,1.0,0.6571924090385437,OTHER,/m/0521dbh,,texture,texture,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,square,0.0,0.4716127514839173,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,square,1.0,0.7215624451637268,shape,/m/030jx3,/m/016nqd,square,square,OTHER,,,,"LOCATION, PERSON",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,line,0.0,0.6960896253585815,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,line,1.0,0.7849249243736267,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,light,0.0,0.8798530101776123,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,light,1.0,0.8747628927230835,OTHER,/m/04k84,,light,light,OTHER,,http://dbpedia.org/ontology/Species,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,monochrome,0.0,0.8021119832992554,style,/m/01mwkf,/m/012yh1,monochrome,monochrome,OTHER,,,,,style,style,style,style,OTHER
+SCOmqmOI72I,monochrome,1.0,0.8035069108009338,style,/m/01mwkf,/m/012yh1,monochrome,monochrome,OTHER,,,,,style,style,style,style,OTHER
+SCOmqmOI72I,black and white,0.0,0.9491567611694336,style,/m/01g6gs,/m/012yh1,black and white,black and white,OTHER,,,,,style,style,style,style,OTHER
+SCOmqmOI72I,black and white,1.0,0.9513051509857178,style,/m/01g6gs,/m/012yh1,black and white,black and white,OTHER,,,,,style,style,style,style,OTHER
+SCOmqmOI72I,material,0.0,0.6352099776268005,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,material,1.0,0.6984912157058716,OTHER,/m/01l0y0,,material,material,OTHER,,,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,photograph,0.0,0.9490628242492676,OTHER,/m/068jd,,photograph,photograph,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,number,0.0,0.4264968633651733,symbol,/m/05fwb,/m/09ddf,number,number,OTHER,,,,ORGANIZATION,symbol,symbol,symbol,symbol,OTHER
+SCOmqmOI72I,triangle,1.0,0.5818822383880615,shape,/m/07jx7,/m/016nqd,triangle,triangle,OTHER,,,,,shape,shape,shape,shape,OTHER
+SCOmqmOI72I,white,0.0,0.9607056379318236,OTHER,/m/083jv,,white,white,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,white,1.0,0.9632363319396972,OTHER,/m/083jv,,white,white,OTHER,,http://dbpedia.org/ontology/Colour,,PERSON,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,graphics software,29.0,0.7514109611511229,software,/m/05xkk1,/m/01mf0,graphic software,graphic software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,software,software,software,software,OTHER
+SCOmqmOI72I,media,29.0,0.6713442206382751,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,media,30.0,0.7220327854156494,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,media,31.0,0.7201443910598755,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,media,32.0,0.7187501788139343,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,media,33.0,0.7188276648521423,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,media,34.0,0.7195243239402771,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,media,35.0,0.7172397971153259,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,29.0,0.757976770401001,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,30.0,0.6108410358428955,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,31.0,0.6093143224716187,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,32.0,0.6116505265235901,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,33.0,0.6173258423805237,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,34.0,0.6148086190223694,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,35.0,0.6141793131828308,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,3d modeling,29.0,0.5308562517166138,person,/m/02p30vv,/m/01g317,3d modeling,3d modeling,OTHER,,,,,person,person,person,person,OTHER
+SCOmqmOI72I,computer,30.0,0.4303336441516876,technology,/m/01m3v,/m/07c1v,computer,computer,OTHER,,http://dbpedia.org/ontology/Device,,PERSON,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,computer,31.0,0.4245165288448334,technology,/m/01m3v,/m/07c1v,computer,computer,OTHER,,http://dbpedia.org/ontology/Device,,PERSON,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,computer,32.0,0.4187440872192383,technology,/m/01m3v,/m/07c1v,computer,computer,OTHER,,http://dbpedia.org/ontology/Device,,PERSON,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,computer,33.0,0.427848219871521,technology,/m/01m3v,/m/07c1v,computer,computer,OTHER,,http://dbpedia.org/ontology/Device,,PERSON,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,computer,34.0,0.4300227761268616,technology,/m/01m3v,/m/07c1v,computer,computer,OTHER,,http://dbpedia.org/ontology/Device,,PERSON,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,computer,35.0,0.428065836429596,technology,/m/01m3v,/m/07c1v,computer,computer,OTHER,,http://dbpedia.org/ontology/Device,,PERSON,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,online advertising,30.0,0.6327181458473206,advertising,/m/05b1rx,/m/011s0,online advertising,online advertising,OTHER,,,,,advertising,advertising,advertising,advertising,OTHER
+SCOmqmOI72I,online advertising,31.0,0.6280509829521179,advertising,/m/05b1rx,/m/011s0,online advertising,online advertising,OTHER,,,,,advertising,advertising,advertising,advertising,OTHER
+SCOmqmOI72I,online advertising,32.0,0.6213281154632568,advertising,/m/05b1rx,/m/011s0,online advertising,online advertising,OTHER,,,,,advertising,advertising,advertising,advertising,OTHER
+SCOmqmOI72I,online advertising,33.0,0.6233713030815125,advertising,/m/05b1rx,/m/011s0,online advertising,online advertising,OTHER,,,,,advertising,advertising,advertising,advertising,OTHER
+SCOmqmOI72I,online advertising,34.0,0.6233408451080322,advertising,/m/05b1rx,/m/011s0,online advertising,online advertising,OTHER,,,,,advertising,advertising,advertising,advertising,OTHER
+SCOmqmOI72I,online advertising,35.0,0.6185107827186584,advertising,/m/05b1rx,/m/011s0,online advertising,online advertising,OTHER,,,,,advertising,advertising,advertising,advertising,OTHER
+SCOmqmOI72I,font,29.0,0.5596656799316406,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,font,30.0,0.8670039176940918,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,font,31.0,0.8665530681610107,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,font,32.0,0.8674410581588745,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,font,33.0,0.867761492729187,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,font,34.0,0.8669302463531494,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,font,35.0,0.8673895597457886,software,/m/03gq5hm,/m/01mf0,font,font,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,editing,29.0,0.5277776122093201,person,/m/016g5h,/m/01g317,edit,edit,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+SCOmqmOI72I,editing,35.0,0.400153785943985,person,/m/016g5h,/m/01g317,edit,edit,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+SCOmqmOI72I,brand,29.0,0.5008084774017334,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,brand,30.0,0.4850212037563324,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,brand,31.0,0.4833254218101502,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,brand,32.0,0.4829331636428833,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,brand,33.0,0.485098123550415,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,brand,34.0,0.4853008687496185,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,brand,35.0,0.4814368486404419,OTHER,/m/01cd9,,brand,brand,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,public relations,29.0,0.5530247092247009,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+SCOmqmOI72I,website,29.0,0.6826410889625549,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,website,30.0,0.6810859441757202,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,website,31.0,0.6779707670211792,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,website,32.0,0.6759968996047974,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,website,33.0,0.6764368414878845,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,website,34.0,0.6764191389083862,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,website,35.0,0.6752233505249023,weak entity,/m/085n4,/m/0pccj,website,website,OTHER,,,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,digital compositing,29.0,0.43101221323013306,person,/m/02g49,/m/01g317,digital compositing,digital compositing,OTHER,,http://dbpedia.org/ontology/Election,,,person,EVENT,EVENT,person,EVENT
+SCOmqmOI72I,logo,30.0,0.5058829188346863,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+SCOmqmOI72I,logo,31.0,0.5038257837295532,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+SCOmqmOI72I,logo,32.0,0.5032331943511963,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+SCOmqmOI72I,logo,33.0,0.5055930614471436,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+SCOmqmOI72I,logo,34.0,0.505104124546051,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+SCOmqmOI72I,logo,35.0,0.4992288053035736,graphics,/m/0dwx7,/m/021sdg,logo,logo,OTHER,,http://dbpedia.org/ontology/Agent,,,graphics,graphics,graphics,graphics,OTHER
+SCOmqmOI72I,games,29.0,0.7024250030517578,OTHER,/m/03bt1gh,,game,game,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+SCOmqmOI72I,software,29.0,0.8074660301208496,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,software,30.0,0.8080158829689026,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,software,31.0,0.8080024123191833,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,software,32.0,0.8080024719238281,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,software,33.0,0.8080031275749207,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,software,34.0,0.807997465133667,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,software,35.0,0.8079953193664551,OTHER,/m/01mf0,,software,software,OTHER,,http://dbpedia.org/ontology/TelevisionShow,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,learning,29.0,0.4087469279766083,person,/m/0191f8,/m/01g317,learn,learn,OTHER,,http://dbpedia.org/ontology/Band,,,person,person,person,person,OTHER
+SCOmqmOI72I,hair coloring,29.0,0.4283412992954254,OTHER,/m/028mzr,,hair color,hair color,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,EVENT,OTHER,EVENT
+SCOmqmOI72I,photo caption,29.0,0.40068286657333374,photography,/m/0b75wg4,/m/05wkw,photo caption,photo caption,OTHER,,http://dbpedia.org/ontology/RailwayLine,,,photography,photography,photography,photography,OTHER
+SCOmqmOI72I,conversation,29.0,0.556282639503479,communication,/m/01h8n0,/m/01lhf,conversation,conversation,OTHER,,,,,communication,communication,EVENT,communication,EVENT
+SCOmqmOI72I,new media,30.0,0.4888637363910675,person,/m/01yl50,/m/01g317,new medium,new medium,OTHER,,,,,person,person,person,person,OTHER
+SCOmqmOI72I,new media,31.0,0.4872489273548126,person,/m/01yl50,/m/01g317,new medium,new medium,OTHER,,,,,person,person,person,person,OTHER
+SCOmqmOI72I,new media,32.0,0.4862064123153687,person,/m/01yl50,/m/01g317,new medium,new medium,OTHER,,,,,person,person,person,person,OTHER
+SCOmqmOI72I,new media,33.0,0.486154168844223,person,/m/01yl50,/m/01g317,new medium,new medium,OTHER,,,,,person,person,person,person,OTHER
+SCOmqmOI72I,new media,34.0,0.4867745637893677,person,/m/01yl50,/m/01g317,new medium,new medium,OTHER,,,,,person,person,person,person,OTHER
+SCOmqmOI72I,new media,35.0,0.4866469502449036,person,/m/01yl50,/m/01g317,new medium,new medium,OTHER,,,,,person,person,person,person,OTHER
+SCOmqmOI72I,brown hair,29.0,0.5470795035362244,hair,/m/02ksmb,/m/03q69,brown hair,brown hair,OTHER,,,,,hair,OTHER,hair,hair,OTHER
+SCOmqmOI72I,display device,29.0,0.4332849383354187,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,picture editor,29.0,0.4156665503978729,person,/m/03yk9cp,/m/01g317,picture editor,picture editor,OTHER,,,,,person,person,person,person,OTHER
+SCOmqmOI72I,text,29.0,0.8858616948127747,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,text,30.0,0.9598967432975768,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,text,31.0,0.9598259925842284,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,text,32.0,0.9599539041519164,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,text,33.0,0.960150957107544,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,text,34.0,0.9600537419319152,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,text,35.0,0.9600127339363098,OTHER,/m/07s6nbt,,text,text,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,advertising,29.0,0.5547770261764526,OTHER,/m/011s0,,advertising,advertising,OTHER,,,,,OTHER,OTHER,EVENT,OTHER,EVENT
+SCOmqmOI72I,operating system,30.0,0.4609249234199524,software,/m/05khh,/m/01mf0,operating system,operating system,OTHER,,http://dbpedia.org/ontology/Software,,,software,software,software,software,OTHER
+SCOmqmOI72I,operating system,31.0,0.458905428647995,software,/m/05khh,/m/01mf0,operating system,operating system,OTHER,,http://dbpedia.org/ontology/Software,,,software,software,software,software,OTHER
+SCOmqmOI72I,operating system,32.0,0.4528594017028809,software,/m/05khh,/m/01mf0,operating system,operating system,OTHER,,http://dbpedia.org/ontology/Software,,,software,software,software,software,OTHER
+SCOmqmOI72I,operating system,33.0,0.4586956799030304,software,/m/05khh,/m/01mf0,operating system,operating system,OTHER,,http://dbpedia.org/ontology/Software,,,software,software,software,software,OTHER
+SCOmqmOI72I,operating system,34.0,0.4595147669315338,software,/m/05khh,/m/01mf0,operating system,operating system,OTHER,,http://dbpedia.org/ontology/Software,,,software,software,software,software,OTHER
+SCOmqmOI72I,operating system,35.0,0.4541714191436768,software,/m/05khh,/m/01mf0,operating system,operating system,OTHER,,http://dbpedia.org/ontology/Software,,,software,software,software,software,OTHER
+SCOmqmOI72I,multimedia,29.0,0.5507617592811584,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,multimedia,30.0,0.7100966572761536,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,multimedia,31.0,0.7073279023170471,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,multimedia,32.0,0.7043765783309937,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,multimedia,33.0,0.7069369554519653,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,multimedia,34.0,0.707324743270874,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,multimedia,35.0,0.7076845765113831,OTHER,/m/0541p,,multimedia,multimedia,OTHER,,http://dbpedia.org/ontology/Company,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,line,30.0,0.6909027695655823,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,line,31.0,0.6911404132843018,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,line,32.0,0.6923351883888245,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,line,33.0,0.6943166255950928,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,line,34.0,0.6936294436454773,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,line,35.0,0.695163905620575,shape,/m/03scnj,/m/016nqd,line,line,OTHER,,,,"ORGANIZATION, LOCATION",shape,shape,shape,shape,OTHER
+SCOmqmOI72I,graphics,30.0,0.4539260566234589,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+SCOmqmOI72I,graphics,31.0,0.4553575217723846,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+SCOmqmOI72I,graphics,32.0,0.4562519192695618,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+SCOmqmOI72I,graphics,33.0,0.4565044343471527,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+SCOmqmOI72I,graphics,34.0,0.454919159412384,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+SCOmqmOI72I,graphics,35.0,0.4526300728321075,artwork,/m/021sdg,/m/0dgsmq8,graphic,graphic,OTHER,,http://dbpedia.org/ontology/Company,,,artwork,artwork,artwork,artwork,OTHER
+SCOmqmOI72I,uniform,29.0,0.4572305083274841,clothing,/m/09jfs,/m/09j2d,uniform,uniform,OTHER,,http://dbpedia.org/ontology/Company,,,clothing,clothing,clothing,clothing,OTHER
+SCOmqmOI72I,point,30.0,0.4025800824165344,shape,/m/02tfk1,/m/016nqd,point,point,OTHER,,,,LOCATION,LOCATION,shape,shape,shape,LOCATION
+SCOmqmOI72I,point,31.0,0.4013633131980896,shape,/m/02tfk1,/m/016nqd,point,point,OTHER,,,,LOCATION,LOCATION,shape,shape,shape,LOCATION
+SCOmqmOI72I,point,32.0,0.40342748165130615,shape,/m/02tfk1,/m/016nqd,point,point,OTHER,,,,LOCATION,LOCATION,shape,shape,shape,LOCATION
+SCOmqmOI72I,point,33.0,0.4032736718654633,shape,/m/02tfk1,/m/016nqd,point,point,OTHER,,,,LOCATION,LOCATION,shape,shape,shape,LOCATION
+SCOmqmOI72I,point,34.0,0.4028812646865845,shape,/m/02tfk1,/m/016nqd,point,point,OTHER,,,,LOCATION,LOCATION,shape,shape,shape,LOCATION
+SCOmqmOI72I,point,35.0,0.4055337011814117,shape,/m/02tfk1,/m/016nqd,point,point,OTHER,,,,LOCATION,LOCATION,shape,shape,shape,LOCATION
+SCOmqmOI72I,computer program,29.0,0.6092815995216371,"computer, software",/m/01r9v,"/m/01m3v, /m/01mf0",computer program,computer program,OTHER,,http://dbpedia.org/ontology/Book,,,"computer, software","computer, software","computer, software","computer, software",OTHER
+SCOmqmOI72I,computer program,30.0,0.6746878027915955,"computer, software",/m/01r9v,"/m/01m3v, /m/01mf0",computer program,computer program,OTHER,,http://dbpedia.org/ontology/Book,,,"computer, software","computer, software","computer, software","computer, software",OTHER
+SCOmqmOI72I,computer program,31.0,0.6729879975318909,"computer, software",/m/01r9v,"/m/01m3v, /m/01mf0",computer program,computer program,OTHER,,http://dbpedia.org/ontology/Book,,,"computer, software","computer, software","computer, software","computer, software",OTHER
+SCOmqmOI72I,computer program,32.0,0.6718328595161438,"computer, software",/m/01r9v,"/m/01m3v, /m/01mf0",computer program,computer program,OTHER,,http://dbpedia.org/ontology/Book,,,"computer, software","computer, software","computer, software","computer, software",OTHER
+SCOmqmOI72I,computer program,33.0,0.6731613874435425,"computer, software",/m/01r9v,"/m/01m3v, /m/01mf0",computer program,computer program,OTHER,,http://dbpedia.org/ontology/Book,,,"computer, software","computer, software","computer, software","computer, software",OTHER
+SCOmqmOI72I,computer program,34.0,0.6729072332382202,"computer, software",/m/01r9v,"/m/01m3v, /m/01mf0",computer program,computer program,OTHER,,http://dbpedia.org/ontology/Book,,,"computer, software","computer, software","computer, software","computer, software",OTHER
+SCOmqmOI72I,computer program,35.0,0.6723499298095703,"computer, software",/m/01r9v,"/m/01m3v, /m/01mf0",computer program,computer program,OTHER,,http://dbpedia.org/ontology/Book,,,"computer, software","computer, software","computer, software","computer, software",OTHER
+SCOmqmOI72I,number,30.0,0.5137921571731567,symbol,/m/05fwb,/m/09ddf,number,number,OTHER,,,,ORGANIZATION,symbol,symbol,symbol,symbol,OTHER
+SCOmqmOI72I,number,31.0,0.5124173164367676,symbol,/m/05fwb,/m/09ddf,number,number,OTHER,,,,ORGANIZATION,symbol,symbol,symbol,symbol,OTHER
+SCOmqmOI72I,number,32.0,0.5172703862190247,symbol,/m/05fwb,/m/09ddf,number,number,OTHER,,,,ORGANIZATION,symbol,symbol,symbol,symbol,OTHER
+SCOmqmOI72I,number,33.0,0.5179223418235779,symbol,/m/05fwb,/m/09ddf,number,number,OTHER,,,,ORGANIZATION,symbol,symbol,symbol,symbol,OTHER
+SCOmqmOI72I,number,34.0,0.5166845917701721,symbol,/m/05fwb,/m/09ddf,number,number,OTHER,,,,ORGANIZATION,symbol,symbol,symbol,symbol,OTHER
+SCOmqmOI72I,number,35.0,0.5170190334320068,symbol,/m/05fwb,/m/09ddf,number,number,OTHER,,,,ORGANIZATION,symbol,symbol,symbol,symbol,OTHER
+SCOmqmOI72I,multimedia software,29.0,0.777684211730957,software,/m/0w88xth,/m/01mf0,multimedia software,multimedia software,OTHER,,,,,software,software,software,software,OTHER
+SCOmqmOI72I,web page,30.0,0.8541988134384155,OTHER,/m/086nh,,web page,web page,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,web page,31.0,0.8489571809768677,OTHER,/m/086nh,,web page,web page,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,web page,32.0,0.8469409346580505,OTHER,/m/086nh,,web page,web page,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,web page,33.0,0.8473983407020569,OTHER,/m/086nh,,web page,web page,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,web page,34.0,0.849431037902832,OTHER,/m/086nh,,web page,web page,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,web page,35.0,0.8496160507202148,OTHER,/m/086nh,,web page,web page,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,indoor games and sports,29.0,0.4442757070064545,"games, sports",/m/0b42l9,"/m/03bt1gh, /m/06ntj",indoor game and sport,indoor game and sport,OTHER,,,,,"games, sports","games, sports",EVENT,"games, sports",EVENT
+SCOmqmOI72I,screenshot,29.0,0.802931547164917,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,screenshot,30.0,0.8156417012214661,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,screenshot,31.0,0.8140810132026672,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,screenshot,32.0,0.8139193058013916,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,screenshot,33.0,0.8146253824234009,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,screenshot,34.0,0.8148553371429443,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,screenshot,35.0,0.8140822052955627,OTHER,/m/01zbnw,,screenshot,screenshot,OTHER,,http://dbpedia.org/ontology/Work,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,professional,29.0,0.7334913015365601,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+SCOmqmOI72I,document,30.0,0.5297436118125916,paper,/m/015bv3,/m/0641k,document,document,OTHER,,,,,paper,paper,paper,paper,OTHER
+SCOmqmOI72I,document,31.0,0.5277504324913025,paper,/m/015bv3,/m/0641k,document,document,OTHER,,,,,paper,paper,paper,paper,OTHER
+SCOmqmOI72I,document,32.0,0.5296139717102051,paper,/m/015bv3,/m/0641k,document,document,OTHER,,,,,paper,paper,paper,paper,OTHER
+SCOmqmOI72I,document,33.0,0.5358529090881348,paper,/m/015bv3,/m/0641k,document,document,OTHER,,,,,paper,paper,paper,paper,OTHER
+SCOmqmOI72I,document,34.0,0.5344463586807251,paper,/m/015bv3,/m/0641k,document,document,OTHER,,,,,paper,paper,paper,paper,OTHER
+SCOmqmOI72I,document,35.0,0.5337483882904053,paper,/m/015bv3,/m/0641k,document,document,OTHER,,,,,paper,paper,paper,paper,OTHER
+SCOmqmOI72I,electronic device,79.0,0.8991190195083618,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,electronic device,80.0,0.8982335329055786,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,electronic device,81.0,0.9042133092880248,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,electronic device,82.0,0.8925744295120239,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,electronic device,83.0,0.9045194387435912,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,electronic device,84.0,0.907624125480652,technology,/m/0bs7_0t,/m/07c1v,electronic device,electronic device,OTHER,,,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,media,82.0,0.4199217855930328,OTHER,/m/03qh03g,,medium,medium,OTHER,,,,"LOCATION, PERSON",OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,79.0,0.5551390647888184,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,80.0,0.5850639939308167,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,81.0,0.5658795237541199,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,82.0,0.5696734189987183,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,83.0,0.5695998668670654,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,product,84.0,0.5646530985832214,OTHER,/m/01jwgf,,product,product,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,public relations,79.0,0.4490742981433869,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+SCOmqmOI72I,public relations,80.0,0.445673406124115,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+SCOmqmOI72I,public relations,81.0,0.43841075897216797,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+SCOmqmOI72I,public relations,82.0,0.5036444664001465,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+SCOmqmOI72I,public relations,83.0,0.5052230358123779,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+SCOmqmOI72I,public relations,84.0,0.4736572504043579,person,/m/062zr,/m/01g317,public relation,public relation,OTHER,,http://dbpedia.org/ontology/Company,,,person,ORGANIZATION,person,person,ORGANIZATION
+SCOmqmOI72I,fun,79.0,0.5701122283935547,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,fun,80.0,0.5916067361831665,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,fun,81.0,0.5511762499809265,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,fun,82.0,0.5612180829048157,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,fun,83.0,0.5538065433502197,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,fun,84.0,0.5689995884895325,OTHER,/m/0ds99lh,,fun,fun,OTHER,,,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,design,81.0,0.651562511920929,OTHER,/m/02cwm,,design,design,ORGANIZATION,,http://dbpedia.org/ontology/Organisation,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,communication,79.0,0.5401559472084045,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,communication,80.0,0.517257809638977,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,communication,81.0,0.5587520003318787,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,communication,82.0,0.5858367681503296,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,communication,83.0,0.5991308689117432,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,communication,84.0,0.5542132258415222,weak entity,/m/01lhf,/m/0pccj,communication,communication,OTHER,,http://dbpedia.org/ontology/Band,,,weak entity,weak entity,EVENT,weak entity,EVENT
+SCOmqmOI72I,world,79.0,0.4311844408512116,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,world,80.0,0.4393650591373444,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,world,81.0,0.44103965163230896,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,world,82.0,0.4385130703449249,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,world,83.0,0.4388961493968964,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,world,84.0,0.4372047483921051,OTHER,/m/09nm_,,world,world,OTHER,,,,ORGANIZATION,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,technology,79.0,0.9189374446868896,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,technology,80.0,0.9178059101104736,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,technology,81.0,0.9177805781364441,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,technology,82.0,0.9172942042350768,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,technology,83.0,0.9226682782173156,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,technology,84.0,0.9233780503273008,OTHER,/m/07c1v,,technology,technology,OTHER,,http://dbpedia.org/ontology/Book,,,OTHER,OTHER,OTHER,OTHER,OTHER
+SCOmqmOI72I,display device,79.0,0.5669215321540833,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,display device,80.0,0.5744232535362244,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,display device,81.0,0.5746062397956848,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,display device,82.0,0.6185714602470398,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,display device,83.0,0.5971102714538574,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,display device,84.0,0.5944356918334961,technology,/m/029zz6,/m/07c1v,display device,display device,OTHER,,http://dbpedia.org/ontology/Device,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,personal computer,82.0,0.4061173796653748,computer,/m/0643t,/m/01m3v,personal computer,personal computer,OTHER,,http://dbpedia.org/ontology/InformationAppliance,,,computer,computer,computer,computer,OTHER
+SCOmqmOI72I,gadget,79.0,0.4038754105567932,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,gadget,80.0,0.45546993613243103,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,gadget,81.0,0.4528457224369049,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,gadget,83.0,0.4190435707569122,technology,/m/02mf1n,/m/07c1v,gadget,gadget,OTHER,,http://dbpedia.org/ontology/Software,,,technology,technology,technology,technology,OTHER
+SCOmqmOI72I,professional,79.0,0.5331985950469971,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+SCOmqmOI72I,professional,80.0,0.5031620860099792,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+SCOmqmOI72I,professional,81.0,0.474716991186142,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+SCOmqmOI72I,professional,82.0,0.5568179488182068,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+SCOmqmOI72I,professional,83.0,0.561875581741333,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+SCOmqmOI72I,professional,84.0,0.5158637166023254,person,/m/01qkbx,/m/01g317,professional,professional,PERSON,,http://dbpedia.org/ontology/Person,,PERSON,person,person,person,person,OTHER
+SCOmqmOI72I,human behavior,81.0,0.4273203611373901,person,/m/02qd0r,/m/01g317,human behavior,human behavior,OTHER,,,,,person,person,person,person,OTHER
