@@ -40,6 +40,58 @@ The following online user studies have been conducted in order to evaluate the u
  
 ## Files structure
 
+    .
+    ├── data                                  # Folder storing all experimental data
+    |   ├── video_dataset_metadata.csv        # CSV containing the experimental videos and their metadata
+    |   ├── video_dataset_content.csv         # CSV containing the experimental videos and links to relevant processed files
+    |   ├── video_summaries                   # Folder containing all video summaries (split into smaller archives due to 
+    |   |                                       space limitation); For each video four video summaries are created, following 
+    |   |                                       the notation: summary_{videoId}___{no_seconds}___{summary_type}.mp4, where  
+    |   |                                       {no_seconds} = {10s, 20s} and {summary_type} = {aq, nq}
+    |   ├── video_subtiles                    # Folder containing all video subtitles (one file per video); extracted through   
+    |   |                                       video transcription (see notebook below)
+    |   ├── named_entities_subtitles          # Folder containing all named entities extracted from video subtitles (one file 
+    |   |                                       per video); extracted through named entity extraction (see notebook below)
+    |   ├── labels_video_frames               # Folder containing all labels extracted from video frames (one file per video); 
+    |   |                                       extracted through named entity extraction (see notebook below)
+    |   ├── key_concepts_videos
+    |   |   └── video_concepts_overview.csv   # CSV containing the key concepts extracted from videos (see notebook below); 
+    |   |                                       each line contains the key concepts of an experimental video
+    |   ├── concepts_video_summaries          # Folder containing two files for each video summary: one storing the named 
+    |   |                                       entities of the video summary, 
+    |   |                                       entities_{videoId}___{no_seconds}___{summary_type}.csv
+    |   |                                       and one storing the labels of the video summary, 
+    |   |                                       labels_{videoId}___{no_seconds}___{summary_type}.csv, 
+    |   |                                       where {no_seconds} = {10s, 20s} and {summary_type} = {aq, nq}
+    |   └── visual_explanations               # Folder containing all visual explanations (split into smaller archives due to 
+    |                                           space limitation); Four visual explanations are available for each video 
+    |                                           summary, following the notation: 
+    |                                           {videoId}___{no_seconds}___{summary_type}_{explanation_type}.png, where 
+    |                                           {no_seconds} = {10s, 20s} {summary_type} = {aq, nq} and {explanation_type} = 
+    |                                           {summary_wordcloud, overlap_fraction, overlap_wordcloud, 
+    |                                           combined_wordcloud_and_fraction}
+    ├── notebooks                             # Jupyter Notebooks used for data processing
+    │   ├── ...Speech to Text.ipynb           # Jupyter Notebook for video subtitles extraction
+    │   ├── ...Label Detection.ipynb          # Jupyter Notebook for label extraction from video frames
+    │   ├── ...Natural Language....ipynb      # Jupyter Notebook for entity extraction from video subtitles
+    │   └── ...Explanations Generation.ipynb  # Jupyter Notebook for identifying the key concepts in videos and generating     
+    |                                           the four types of visual explanations
+    ├── user_study1                           # Template, data and analysis of user study 1
+    │   ├── user_study1_template.html         # User study 1 template (to be run on mTurk)
+    │   ├── user_study1_template.md           # Visual interface of user study 1 template
+    |   ├── img                               # Folder containing parts of the visual interface of user study 1
+    │   ├── input_user_study1.csv             # Input file for user study 1
+    │   ├── crowd_results_userstudy1.csv      # Crowdsourcing results of user study 1
+    |   └── Analyze ... Study1.ipynb          # Jupyter Notebook used for processing the results of user study 1
+    ├── user_study2                           # Template, data and analysis of user study 1
+    │   ├── user_study2_template.html         # User study 2 template (to be run on mTurk)
+    │   ├── user_study2_template.md           # Visual interface of user study 2 template
+    |   ├── img                               # Folder containing parts of the visual interface of user study 2
+    │   ├── input_user_study2.csv             # Input file for user study 2
+    │   ├── crowd_results_userstudy2.csv      # Crowdsourcing results of user study 2
+    |   └── Analyze ... Study2.ipynb          # Jupyter Notebook used for processing the results of user study 2
+    └──.
+
 
 
 ## Machine Annotation of Videos and Video summaries
