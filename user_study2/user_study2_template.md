@@ -15,3 +15,11 @@
 
 [![alt text](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/raw/master/user_study2/img/screenshot4.png)](#)
 
+[![alt text](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/raw/master/user_study2/img/screenshot10.png)](#)
+
+[![alt text](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/raw/master/user_study2/img/screenshot6.png)](#)
+
+[![alt text](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/raw/master/user_study2/img/screenshot7.png)](#)
+
+[![alt text](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/raw/master/user_study2/img/screenshot8.png)](#)
+
