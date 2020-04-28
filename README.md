@@ -34,8 +34,8 @@ If you find the paper and the data useful in your research, please consider citi
 ## User Studies
 
 The following online user studies have been conducted in order to evaluate the utility of four types of visual explanations:
- - [User Study 1](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/user_study1/user_study1_template.md): identify which type of visual explanation is preffered when assessing the representativeness of video summaries
- - [User Study 2](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/user_study2/user_study2_template.md): understand how one type of visual explanation is used by participants when asked to compare two summaries of the same video for their representativeness 
+ - [User Study 1](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study1/user_study1_template.md): identify which type of visual explanation is preffered when assessing the representativeness of video summaries
+ - [User Study 2](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study2/user_study2_template.md): understand how one type of visual explanation is used by participants when asked to compare two summaries of the same video for their representativeness 
  
  
 ## Files structure
@@ -49,9 +49,9 @@ We used three enrichment tools for machine the annotations:
 * [named entity extraction](https://cloud.google.com/natural-language/docs/analyzing-entities)
 * [video labeling](https://cloud.google.com/video-intelligence/docs/analyze-labels)
 
-If you want to regenerate the results of the machine enrichment tools used for the machine annotation of both original videos and video summaries you need to register for the following Google Cloud APIs and follow their instructions. A schelethon notebook for running each of the APIs below is provided in the notebooks/machine_processing folder.
+If you want to regenerate the results of the machine enrichment tools used for the machine annotation of both original videos and video summaries, which can be found in the [data folder](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/data) of this repository, you need to register for the following Google Cloud APIs and follow their instructions. A schelethon notebook for running each of the APIs below is provided in the [notebooks folder](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks) of this repository.
  * [Cloud Storage](https://cloud.google.com/storage) - Google Cloud Storage
- * [Speech-to-Text](https://cloud.google.com/video-intelligence/docs/transcription) - part of Google Cloud Video Intelligence API to transcribe the videos (extraction captions or subtitles)
- * [Label Detection](https://cloud.google.com/video-intelligence/docs/analyze-labels) - part of Google Cloud Video Intelligence API to detect and extract information about entities shown in video and video summaries
- * [Entity Extraction](https://cloud.google.com/natural-language/docs/analyzing-entities) - part of Google Cloud Natural Language to extract entities from the video subtitles
+ * [Speech-to-Text](https://cloud.google.com/video-intelligence/docs/transcription) - part of Google Cloud Video Intelligence API to transcribe the videos (extraction captions or subtitles): [schelethon notebook](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks/Google Video Intelligence API - Speech to Text.ipynb)
+ * [Label Detection](https://cloud.google.com/video-intelligence/docs/analyze-labels) - part of Google Cloud Video Intelligence API to detect and extract information about entities shown in video and video summaries: [schelethon notebook](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks/Google Video Intelligence API - Label Detection.ipynb)
+ * [Entity Extraction](https://cloud.google.com/natural-language/docs/analyzing-entities) - part of Google Cloud Natural Language to extract entities from the video subtitles: [schelethon notebook](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks/Google Cloud Natural Language API.ipynb)
  
