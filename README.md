@@ -3,15 +3,15 @@
 [![DOI](https://zenodo.org/badge/.svg)](https://zenodo.org/badge/latestdoi/)
 
 This repository contains:
- * 200 videos machine annotated with key concepts extracted from video subtitles and video frames;
- * 800 video summaries (four summaries per video) machine annotated with concepts extracted from video subtitles and frames;
- * 3200 visual explanations (four explanations per video summary with different levels of *transparency*):
+ * 200 [videos](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/data/video_dataset_content.csv) machine annotated with key concepts extracted from video subtitles and video frames;
+ * 800 [video summaries](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/data/video_summaries)  (four summaries per video) machine annotated with concepts extracted from video subtitles and frames;
+ * 3200 [visual explanations](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/data/visual_explanations) (four explanations per video summary with different levels of *transparency*):
    * semantic coverage,
    * semantic prominence
    * quantity coverage
    * distance
- * human validated **utility** of each visual explanation type (mTurk crowdsourcing study_1 with 20 videos and single summary)
- * human validated **representativeness** of video summaries with regard to their original videos (mTurk crowdsourcing study_2 with 18 videos with 2 summaries per video). In total 36 video-summary pairs
+ * human validated **utility** of each visual explanation type ([mTurk crowdsourcing study_1](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study1/user_study1_template.md) with 20 videos and single summary)
+ * human validated **representativeness** of video summaries with regard to their original videos ([mTurk crowdsourcing study_2](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study2/user_study2_template.md) with 18 videos with 2 summaries per video). In total 36 video-summary pairs
 
 
 All results are published in the following paper:
