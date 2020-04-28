@@ -49,7 +49,7 @@
                                 </br></br>
                                 <hr/>
                                 </br></br>
-                              <img class="imagesum1 zoom" src="${explanation_summary_topics}" width="600"/> </td>
+                              <img class="imagesum1 zoom" src="${explanation_summary_wordcloud}" width="600"/> </td>
                             </td>
                             
                             <td width="25%">
@@ -59,7 +59,7 @@
                             <p style="font-size:12px">Slice in <b><font color="purple">purple</font></b> shows the percentage of <b><font color="purple">original video</b></font> concepts NOT COVERED in <b><font color="green">video summary</b></font>.</p>
                             <hr/>
                             </br></br>
-                           <img class="imagesum22 zoom" src="${explanation_percentage_topics}" width="600" />
+                           <img class="imagesum22 zoom" src="${explanation_overlap_fraction}" width="600" />
                             </td>
                             <td width="25%">
                               <input type="checkbox" name="representativeness" id="radio3" value="radio3">  <label for="radio3" style="font-size:12px">Explanation </label></input> </br></br>
@@ -70,7 +70,7 @@
                               <hr/>
                               <p> </p>
                               </br></br>
-                            <img class="imagesum1 zoom" src="${explanation_original_and_summary}" width="600" /></td>
+                            <img class="imagesum1 zoom" src="${explanation_overlap_wordcloud}" width="600" /></td>
                             </td>
                             <td width="25%">
                               <input type="checkbox" name="representativeness" id="radio4" value="radio4">  <label for="radio4" style="font-size:12px">Explanation </input></label>  </br></br>
@@ -78,8 +78,7 @@
                             <p style="font-size:12px"> Combines the words and the slices from the other explanations you see, together.</p>
                              </br></br></br>
                               <hr/>
-                            <img class="imagesum2 zoom" src="${explanation_original_and_summary}" width="600" /> 
-                                <img class="imagesum22 zoom" src="${explanation_percentage_topics}" width="600" />
+                            <img class="imagesum2 zoom" src="${explanation_combined_wordcloud_and_fraction}" width="600" /> 
                             </td>
                           </tr>
                         </tbody>
