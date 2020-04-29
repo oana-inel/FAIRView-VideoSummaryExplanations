@@ -83,7 +83,7 @@ The following online user studies have been conducted in order to evaluate the u
     │   ├── input_user_study1.csv             # Input file for user study 1
     │   ├── crowd_results_userstudy1.csv      # Crowdsourcing results of user study 1
     |   └── Analyze ... Study1.ipynb          # Jupyter Notebook used for processing the results of user study 1
-    ├── user_study2                           # Template, data and analysis of user study 1
+    ├── user_study2                           # Template, data and analysis of user study 2
     │   ├── user_study2_template.html         # User study 2 template (to be run on mTurk)
     │   ├── user_study2_template.md           # Visual interface of user study 2 template
     |   ├── img                               # Folder containing parts of the visual interface of user study 2
