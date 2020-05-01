@@ -107,3 +107,7 @@ If you want to regenerate the results of the machine enrichment tools used for t
  * [Label Detection](https://cloud.google.com/video-intelligence/docs/analyze-labels) - part of Google Cloud Video Intelligence API to detect and extract information about entities shown in video and video summaries: [schelethon notebook](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks/Google%20Video%20Intelligence%20API%20-%20Label%20Detection.ipynb)
  * [Entity Extraction](https://cloud.google.com/natural-language/docs/analyzing-entities) - part of Google Cloud Natural Language to extract entities from the video subtitles: [schelethon notebook](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks/Google%20Cloud%20Natural%20Language%20API.ipynb)
  
+ 
+### Note
+
+Due to upload size constraints, the visual explanations have been scaled down. In case you would like to have access to higher quality visual explanations, please contact the owner of this repository.
