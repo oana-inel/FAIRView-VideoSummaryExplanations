@@ -34,7 +34,7 @@ If you find the paper and the data useful in your research, please consider citi
 ## User Studies
 
 The following online user studies have been conducted in order to evaluate the utility of four types of visual explanations:
- - [User Study 1](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study1/user_study1_template.md): identify which type of visual explanation is preffered when assessing the representativeness of video summaries
+ - [User Study 1](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study1/user_study1_template.md): identify which type of visual explanation is preferred when assessing the representativeness of video summaries
  - [User Study 2](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study2/user_study2_template.md): understand how one type of visual explanation is used by participants when asked to compare two summaries of the same video for their representativeness 
  
  
