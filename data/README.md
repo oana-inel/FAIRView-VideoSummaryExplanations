@@ -30,13 +30,6 @@ If you find the paper and the data useful in your research, please consider citi
   organization={ACM}
 }
 ```
-
-## User Studies
-
-The following online user studies have been conducted in order to evaluate the utility of four types of visual explanations:
- - [User Study 1](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study1/user_study1_template.md): identify which type of visual explanation is preffered when assessing the representativeness of video summaries
- - [User Study 2](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/user_study2/user_study2_template.md): understand how one type of visual explanation is used by participants when asked to compare two summaries of the same video for their representativeness 
- 
  
 ## Files structure
 
@@ -49,13 +42,15 @@ The following online user studies have been conducted in order to evaluate the u
     |   |                                       the notation: summary_{videoId}___{no_seconds}___{summary_type}.mp4, where  
     |   |                                       {no_seconds} = {10s, 20s} and {summary_type} = {aq, nq}
     |   ├── video_subtiles                    # Folder containing all video subtitles (one file per video); extracted through   
-    |   |                                       video transcription (see notebook below)
+    |   |                                       video transcription (see notebook in the notebooks folder)
     |   ├── named_entities_subtitles          # Folder containing all named entities extracted from video subtitles (one file 
     |   |                                       per video); extracted through named entity extraction (see notebook below)
     |   ├── labels_video_frames               # Folder containing all labels extracted from video frames (one file per video); 
-    |   |                                       extracted through named entity extraction (see notebook below)
+    |   |                                       extracted through named entity extraction (see notebook in the notebooks 
+    |   |                                       folder)
     |   ├── key_concepts_videos
-    |   |   └── video_concepts_overview.csv   # CSV containing the key concepts extracted from videos (see notebook below); 
+    |   |   └── video_concepts_overview.csv   # CSV containing the key concepts extracted from videos (see notebook in the 
+    |   |                                       notebooks folder); 
     |   |                                       each line contains the key concepts of an experimental video
     |   ├── concepts_video_summaries          # Folder containing two files for each video summary: one storing the named 
     |   |                                       entities of the video summary, 
@@ -70,40 +65,4 @@ The following online user studies have been conducted in order to evaluate the u
     |                                           {no_seconds} = {10s, 20s} {summary_type} = {aq, nq} and {explanation_type} = 
     |                                           {summary_wordcloud, overlap_fraction, overlap_wordcloud, 
     |                                           combined_wordcloud_and_fraction}
-    ├── notebooks                             # Jupyter Notebooks used for data processing
-    │   ├── ...Speech to Text.ipynb           # Jupyter Notebook for video subtitles extraction
-    │   ├── ...Label Detection.ipynb          # Jupyter Notebook for label extraction from video frames
-    │   ├── ...Natural Language....ipynb      # Jupyter Notebook for entity extraction from video subtitles
-    │   └── ...Explanations Generation.ipynb  # Jupyter Notebook for identifying the key concepts in videos and generating     
-    |                                           the four types of visual explanations
-    ├── user_study1                           # Template, data and analysis of user study 1
-    │   ├── user_study1_template.html         # User study 1 template (to be run on mTurk)
-    │   ├── user_study1_template.md           # Visual interface of user study 1 template
-    |   ├── img                               # Folder containing parts of the visual interface of user study 1
-    │   ├── input_user_study1.csv             # Input file for user study 1
-    │   ├── crowd_results_userstudy1.csv      # Crowdsourcing results of user study 1
-    |   └── Analyze ... Study1.ipynb          # Jupyter Notebook used for processing the results of user study 1
-    ├── user_study2                           # Template, data and analysis of user study 2
-    │   ├── user_study2_template.html         # User study 2 template (to be run on mTurk)
-    │   ├── user_study2_template.md           # Visual interface of user study 2 template
-    |   ├── img                               # Folder containing parts of the visual interface of user study 2
-    │   ├── input_user_study2.csv             # Input file for user study 2
-    │   ├── crowd_results_userstudy2.csv      # Crowdsourcing results of user study 2
-    |   └── Analyze ... Study2.ipynb          # Jupyter Notebook used for processing the results of user study 2
     └──.
-
-
-
-## Machine Annotation of Videos and Video summaries
-
-We used three enrichment tools for machine the annotations:
-* [video transcription](https://cloud.google.com/video-intelligence/docs/transcription)
-* [named entity extraction](https://cloud.google.com/natural-language/docs/analyzing-entities)
-* [video labeling](https://cloud.google.com/video-intelligence/docs/analyze-labels)
-
-If you want to regenerate the results of the machine enrichment tools used for the machine annotation of both original videos and video summaries, which can be found in the [data folder](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/data) of this repository, you need to register for the following Google Cloud APIs and follow their instructions. A schelethon notebook for running each of the APIs below is provided in the [notebooks folder](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks) of this repository.
- * [Cloud Storage](https://cloud.google.com/storage) - Google Cloud Storage
- * [Speech-to-Text](https://cloud.google.com/video-intelligence/docs/transcription) - part of Google Cloud Video Intelligence API to transcribe the videos (extraction captions or subtitles): [schelethon notebook](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks/Google%20Video%20Intelligence%20API%20-%20Speech%20to%20Text.ipynb)
- * [Label Detection](https://cloud.google.com/video-intelligence/docs/analyze-labels) - part of Google Cloud Video Intelligence API to detect and extract information about entities shown in video and video summaries: [schelethon notebook](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks/Google%20Video%20Intelligence%20API%20-%20Label%20Detection.ipynb)
- * [Entity Extraction](https://cloud.google.com/natural-language/docs/analyzing-entities) - part of Google Cloud Natural Language to extract entities from the video subtitles: [schelethon notebook](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/notebooks/Google%20Cloud%20Natural%20Language%20API.ipynb)
- 
