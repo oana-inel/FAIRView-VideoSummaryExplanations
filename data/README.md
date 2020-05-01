@@ -65,3 +65,7 @@ If you find the paper and the data useful in your research, please consider citi
     |                                           {summary_wordcloud, overlap_fraction, overlap_wordcloud, 
     |                                           combined_wordcloud_and_fraction}
     └──.
+
+### Note
+
+Due to upload size constraints, the visual explanations have been scaled down. In case you would like to have access to higher quality visual explanations, please contact the owner of this repository.
