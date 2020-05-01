@@ -1,6 +1,6 @@
 # FAIRView Corpus: Visual Explanations for Video Summaries
 
-[![DOI](https://zenodo.org/badge/.svg)](https://zenodo.org/badge/latestdoi/)
+[![DOI](https://www.zenodo.org/badge/253487072.svg)](https://www.zenodo.org/badge/latestdoi/253487072)
 
 This repository contains:
  * 200 [videos](https://github.com/oana-inel/FAIRView-VideoSummaryExplanations/blob/master/data/video_dataset_content.csv) machine annotated with key concepts extracted from video subtitles and video frames;
